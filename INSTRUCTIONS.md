@@ -2,8 +2,8 @@
 
 This template is designed to help you get started on building a landscape. It's based on the TODO Group OSPO landscape.
 
-- Clone this template repo into your github organization or account.
-- Create the subdomain for the landscape ( typically landscape.yourprojectdomain ) and a short domain that will forward to this ( typically l.yourprojectdomain )
+- Clone this template repo into your github organization or account. DONE
+- Create the subdomain for the landscape ( typically landscape.yourprojectdomain ) and a short domain that will forward to this ( typically l.yourprojectdomain ) DONE
 - Create the landscape logo and replace [images/left-logo.svg](images/left-logo.svg)
 - Set [images/right-logo.svg](images/right-logo.svg) as your project's logo
 - [Generate](https://www.qrcode-monkey.com) a QR code, setting colors to black. Save as SVG and overwrite [images/qr.svg](images/qr.svg).
