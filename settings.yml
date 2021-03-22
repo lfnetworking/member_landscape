@@ -1,19 +1,20 @@
 global:
   # name of the landscape
-  name: OSPO Landscape
+  name: LFN Landscape
   # shortname
-  short_name: OSPO
+  short_name: LFN
   # repo where this landscape is hosted ( minus the https://github.com part )
-  repo: cncf/ospolandscape
+  repo: lfnetworking/member_landscape
   # URL to the landscape
-  website: https://ospolandscape.todogroup.org
+  website: https://landscape.lfnetworking.org
   # Short domain name for the landscape (usually this would change 'l' for 'landscape'
-  short_domain: l.todogroup.org
+  short_domain: landscape.lfnetworking.org
   # Your project's website
-  company_url: https://todogroup.org
+  company_url: https://lfnetworking.org
   # General contact email for the landscape
-  email: info@todogroup.org
-  # Crunchbase entry for your projec
+  email: info@lfnetworking.org
+  # Crunchbase entry for your project
+  ##### STOP HERE #####
   self: https://www.crunchbase.com/organization/todo-group
   # Slack channel for posting build updates
   slack_channel: T08PSQ7BQ/BM7M5TKSR/Xjll8jWb2cgpO7aOCGxUtebU
