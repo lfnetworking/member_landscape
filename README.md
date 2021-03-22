@@ -26,7 +26,7 @@ It is modelled after the [Cloud Native Computing Foundation (CNCF) landscape] an
 
 ## Interactive Version
 
-Please see [ospolandscape.todogroup.org].
+Please see [https://www.lfnetworking.org/].
 
 ## New Entries
 
