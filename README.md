@@ -26,7 +26,7 @@ It is modelled after the [Cloud Native Computing Foundation (CNCF) landscape] an
 
 ## Interactive Version
 
-Please see [https://www.lfnetworking.org/].
+Please see [https://landscape.lfnetworking.org/].
 
 ## New Entries
 
