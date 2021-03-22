@@ -14,22 +14,23 @@ global:
   # General contact email for the landscape
   email: info@lfnetworking.org
   # Crunchbase entry for your project
-  ##### STOP HERE #####
-  self: https://www.crunchbase.com/organization/todo-group
+
+  self: https://www.crunchbase.com/organization/lf-networking
   # Slack channel for posting build updates
-  slack_channel: T08PSQ7BQ/BM7M5TKSR/Xjll8jWb2cgpO7aOCGxUtebU
-  meta:
+  #slack_channel: T08PSQ7BQ/BM7M5TKSR/Xjll8jWb2cgpO7aOCGxUtebU
+  #meta:
     # Should match name above
-    title: OSPO Landscape
+   # title: OSPO Landscape
     # keep this
-    fb_admin: alex.contini.94
+    #fb_admin: alex.contini.94
     # site description
-    description: Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets
+    #description: Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets
     # your project's twitter
-    twitter: '@todogroup'
+    #twitter: '@todogroup'
     # update if needed
-    google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
-    ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
+    #google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
+    #ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
+  ##### STOP HERE #####
   # Category for members
   membership: TODO Group Member
   # Update for the categories where you won't be showing the open source license ( typically done for members or conformance program members )
