@@ -78,9 +78,9 @@ Please open an [issue] or, for sensitive information, email info\@cncf.io.
 
 <!--- Update urls and references in this section -->
 [Dependency Status]: https://img.shields.io/david/jmertic/landscape-template.svg?style=flat-square
-[1]: https://david-dm.org/jmertic/landscape-template``
+[1]: https://david-dm.org/lfnetworking/member_landscape
 [Netlify Status]: https://api.netlify.com/api/v1/badges/9fe8d885-037d-48ce-8bf9-3bfa54152945/deploy-status
-[2]: https://app.netlify.com/sites/graphql-landscape/deploys
+[2]: https://app.netlify.com/sites/lfn-landscape/deploys
 [ospolandscape.todogroup.org]: https://ospolandscape.todogroup.org
 [PDF]: https://ospolandscape.todogroup.org/images/landscape.pdf
 [PNG]: https://ospolandscape.todogroup.org/images/landscape.png
