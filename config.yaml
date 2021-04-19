@@ -8,7 +8,7 @@ landscapeMemberClasses:
      category: Gold
    - name: Silver Membership
      category: Silver
-    - name: Associate Membership
+   - name: Associate Membership
      category: Associate
 # SF Project record ID for your project
 project: a094100000aErheAAC # LFN project
