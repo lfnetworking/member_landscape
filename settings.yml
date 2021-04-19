@@ -18,47 +18,47 @@ global:
   self: https://www.crunchbase.com/organization/lf-networking
   # Slack channel for posting build updates
   slack_channel: T02H1G4T9/B01S2SBK81G/iQb9UtQn04EbF0d57xT8vkeM
-  #meta:
+  meta:
     # Should match name above
-   # title: OSPO Landscape
+    title: Linux Foundation Networking Landscape
     # keep this
     #fb_admin: alex.contini.94
     # site description
-    #description: Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets
+    description: Filter and sort by LFN membership level
     # your project's twitter
     #twitter: '@todogroup'
     # update if needed
     #google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
     #ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
-  ##### STOP HERE #####
   # Category for members
-  membership: TODO Group Member
+  membership: LFN Memberships
   # Update for the categories where you won't be showing the open source license ( typically done for members or conformance program members )
   flags:
     hide_license_for_categories:
       - OSPO Adopter
       - TODO Group Member
 # Data for the twitter card
-twitter:
-  search: ospolandscape.todogroup.org
-  url: https://ospolandscape.todogroup.org
-  text: OSPO Landscape
+#twitter:
+  #search: ospolandscape.todogroup.org
+  #url: https://ospolandscape.todogroup.org
+  #text: OSPO Landscape
 # Complete this section for identifying hosted projects of your project, along with member projects
 relation:
-  label: TODO Group Relation
-  url: todo
+  label: LFN Projects
+  url: https://www.lfnetworking.org/
   values:
     - id: hosted
-      label: GraphQL Foundation Projects
+      label: TAC Projects
       # children to identify maturity levels ( incubation, active, etc ). If there aren't multiple levels, then just complete like below.
+      ### Should I add all prois under the children tag - each with a sep "- id:" line??? I think this is showing examples of sep types of projects???
       children:
-        - id: foundationproject
-          label: GraphQL Foundation Projects
-          prefix: GraphQL
-          tag: Foundation Project
+        - id: TAC projects
+          label: Open Network Automation Project
+          prefix: ONAP
+          tag: TAC Project
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: GraphQL Foundation Project
+          big_picture_label: ONAP Project
           big_picture_color: rgb(24,54,114)
     - id: company
       label: TODO Group Member
