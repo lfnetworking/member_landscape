@@ -72,6 +72,23 @@ relation:
       url: 'no'
 # membership levels
 membership:
+  Platinum:
+    name: Linux Foundation Networking
+    label: Platinum Member
+    funding: Platinum
+    is_large: true
+  Gold:
+    name: Linux Foundation Networking
+    label: Gold Member
+    funding: Gold
+  Silver:
+    name: Linux Foundation Networking
+    label: Silver Member
+    funding: Silver
+  Associate:
+    name: Linux Foundation Networking
+    label: Associate Member
+    funding: Associate
   # category for project members
   General:
     name: TODO Group
