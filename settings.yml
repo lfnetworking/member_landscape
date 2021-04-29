@@ -89,19 +89,7 @@ membership:
     name: Linux Foundation Networking
     label: Associate Member
     funding: Associate
-  # category for project members
-  General:
-    name: TODO Group
-    label: Member
-    funding: General
-  # category for LF members
-  linux_foundation:
-    name: LF
-    label: Project
-    funding: Linux Foundation
-    crunchbase_and_children: https://www.crunchbase.com/organization/linux-foundation
-  'false':
-    funding: 'No'
+
 home:
   # update to change the header text
   header: >
