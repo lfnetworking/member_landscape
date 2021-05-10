@@ -33,10 +33,10 @@ global:
   # Category for members
   membership: Linux Foundaton Networking
   # Update for the categories where you won't be showing the open source license ( typically done for members or conformance program members )
-  flags:
-    hide_license_for_categories:
-      - OSPO Adopter
-      - TODO Group Member
+  #flags:
+    #hide_license_for_categories:
+      #- OSPO Adopter
+     # - TODO Group Member
 # Data for the twitter card
 #twitter:
   #search: ospolandscape.todogroup.org
@@ -60,16 +60,18 @@ relation:
           big_picture_order: 1
           big_picture_label: ONAP Project
           big_picture_color: rgb(24,54,114)
-    - id: company
-      label: TODO Group Member
-      tag: Company
-      big_picture_order: 3
-    - id: member
-      label: TODO Group Member Products/Projects
-      tag: TODO Group Member
-    - id: false
-      label: Non-TODO Group Member Products/Projects
-      url: 'no'
+    #Wondering if we should not show TAC projects and instead just show all the projects
+    #comment out the rest of the "relation" portion - come back to this later
+    #- id: company
+      #label: TODO Group Member
+      #tag: Company
+      #big_picture_order: 3
+    #- id: member
+      #label: TODO Group Member Products/Projects
+      #tag: TODO Group Member
+    #- id: false
+      #label: Non-TODO Group Member Products/Projects
+      #url: 'no'
 # membership levels
 membership:
   Platinum:
@@ -93,7 +95,7 @@ membership:
 home:
   # update to change the header text
   header: >
-    <h1>OSPO Landscape</h1> The OSPO landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
+    <h1>Linux Foundation Networking Landscape</h1> The LFN landscape (<a target="_blank" href="images/left-logo.svg">svg</a>, <a target="_blank"
     href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a href="http://landscape.cncf.io">CNCF landscape</a> and based
     on the same open source code.
   # don't change this
@@ -105,32 +107,31 @@ ads:
     image: /images/info1.jpg
     title: Kubecon + CloudNativeCon Europe 2020
 # preset searches
-presets:
-  - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
-    label: Open source cards by age
-  - url: /license=apache-license-2-0
-    label: Apache-2.0 landscape
-  - url: /format=card-mode&grouping=category
-    label: Cards in categories
-  - url: /format=card-mode&grouping=no&sort=stars
-    label: Cards by stars
-  - url: /format=card-mode&grouping=headquarters
-    label: Group by location
-  - url: /format=card-mode&grouping=no&sort=amount
-    label: Cards by MCap/Funding
-# sets the rendering of the landscape
-big_picture:
-  # this is for the main page
-  main:
+#presets:
+#  - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
+#    label: Open source cards by age
+#  - url: /license=apache-license-2-0
+#    label: Apache-2.0 landscape
+#  - url: /format=card-mode&grouping=category
+### - url: /format=card-mode&grouping=no&sort=stars
+#    label: Cards by stars
+#  - url: /format=card-mode&grouping=headquarters
+#    label: Group by location
+#  - url: /format=card-mode&grouping=no&sort=amount
+#    label: Cards by MCap/Funding
+## sets the rendering of the landscape
+#big_picture:
+#  # this is for the main page
+main:
     tab_index: -1
     url: landscape
     name: Landscape
-    title: OSPO Landscape
-    fullscreen_header: See the interactive landscape at l.todogroup.org
+    title: LFN Landscape
+    fullscreen_header: See the interactive landscape at <yet to be defined>
     # add one element for each category in landscape.yml
     elements:
       - type: HorizontalCategory
-        category: OSPO Adopter
+        category: First Category
         rows: 6
         width: 970
         height: 195
@@ -139,7 +140,7 @@ big_picture:
         color: rgb(126,115,14)
         fit_width: true
       - type: HorizontalCategory
-        category: TODO Group Member
+        category: Second Category
         rows: 4
         width: 650
         height: 150
@@ -156,7 +157,7 @@ big_picture:
         children:
           - type: text
             text: |
-              This landscape is intended as a map to explore the OSPO community, and also shows the member organizations of the TODO Group.
+              This landscape is intended as a map to explore the LFN community, and also shows the member organizations of the LFN Umbrella.
             top: 45
             left: 140
             right: 10
@@ -169,7 +170,7 @@ big_picture:
             height: 90
             title: QR Code
           - type: title
-            title: l.todogroup.org
+            title: l.lfnetworking.org
             top: 95
             left: 10
             font_size: 18
@@ -184,13 +185,13 @@ big_picture:
             width: 90
             right: 10
             top: 10
-            title: TODO Group Logo
+            title: LFN Logo
 # test to make sure the build worked. Identify one landscape item that you know will always be there, preferably towards the top of the rendering
 test:
-  header: OSPO Landscape
-  section: TODO Group Member
-  logo: airbnb-member.svg
+  header: LFN Landscape
+  section: LFN projects
+  logo: left-logo.svg
 # if you have a common view, create a pre-render to speed the render time up
-prerender:
+#prerender:
   # good pre-render to always have; embedable member logo list for a website. Renders to /pages/members
-  members: /card-mode?category=open-mainframe-project-member-company&grouping=category&embed=yes&style=borderless
+  #members: /card-mode?category=open-mainframe-project-member-company&grouping=category&embed=yes&style=borderless
