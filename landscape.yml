@@ -377,6 +377,7 @@ landscape:
             logo: ses_networks.svg
             twitter: https://twitter.com/SES_Satellites
             crunchbase: https://www.crunchbase.com/organization/ses
+            stock_ticker: null
           - item:
             name: Spirent Communications Inc
             homepage_url: https://spirent.com/
