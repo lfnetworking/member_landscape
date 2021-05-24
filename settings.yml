@@ -101,10 +101,7 @@ presets:
   - url: /license=apache-license-2-0
     label: Apache-2.0 landscape
   - url: /format=card-mode&grouping=category
-    # - url: /format=card-mode&grouping=no&sort=stars
     label: Cards by stars
-  - url: /format=card-mode&grouping=headquarters
-    label: Group by location
   - url: /format=card-mode&grouping=no&sort=amount
     label: Cards by MCap/Funding
 # sets the rendering of the landscape
