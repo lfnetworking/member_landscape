@@ -119,7 +119,7 @@ big_picture:
     # add one element for each category in landscape.yml
     elements:
       - type: HorizontalCategory
-        category: First Category
+        category: Platinum
         rows: 6
         width: 970
         height: 195
@@ -128,7 +128,7 @@ big_picture:
         color: rgb(126,115,14)
         fit_width: true
       - type: HorizontalCategory
-        category: Second Category
+        category: Gold
         rows: 4
         width: 650
         height: 150
