@@ -119,22 +119,13 @@ big_picture:
     # add one element for each category in landscape.yml
     elements:
       - type: HorizontalCategory
-        category: Platinum
+        category: Linux Foundation Networking
         rows: 6
         width: 970
         height: 195
         top: 0
         left: 0
         color: rgb(126,115,14)
-        fit_width: true
-      - type: HorizontalCategory
-        category: Gold
-        rows: 4
-        width: 650
-        height: 150
-        top: 210
-        left: 0
-        color: rgb(103,66,18)
         fit_width: true
       # this is a landscape info box; good idea to keep this one
       - type: LandscapeInfo
