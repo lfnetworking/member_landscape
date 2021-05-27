@@ -7,9 +7,9 @@ landscape:
         name: Platinum
         items:
           - item:
-            name: Amdocs (Development Limited)
+            name: Amdocs Limited
             homepage_url: https://amdocs.com/
-            logo: amdocs_development_limited.svg
+            logo: amdocs_limited.svg
             twitter: https://twitter.com/Amdocs
             crunchbase: https://www.crunchbase.com/organization/amdocs
           - item:
@@ -35,12 +35,11 @@ landscape:
             homepage_url: https://chinatelecom.cn/
             logo: china_telecommunications_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
-            stock_ticker: null
           - item:
-            name: Cisco Systems Inc.
+            name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
             logo: cisco_systems_inc.svg
-            twitter: https://twitter.com/Cisco
+            twitter: https://twitter.com/cisco_in
             crunchbase: https://www.crunchbase.com/organization/cisco
           - item:
             name: Deutsche Telekom AG
@@ -49,10 +48,10 @@ landscape:
             twitter: https://twitter.com/deutschetelekom
             crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
           - item:
-            name: Ericsson Software Technology AB
+            name: Ericsson
             homepage_url: https://ericsson.com/
-            logo: ericsson_software_technology_ab.svg
-            twitter: https://twitter.com/EricssonSustain
+            logo: ericsson.svg
+            twitter: https://twitter.com/ericsson
             crunchbase: https://www.crunchbase.com/organization/ericsson
           - item:
             name: Google LLC
@@ -61,7 +60,7 @@ landscape:
             twitter: https://twitter.com/Google
             crunchbase: https://www.crunchbase.com/organization/google
           - item:
-            name: Huawei Technologies Co., Ltd.
+            name: Huawei Technologies Co., Ltd
             homepage_url: https://huawei.com/
             logo: huawei_technologies_co_ltd.svg
             twitter: https://twitter.com/Huawei
@@ -73,9 +72,9 @@ landscape:
             twitter: https://twitter.com/intel
             crunchbase: https://www.crunchbase.com/organization/intel
           - item:
-            name: International Business Machines Corporation (IBM)
+            name: International Business Machines Corporation
             homepage_url: https://ibm.com/
-            logo: international_business_machines_corporation_ibm.svg
+            logo: international_business_machines_corporation.svg
             twitter: https://twitter.com/IBM
             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
@@ -92,13 +91,13 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/nokia
             stock_ticker: NOK
           - item:
-            name: Orange S.A.
+            name: Orange SA
             homepage_url: https://orange.com/
             logo: orange_sa.svg
             twitter: https://twitter.com/orange
             crunchbase: https://www.crunchbase.com/organization/orange
           - item:
-            name: Red Hat Inc.
+            name: Red Hat, Inc.
             homepage_url: https://redhat.com/
             logo: red_hat_inc.svg
             twitter: https://twitter.com/RedHat
@@ -122,9 +121,9 @@ landscape:
             twitter: https://twitter.com/Verizon
             crunchbase: https://www.crunchbase.com/organization/verizon
           - item:
-            name: Walmart
+            name: Walmart Inc.
             homepage_url: https://walmart.com/
-            logo: walmart.svg
+            logo: walmart_inc.svg
             twitter: https://twitter.com/Walmart
             crunchbase: https://www.crunchbase.com/organization/walmart-labs
           - item:
@@ -164,7 +163,7 @@ landscape:
             twitter: https://twitter.com/aarnanetworks
             crunchbase: https://www.crunchbase.com/organization/aarna-networks
           - item:
-            name: Advanced Micro Devices, Inc.
+            name: Advanced Micro Devices, Inc
             homepage_url: https://amd.com/
             logo: advanced_micro_devices_inc.svg
             twitter: https://twitter.com/AMD
@@ -188,21 +187,21 @@ landscape:
             twitter: https://twitter.com/AristaNetworks
             crunchbase: https://www.crunchbase.com/organization/arista-networks
           - item:
-            name: Arm
+            name: Arm Limited
             homepage_url: https://arm.com/
-            logo: arm.svg
+            logo: arm_limited.svg
             twitter: https://twitter.com/ArmCommunity
             crunchbase: https://www.crunchbase.com/organization/arm
           - item:
-            name: CableLabs
+            name: Cable Television Laboratories Inc.
             homepage_url: https://cablelabs.com/
-            logo: cablelabs.svg
+            logo: cable_television_laboratories_inc.svg
             twitter: https://twitter.com/CableLabs
             crunchbase: https://www.crunchbase.com/organization/cablelabs
           - item:
-            name: Canonical Group Limited
+            name: Canonical Ltd.
             homepage_url: https://canonical.com/
-            logo: canonical_group_limited.svg
+            logo: canonical_ltd.svg
             twitter: https://twitter.com/Canonical
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
           - item:
@@ -235,9 +234,9 @@ landscape:
             twitter: https://twitter.com/CommScope
             crunchbase: https://www.crunchbase.com/organization/commscope-enterprise-solutions
           - item:
-            name: Equinix
+            name: Equinix, Inc.
             homepage_url: https://equinix.com/
-            logo: equinix.svg
+            logo: equinix_inc.svg
             twitter: https://twitter.com/Equinix
             crunchbase: https://www.crunchbase.com/organization/equinix
           - item:
@@ -271,9 +270,9 @@ landscape:
             twitter: https://twitter.com/hcltech
             crunchbase: https://www.crunchbase.com/organization/hcl-technologies
           - item:
-            name: Hewlett Packard Enterprise
+            name: Hewlett Packard Enterprise Development LP
             homepage_url: https://hpe.com/
-            logo: hewlett_packard_enterprise.svg
+            logo: hewlett_packard_enterprise_development_lp.svg
             twitter: https://twitter.com/HPE
             crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
           - item:
@@ -286,12 +285,12 @@ landscape:
             name: KDDI Corporation
             homepage_url: https://kddi.com/
             logo: kddi_corporation.svg
-            twitter: https://twitter.com/kddipr
+            twitter: https://twitter.com/ts_kddi
             crunchbase: https://www.crunchbase.com/organization/kddi
           - item:
-            name: Kubermatic
+            name: Kubermatic GmbH
             homepage_url: https://kubermatic.com/
-            logo: kubermatic.svg
+            logo: kubermatic_gmbh.svg
             twitter: https://twitter.com/Kubermatic
             crunchbase: https://www.crunchbase.com/organization/loodse-gmbh
           - item:
@@ -311,9 +310,9 @@ landscape:
             homepage_url: https://mavenir.com/
             logo: mavenir_systems_inc.svg
             twitter: https://twitter.com/Mavenir
-            crunchbase: https://www.crunchbase.com/organization/mavenir-systems
+            crunchbase: https://www.crunchbase.com/organization/mavenir
           - item:
-            name: Mirantis Inc.
+            name: Mirantis, Inc.
             homepage_url: https://mirantis.com/
             logo: mirantis_inc.svg
             twitter: https://twitter.com/MirantisIT
@@ -331,9 +330,9 @@ landscape:
             twitter: https://twitter.com/NetgateUSA
             crunchbase: https://www.crunchbase.com/organization/netgate
           - item:
-            name: Netris
+            name: Netris, INC.
             homepage_url: https://netris.ai/
-            logo: netris.svg
+            logo: netris_inc.svg
             twitter: https://twitter.com/netrisai
             crunchbase: https://www.crunchbase.com/organization/netris
           - item:
@@ -343,7 +342,7 @@ landscape:
             twitter: https://twitter.com/IncNetsia
             crunchbase: https://www.crunchbase.com/organization/netsia
           - item:
-            name: New H3C Technologies Co., Ltd.
+            name: New H3C Technologies Co., Ltd
             homepage_url: https://h3c.com/
             logo: new_h3c_technologies_co_ltd.svg
             twitter: https://twitter.com/H3CGroup
@@ -367,9 +366,9 @@ landscape:
             twitter: https://twitter.com/ribboncomm
             crunchbase: https://www.crunchbase.com/organization/ribbon-communications
           - item:
-            name: Robin.io
+            name: Robin Systems, Inc
             homepage_url: https://robin.io/
-            logo: robinio.svg
+            logo: robin_systems_inc.svg
             twitter: https://twitter.com/Robin4K8S
             crunchbase: https://www.crunchbase.com/organization/robin-systems
           - item:
@@ -378,7 +377,6 @@ landscape:
             logo: ses_networks.svg
             twitter: https://twitter.com/SES_Satellites
             crunchbase: https://www.crunchbase.com/organization/ses
-            stock_ticker: null
           - item:
             name: Spirent Communications Inc
             homepage_url: https://spirent.com/
@@ -398,12 +396,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/sterlite-technologies-ltd-
             stock_ticker:
           - item:
-            name: SUSE LLC
+            name: SUSE Software Solutions Germany GmbH
             homepage_url: https://suse.com/
-            logo: suse_llc.svg
+            logo: suse_software_solutions_germany_gmbh.svg
             twitter: https://twitter.com/SUSE
             crunchbase: https://www.crunchbase.com/organization/suse
-            stock_ticker: null
           - item:
             name: Swisscom
             homepage_url: https://swisscom.com/
@@ -457,7 +454,7 @@ landscape:
             twitter: https://twitter.com/WindRiver
             crunchbase: https://www.crunchbase.com/organization/wind-river
           - item:
-            name: Xilinx, Inc.
+            name: Xilinx Inc
             homepage_url: https://xilinx.com/
             logo: xilinx_inc.svg
             twitter: https://twitter.com/XilinxInc
