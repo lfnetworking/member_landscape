@@ -1,4 +1,3 @@
----
 landscape:
   - category:
     name: Linux Foundation Networking
@@ -396,9 +395,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/sterlite-technologies-ltd-
             stock_ticker:
           - item:
-            name: SUSE Software Solutions Germany GmbH
+            name: SUSE LLC
             homepage_url: https://suse.com/
-            logo: suse_software_solutions_germany_gmbh.svg
+            logo: suse_llc.svg
             twitter: https://twitter.com/SUSE
             crunchbase: https://www.crunchbase.com/organization/suse
           - item:
