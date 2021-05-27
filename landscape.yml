@@ -34,6 +34,7 @@ landscape:
             homepage_url: https://chinatelecom.cn/
             logo: china_telecommunications_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
+            stock_ticker: 0728.HK
           - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
@@ -400,6 +401,7 @@ landscape:
             logo: suse_llc.svg
             twitter: https://twitter.com/SUSE
             crunchbase: https://www.crunchbase.com/organization/suse
+            stock_ticker: SUSE.DE
           - item:
             name: Swisscom
             homepage_url: https://swisscom.com/
