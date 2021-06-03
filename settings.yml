@@ -35,6 +35,8 @@ global:
   membership: Linux Foundation Networking
   # Update for the categories where you won't be showing the open source license ( typically done for members or conformance program members )
   flags:
+    hide_license_for_categories:
+      - Linux Foundation Networking
     companies:
 # Data for the twitter card
 twitter:
@@ -51,15 +53,19 @@ relation:
       # children to identify maturity levels ( incubation, active, etc ). If there aren't multiple levels, then just complete like below.
       ### Should I add all prois under the children tag - each with a sep "- id:" line??? I think this is showing examples of sep types of projects???
       children:
-        - id: TAC projects
-          label: Open Network Automation Project
-          prefix: ONAP
+        - id: tacprojects
+          label: TAC Projects
+          prefix: TAC
           tag: TAC Project
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: ONAP Project
+          big_picture_label: TAC Projects
           big_picture_color: rgb(24,54,114)
-          # Wondering if we should not show TAC projects and instead just show all the projects
+    - id: company
+      label: Linux Foundation Networking
+      tag: Company
+      big_picture_order: 3
+      # Wondering if we should not show TAC projects and instead just show all the projects
 # membership levels
 membership:
   Platinum:
