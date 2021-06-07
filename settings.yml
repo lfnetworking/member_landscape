@@ -48,6 +48,10 @@ relation:
   label: LFN Projects
   url: https://www.lfnetworking.org/
   values:
+    - id: company
+      label: Linux Foundation Networking
+      tag: Company
+      big_picture_order: 3
     - id: hosted
       label: TAC Projects
       # children to identify maturity levels ( incubation, active, etc ). If there aren't multiple levels, then just complete like below.
@@ -61,11 +65,12 @@ relation:
           big_picture_order: 1
           big_picture_label: TAC Projects
           big_picture_color: rgb(24,54,114)
-    - id: company
-      label: Linux Foundation Networking
-      tag: Company
-      big_picture_order: 3
-      # Wondering if we should not show TAC projects and instead just show all the projects
+    - id: member
+      lable: LFN Members
+      tag: LFN Member
+    - id: false
+      lable: Non-LFN Members
+      url: 'no'
 # membership levels
 membership:
   Platinum:
@@ -85,7 +90,8 @@ membership:
     name: Linux Foundation Networking
     label: Associate Member
     funding: Associate
-
+  'false':
+    funding: 'No'
 home:
   # update to change the header text
   header: >
@@ -171,9 +177,9 @@ big_picture:
 # test to make sure the build worked. Identify one landscape item that you know will always be there, preferably towards the top of the rendering
 test:
   header: LFN Landscape
-  section: LFN projects
+  section: LFN Members
   logo: left-logo.svg
 # if you have a common view, create a pre-render to speed the render time up
 prerender:
   # good pre-render to always have; embedable member logo list for a website. Renders to /pages/members
-  # members: /card-mode?category=linux-foundation-networking-project-member-company&grouping=category&embed=yes&style=borderless
+  members: /card-mode?category=linux-foundation-networking-project-member-company&grouping=category&embed=yes&style=borderless
