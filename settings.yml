@@ -63,23 +63,22 @@ relation:
 # membership levels
 membership:
   Platinum:
-    name: Linux Foundation Networking
+    name: LFN
     label: Platinum Member
     funding: Platinum
     is_large: true
   Gold:
-    name: Linux Foundation Networking
+    name: LFN
     label: Gold Member
     funding: Gold
   Silver:
-    name: Linux Foundation Networking
+    name: LFN
     label: Silver Member
     funding: Silver
   Associate:
-    name: Linux Foundation Networking
+    name: LFN
     label: Associate Member
     funding: Associate
-
 home:
   # update to change the header text
   header: >
@@ -116,7 +115,7 @@ big_picture:
     # add one element for each category in landscape.yml
     elements:
       - type: HorizontalCategory
-        category: Linux Foundation Networking
+        category: LF Networking Members
         rows: 6
         width: 970
         height: 195
@@ -165,8 +164,8 @@ big_picture:
 # test to make sure the build worked. Identify one landscape item that you know will always be there, preferably towards the top of the rendering
 test:
   header: LFN Landscape
-  section: LFN projects
-  logo: left-logo.svg
+  section: LF Networking Members
+  logo: ericsson.svg
 # if you have a common view, create a pre-render to speed the render time up
 prerender:
   # good pre-render to always have; embedable member logo list for a website. Renders to /pages/members
