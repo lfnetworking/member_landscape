@@ -1,4 +1,4 @@
-[![Dependency Status][]][1] [![Netlify Status]][2]
+[![Dependency Status][]][1] [![Netlify Status](https://api.netlify.com/api/v1/badges/6fbca30d-d00a-4274-aa75-11ce0285ce36/deploy-status)](https://app.netlify.com/sites/lfn-landscape/deploys)
 
 <!-- Change to the name of your landscape -->
 # Landscape Template
