@@ -176,8 +176,8 @@ big_picture:
             title: LFN Logo
 # test to make sure the build worked. Identify one landscape item that you know will always be there, preferably towards the top of the rendering
 test:
-  header: LFN Landscape
-  section: LF Networking Members
+  header: Linux Foundation Networking Landscape
+  section: Platinum
   logo: ericsson.svg
 # if you have a common view, create a pre-render to speed the render time up
 prerender:
