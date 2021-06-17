@@ -32,7 +32,7 @@ global:
     google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
   # Category for members
-  membership: Linux Foundation Networking
+  membership: LF Networking Members
   # Update for the categories where you won't be showing the open source license ( typically done for members or conformance program members )
   flags:
     hide_license_for_categories:
@@ -74,20 +74,20 @@ relation:
 # membership levels
 membership:
   Platinum:
-    name: Linux Foundation Networking
+    name: LFN
     label: Platinum Member
     funding: Platinum
     is_large: true
   Gold:
-    name: Linux Foundation Networking
+    name: LFN
     label: Gold Member
     funding: Gold
   Silver:
-    name: Linux Foundation Networking
+    name: LFN
     label: Silver Member
     funding: Silver
   Associate:
-    name: Linux Foundation Networking
+    name: LFN
     label: Associate Member
     funding: Associate
   'false':
@@ -128,7 +128,7 @@ big_picture:
     # add one element for each category in landscape.yml
     elements:
       - type: HorizontalCategory
-        category: Linux Foundation Networking
+        category: LF Networking Members
         rows: 6
         width: 970
         height: 195
@@ -177,8 +177,8 @@ big_picture:
 # test to make sure the build worked. Identify one landscape item that you know will always be there, preferably towards the top of the rendering
 test:
   header: LFN Landscape
-  section: LFN Members
-  logo: att_services_inc.svg
+  section: LF Networking Members
+  logo: ericsson.svg
 # if you have a common view, create a pre-render to speed the render time up
 prerender:
   # good pre-render to always have; embedable member logo list for a website. Renders to /pages/members
