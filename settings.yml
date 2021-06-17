@@ -32,7 +32,7 @@ global:
     google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
   # Category for members
-  membership: Linux Foundation Networking
+  membership: LF Networking Members
   # Update for the categories where you won't be showing the open source license ( typically done for members or conformance program members )
   flags:
     companies:
