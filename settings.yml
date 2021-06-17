@@ -62,14 +62,14 @@ relation:
           big_picture_label: TAC Projects
           big_picture_color: rgb(24,54,114)
     - id: company
-      label: LFN Companies
+      label: LF Networking Members
       tag: Company
       big_picture_order: 3
     - id: member
-      lable: LFN Members
-      tag: LFN Member
+      label: LF Networking Members Projects/Products
+      tag: LF Networking Member
     - id: false
-      lable: Non-LFN Members
+      lable: Non-LF Networking Members Projects/Products
       url: 'no'
 # membership levels
 membership:
