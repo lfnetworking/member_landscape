@@ -95,7 +95,7 @@ membership:
 home:
   # update to change the header text
   header: >
-    <h1>Linux Foundation Networking Landscape</h1> The LFN landscape (<a target="_blank" href="images/left-logo.svg">svg</a>, <a target="_blank"
+    <h1>Linux Foundation Networking Landscape</h1> The LFN Landscape (<a target="_blank" href="images/left-logo.svg">svg</a>, <a target="_blank"
     href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a href="http://landscape.cncf.io">CNCF landscape</a> and based
     on the same open source code.
   # don't change this
