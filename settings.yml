@@ -129,9 +129,9 @@ big_picture:
     elements:
       - type: HorizontalCategory
         category: LF Networking Members
-        rows: 6
+        rows: 30
         width: 970
-        height: 195
+        height: 800
         top: 0
         left: 0
         color: rgb(126,115,14)
@@ -140,8 +140,8 @@ big_picture:
       - type: LandscapeInfo
         width: 310
         height: 150
-        top: 210
-        left: 665
+        top: 0
+        left: 980
         children:
           - type: text
             text: |
@@ -177,7 +177,7 @@ big_picture:
 # test to make sure the build worked. Identify one landscape item that you know will always be there, preferably towards the top of the rendering
 test:
   header: Linux Foundation Networking Landscape
-  section: Platinum
+  section: LF Networking Members
   logo: ericsson.svg
 # if you have a common view, create a pre-render to speed the render time up
 prerender:
