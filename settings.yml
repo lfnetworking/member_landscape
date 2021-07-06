@@ -32,7 +32,7 @@ global:
     google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
   # Category for members
-  membership: LF Networking Members
+  membership: LF Networking Member Roster
   # Update for the categories where you won't be showing the open source license ( typically done for members or conformance program members )
   flags:
     hide_license_for_categories:
@@ -128,7 +128,7 @@ big_picture:
     # add one element for each category in landscape.yml
     elements:
       - type: HorizontalCategory
-        category: LF Networking Members
+        category: membership
         rows: 30
         width: 970
         height: 800
