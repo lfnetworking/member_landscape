@@ -33,6 +33,8 @@ global:
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
   # Category for members
   membership: LF Networking Member Roster
+  # Required for private repos
+  skip_funding: true
   # Update for the categories where you won't be showing the open source license ( typically done for members or conformance program members )
   flags:
     hide_license_for_categories:
