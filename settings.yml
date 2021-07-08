@@ -130,7 +130,7 @@ big_picture:
     # add one element for each category in landscape.yml
     elements:
       - type: HorizontalCategory
-        category: membership
+        category: LF Networking Member Roster
         rows: 30
         width: 970
         height: 800
