@@ -128,6 +128,22 @@ big_picture:
     title: LFN Landscape
     fullscreen_header: See the interactive landscape at <yet to be defined>
     # add one element for each category in landscape.yml
+    elements:
+      - type: VerticalCategory
+        category: LF Networking Member Roster
+        rows: 30
+        width: 970
+        height: 800
+        top: 0
+        left: 0
+        color: rgb(126,115,14)
+        fit_width: true
+  members:
+    tab_index: 1
+    url: members
+    name: Members
+    title: LFN Membership Landscape
+    fullscreen_header: See the members interactive display at <yet to be defined>
     category: LF Networking Member Roster
     elements:
       - type: HorizontalCategory
