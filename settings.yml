@@ -164,8 +164,6 @@ big_picture:
         top: 200
         left: 0
         color: '#D4AF37'
-        fit_width: true
-        offset: 70
       - type: HorizontalCategory
         category: Silver
         rows: 5
