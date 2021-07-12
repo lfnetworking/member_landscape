@@ -130,24 +130,45 @@ big_picture:
     # add one element for each category in landscape.yml
     category: LF Networking Member Roster
     elements:
-      - type: VerticalCategory
-        category: LF Networking Member Roster
-        rows: 30
-        width: 970
-        height: 800
-        top: 0
-        left: 0
-        color: rgb(126,115,14)
-        fit_width: true
       - type: HorizontalCategory
         category: Platinum
-        rows: 30
-        width: 970
-        height: 800
+        rows: 4
+        width: 1250
+        height: 200
         top: 0
         left: 0
-        color: rgb(126,115,14)
+        color: '#c5c4c2'
         fit_width: true
+        offset: 60
+      - type: HorizontalCategory
+        category: Gold
+        rows: 4
+        width: 1250
+        height: 200
+        top: 200
+        left: 0
+        color: '#D4AF37'
+        fit_width: true
+        offset: 70
+      - type: HorizontalCategory
+        category: Silver
+        rows: 23
+        width: 1250
+        height: 770
+        top: 400
+        left: 0
+        color: '#909090'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Associate
+        rows: 15
+        width: 300
+        height: 520
+        top: 0
+        left: 1280
+        color: rgb(38,115,57)
+        fit_width: true
+        offset: 40
       # this is a landscape info box; good idea to keep this one
       - type: LandscapeInfo
         width: 310
