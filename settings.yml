@@ -158,9 +158,9 @@ big_picture:
         offset: 60
       - type: HorizontalCategory
         category: Gold
-        rows: 2
+        rows: 1
         width: 1250
-        height: 200
+        height: 100
         top: 200
         left: 0
         color: '#D4AF37'
@@ -168,10 +168,10 @@ big_picture:
         offset: 70
       - type: HorizontalCategory
         category: Silver
-        rows: 6
+        rows: 5
         width: 1250
-        height: 770
-        top: 400
+        height: 500
+        top: 300
         left: 0
         color: '#909090'
         fit_width: true
@@ -189,8 +189,8 @@ big_picture:
       - type: LandscapeInfo
         width: 310
         height: 150
-        top: 0
-        left: 1250
+        top: 520
+        left: 1280
         children:
           - type: text
             text: |
