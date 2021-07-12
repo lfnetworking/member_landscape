@@ -129,7 +129,7 @@ big_picture:
     fullscreen_header: See the interactive landscape at <yet to be defined>
     # add one element for each category in landscape.yml
     elements:
-      - type: HorizontalCategory
+      - type: VerticalCategory
         category: LF Networking Member Roster
         rows: 30
         width: 970
