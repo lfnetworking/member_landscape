@@ -138,23 +138,67 @@ big_picture:
         left: 0
         color: rgb(126,115,14)
         fit_width: true
+  members:
+    tab_index: 1
+    url: members
+    name: Members
+    title: LFN Membership Landscape
+    fullscreen_header: See the members interactive display at <yet to be defined>
+    category: LF Networking Member Roster
+    elements:
+      - type: HorizontalCategory
+        category: Platinum
+        rows: 2
+        width: 1200
+        height: 200
+        top: 0
+        left: 0
+        color: '#c5c4c2'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Gold
+        rows: 1
+        width: 1200
+        height: 100
+        top: 200
+        left: 0
+        color: '#D4AF37'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Silver
+        rows: 5
+        width: 1200
+        height: 600
+        top: 300
+        left: 0
+        color: '#909090'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Associate
+        rows: 5
+        width: 300
+        height: 600
+        top: 0
+        left: 1250
+        color: rgb(38,115,57)
+        fit_width: true
       # this is a landscape info box; good idea to keep this one
       - type: LandscapeInfo
-        width: 310
-        height: 150
-        top: 0
-        left: 980
+        width: 320
+        height: 160
+        top: 620
+        left: 1250
         children:
           - type: text
             text: |
               This landscape is intended as a map to explore the LFN community, and also shows the member organizations of the LFN Umbrella.
-            top: 45
+            top: 25
             left: 140
             right: 10
             font_size: 10
           - type: image
             image: qr.svg
-            top: 10
+            top: 20
             left: 20
             width: 90
             height: 90
