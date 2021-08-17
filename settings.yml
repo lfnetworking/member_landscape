@@ -84,14 +84,17 @@ membership:
     name: LFN
     label: Gold Member
     funding: Gold
+    is_large: true
   Silver:
     name: LFN
     label: Silver Member
     funding: Silver
+    is_large: true
   Associate:
     name: LFN
     label: Associate Member
     funding: Associate
+    is_large: true
   'false':
     funding: 'No'
 home:
