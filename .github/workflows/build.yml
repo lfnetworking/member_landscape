@@ -44,5 +44,5 @@ jobs:
           branch-suffix: timestamp
           path: ./landscape
           title: Update members
-          labels: automatedupdate
+          labels: automated-update
           commit-message: Update members
