@@ -47,7 +47,7 @@ twitter:
   text: LFN Landscape
 # Complete this section for identifying hosted projects of your project, along with member projects
 relation:
-  label: LFN Projects
+  label: LFN Relation
   url: https://www.lfnetworking.org/
   values:
     - id: hosted
@@ -55,13 +55,37 @@ relation:
       # children to identify maturity levels ( incubation, active, etc ). If there aren't multiple levels, then just complete like below.
       ### Should I add all prois under the children tag - each with a sep "- id:" line??? I think this is showing examples of sep types of projects???
       children:
-        - id: tacprojects
-          label: TAC Projects
-          prefix: TAC
-          tag: TAC Project
-          color: '#3570af'
+        - id: platinum
+          label: LF Networking Member Roster - Platinum
+          prefix: LF Networking
+          tag: Platinum
+          color: '#c5c4c2'
           big_picture_order: 1
-          big_picture_label: TAC Projects
+          big_picture_label: Platinum
+          big_picture_color: '#c5c4c2'
+        - id: gold
+          label: LF Networking Member Roster - Gold
+          prefix: LF Networking
+          tag: Gold
+          color: '#D4AF37'
+          big_picture_order: 1
+          big_picture_label: Gold
+          big_picture_color: '#D4AF37'
+        - id: silver
+          label: LF Networking Member Roster - Silver
+          prefix: LF Networking
+          tag: Silver
+          color: '#909090'
+          big_picture_order: 1
+          big_picture_label: Silver
+          big_picture_color: '#909090'
+        - id: associate
+          label: LF Networking Member Roster - Associate
+          prefix: LF Networking
+          tag: Associate
+          color: rgb(24,54,114)
+          big_picture_order: 1
+          big_picture_label: Associate
           big_picture_color: rgb(24,54,114)
     - id: company
       label: LF Networking Members
@@ -132,97 +156,15 @@ big_picture:
     fullscreen_header: See the interactive landscape at <yet to be defined>
     # add one element for each category in landscape.yml
     elements:
-      - type: VerticalCategory
+      - type: HorizontalCategory
         category: LF Networking Member Roster
-        rows: 30
-        width: 970
-        height: 800
+        rows: 10
+        width: 1200
+        height: 400
         top: 0
         left: 0
         color: rgb(126,115,14)
         fit_width: true
-  members:
-    tab_index: 1
-    url: members
-    name: Members
-    title: LFN Membership Landscape
-    fullscreen_header: See the members interactive display at <yet to be defined>
-    category: LF Networking Member Roster
-    elements:
-      - type: HorizontalCategory
-        category: Platinum
-        rows: 2
-        width: 1200
-        height: 200
-        top: 0
-        left: 0
-        color: '#c5c4c2'
-        fit_width: true
-      - type: HorizontalCategory
-        category: Gold
-        rows: 1
-        width: 1200
-        height: 100
-        top: 200
-        left: 0
-        color: '#D4AF37'
-        fit_width: true
-      - type: HorizontalCategory
-        category: Silver
-        rows: 5
-        width: 1200
-        height: 600
-        top: 300
-        left: 0
-        color: '#909090'
-        fit_width: true
-      - type: HorizontalCategory
-        category: Associate
-        rows: 5
-        width: 300
-        height: 600
-        top: 0
-        left: 1250
-        color: rgb(38,115,57)
-        fit_width: true
-      # this is a landscape info box; good idea to keep this one
-      - type: LandscapeInfo
-        width: 320
-        height: 160
-        top: 620
-        left: 1250
-        children:
-          - type: text
-            text: |
-              This landscape is intended as a map to explore the LFN community, and also shows the member organizations of the LFN Umbrella.
-            top: 25
-            left: 140
-            right: 10
-            font_size: 10
-          - type: image
-            image: qr.svg
-            top: 20
-            left: 20
-            width: 90
-            height: 90
-            title: QR Code
-          - type: title
-            title: l.lfnetworking.org
-            top: 95
-            left: 10
-            font_size: 18
-          - type: image
-            image: left-logo.svg
-            width: 90
-            right: 105
-            top: 10
-            title: Landscape Logo
-          - type: image
-            image: right-logo.svg
-            width: 90
-            right: 10
-            top: 10
-            title: LFN Logo
 # test to make sure the build worked. Identify one landscape item that you know will always be there, preferably towards the top of the rendering
 test:
   header: Linux Foundation Networking Landscape
