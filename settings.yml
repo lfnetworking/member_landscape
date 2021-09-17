@@ -141,8 +141,34 @@ big_picture:
         left: 0
         color: rgb(126,115,14)
         fit_width: true
-  members:
+  verification:
     tab_index: 1
+    url: verification
+    name: Verification
+    title: Anuket Assured Program
+    fullscreen_header: See the members interactive display at <yet to be defined>
+    category: Anuket Assured Program
+    elements:
+      - type: HorizontalCategory
+        category: Infrastructure
+        rows: 2
+        width: 400
+        height: 100
+        top: 0
+        left: 0
+        color: rgb(143,109,61)
+        fit_width: true
+      - type: HorizontalCategory
+        category: Workload
+        rows: 2
+        width: 400
+        height: 100
+        top: 100
+        left: 0
+        color: rgb(102,61,143)
+        fit_width: true
+  members:
+    tab_index: 2
     url: members
     name: Members
     title: LFN Membership Landscape
