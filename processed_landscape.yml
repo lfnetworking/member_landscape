@@ -1795,7 +1795,7 @@ landscape:
                 - Wireless
             image_data:
               fileName: huawei-technologies-co-ltd.svg
-              hash: 2EzPM0nxaY7FP8hejX13fWBbi99eQNy9bxeIONiwrWo=
+              hash: HW/hKGtx9MyoGe2QPi3NdjeH6d9Ec3HCFp65qq/heKM=
             best_practice_data:
               badge: false
               percentage: null
@@ -3234,7 +3234,7 @@ landscape:
               effective_ticker: VZ
             image_data:
               fileName: verizon-corporate-services.svg
-              hash: rO+yZqqglR5/2P8E80JRSzlIycz0cDK4wKLzXXdjYF4=
+              hash: NNq9+ZRBVGLqm7Qbjh2/LGeLqolW99e+UVgcLAgCQxY=
             best_practice_data:
               badge: false
               percentage: null
@@ -5470,7 +5470,7 @@ landscape:
               kind: funding
             image_data:
               fileName: netris-inc.svg
-              hash: cKMqOaZCheLjeBEVuzODtO6UVab+VhR2HaL2m2Fmq78=
+              hash: 9cMztW0K20uItutEkzUx+P97/6khNgYbdSI0TpyDX2A=
             best_practice_data:
               badge: false
               percentage: null
@@ -6873,3 +6873,236 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-17T13:30:06.000Z
+  - category:
+    name: Anuket Assured Program
+    subcategories:
+      - subcategory:
+        name: Infrastructure
+        items:
+          - item:
+            name: HPE Telco Blueprints
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            homepage_url: https://techhub.hpe.com/eginfolib/servers/docs/Telco/Blueprints/infocenter/index.html
+            logo: university_of_surrey.svg
+            extra:
+              description: |
+                HPE Telco Blueprints
+              version: '2019.12'
+              sut_sw_version: null
+              sut_hw_version: DL360
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: hpe-telco-blueprints.svg
+              hash: RTzY7Z7B+wOZWVkBLbQg/xUb5mul3azFG6yUhvK2lQs=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-09-16T17:30:00.000Z
+          - item:
+            name: Nokia Edge Cloud NFVI
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            homepage_url: https://networks.nokia.com/solutions/edge-cloud
+            logo: university_of_surrey.svg
+            extra:
+              description: |
+                Nokia Edge Cloud NFVI consist of Nokia AirFrame Open
+                Edge hardware and Nokia AirFrame Cloud
+                Infrastructure for Real-time applications (NCIR).
+                NCIR is low latency NFVI for edge data centers and
+                runs VM and container workloads. Nokia AirFrame Open
+                Edge, is x86 based solution with single Intel
+                processor in 3U high chassis including 5 servers.
+              verson: '2018.09'
+              sut_sw_version: NCI_R19-3
+              sut_hw_version: null
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: nokia-edge-cloud-nfvi.svg
+              hash: RTzY7Z7B+wOZWVkBLbQg/xUb5mul3azFG6yUhvK2lQs=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-09-16T17:30:00.000Z
+          - item:
+            name: Lenovo Select Solution for NFVI with Wind River Titanium Cloud
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            homepage_url: https://www.lenovo.com/us/en/data-center/solutions/NFV-Solutions-for-CSPs/p/csp-solutions
+            logo: university_of_surrey.svg
+            extra:
+              description: |
+                Lenovo Select Solution for NFVI with Wind River
+                Titanium Cloud consists of Lenovo validated
+                configurations of ThinkSystem SR630 and SR650
+                servers as part of Intel® Select Solution for NFVI
+                combined with Wind River Titanium Cloud
+                application-ready software platform. These solutions
+                are optimized for packet processing, encryption and
+                compression based workloads to help accelerate
+                CoSPs’ migration to NFV. Lenovo XClarity
+                Administrator provides the physical infrastructure
+                management. Key benefits of deploying a Lenovo
+                Select Solution for NFVI include simplified
+                evaluation, rapid deployment and workload-optimized
+                performance.
+              version: 2018.09
+              sut_sw_version: R5
+              sut_hw_version: R1
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: lenovo-select-solution-for-nfvi-with-wind-river-titanium-cloud.svg
+              hash: RTzY7Z7B+wOZWVkBLbQg/xUb5mul3azFG6yUhvK2lQs=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-09-16T17:30:00.000Z
+      - subcategory:
+        name: Workload
+        items:
+          - item:
+            name: Content Service Module
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            homepage_url: https://www.affirmednetworks.com
+            logo: university_of_surrey.svg
+            extra:
+              description: |
+                The CSM runs the tasks needed for call control, IP
+                routing and providing advanced services.
+              model_language: HEAT
+              checksum: 372393d689d1cfa52877d7fb77ed54642589edf2e818a3bb8b65f0567f7d507a
+              product_version: 9
+              version: '2019.12'
+              verification_date: 2020-05-19T00:00:00.000Z
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: content-service-module.svg
+              hash: RTzY7Z7B+wOZWVkBLbQg/xUb5mul3azFG6yUhvK2lQs=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-09-16T17:30:00.000Z
+          - item:
+            name: Cinar
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            homepage_url: https://www.ulakhaberlesme.com.tr/index.php/en/
+            logo: university_of_surrey.svg
+            extra:
+              description: |
+                5G CN NRF and NSSF VNF
+              model_language: HEAT
+              checksum: 669a5ae0a71ec99aaaa022b71d25fc36a1ab2c6c6aaaafc752ceb303e4cf0741
+              product_version: 0.4.11
+              version: '2019.12'
+              verification_date: 2020-03-17T00:00:00.000Z
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: cinar.svg
+              hash: RTzY7Z7B+wOZWVkBLbQg/xUb5mul3azFG6yUhvK2lQs=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-09-16T17:30:00.000Z

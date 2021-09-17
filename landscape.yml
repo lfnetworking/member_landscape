@@ -389,14 +389,14 @@ landscape:
             homepage_url: https://sterlite.com/
             logo: sterlite_technologies_limited.svg
             crunchbase: https://www.crunchbase.com/organization/sterlite-technologies-ltd-
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: SUSE
             homepage_url: https://suse.com/
             logo: suse_llc.svg
             twitter: https://twitter.com/SUSE
             crunchbase: https://www.crunchbase.com/organization/suse
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: Swisscom
             homepage_url: https://swisscom.com/
@@ -519,7 +519,7 @@ landscape:
     name: Anuket Assured Program
     subcategories:
       - subcategory:
-        name: Verified Hardware
+        name: Infrastructure
         items:
           - item:
             name: HPE Telco Blueprints
@@ -574,7 +574,7 @@ landscape:
               sut_sw_version: R5
               sut_hw_version: R1
       - subcategory:
-        name: Verified Software
+        name: Workload
         items:
           - item:
             name: Content Service Module
