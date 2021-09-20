@@ -527,10 +527,9 @@ landscape:
             homepage_url: https://techhub.hpe.com/eginfolib/servers/docs/Telco/Blueprints/infocenter/index.html
             logo: university_of_surrey.svg
             extra:
-              description: |
-                HPE Telco Blueprints
+              description: "HPE Telco Blueprints\n"
               version: '2019.12'
-              sut_sw_version: null
+              sut_sw_version:
               sut_hw_version: DL360
           - item:
             name: Nokia Edge Cloud NFVI
@@ -538,38 +537,23 @@ landscape:
             homepage_url: https://networks.nokia.com/solutions/edge-cloud
             logo: university_of_surrey.svg
             extra:
-              description: |
-                Nokia Edge Cloud NFVI consist of Nokia AirFrame Open
-                Edge hardware and Nokia AirFrame Cloud
-                Infrastructure for Real-time applications (NCIR).
-                NCIR is low latency NFVI for edge data centers and
-                runs VM and container workloads. Nokia AirFrame Open
-                Edge, is x86 based solution with single Intel
-                processor in 3U high chassis including 5 servers.
+              description: "Nokia Edge Cloud NFVI consist of Nokia AirFrame Open\nEdge hardware and Nokia AirFrame Cloud\nInfrastructure for Real-time applications\
+                \ (NCIR).\nNCIR is low latency NFVI for edge data centers and\nruns VM and container workloads. Nokia AirFrame Open\nEdge, is x86 based solution with\
+                \ single Intel\nprocessor in 3U high chassis including 5 servers.\n"
               verson: '2018.09'
               sut_sw_version: NCI_R19-3
-              sut_hw_version: null
+              sut_hw_version:
           - item:
             name: Lenovo Select Solution for NFVI with Wind River Titanium Cloud
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.lenovo.com/us/en/data-center/solutions/NFV-Solutions-for-CSPs/p/csp-solutions
             logo: university_of_surrey.svg
             extra:
-              description: |
-                Lenovo Select Solution for NFVI with Wind River
-                Titanium Cloud consists of Lenovo validated
-                configurations of ThinkSystem SR630 and SR650
-                servers as part of Intel® Select Solution for NFVI
-                combined with Wind River Titanium Cloud
-                application-ready software platform. These solutions
-                are optimized for packet processing, encryption and
-                compression based workloads to help accelerate
-                CoSPs’ migration to NFV. Lenovo XClarity
-                Administrator provides the physical infrastructure
-                management. Key benefits of deploying a Lenovo
-                Select Solution for NFVI include simplified
-                evaluation, rapid deployment and workload-optimized
-                performance.
+              description: "Lenovo Select Solution for NFVI with Wind River\nTitanium Cloud consists of Lenovo validated\nconfigurations of ThinkSystem SR630 and\
+                \ SR650\nservers as part of Intel® Select Solution for NFVI\ncombined with Wind River Titanium Cloud\napplication-ready software platform. These solutions\n\
+                are optimized for packet processing, encryption and\ncompression based workloads to help accelerate\nCoSPs’ migration to NFV. Lenovo XClarity\nAdministrator\
+                \ provides the physical infrastructure\nmanagement. Key benefits of deploying a Lenovo\nSelect Solution for NFVI include simplified\nevaluation, rapid\
+                \ deployment and workload-optimized\nperformance.\n"
               version: 2018.09
               sut_sw_version: R5
               sut_hw_version: R1
@@ -582,24 +566,21 @@ landscape:
             homepage_url: https://www.affirmednetworks.com
             logo: university_of_surrey.svg
             extra:
-              description: |
-                The CSM runs the tasks needed for call control, IP
-                routing and providing advanced services.
+              description: "The CSM runs the tasks needed for call control, IP\nrouting and providing advanced services.\n"
               model_language: HEAT
               checksum: 372393d689d1cfa52877d7fb77ed54642589edf2e818a3bb8b65f0567f7d507a
               product_version: 9
               version: '2019.12'
-              verification_date: 2020-05-19T00:00:00.000Z
+              verification_date: 2020-05-19 00:00:00
           - item:
             name: Cinar
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.ulakhaberlesme.com.tr/index.php/en/
             logo: university_of_surrey.svg
             extra:
-              description: |
-                5G CN NRF and NSSF VNF
+              description: "5G CN NRF and NSSF VNF\n"
               model_language: HEAT
               checksum: 669a5ae0a71ec99aaaa022b71d25fc36a1ab2c6c6aaaafc752ceb303e4cf0741
               product_version: 0.4.11
               version: '2019.12'
-              verification_date: 2020-03-17T00:00:00.000Z
+              verification_date: 2020-03-17 00:00:00
