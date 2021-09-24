@@ -149,24 +149,56 @@ big_picture:
     fullscreen_header: See the members interactive display at <yet to be defined>
     category: Anuket Assured Program
     elements:
+      - type: LandscapeInfo
+        width: 400
+        height: 50
+        top: 0
+        left: 0
+        color: '#1B446C'
+        key: 'cn'
+        children:
+          - type: text
+            text: Cloud Native
+            font_size: 18
+            color: '#1B446C'
+            top: 0
+            left: 140
+            right: 10
+      - type: LandscapeInfo
+        width: 400
+        height: 50
+        top: 0
+        left: 410
+        key: 'vm'
+        color: '#1B446C'
+        children:
+          - type: text
+            text: Virtual Machines
+            font_size: 18
+            color: '#1B446C'
+            top: 0
+            left: 140
+            right: 10
       - type: HorizontalCategory
         category: Infrastructure
         rows: 2
         width: 400
-        height: 100
-        top: 0
+        height: 150
+        top: 50
         left: 0
         color: rgb(143,109,61)
         fit_width: true
+        is_large: true
       - type: HorizontalCategory
         category: Workload
         rows: 2
         width: 400
-        height: 100
-        top: 100
-        left: 0
+        height: 150
+        top: 50
+        left: 410
         color: rgb(102,61,143)
         fit_width: true
+        is_large: true
   members:
     tab_index: 2
     url: members
@@ -217,6 +249,7 @@ big_picture:
         height: 160
         top: 620
         left: 1250
+        key: 'ml'
         children:
           - type: text
             text: |
