@@ -29,6 +29,7 @@ landscape:
             logo: china_telecommunications_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
             stock_ticker:
+            twitter: https://twitter.com/chinateleglobal
           - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
@@ -215,6 +216,7 @@ landscape:
             homepage_url: https://atsgen.com/
             logo: ats_a_kgpco_company.svg
             crunchbase: https://www.crunchbase.com/organization/kgpco
+            twitter: https://twitter.com/KGPCo
           - item:
             name: Cable Television Laboratories Inc.
             homepage_url: https://cablelabs.com/
