@@ -290,4 +290,4 @@ test:
 # if you have a common view, create a pre-render to speed the render time up
 prerender:
   # good pre-render to always have; embedable member logo list for a website. Renders to /pages/members
-  members: /card-mode?category=linux-foundation-networking-project-member-company&grouping=category&embed=yes&style=borderless
+  members: /card-mode?category=lf-networking-member-roster&grouping=category&embed=yes&style=borderless
