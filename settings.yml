@@ -16,6 +16,9 @@ global:
   email: info@lfnetworking.org
   # Crunchbase entry for your project
 
+  # AA logo
+  aa_logo: /images/anuket_assured.svg
+
   self: https://www.crunchbase.com/organization/lf-networking
   # Slack channel for posting build updates
   slack_channel: T02H1G4T9/B01S2SBK81G/iQb9UtQn04EbF0d57xT8vkeM
