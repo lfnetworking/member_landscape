@@ -29,7 +29,6 @@ landscape:
             logo: china_telecommunications_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
             stock_ticker:
-            twitter: https://twitter.com/chinateleglobal
           - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
@@ -203,7 +202,7 @@ landscape:
             name: Arm Limited
             homepage_url: https://arm.com/
             logo: arm_limited.svg
-            twitter: https://twitter.com/ArmCommunity
+            twitter: https://twitter.com/Arm
             crunchbase: https://www.crunchbase.com/organization/arm
           - item:
             name: Atos
@@ -216,7 +215,6 @@ landscape:
             homepage_url: https://atsgen.com/
             logo: ats_a_kgpco_company.svg
             crunchbase: https://www.crunchbase.com/organization/kgpco
-            twitter: https://twitter.com/KGPCo
           - item:
             name: Cable Television Laboratories Inc.
             homepage_url: https://cablelabs.com/
@@ -419,7 +417,6 @@ landscape:
             logo: suse_llc.svg
             twitter: https://twitter.com/SUSE
             crunchbase: https://www.crunchbase.com/organization/suse
-            stock_ticker:
           - item:
             name: Swisscom
             homepage_url: https://swisscom.com/
