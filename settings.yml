@@ -18,6 +18,8 @@ global:
 
   # AA logo
   aa_logo: /images/anuket_assured.svg
+  # LFN Logo
+  lfn_logo: /images/lfn.svg
 
   self: https://www.crunchbase.com/organization/lf-networking
   # Slack channel for posting build updates
@@ -183,20 +185,20 @@ big_picture:
             left: 140
             right: 10
       - type: HorizontalCategory
-        category: Infrastructure
+        category: 'Infrastructure: Release 2021.10'
         rows: 2
         width: 400
-        height: 150
+        height: 200
         top: 50
         left: 0
         color: rgb(143,109,61)
         fit_width: true
         is_large: true
       - type: HorizontalCategory
-        category: Workload
+        category: 'Workload: Release 2021.10'
         rows: 2
         width: 400
-        height: 150
+        height: 200
         top: 50
         left: 410
         color: rgb(102,61,143)

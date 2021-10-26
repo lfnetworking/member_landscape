@@ -7784,18 +7784,19 @@ landscape:
     name: Anuket Assured Program
     subcategories:
       - subcategory:
-        name: Infrastructure
+        name: 'Infrastructure: Release 2021.10'
         items:
           - item:
             name: HPE Telco Blueprints
             tag: verification
+            type: Cloud Native
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://techhub.hpe.com/eginfolib/servers/docs/Telco/Blueprints/infocenter/index.html
             logo: university_of_surrey.svg
             extra:
               description: |
                 HPE Telco Blueprints
-              version: '2019.12'
+              version: '2021.10'
               sut_sw_version: null
               sut_hw_version: DL360
             crunchbase_data:
@@ -7830,6 +7831,7 @@ landscape:
           - item:
             name: Nokia Edge Cloud NFVI
             tag: verification
+            type: Cloud Native
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://networks.nokia.com/solutions/edge-cloud
             logo: university_of_surrey.svg
@@ -7842,7 +7844,7 @@ landscape:
                 runs VM and container workloads. Nokia AirFrame Open
                 Edge, is x86 based solution with single Intel
                 processor in 3U high chassis including 5 servers.
-              verson: '2018.09'
+              verson: '2021.10'
               sut_sw_version: NCI_R19-3
               sut_hw_version: null
             crunchbase_data:
@@ -7877,6 +7879,7 @@ landscape:
           - item:
             name: Lenovo Select Solution for NFVI with Wind River Titanium Cloud
             tag: verification
+            type: Cloud Native
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.lenovo.com/us/en/data-center/solutions/NFV-Solutions-for-CSPs/p/csp-solutions
             logo: university_of_surrey.svg
@@ -7896,7 +7899,7 @@ landscape:
                 Select Solution for NFVI include simplified
                 evaluation, rapid deployment and workload-optimized
                 performance.
-              version: 2018.09
+              version: '2021.10'
               sut_sw_version: R5
               sut_hw_version: R1
             crunchbase_data:
@@ -7929,11 +7932,12 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-09-16T17:30:00.000Z
       - subcategory:
-        name: Workload
+        name: 'Workload: Release 2021.10'
         items:
           - item:
             name: Content Service Module
             tag: verification
+            type: Virtual Machines
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.affirmednetworks.com
             logo: university_of_surrey.svg
@@ -7944,7 +7948,7 @@ landscape:
               model_language: HEAT
               checksum: 372393d689d1cfa52877d7fb77ed54642589edf2e818a3bb8b65f0567f7d507a
               product_version: 9
-              version: '2019.12'
+              version: '2021.10'
               verification_date: 2020-05-19T00:00:00.000Z
             crunchbase_data:
               name: LF Networking
@@ -7978,6 +7982,7 @@ landscape:
           - item:
             name: Cinar
             tag: verification
+            type: Virtual Machines
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.ulakhaberlesme.com.tr/index.php/en/
             logo: university_of_surrey.svg
@@ -7987,7 +7992,7 @@ landscape:
               model_language: HEAT
               checksum: 669a5ae0a71ec99aaaa022b71d25fc36a1ab2c6c6aaaafc752ceb303e4cf0741
               product_version: 0.4.11
-              version: '2019.12'
+              version: '2021.10'
               verification_date: 2020-03-17T00:00:00.000Z
             crunchbase_data:
               name: LF Networking

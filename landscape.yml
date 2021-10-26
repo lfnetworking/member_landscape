@@ -583,11 +583,12 @@ landscape:
     name: Anuket Assured Program
     subcategories:
       - subcategory:
-        name: Infrastructure
+        name: 'Infrastructure: Release 2021.10'
         items:
           - item:
             name: HPE Telco Blueprints
             tag: verification
+            type: Cloud Native
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://techhub.hpe.com/eginfolib/servers/docs/Telco/Blueprints/infocenter/index.html
             logo: university_of_surrey.svg
@@ -600,6 +601,7 @@ landscape:
           - item:
             name: Nokia Edge Cloud NFVI
             tag: verification
+            type: Cloud Native
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://networks.nokia.com/solutions/edge-cloud
             logo: university_of_surrey.svg
@@ -618,6 +620,7 @@ landscape:
           - item:
             name: Lenovo Select Solution for NFVI with Wind River Titanium Cloud
             tag: verification
+            type: Cloud Native
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.lenovo.com/us/en/data-center/solutions/NFV-Solutions-for-CSPs/p/csp-solutions
             logo: university_of_surrey.svg
@@ -641,11 +644,12 @@ landscape:
               sut_sw_version: R5
               sut_hw_version: R1
       - subcategory:
-        name: Workload
+        name: 'Workload: Release 2021.10'
         items:
           - item:
             name: Content Service Module
             tag: verification
+            type: Virtual Machines
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.affirmednetworks.com
             logo: university_of_surrey.svg
@@ -661,6 +665,7 @@ landscape:
           - item:
             name: Cinar
             tag: verification
+            type: Virtual Machines
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.ulakhaberlesme.com.tr/index.php/en/
             logo: university_of_surrey.svg
