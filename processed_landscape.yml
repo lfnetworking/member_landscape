@@ -265,6 +265,7 @@ landscape:
             logo: china_telecommunications_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
             stock_ticker: null
+            twitter: https://twitter.com/chinateleglobal
             crunchbase_data:
               name: China Telecom
               description: China Telecom as China's major basic telecom operators, is implementing the transformation and upgrading strategy.
@@ -298,8 +299,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: null
           - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
@@ -5034,6 +5033,7 @@ landscape:
             homepage_url: https://atsgen.com/
             logo: ats_a_kgpco_company.svg
             crunchbase: https://www.crunchbase.com/organization/kgpco
+            twitter: https://twitter.com/KGPCo
             crunchbase_data:
               name: KGPCo
               description: KGPCo provides customized, scalable supply chain and network transformation solutions for the communications industry.
@@ -7937,7 +7937,7 @@ landscape:
           - item:
             name: Content Service Module
             tag: verification
-            type: Virtual Machines
+            type: NFV
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.affirmednetworks.com
             logo: university_of_surrey.svg
@@ -7982,7 +7982,7 @@ landscape:
           - item:
             name: Cinar
             tag: verification
-            type: Virtual Machines
+            type: NFV
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.ulakhaberlesme.com.tr/index.php/en/
             logo: university_of_surrey.svg

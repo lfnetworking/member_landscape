@@ -651,7 +651,7 @@ landscape:
           - item:
             name: Content Service Module
             tag: verification
-            type: Virtual Machines
+            type: NFV
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.affirmednetworks.com
             logo: university_of_surrey.svg
@@ -667,7 +667,7 @@ landscape:
           - item:
             name: Cinar
             tag: verification
-            type: Virtual Machines
+            type: NFV
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.ulakhaberlesme.com.tr/index.php/en/
             logo: university_of_surrey.svg

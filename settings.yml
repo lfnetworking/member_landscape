@@ -178,11 +178,11 @@ big_picture:
         color: '#1B446C'
         children:
           - type: text
-            text: Virtual Machines
+            text: NFV
             font_size: 18
             color: '#1B446C'
             top: 0
-            left: 140
+            left: 175
             right: 10
       - type: HorizontalCategory
         category: 'Infrastructure: Release 2021.10'
