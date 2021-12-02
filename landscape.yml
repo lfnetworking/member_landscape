@@ -1,5 +1,239 @@
 landscape:
   - category:
+    name: LF Networking Projects
+    subcategories:
+      - subcategory:
+        name: LF Networking Projects
+        items:
+          - item:
+            name: Anuket
+            homepage_url: https://anuket.io/
+            logo: anuket-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: Emco
+            homepage_url: https://project-emco.io/
+            logo: emco.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: FD
+            homepage_url: https://fd.io/
+            logo: logo_fdio.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: Odim
+            homepage_url: https://odim.io/
+            logo: odim-color-1.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: Onap
+            homepage_url: https://www.onap.org/
+            logo: onap_logo.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: Opendaylight
+            homepage_url: https://www.opendaylight.org/
+            logo: opendaylight_logo.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: Pnda
+            homepage_url: http://pnda.io/
+            logo: pnda_logo.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: Snas
+            homepage_url: https://www.snas.io/
+            logo: SNAS_logo.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: Tungsten Fabric
+            homepage_url: https://tungsten.io/
+            logo: tungstenfabric-stacked-color.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: Xg Vela
+            homepage_url: https://xgvela.org/
+            logo: xGVela_Logo_FNL_color-horizontal.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+  - category:
+    name: Other Linux Foundation Hosted Networking Projects
+    subcategories:
+      - subcategory:
+        name: Other Linux Foundation Hosted Networking Projects
+        items:
+          - item:
+            name: Danos
+            homepage_url: https://www.danosproject.org/
+            logo: danos-2-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: Dent
+            homepage_url: https://dent.dev/
+            logo: dent-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: Dpdk
+            homepage_url: https://www.dpdk.org/
+            logo: dpdk-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: FRRouting Project
+            homepage_url: https://frrouting.org/
+            logo: frr-2-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: Magma
+            homepage_url: https://www.magmacore.org/
+            logo: magma-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: Open 19
+            homepage_url: https://www.open19.org/
+            logo: open19-2-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: Open vSwitch
+            homepage_url: https://www.openvswitch.org/
+            logo: openswitch-color.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: US GOV OPS
+            homepage_url: https://usgovops.org/
+            logo: usgovops-color-1.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: Oran Software Community
+            homepage_url: https://www.open19.org/
+            logo: oran-ocu.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+  - category:
+    name: Linux Foundation Sister Communities
+    subcategories:
+      - subcategory:
+        name: Linux Foundation Sister Communities
+        items:
+          - item:
+            name: Cloud Native
+            homepage_url: https://www.cncf.io/
+            logo: cncf-distribution.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: Hyper Ledger
+            homepage_url: https://www.lfnetworking.org/project-ecosystem/hyperledger.org
+            logo: hyperledger-color.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: Ifai Data
+            homepage_url: https://lfaidata.foundation/
+            logo: LFAI_DATA_horizontal-color.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: Ifedge
+            homepage_url: https://www.lfedge.org/
+            logo: cncf-distribution.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+  - category:
+    name: Standards Developing Organizations (SDOs)
+    subcategories:
+      - subcategory:
+        name: Standards Developing Organizations (SDOs)
+        items:
+          - item:
+            name: 3GPP
+            homepage_url: https://www.3gpp.org/
+            logo: 3gpp_logo.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: Etsi
+            homepage_url: https://www.etsi.org/
+            logo: etsi-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: Gsma
+            homepage_url: https://www.gsma.com/
+            logo: GSMA.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: IEEE
+            homepage_url: https://www.ieee.org/
+            logo: IEEE_logo.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: Ietf
+            homepage_url: https://www.ietf.org/
+            logo: ietf-2-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: ITU
+            homepage_url: https://www.itu.int/en/Pages/default.aspx
+            logo: ITU.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: MEF
+            homepage_url: https://www.mef.net/
+            logo: MEF-2-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: NIST
+            homepage_url: https://www.nist.gov/
+            logo: nist-2-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: OIF
+            homepage_url: https://www.oiforum.com/
+            logo: OIF_logo.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
+            name: Tm Forum
+            homepage_url: https://www.tmforum.org/
+            logo: tmf-logo-2-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+  - category:
+    name: LFN Archived/Maintained Projects
+    subcategories:
+      - subcategory:
+        name: LFN Archived/Maintained Projects
+        items:
+          - item:
+            name: Openswitch
+            homepage_url: https://www.openswitch.net/
+            logo: openswitch-color.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+  - category:
     name: LF Networking Member Roster
     subcategories:
       - subcategory:

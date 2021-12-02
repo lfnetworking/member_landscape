@@ -1,6 +1,1226 @@
 # THIS FILE IS GENERATED AUTOMATICALLY!
 landscape:
   - category:
+    name: LF Networking Projects
+    subcategories:
+      - subcategory:
+        name: LF Networking Projects
+        items:
+          - item:
+            name: Anuket
+            homepage_url: https://anuket.io/
+            logo: anuket-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: anuket.svg
+              hash: bFZ3IHemg6nJ0BKTAtxYVxPLYKiu9/TB8FEXwxsEiPY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: Emco
+            homepage_url: https://project-emco.io/
+            logo: emco.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: emco.svg
+              hash: Rw58pgeTuRVOobuNQfgxMN09OdQh0Dk2qTYcCuvoo68=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: FD
+            homepage_url: https://fd.io/
+            logo: logo_fdio.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: fd.svg
+              hash: 45hEiNfR4kyfMx7sMS4nfha9vi+KZx3WyaNadPiR5Kg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: Odim
+            homepage_url: https://odim.io/
+            logo: odim-color-1.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: odim.svg
+              hash: jTjbcp7GPy771hfO5p0oWasUxo5e2uzA1pgFikfaDjQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: Onap
+            homepage_url: https://www.onap.org/
+            logo: onap_logo.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: onap.svg
+              hash: WNsu4QYlSKNG/Rf6KSwvyTm0cOpEvJUl4AB8B5/gQTY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: Opendaylight
+            homepage_url: https://www.opendaylight.org/
+            logo: opendaylight_logo.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: opendaylight.svg
+              hash: iqY4b/vvQwUODgTRPZSQY6D8JSEm1vlaPJyYF+Ipeow=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: Pnda
+            homepage_url: http://pnda.io/
+            logo: pnda_logo.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: pnda.svg
+              hash: pOSEQcr3dihswIUBTYw9O9si70JN20CP0hz2Di7YQH8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: Snas
+            homepage_url: https://www.snas.io/
+            logo: SNAS_logo.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: snas.svg
+              hash: NtU8AV1WrWDPY2J4MOCbDPVtPv4nCWoI/rZgwxojUJo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: Tungsten Fabric
+            homepage_url: https://tungsten.io/
+            logo: tungstenfabric-stacked-color.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: tungsten-fabric.svg
+              hash: sjEc6/UG2/GNxq3ZhxLKK2I+xIUei8HO3g5RZtZCf+Y=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: Xg Vela
+            homepage_url: https://xgvela.org/
+            logo: xGVela_Logo_FNL_color-horizontal.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: xg-vela.svg
+              hash: sDEGR2c4KNOC+Ddjqvu0Fxwu2jl11wIdZZ7HYccU8uk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+  - category:
+    name: Other Linux Foundation Hosted Networking Projects
+    subcategories:
+      - subcategory:
+        name: Other Linux Foundation Hosted Networking Projects
+        items:
+          - item:
+            name: Danos
+            homepage_url: https://www.danosproject.org/
+            logo: danos-2-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: danos.svg
+              hash: CKEDiqCDW7c1dNfODytyHRPQiQch2vm2HUu0Qyf/yRo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: Dent
+            homepage_url: https://dent.dev/
+            logo: dent-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: dent.svg
+              hash: PLI12K1NJCKuNBIt/cLFyzqf2FywPgFUWdAzLqW0FLo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: Dpdk
+            homepage_url: https://www.dpdk.org/
+            logo: dpdk-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: dpdk.svg
+              hash: GZtpwCrYl8gJWAlqrwn4/OKDAC4tBwAE2UAOMKbNEQU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: FRRouting Project
+            homepage_url: https://frrouting.org/
+            logo: frr-2-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: fr-routing-project.svg
+              hash: PF7YEUdSRMDwr1t/T867ECudtZxiGChOBNDbpl2WdDk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: Magma
+            homepage_url: https://www.magmacore.org/
+            logo: magma-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: magma.svg
+              hash: 1lHkyDFfdYMB8NcizOEc1rYsS92Lf2OQKhHUXAu1a/8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: Open 19
+            homepage_url: https://www.open19.org/
+            logo: open19-2-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: open-19.svg
+              hash: UOk/5NK6jdAw9V0mp1K/mRJw9gFaAKYXQAI9OZRyfuQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: Open vSwitch
+            homepage_url: https://www.openvswitch.org/
+            logo: openswitch-color.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: open-v-switch.svg
+              hash: b4l0U3nrD3xAyoHHvlaWo3zfbfYkVWH2Pi2TmAL+ph4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: US GOV OPS
+            homepage_url: https://usgovops.org/
+            logo: usgovops-color-1.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: us-gov-ops.svg
+              hash: 5tc/rUFH4awviyQLpjt3FGw2lo1Cxtz2uxV1MEV1CLQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: Oran Software Community
+            homepage_url: https://www.open19.org/
+            logo: oran-ocu.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: oran-software-community.svg
+              hash: BcL6XenwxqeXPM4O1GypcCIBmjPIEPI1WC3JgLXl5/Q=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+  - category:
+    name: Linux Foundation Sister Communities
+    subcategories:
+      - subcategory:
+        name: Linux Foundation Sister Communities
+        items:
+          - item:
+            name: Cloud Native
+            homepage_url: https://www.cncf.io/
+            logo: cncf-distribution.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: cloud-native.svg
+              hash: Ta6VL6vulb9NL9GGTwJdc1rJpXd1MZPNu1ik9RkQrAE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: Hyper Ledger
+            homepage_url: https://www.lfnetworking.org/project-ecosystem/hyperledger.org
+            logo: hyperledger-color.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: hyper-ledger.svg
+              hash: v2kOqP2/YYp8dL58jAI/lpByJb7XgNLeB0RJjkpUXro=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: Ifai Data
+            homepage_url: https://lfaidata.foundation/
+            logo: LFAI_DATA_horizontal-color.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: ifai-data.svg
+              hash: JNpaQ+D56avZ7XOiVHsAJZqNdTqw34pg4AorfzMTfJQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: Ifedge
+            homepage_url: https://www.lfedge.org/
+            logo: cncf-distribution.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: ifedge.svg
+              hash: Ta6VL6vulb9NL9GGTwJdc1rJpXd1MZPNu1ik9RkQrAE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+  - category:
+    name: Standards Developing Organizations (SDOs)
+    subcategories:
+      - subcategory:
+        name: Standards Developing Organizations (SDOs)
+        items:
+          - item:
+            name: 3GPP
+            homepage_url: https://www.3gpp.org/
+            logo: 3gpp_logo.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: 3-gpp.svg
+              hash: PpmbQYcTXnx+TT0jpSoNspUTNuh21VuwrtJrHivcsyY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: Etsi
+            homepage_url: https://www.etsi.org/
+            logo: etsi-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: etsi.svg
+              hash: 1d/1zUSfUvLLqqo7AUeDTgTc1jmw7mWWHWx3pxZdMwI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: Gsma
+            homepage_url: https://www.gsma.com/
+            logo: GSMA.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: gsma.svg
+              hash: RRhdxwLke9hgcQFR/ObafYcRFbyTcN1vpHKKQQnqMfg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: IEEE
+            homepage_url: https://www.ieee.org/
+            logo: IEEE_logo.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: ieee.svg
+              hash: wWRYSylZxQnTawi9DIQE3BgXimQl0uDSAruZQJPm/4I=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: Ietf
+            homepage_url: https://www.ietf.org/
+            logo: ietf-2-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: ietf.svg
+              hash: Uzrs2NGK/s0dUbzppROaho1cJHP7bwa5aeGf/MBaXio=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: ITU
+            homepage_url: https://www.itu.int/en/Pages/default.aspx
+            logo: ITU.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: itu.svg
+              hash: bPxmKOc4WLfCZPnQ2Z+aQhQ98Dmf43FUqdzHgKQNF4Q=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: MEF
+            homepage_url: https://www.mef.net/
+            logo: MEF-2-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: mef.svg
+              hash: L/pVXAGbkLsnmH3TqvNhSviaGZDFpE9tqEIywjmvojo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: NIST
+            homepage_url: https://www.nist.gov/
+            logo: nist-2-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: nist.svg
+              hash: Dx1cf6DP1bWS2A/uQDPMAe2q5J92TaSXr6sZI9ywezI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: OIF
+            homepage_url: https://www.oiforum.com/
+            logo: OIF_logo.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: oif.svg
+              hash: XkAcCwg96KghHlziPIAgS3fpzvH1pqMWvEIlljwuRG4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
+            name: Tm Forum
+            homepage_url: https://www.tmforum.org/
+            logo: tmf-logo-2-01.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: tm-forum.svg
+              hash: DSMdOu+7/vqOyT+V9fSRknUC3KAIan5co87rEatNbAQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+  - category:
+    name: LFN Archived/Maintained Projects
+    subcategories:
+      - subcategory:
+        name: LFN Archived/Maintained Projects
+        items:
+          - item:
+            name: Openswitch
+            homepage_url: https://www.openswitch.net/
+            logo: openswitch-color.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: openswitch.svg
+              hash: b4l0U3nrD3xAyoHHvlaWo3zfbfYkVWH2Pi2TmAL+ph4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+  - category:
     name: LF Networking Member Roster
     subcategories:
       - subcategory:
