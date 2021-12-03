@@ -141,7 +141,7 @@ big_picture:
         category: LF Networking Projects
         rows: 30
         width: 450
-        height: 300
+        height: 200
         top: 0
         left: 0
         color: rgb(126,115,14)
@@ -151,19 +151,9 @@ big_picture:
         category: Other Linux Foundation Hosted Networking Projects
         rows: 30
         width: 450
-        height: 300
+        height: 200
         top: 0
         left: 460
-        color: rgb(126,115,14)
-        fit_width: true
-        is_large: true
-      - type: HorizontalCategory
-        category: Linux Foundation Sister Communities
-        rows: 30
-        width: 280
-        height: 300
-        top: 0
-        left: 920
         color: rgb(126,115,14)
         fit_width: true
         is_large: true
@@ -171,18 +161,18 @@ big_picture:
         category: Standards Developing Organizations (SDOs)
         rows: 30
         width: 450
-        height: 300
-        top: 320
+        height: 200
+        top: 220
         left: 0
         color: rgb(126,115,14)
         fit_width: true
         is_large: true
       - type: HorizontalCategory
-        category: LFN Archived/Maintained Projects
+        category: Linux Foundation Sister Communities
         rows: 30
         width: 450
-        height: 300
-        top: 320
+        height: 200
+        top: 220
         left: 460
         color: rgb(126,115,14)
         fit_width: true
