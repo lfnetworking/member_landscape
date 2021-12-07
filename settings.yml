@@ -144,7 +144,7 @@ big_picture:
         height: 200
         top: 0
         left: 0
-        color: rgb(126,115,14)
+        color: rgb(84,125,14)
         fit_width: true
         is_large: true
       - type: HorizontalCategory
@@ -154,7 +154,7 @@ big_picture:
         height: 200
         top: 0
         left: 460
-        color: rgb(126,115,14)
+        color: rgb(14,125,77)
         fit_width: true
         is_large: true
       - type: HorizontalCategory
@@ -164,7 +164,7 @@ big_picture:
         height: 200
         top: 220
         left: 0
-        color: rgb(126,115,14)
+        color: rgb(125,14,51)
         fit_width: true
         is_large: true
       - type: HorizontalCategory
