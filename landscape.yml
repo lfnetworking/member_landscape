@@ -27,6 +27,7 @@ landscape:
             name: China Telecommunications Corporation
             homepage_url: https://chinatelecom.cn/
             logo: china_telecommunications_corporation.svg
+            twitter: https://twitter.com/chinateleglobal
             crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
             stock_ticker:
           - item:
@@ -193,9 +194,9 @@ landscape:
             twitter: https://twitter.com/AqsacomGlobal
             crunchbase: https://www.crunchbase.com/organization/aqsacom
           - item:
-            name: Arista Networks
-            homepage_url: https://aristanetworks.com/
-            logo: arista_networks.svg
+            name: Arista Networks, Inc.
+            homepage_url: https://arista.com/
+            logo: arista_networks_inc.svg
             twitter: https://twitter.com/AristaNetworks
             crunchbase: https://www.crunchbase.com/organization/arista-networks
           - item:
@@ -205,15 +206,16 @@ landscape:
             twitter: https://twitter.com/Arm
             crunchbase: https://www.crunchbase.com/organization/arm
           - item:
-            name: Atos
+            name: Atos France
             homepage_url: https://atos.net/
-            logo: atos.svg
+            logo: atos_france.svg
             twitter: https://twitter.com/Atos
             crunchbase: https://www.crunchbase.com/organization/atos
           - item:
             name: ATS (a KGPCo Company)
             homepage_url: https://atsgen.com/
             logo: ats_a_kgpco_company.svg
+            twitter: https://twitter.com/KGPCo
             crunchbase: https://www.crunchbase.com/organization/kgpco
           - item:
             name: Cable Television Laboratories Inc.
@@ -263,12 +265,6 @@ landscape:
             twitter: https://twitter.com/Equinix
             crunchbase: https://www.crunchbase.com/organization/equinix
           - item:
-            name: everis
-            homepage_url: https://everis.com/
-            logo: everis.svg
-            twitter: https://twitter.com/everis_en
-            crunchbase: https://www.crunchbase.com/organization/everis
-          - item:
             name: Fujitsu Limited
             homepage_url: https://fujitsu.com/
             logo: fujitsu_limited.svg
@@ -302,7 +298,7 @@ landscape:
             name: KDDI Corporation
             homepage_url: https://kddi.com/
             logo: kddi_corporation.svg
-            twitter: https://twitter.com/ts_kddi
+            twitter: https://twitter.com/kddipr
             crunchbase: https://www.crunchbase.com/organization/kddi
           - item:
             name: Kubermatic GmbH
@@ -353,6 +349,12 @@ landscape:
             twitter: https://twitter.com/netrisai
             crunchbase: https://www.crunchbase.com/organization/netris
           - item:
+            name: NTT DATA Spain, S.L.U.
+            homepage_url: https://everis.com/
+            logo: ntt_data_spain_slu.svg
+            twitter: https://twitter.com/NTTDATAServices
+            crunchbase: https://www.crunchbase.com/organization/ntt-data
+          - item:
             name: PANTHEON.tech s.r.o
             homepage_url: https://pantheon.tech/
             logo: pantheontech_sro.svg
@@ -388,12 +390,6 @@ landscape:
             logo: sempreai.svg
             crunchbase: https://www.crunchbase.com/organization/sempre
           - item:
-            name: Solutions by STC
-            homepage_url: https://solutions.com.sa/
-            logo: solutions_by_stc.svg
-            twitter: https://twitter.com/solutions_bystc
-            crunchbase: https://www.crunchbase.com/organization/stc-solutions
-          - item:
             name: Spirent Communications Inc
             homepage_url: https://spirent.com/
             logo: spirent_communications_inc.svg
@@ -407,8 +403,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/sprint-nextel
           - item:
             name: Sterlite Technologies Limited
-            homepage_url: https://sterlite.com/
+            homepage_url: https://stl.tech/
             logo: sterlite_technologies_limited.svg
+            twitter: https://twitter.com/STL_Tech
             crunchbase: https://www.crunchbase.com/organization/sterlite-technologies-ltd-
             stock_ticker:
           - item:
@@ -429,6 +426,12 @@ landscape:
             logo: tata_communications_limited.svg
             twitter: https://twitter.com/tata_comm
             crunchbase: https://www.crunchbase.com/organization/tata-communications
+          - item:
+            name: Telaverge Communications
+            homepage_url: https://telavergecommunications.com/
+            logo: telaverge_communications.svg
+            organization:
+              name: Telaverge Communications
           - item:
             name: Telecom Italia Mobile (TIM) S.p.A.
             homepage_url: https://telecomitalia.com/
@@ -528,7 +531,7 @@ landscape:
             homepage_url: https://mef.net/
             logo: mef_forum.svg
             twitter: https://twitter.com/MEF_Forum
-            crunchbase: https://www.crunchbase.com/organization/mef-university
+            crunchbase: https://www.crunchbase.com/organization/mef
           - item:
             name: Okinawa Open Laboratory
             homepage_url: https://okinawaopenlabs.org/
@@ -567,6 +570,12 @@ landscape:
             logo: trinity_college_dublin.svg
             twitter: https://twitter.com/tcddublin
             crunchbase: https://www.crunchbase.com/organization/trinity-college-dublin
+          - item:
+            name: UNH InterOperability Lab
+            homepage_url: https://iol.unh.edu/
+            logo: unh_interoperability_lab.svg
+            twitter: https://twitter.com/UofNH
+            crunchbase: https://www.crunchbase.com/organization/interoperability-laboratory
           - item:
             name: University of New Hampshire
             homepage_url: https://unh.edu/
