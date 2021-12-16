@@ -81,28 +81,27 @@ landscape:
             homepage_url: https://fd.io/
             logo: logo_fdio.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/fd-io
             crunchbase_data:
-              name: LF Networking
-              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.lfnetworking.org
+              name: FD.io
+              description: A collection of several projects and libraries to amplify the transformation that began with Data Plane Development Kit.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://fd.io/
               city: San Francisco
               region: California
               country: United States
-              twitter: https://twitter.com/LF_Networking
-              linkedin: null
+              twitter: https://www.twitter.com/fdioproject
+              linkedin: https://www.linkedin.com/company/fd.io/
               acquisitions: []
               parents:
+                - https://www.crunchbase.com/organization/lf-networking
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
               company_type: Non Profit
               industries:
-                - Network Hardware
-                - Network Security
-                - Open Source
-                - Telecommunications
+                - Information Technology
+                - Software
             image_data:
               fileName: fd.svg
               hash: 45hEiNfR4kyfMx7sMS4nfha9vi+KZx3WyaNadPiR5Kg=
@@ -186,28 +185,28 @@ landscape:
             homepage_url: https://www.opendaylight.org/
             logo: opendaylight_logo.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/opendaylight
             crunchbase_data:
-              name: LF Networking
-              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              name: OpenDaylight
+              description: OpenDaylight is a community-led, open, industry-supported platform for network programmability to enable SDN and NFV for networks.
               num_employees_min: 11
               num_employees_max: 50
-              homepage: https://www.lfnetworking.org
+              homepage: http://www.opendaylight.org/
               city: San Francisco
               region: California
               country: United States
-              twitter: https://twitter.com/LF_Networking
-              linkedin: null
+              twitter: http://twitter.com/OpenDaylightSDN
+              linkedin: https://www.linkedin.com/company/3614476
               acquisitions: []
               parents:
+                - https://www.crunchbase.com/organization/lf-networking
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
-              company_type: Non Profit
+              company_type: For Profit
               industries:
-                - Network Hardware
-                - Network Security
+                - Computer
                 - Open Source
-                - Telecommunications
+                - Virtualization
             image_data:
               fileName: opendaylight.svg
               hash: iqY4b/vvQwUODgTRPZSQY6D8JSEm1vlaPJyYF+Ipeow=
@@ -291,28 +290,26 @@ landscape:
             homepage_url: https://tungsten.io/
             logo: tungstenfabric-stacked-color.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/tungsten-fabric
             crunchbase_data:
-              name: LF Networking
-              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.lfnetworking.org
+              name: Tungsten Fabric
+              description: Solve your tooling complexity and overload with the simplicity of only one networking and security tool.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://tungsten.io/
               city: San Francisco
               region: California
               country: United States
-              twitter: https://twitter.com/LF_Networking
+              twitter: https://twitter.com/tungstenfabric
               linkedin: null
               acquisitions: []
               parents:
+                - https://www.crunchbase.com/organization/lf-networking
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
-              company_type: Non Profit
+              company_type: For Profit
               industries:
-                - Network Hardware
-                - Network Security
-                - Open Source
-                - Telecommunications
+                - Information Technology
             image_data:
               fileName: tungsten-fabric.svg
               hash: sjEc6/UG2/GNxq3ZhxLKK2I+xIUei8HO3g5RZtZCf+Y=
@@ -834,27 +831,24 @@ landscape:
             homepage_url: https://www.3gpp.org/
             logo: 3gpp_logo.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/3gpp
             crunchbase_data:
-              name: LF Networking
-              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.lfnetworking.org
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://twitter.com/LF_Networking
+              name: 3GPP
+              description: The 3rd Generation Partnership Project (3GPP) unites [Seven] telecommunications standard development organizations.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: http://www.3gpp.org/
+              city: Sophia Antipolis
+              region: Provence-Alpes-Cote d'Azur
+              country: France
+              twitter: https://twitter.com/3GPPLive/
               linkedin: null
               acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
+              parents: []
               stockExchange: null
-              company_type: Non Profit
+              company_type: For Profit
               industries:
-                - Network Hardware
-                - Network Security
-                - Open Source
+                - Internet
                 - Telecommunications
             image_data:
               fileName: 3-gpp.svg
@@ -869,27 +863,24 @@ landscape:
             homepage_url: https://www.etsi.org/
             logo: etsi-01.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/etsi
             crunchbase_data:
-              name: LF Networking
-              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.lfnetworking.org
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://twitter.com/LF_Networking
-              linkedin: null
+              name: ETSI
+              description: ETSI is a non-profit organization that produces globally-applicable standards for information and communications technologies.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: http://www.etsi.org
+              city: Sophia Antipolis
+              region: Provence-Alpes-Cote d'Azur
+              country: France
+              twitter: http://twitter.com/ETSI_STANDARDS
+              linkedin: https://www.linkedin.com/company/etsi
               acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
+              parents: []
               stockExchange: null
               company_type: Non Profit
               industries:
-                - Network Hardware
-                - Network Security
-                - Open Source
+                - Information Technology
                 - Telecommunications
             image_data:
               fileName: etsi.svg
@@ -904,28 +895,28 @@ landscape:
             homepage_url: https://www.gsma.com/
             logo: GSMA.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/gsma
             crunchbase_data:
-              name: LF Networking
-              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.lfnetworking.org
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://twitter.com/LF_Networking
-              linkedin: null
+              name: GSMA
+              description: The GSMA is a trade group that represents network operators using GSM technology for their networks.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: https://www.gsma.com/
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: http://twitter.com/gsma
+              linkedin: https://www.linkedin.com/company/gsma
               acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
+              parents: []
+              funding: 45744553
               stockExchange: null
-              company_type: Non Profit
+              company_type: For Profit
               industries:
-                - Network Hardware
-                - Network Security
-                - Open Source
-                - Telecommunications
+                - Internet
+                - Mobile
+                - Social Media
+              kind: funding
             image_data:
               fileName: gsma.svg
               hash: RRhdxwLke9hgcQFR/ObafYcRFbyTcN1vpHKKQQnqMfg=
@@ -974,28 +965,27 @@ landscape:
             homepage_url: https://www.ietf.org/
             logo: ietf-2-01.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/ietf
             crunchbase_data:
-              name: LF Networking
-              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.lfnetworking.org
-              city: San Francisco
+              name: Internet Engineering Task Force (IETF)
+              description: IETF is a large open international community of network designers, operators, vendors, and researchers.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: https://www.ietf.org
+              city: Fremont
               region: California
               country: United States
-              twitter: https://twitter.com/LF_Networking
-              linkedin: null
+              twitter: https://twitter.com/ietf
+              linkedin: https://www.linkedin.com/company/internet-engineering-task-force/
               acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
+              parents: []
               stockExchange: null
-              company_type: Non Profit
+              company_type: For Profit
               industries:
-                - Network Hardware
-                - Network Security
-                - Open Source
-                - Telecommunications
+                - Communities
+                - Event Management
+                - Events
+                - Professional Services
             image_data:
               fileName: ietf.svg
               hash: Uzrs2NGK/s0dUbzppROaho1cJHP7bwa5aeGf/MBaXio=
@@ -1044,27 +1034,24 @@ landscape:
             homepage_url: https://www.mef.net/
             logo: MEF-2-01.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/mef
             crunchbase_data:
-              name: LF Networking
-              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.lfnetworking.org
-              city: San Francisco
+              name: MEF
+              description: The MEF is a nonprofit international industry consortium, dedicated to worldwide adoption of Carrier Ethernet networks and services.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: https://www.mef.net/
+              city: Los Angeles
               region: California
               country: United States
-              twitter: https://twitter.com/LF_Networking
-              linkedin: null
+              twitter: https://www.twitter.com/mef_forum
+              linkedin: https://www.linkedin.com/company/mef-forum/about/
               acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
+              parents: []
               stockExchange: null
               company_type: Non Profit
               industries:
-                - Network Hardware
-                - Network Security
-                - Open Source
+                - Association
                 - Telecommunications
             image_data:
               fileName: mef.svg
@@ -1079,28 +1066,27 @@ landscape:
             homepage_url: https://www.nist.gov/
             logo: nist-2-01.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/nist
             crunchbase_data:
-              name: LF Networking
-              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.lfnetworking.org
-              city: San Francisco
-              region: California
+              name: NIST
+              description: NIST is the federal technology agency that works with industry to develop and apply technology, measurements, and standards.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.nist.gov/
+              city: Gaithersburg
+              region: Maryland
               country: United States
-              twitter: https://twitter.com/LF_Networking
-              linkedin: null
+              twitter: https://twitter.com/NIST
+              linkedin: https://www.linkedin.com/company/nist
               acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
+              parents: []
               stockExchange: null
-              company_type: Non Profit
+              company_type: ''
               industries:
-                - Network Hardware
-                - Network Security
-                - Open Source
-                - Telecommunications
+                - Association
+                - Education
+                - Industrial
+                - Test and Measurement
             image_data:
               fileName: nist.svg
               hash: Dx1cf6DP1bWS2A/uQDPMAe2q5J92TaSXr6sZI9ywezI=
@@ -1149,28 +1135,27 @@ landscape:
             homepage_url: https://www.tmforum.org/
             logo: tmf-logo-2-01.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/tmforum
             crunchbase_data:
-              name: LF Networking
-              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.lfnetworking.org
-              city: San Francisco
-              region: California
+              name: TMForum
+              description: TM Forum is a global trade association that connects enterprises, service providers, and suppliers in the digital ecosystem.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: http://www.tmforum.org/
+              city: Morristown
+              region: New Jersey
               country: United States
-              twitter: https://twitter.com/LF_Networking
-              linkedin: null
+              twitter: https://twitter.com/tmforumorg
+              linkedin: https://www.linkedin.com/company/tm-forum
               acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
+              parents: []
               stockExchange: null
-              company_type: Non Profit
+              company_type: For Profit
               industries:
-                - Network Hardware
-                - Network Security
-                - Open Source
-                - Telecommunications
+                - Cyber Security
+                - Information Technology
+                - Non Profit
+                - Security
             image_data:
               fileName: tm-forum.svg
               hash: DSMdOu+7/vqOyT+V9fSRknUC3KAIan5co87rEatNbAQ=

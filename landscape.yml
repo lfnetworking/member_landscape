@@ -22,7 +22,7 @@ landscape:
             homepage_url: https://fd.io/
             logo: logo_fdio.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/fd-io
           - item:
             name: Odim
             homepage_url: https://odim.io/
@@ -40,7 +40,7 @@ landscape:
             homepage_url: https://www.opendaylight.org/
             logo: opendaylight_logo.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/opendaylight
           - item:
             name: Pnda
             homepage_url: http://pnda.io/
@@ -58,7 +58,7 @@ landscape:
             homepage_url: https://tungsten.io/
             logo: tungstenfabric-stacked-color.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/tungsten-fabric
           - item:
             name: Xg Vela
             homepage_url: https://xgvela.org/
@@ -166,19 +166,19 @@ landscape:
             homepage_url: https://www.3gpp.org/
             logo: 3gpp_logo.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/3gpp
           - item:
             name: Etsi
             homepage_url: https://www.etsi.org/
             logo: etsi-01.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/etsi
           - item:
             name: Gsma
             homepage_url: https://www.gsma.com/
             logo: GSMA.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/gsma
           - item:
             name: IEEE
             homepage_url: https://www.ieee.org/
@@ -190,7 +190,7 @@ landscape:
             homepage_url: https://www.ietf.org/
             logo: ietf-2-01.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/ietf
           - item:
             name: ITU
             homepage_url: https://www.itu.int/en/Pages/default.aspx
@@ -202,13 +202,13 @@ landscape:
             homepage_url: https://www.mef.net/
             logo: MEF-2-01.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/mef
           - item:
             name: NIST
             homepage_url: https://www.nist.gov/
             logo: nist-2-01.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/nist
           - item:
             name: OIF
             homepage_url: https://www.oiforum.com/
@@ -220,7 +220,7 @@ landscape:
             homepage_url: https://www.tmforum.org/
             logo: tmf-logo-2-01.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/tmforum
   - category:
     name: LFN Archived/Maintained Projects
     subcategories:
