@@ -135,8 +135,8 @@ big_picture:
       - type: VerticalCategory
         category: LF Networking Member Roster
         rows: 30
-        width: 970
-        height: 800
+        width: 1200
+        height: 1000
         top: 0
         left: 0
         color: rgb(126,115,14)
@@ -227,7 +227,7 @@ big_picture:
 test:
   header: Linux Foundation Networking Landscape
   section: LF Networking Members
-  logo: ericsson.svg
+  logo: google-llc.svg
 # if you have a common view, create a pre-render to speed the render time up
 prerender:
   # good pre-render to always have; embedable member logo list for a website. Renders to /pages/members
