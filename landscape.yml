@@ -6,12 +6,6 @@ landscape:
         name: Platinum
         items:
           - item:
-            name: Amdocs Limited
-            homepage_url: https://amdocs.com/
-            logo: amdocs_limited.svg
-            twitter: https://twitter.com/Amdocs
-            crunchbase: https://www.crunchbase.com/organization/amdocs
-          - item:
             name: AT&T Services, Inc.
             homepage_url: https://att.com/
             logo: att_services_inc.svg
@@ -42,12 +36,6 @@ landscape:
             logo: deutsche_telekom_ag.svg
             twitter: https://twitter.com/deutschetelekom
             crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
-          - item:
-            name: Ericsson
-            homepage_url: https://ericsson.com/
-            logo: ericsson.svg
-            twitter: https://twitter.com/ericsson
-            crunchbase: https://www.crunchbase.com/organization/ericsson
           - item:
             name: Google LLC
             homepage_url: https://google.com/
@@ -101,7 +89,7 @@ landscape:
             name: Samsung Electronics Co. Ltd.
             homepage_url: https://samsung.com/
             logo: samsung_electronics_co_ltd.svg
-            twitter: https://twitter.com/Samsung
+            twitter: https://twitter.com/SamsungUS
             crunchbase: https://www.crunchbase.com/organization/samsung-electronics
           - item:
             name: Tech Mahindra Limited
@@ -109,12 +97,6 @@ landscape:
             logo: tech_mahindra_limited.svg
             twitter: https://twitter.com/tech_mahindra
             crunchbase: https://www.crunchbase.com/organization/tech-mahindra
-          - item:
-            name: Verizon Corporate Services
-            homepage_url: https://verizon.com/
-            logo: verizon_corporate_services.svg
-            twitter: https://twitter.com/Verizon
-            crunchbase: https://www.crunchbase.com/organization/verizon
           - item:
             name: Walmart Inc.
             homepage_url: https://walmart.com/
@@ -137,6 +119,12 @@ landscape:
             twitter: https://twitter.com/Accenture
             crunchbase: https://www.crunchbase.com/organization/organization/accenture
           - item:
+            name: Advanced Micro Devices (AMD)
+            homepage_url: https://amd.com/
+            logo: advanced_micro_devices_amd.svg
+            twitter: https://twitter.com/AMD
+            crunchbase: https://www.crunchbase.com/organization/amd
+          - item:
             name: Bell Canada
             homepage_url: https://bell.net/
             logo: bell_canada.svg
@@ -148,12 +136,6 @@ landscape:
             logo: microsoft_corporation.svg
             twitter: https://twitter.com/Microsoft
             crunchbase: https://www.crunchbase.com/organization/microsoft
-          - item:
-            name: Wipro Limited
-            homepage_url: https://wipro.com/
-            logo: wipro_limited.svg
-            twitter: https://twitter.com/Wipro
-            crunchbase: https://www.crunchbase.com/organization/wipro
       - subcategory:
         name: Silver
         items:
@@ -170,12 +152,6 @@ landscape:
             twitter: https://twitter.com/aarnanetworks
             crunchbase: https://www.crunchbase.com/organization/aarna-networks
           - item:
-            name: Advanced Micro Devices (AMD)
-            homepage_url: https://amd.com/
-            logo: advanced_micro_devices_amd.svg
-            twitter: https://twitter.com/AMD
-            crunchbase: https://www.crunchbase.com/organization/amd
-          - item:
             name: Adva Optical Networking SE
             homepage_url: https://advaoptical.com/
             logo: adva_optical_networking_se.svg
@@ -188,6 +164,12 @@ landscape:
             twitter: https://twitter.com/Amantyatech
             crunchbase: https://www.crunchbase.com/organization/amantya-technologies
           - item:
+            name: Amdocs Limited
+            homepage_url: https://amdocs.com/
+            logo: amdocs_limited.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/amdocs
+          - item:
             name: AQSACOM
             homepage_url: https://aqsacom.com/
             logo: aqsacom.svg
@@ -199,12 +181,6 @@ landscape:
             logo: arista_networks_inc.svg
             twitter: https://twitter.com/AristaNetworks
             crunchbase: https://www.crunchbase.com/organization/arista-networks
-          - item:
-            name: Arm Limited
-            homepage_url: https://arm.com/
-            logo: arm_limited.svg
-            twitter: https://twitter.com/Arm
-            crunchbase: https://www.crunchbase.com/organization/arm
           - item:
             name: Atos France
             homepage_url: https://atos.net/
@@ -230,11 +206,6 @@ landscape:
             twitter: https://twitter.com/Canonical
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
           - item:
-            name: CertusNet Inc.
-            homepage_url: https://certusnet.com.cn/
-            logo: certusnet_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/certusnet
-          - item:
             name: China Unicom
             homepage_url: https://chinaunicom.com/
             logo: china_unicom.svg
@@ -252,12 +223,6 @@ landscape:
             logo: cloudops_inc.svg
             twitter: https://twitter.com/CloudOps_
             crunchbase: https://www.crunchbase.com/organization/cloudops
-          - item:
-            name: CommScope Inc.
-            homepage_url: https://commscope.com/
-            logo: commscope_inc.svg
-            twitter: https://twitter.com/CommScope
-            crunchbase: https://www.crunchbase.com/organization/commscope-enterprise-solutions
           - item:
             name: Equinix, Inc.
             homepage_url: https://equinix.com/
@@ -277,12 +242,6 @@ landscape:
             twitter: https://twitter.com/globonoticias
             crunchbase: https://www.crunchbase.com/organization/organiza-es-globo
           - item:
-            name: HCL Technologies Ltd.
-            homepage_url: https://hcltech.com/
-            logo: hcl_technologies_ltd.svg
-            twitter: https://twitter.com/hcltech
-            crunchbase: https://www.crunchbase.com/organization/hcl-technologies
-          - item:
             name: Hewlett Packard Enterprise Development LP
             homepage_url: https://hpe.com/
             logo: hewlett_packard_enterprise_development_lp.svg
@@ -300,6 +259,12 @@ landscape:
             logo: kddi_corporation.svg
             twitter: https://twitter.com/kddipr
             crunchbase: https://www.crunchbase.com/organization/kddi
+          - item:
+            name: Keysight Technologies Inc.
+            homepage_url: https://keysight.com/
+            logo: keysight_technologies_inc.svg
+            twitter: https://twitter.com/Keysight
+            crunchbase: https://www.crunchbase.com/organization/keysight-technologies
           - item:
             name: Kubermatic GmbH
             homepage_url: https://kubermatic.com/
@@ -402,19 +367,6 @@ landscape:
             twitter: https://twitter.com/SprintGreenNews
             crunchbase: https://www.crunchbase.com/organization/sprint-nextel
           - item:
-            name: Sterlite Technologies Limited
-            homepage_url: https://stl.tech/
-            logo: sterlite_technologies_limited.svg
-            twitter: https://twitter.com/STL_Tech
-            crunchbase: https://www.crunchbase.com/organization/sterlite-technologies-ltd-
-            stock_ticker:
-          - item:
-            name: SUSE LLC
-            homepage_url: https://suse.com/
-            logo: suse_llc.svg
-            twitter: https://twitter.com/SUSE
-            crunchbase: https://www.crunchbase.com/organization/suse
-          - item:
             name: Swisscom
             homepage_url: https://swisscom.com/
             logo: swisscom.svg
@@ -438,12 +390,6 @@ landscape:
             logo: telecom_italia_mobile_tim_spa.svg
             crunchbase: https://www.crunchbase.com/organization/telecom-italia
           - item:
-            name: Tencent Holdings Limited
-            homepage_url: https://tencent.com/
-            logo: tencent_holdings_limited.svg
-            twitter: https://twitter.com/TencentGlobal
-            crunchbase: https://www.crunchbase.com/organization/tencent
-          - item:
             name: Turk Telekomünikasyon A.S.
             homepage_url: https://turktelekom.com.tr/
             logo: turk_telekomunikasyon_as.svg
@@ -460,12 +406,6 @@ landscape:
             logo: ulak_haberlesme_as.svg
             twitter: https://twitter.com/UlakHaberlesme
             crunchbase: https://www.crunchbase.com/organization/ulak-haberlesme-a-s
-          - item:
-            name: VMware, Inc.
-            homepage_url: https://vmware.com/
-            logo: vmware_inc.svg
-            twitter: https://twitter.com/VMware
-            crunchbase: https://www.crunchbase.com/organization/vmware
           - item:
             name: VoerEir AB
             homepage_url: https://voereir.com/
