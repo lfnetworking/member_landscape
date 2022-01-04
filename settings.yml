@@ -135,8 +135,8 @@ big_picture:
       - type: VerticalCategory
         category: LF Networking Member Roster
         rows: 30
-        width: 970
-        height: 800
+        width: 1200
+        height: 1000
         top: 0
         left: 0
         color: rgb(126,115,14)
