@@ -37,6 +37,12 @@ landscape:
             twitter: https://twitter.com/deutschetelekom
             crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
           - item:
+            name: Ericsson
+            homepage_url: https://ericsson.com/
+            logo: ericsson.svg
+            twitter: https://twitter.com/ericsson
+            crunchbase: https://www.crunchbase.com/organization/ericsson
+          - item:
             name: Google LLC
             homepage_url: https://google.com/
             logo: google_llc.svg
@@ -113,12 +119,6 @@ landscape:
         name: Gold
         items:
           - item:
-            name: Accenture Global Solutions Limited
-            homepage_url: https://accenture.com/
-            logo: accenture_global_solutions_limited.svg
-            twitter: https://twitter.com/Accenture
-            crunchbase: https://www.crunchbase.com/organization/organization/accenture
-          - item:
             name: Advanced Micro Devices (AMD)
             homepage_url: https://amd.com/
             logo: advanced_micro_devices_amd.svg
@@ -187,12 +187,6 @@ landscape:
             logo: atos_france.svg
             twitter: https://twitter.com/Atos
             crunchbase: https://www.crunchbase.com/organization/atos
-          - item:
-            name: ATS (a KGPCo Company)
-            homepage_url: https://atsgen.com/
-            logo: ats_a_kgpco_company.svg
-            twitter: https://twitter.com/KGPCo
-            crunchbase: https://www.crunchbase.com/organization/kgpco
           - item:
             name: Cable Television Laboratories Inc.
             homepage_url: https://cablelabs.com/
@@ -444,7 +438,7 @@ landscape:
             logo: china_academy_of_information_and_communications_technology_caict.svg
             crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
           - item:
-            name: CPqD
+            name: CPQD
             homepage_url: https://cpqd.com.br/
             logo: cpqd.svg
             twitter: https://twitter.com/cpqd
