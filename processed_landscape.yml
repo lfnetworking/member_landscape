@@ -11,28 +11,23 @@ landscape:
             homepage_url: https://anuket.io/
             logo: anuket-01.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/anuket
             crunchbase_data:
-              name: LF Networking
-              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.lfnetworking.org
+              name: Anuket
+              description: Anuket delivers a common model, standardized reference infrastructure specifications for virtualized and cloud native network functions.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://anuket.io
               city: San Francisco
               region: California
               country: United States
               twitter: https://twitter.com/LF_Networking
               linkedin: null
               acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
+              parents: []
               stockExchange: null
-              company_type: Non Profit
-              industries:
-                - Network Hardware
-                - Network Security
-                - Open Source
-                - Telecommunications
+              company_type: ''
+              industries: []
             image_data:
               fileName: anuket.svg
               hash: bFZ3IHemg6nJ0BKTAtxYVxPLYKiu9/TB8FEXwxsEiPY=
@@ -46,28 +41,23 @@ landscape:
             homepage_url: https://project-emco.io/
             logo: emco.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/the-edge-multi-cluster-orchestrator-emco
             crunchbase_data:
-              name: LF Networking
-              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.lfnetworking.org
+              name: Edge Multi-Cluster Orchestrator (EMCO)
+              description: A universal control plane to securely connect and deploy workloads across public clouds, private clouds and edge locations
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://project-emco.io
               city: San Francisco
               region: California
               country: United States
-              twitter: https://twitter.com/LF_Networking
+              twitter: null
               linkedin: null
               acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
+              parents: []
               stockExchange: null
               company_type: Non Profit
-              industries:
-                - Network Hardware
-                - Network Security
-                - Open Source
-                - Telecommunications
+              industries: []
             image_data:
               fileName: emco.svg
               hash: Rw58pgeTuRVOobuNQfgxMN09OdQh0Dk2qTYcCuvoo68=
@@ -115,28 +105,23 @@ landscape:
             homepage_url: https://odim.io/
             logo: odim-color-1.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/odim-cb86
             crunchbase_data:
-              name: LF Networking
-              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.lfnetworking.org
+              name: Open Distributed Infrastructure Management
+              description: Open Distributed Infrastructure Manager. Multi-site, multi-vendor physical infrastructure lifecycle management.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://odim.io
               city: San Francisco
               region: California
               country: United States
-              twitter: https://twitter.com/LF_Networking
+              twitter: null
               linkedin: null
               acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
+              parents: []
               stockExchange: null
               company_type: Non Profit
-              industries:
-                - Network Hardware
-                - Network Security
-                - Open Source
-                - Telecommunications
+              industries: []
             image_data:
               fileName: odim.svg
               hash: jTjbcp7GPy771hfO5p0oWasUxo5e2uzA1pgFikfaDjQ=
@@ -150,28 +135,23 @@ landscape:
             homepage_url: https://www.onap.org/
             logo: onap_logo.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/onap
             crunchbase_data:
-              name: LF Networking
-              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.lfnetworking.org
+              name: ONAP
+              description: Design, creation, orchestration, monitoring, and life cycle management of open source and commercial VNFs and legacy networks.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.onap.org
               city: San Francisco
               region: California
               country: United States
-              twitter: https://twitter.com/LF_Networking
+              twitter: null
               linkedin: null
               acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
+              parents: []
               stockExchange: null
               company_type: Non Profit
-              industries:
-                - Network Hardware
-                - Network Security
-                - Open Source
-                - Telecommunications
+              industries: []
             image_data:
               fileName: onap.svg
               hash: WNsu4QYlSKNG/Rf6KSwvyTm0cOpEvJUl4AB8B5/gQTY=
@@ -220,28 +200,23 @@ landscape:
             homepage_url: http://pnda.io/
             logo: pnda_logo.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/pnda
             crunchbase_data:
-              name: LF Networking
-              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.lfnetworking.org
+              name: PNDA
+              description: Scalable big data analytics platform for networks and services.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: http://pnda.io
               city: San Francisco
               region: California
               country: United States
-              twitter: https://twitter.com/LF_Networking
+              twitter: null
               linkedin: null
               acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
+              parents: []
               stockExchange: null
               company_type: Non Profit
-              industries:
-                - Network Hardware
-                - Network Security
-                - Open Source
-                - Telecommunications
+              industries: []
             image_data:
               fileName: pnda.svg
               hash: pOSEQcr3dihswIUBTYw9O9si70JN20CP0hz2Di7YQH8=
@@ -255,28 +230,23 @@ landscape:
             homepage_url: https://www.snas.io/
             logo: SNAS_logo.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/snas
             crunchbase_data:
-              name: LF Networking
-              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.lfnetworking.org
+              name: SNAS
+              description: Distributed, low-footprint collector leveraging high performing message bus for real-time BGP predictive analytics.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://www.snas.io
               city: San Francisco
               region: California
               country: United States
-              twitter: https://twitter.com/LF_Networking
+              twitter: null
               linkedin: null
               acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
+              parents: []
               stockExchange: null
               company_type: Non Profit
-              industries:
-                - Network Hardware
-                - Network Security
-                - Open Source
-                - Telecommunications
+              industries: []
             image_data:
               fileName: snas.svg
               hash: NtU8AV1WrWDPY2J4MOCbDPVtPv4nCWoI/rZgwxojUJo=
