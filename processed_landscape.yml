@@ -293,28 +293,23 @@ landscape:
             homepage_url: https://xgvela.org/
             logo: xGVela_Logo_FNL_color-horizontal.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/xgvela
             crunchbase_data:
-              name: LF Networking
-              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.lfnetworking.org
+              name: XGVela
+              description: An open source cloud native PaaS for applications and telco network functions to enable new services.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://xgvela.org
               city: San Francisco
               region: California
               country: United States
-              twitter: https://twitter.com/LF_Networking
+              twitter: null
               linkedin: null
               acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
+              parents: []
               stockExchange: null
               company_type: Non Profit
-              industries:
-                - Network Hardware
-                - Network Security
-                - Open Source
-                - Telecommunications
+              industries: []
             image_data:
               fileName: xg-vela.svg
               hash: sDEGR2c4KNOC+Ddjqvu0Fxwu2jl11wIdZZ7HYccU8uk=

@@ -64,7 +64,7 @@ landscape:
             homepage_url: https://xgvela.org/
             logo: xGVela_Logo_FNL_color-horizontal.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/xgvela
   - category:
     name: Other Linux Foundation Hosted Networking Projects
     subcategories:
