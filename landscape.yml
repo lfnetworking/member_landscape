@@ -11,6 +11,7 @@ landscape:
             logo: anuket-01.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/anuket
+            repo_url: https://github.com/opnfv
           - item:
             name: EMCO
             homepage_url: https://project-emco.io/
