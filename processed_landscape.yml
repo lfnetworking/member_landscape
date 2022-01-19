@@ -37,7 +37,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-09-16T17:30:00.000Z
           - item:
-            name: Emco
+            name: EMCO
             homepage_url: https://project-emco.io/
             logo: emco.svg
             twitter: https://twitter.com/LF_Networking
@@ -67,7 +67,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-09-16T17:30:00.000Z
           - item:
-            name: FD
+            name: FD.io
             homepage_url: https://fd.io/
             logo: logo_fdio.svg
             twitter: https://twitter.com/LF_Networking
@@ -93,7 +93,7 @@ landscape:
                 - Information Technology
                 - Software
             image_data:
-              fileName: fd.svg
+              fileName: fd-io.svg
               hash: 45hEiNfR4kyfMx7sMS4nfha9vi+KZx3WyaNadPiR5Kg=
             best_practice_data:
               badge: false
@@ -101,7 +101,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-09-16T17:30:00.000Z
           - item:
-            name: Odim
+            name: ODIM
             homepage_url: https://odim.io/
             logo: odim-color-1.svg
             twitter: https://twitter.com/LF_Networking
@@ -131,7 +131,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-09-16T17:30:00.000Z
           - item:
-            name: Onap
+            name: ONAP
             homepage_url: https://www.onap.org/
             logo: onap_logo.svg
             twitter: https://twitter.com/LF_Networking
@@ -196,7 +196,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-09-16T17:30:00.000Z
           - item:
-            name: Pnda
+            name: PNDA
             homepage_url: http://pnda.io/
             logo: pnda_logo.svg
             twitter: https://twitter.com/LF_Networking
@@ -226,7 +226,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-09-16T17:30:00.000Z
           - item:
-            name: Snas
+            name: SNAS
             homepage_url: https://www.snas.io/
             logo: SNAS_logo.svg
             twitter: https://twitter.com/LF_Networking
@@ -289,7 +289,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-09-16T17:30:00.000Z
           - item:
-            name: Xg Vela
+            name: XGVela
             homepage_url: https://xgvela.org/
             logo: xGVela_Logo_FNL_color-horizontal.svg
             twitter: https://twitter.com/LF_Networking

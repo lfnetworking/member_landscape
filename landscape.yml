@@ -12,25 +12,25 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/anuket
           - item:
-            name: Emco
+            name: EMCO
             homepage_url: https://project-emco.io/
             logo: emco.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/the-edge-multi-cluster-orchestrator-emco
           - item:
-            name: FD
+            name: FD.io
             homepage_url: https://fd.io/
             logo: logo_fdio.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/fd-io
           - item:
-            name: Odim
+            name: ODIM
             homepage_url: https://odim.io/
             logo: odim-color-1.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/odim-cb86
           - item:
-            name: Onap
+            name: ONAP
             homepage_url: https://www.onap.org/
             logo: onap_logo.svg
             twitter: https://twitter.com/LF_Networking
@@ -42,13 +42,13 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/opendaylight
           - item:
-            name: Pnda
+            name: PNDA
             homepage_url: http://pnda.io/
             logo: pnda_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/pnda
           - item:
-            name: Snas
+            name: SNAS
             homepage_url: https://www.snas.io/
             logo: SNAS_logo.svg
             twitter: https://twitter.com/LF_Networking
@@ -60,7 +60,7 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/tungsten-fabric
           - item:
-            name: Xg Vela
+            name: XGVela
             homepage_url: https://xgvela.org/
             logo: xGVela_Logo_FNL_color-horizontal.svg
             twitter: https://twitter.com/LF_Networking
