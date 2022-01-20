@@ -11,61 +11,90 @@ landscape:
             logo: anuket-01.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/anuket
-            repo_url: https://github.com/opnfv
+            extra:
+              description: |
+                A common model, standardized reference infrastructure specifications,
+                and conformance and performance frameworks for VNFs & CNFs.
           - item:
             name: EMCO
             homepage_url: https://project-emco.io/
             logo: emco.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/the-edge-multi-cluster-orchestrator-emco
+            extra:
+              description: |
+                A universal control plane to securely connect and deploy workloads
+                across public clouds, private clouds and edge locations.
           - item:
             name: FD.io
             homepage_url: https://fd.io/
             logo: logo_fdio.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/fd-io
+            extra:
+              description: |
+                Open Source high-performance IO services framework for dynamic computing environments.
           - item:
             name: ODIM
             homepage_url: https://odim.io/
             logo: odim-color-1.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/odim-cb86
+            extra:
+              description: |
+                Open Distributed Infrastructure Manager. Multi-site, multi-vendor physical infrastructure lifecycle management.
           - item:
             name: ONAP
             homepage_url: https://www.onap.org/
             logo: onap_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/onap
+            extra:
+              description: |
+                A comprehensive platform for orchestration, management, and
+                automation of network and edge computing services.
           - item:
             name: Opendaylight
             homepage_url: https://www.opendaylight.org/
             logo: opendaylight_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/opendaylight
+            description: |
+              Open source SDN Controller with largest ecosystem and deployment footprint.
           - item:
             name: PNDA
             homepage_url: http://pnda.io/
             logo: pnda_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/pnda
+            description: |
+              Scalable big data analytics platform for networks and services.
           - item:
             name: SNAS
             homepage_url: https://www.snas.io/
             logo: SNAS_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/snas
+            description: |
+              Distributed, low-footprint collector leveraging high performing
+              message bus for real-time BGP predictive analytics.
           - item:
             name: Tungsten Fabric
             homepage_url: https://tungsten.io/
             logo: tungstenfabric-stacked-color.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/tungsten-fabric
+            description: |
+              A software-defined network & security fabric built for rapid deployment at scale.
           - item:
-            name: XGVela
+            name: XG Vela
             homepage_url: https://xgvela.org/
             logo: xGVela_Logo_FNL_color-horizontal.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/xgvela
+            description: |
+              An open source cloud native PaaS for applications and
+              telco network functions to enable new services.
   - category:
     name: Other Linux Foundation Hosted Networking Projects
     subcategories:
@@ -73,19 +102,19 @@ landscape:
         name: Other Linux Foundation Hosted Networking Projects
         items:
           - item:
-            name: Danos
+            name: DANOS
             homepage_url: https://www.danosproject.org/
             logo: danos-2-01.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/lf-networking
           - item:
-            name: Dent
+            name: DENT
             homepage_url: https://dent.dev/
             logo: dent-01.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/lf-networking
           - item:
-            name: Dpdk
+            name: DPDK
             homepage_url: https://www.dpdk.org/
             logo: dpdk-01.svg
             twitter: https://twitter.com/LF_Networking
@@ -122,7 +151,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/lf-networking
           - item:
             name: Oran Software Community
-            homepage_url: https://www.open19.org/
+            homepage_url: https://oran-osc.github.io/
             logo: oran-ocu.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/lf-networking
@@ -140,18 +169,18 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/lf-networking
           - item:
             name: Hyper Ledger
-            homepage_url: https://www.lfnetworking.org/project-ecosystem/hyperledger.org
+            homepage_url: https://www.hyperledger.org/
             logo: hyperledger-color.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/lf-networking
           - item:
-            name: Ifai Data
+            name: LF AI  Data
             homepage_url: https://lfaidata.foundation/
             logo: LFAI_DATA_horizontal-color.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/lf-networking
           - item:
-            name: Ifedge
+            name: LF Edge
             homepage_url: https://www.lfedge.org/
             logo: cncf-distribution.svg
             twitter: https://twitter.com/LF_Networking
@@ -169,13 +198,13 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/3gpp
           - item:
-            name: Etsi
+            name: ETSI
             homepage_url: https://www.etsi.org/
             logo: etsi-01.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/etsi
           - item:
-            name: Gsma
+            name: GSMA
             homepage_url: https://www.gsma.com/
             logo: GSMA.svg
             twitter: https://twitter.com/LF_Networking
@@ -187,7 +216,7 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/lf-networking
           - item:
-            name: Ietf
+            name: IETF
             homepage_url: https://www.ietf.org/
             logo: ietf-2-01.svg
             twitter: https://twitter.com/LF_Networking
@@ -217,7 +246,7 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/lf-networking
           - item:
-            name: Tm Forum
+            name: TM Forum
             homepage_url: https://www.tmforum.org/
             logo: tmf-logo-2-01.svg
             twitter: https://twitter.com/LF_Networking

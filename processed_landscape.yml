@@ -12,6 +12,10 @@ landscape:
             logo: anuket-01.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/anuket
+            extra:
+              description: |
+                A common model, standardized reference infrastructure specifications,
+                and conformance and performance frameworks for VNFs & CNFs.
             crunchbase_data:
               name: Anuket
               description: Anuket delivers a common model, standardized reference infrastructure specifications for virtualized and cloud native network functions.
@@ -42,6 +46,10 @@ landscape:
             logo: emco.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/the-edge-multi-cluster-orchestrator-emco
+            extra:
+              description: |
+                A universal control plane to securely connect and deploy workloads
+                across public clouds, private clouds and edge locations.
             crunchbase_data:
               name: Edge Multi-Cluster Orchestrator (EMCO)
               description: A universal control plane to securely connect and deploy workloads across public clouds, private clouds and edge locations
@@ -72,6 +80,9 @@ landscape:
             logo: logo_fdio.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/fd-io
+            extra:
+              description: |
+                Open Source high-performance IO services framework for dynamic computing environments.
             crunchbase_data:
               name: FD.io
               description: A collection of several projects and libraries to amplify the transformation that began with Data Plane Development Kit.
@@ -106,6 +117,9 @@ landscape:
             logo: odim-color-1.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/odim-cb86
+            extra:
+              description: |
+                Open Distributed Infrastructure Manager. Multi-site, multi-vendor physical infrastructure lifecycle management.
             crunchbase_data:
               name: Open Distributed Infrastructure Management
               description: Open Distributed Infrastructure Manager. Multi-site, multi-vendor physical infrastructure lifecycle management.
@@ -136,6 +150,10 @@ landscape:
             logo: onap_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/onap
+            extra:
+              description: |
+                A comprehensive platform for orchestration, management, and
+                automation of network and edge computing services.
             crunchbase_data:
               name: ONAP
               description: Design, creation, orchestration, monitoring, and life cycle management of open source and commercial VNFs and legacy networks.
@@ -166,6 +184,8 @@ landscape:
             logo: opendaylight_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/opendaylight
+            description: |
+              Open source SDN Controller with largest ecosystem and deployment footprint.
             crunchbase_data:
               name: OpenDaylight
               description: OpenDaylight is a community-led, open, industry-supported platform for network programmability to enable SDN and NFV for networks.
@@ -201,6 +221,8 @@ landscape:
             logo: pnda_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/pnda
+            description: |
+              Scalable big data analytics platform for networks and services.
             crunchbase_data:
               name: PNDA
               description: Scalable big data analytics platform for networks and services.
@@ -231,6 +253,9 @@ landscape:
             logo: SNAS_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/snas
+            description: |
+              Distributed, low-footprint collector leveraging high performing
+              message bus for real-time BGP predictive analytics.
             crunchbase_data:
               name: SNAS
               description: Distributed, low-footprint collector leveraging high performing message bus for real-time BGP predictive analytics.
@@ -261,6 +286,8 @@ landscape:
             logo: tungstenfabric-stacked-color.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/tungsten-fabric
+            description: |
+              A software-defined network & security fabric built for rapid deployment at scale.
             crunchbase_data:
               name: Tungsten Fabric
               description: Solve your tooling complexity and overload with the simplicity of only one networking and security tool.
@@ -289,11 +316,14 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-09-16T17:30:00.000Z
           - item:
-            name: XGVela
+            name: XG Vela
             homepage_url: https://xgvela.org/
             logo: xGVela_Logo_FNL_color-horizontal.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/xgvela
+            description: |
+              An open source cloud native PaaS for applications and
+              telco network functions to enable new services.
             crunchbase_data:
               name: XGVela
               description: An open source cloud native PaaS for applications and telco network functions to enable new services.
@@ -325,7 +355,7 @@ landscape:
         name: Other Linux Foundation Hosted Networking Projects
         items:
           - item:
-            name: Danos
+            name: DANOS
             homepage_url: https://www.danosproject.org/
             logo: danos-2-01.svg
             twitter: https://twitter.com/LF_Networking
@@ -360,7 +390,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-09-16T17:30:00.000Z
           - item:
-            name: Dent
+            name: DENT
             homepage_url: https://dent.dev/
             logo: dent-01.svg
             twitter: https://twitter.com/LF_Networking
@@ -395,7 +425,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-09-16T17:30:00.000Z
           - item:
-            name: Dpdk
+            name: DPDK
             homepage_url: https://www.dpdk.org/
             logo: dpdk-01.svg
             twitter: https://twitter.com/LF_Networking
@@ -606,7 +636,7 @@ landscape:
               latest_tweet_date: 2021-09-16T17:30:00.000Z
           - item:
             name: Oran Software Community
-            homepage_url: https://www.open19.org/
+            homepage_url: https://oran-osc.github.io/
             logo: oran-ocu.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/lf-networking
@@ -682,7 +712,7 @@ landscape:
               latest_tweet_date: 2021-09-16T17:30:00.000Z
           - item:
             name: Hyper Ledger
-            homepage_url: https://www.lfnetworking.org/project-ecosystem/hyperledger.org
+            homepage_url: https://www.hyperledger.org/
             logo: hyperledger-color.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/lf-networking
@@ -716,7 +746,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-09-16T17:30:00.000Z
           - item:
-            name: Ifai Data
+            name: LF AI  Data
             homepage_url: https://lfaidata.foundation/
             logo: LFAI_DATA_horizontal-color.svg
             twitter: https://twitter.com/LF_Networking
@@ -743,7 +773,7 @@ landscape:
                 - Open Source
                 - Telecommunications
             image_data:
-              fileName: ifai-data.svg
+              fileName: lf-ai-data.svg
               hash: JNpaQ+D56avZ7XOiVHsAJZqNdTqw34pg4AorfzMTfJQ=
             best_practice_data:
               badge: false
@@ -751,7 +781,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-09-16T17:30:00.000Z
           - item:
-            name: Ifedge
+            name: LF Edge
             homepage_url: https://www.lfedge.org/
             logo: cncf-distribution.svg
             twitter: https://twitter.com/LF_Networking
@@ -778,7 +808,7 @@ landscape:
                 - Open Source
                 - Telecommunications
             image_data:
-              fileName: ifedge.svg
+              fileName: lf-edge.svg
               hash: Ta6VL6vulb9NL9GGTwJdc1rJpXd1MZPNu1ik9RkQrAE=
             best_practice_data:
               badge: false
@@ -824,7 +854,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-09-16T17:30:00.000Z
           - item:
-            name: Etsi
+            name: ETSI
             homepage_url: https://www.etsi.org/
             logo: etsi-01.svg
             twitter: https://twitter.com/LF_Networking
@@ -856,7 +886,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-09-16T17:30:00.000Z
           - item:
-            name: Gsma
+            name: GSMA
             homepage_url: https://www.gsma.com/
             logo: GSMA.svg
             twitter: https://twitter.com/LF_Networking
@@ -926,7 +956,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-09-16T17:30:00.000Z
           - item:
-            name: Ietf
+            name: IETF
             homepage_url: https://www.ietf.org/
             logo: ietf-2-01.svg
             twitter: https://twitter.com/LF_Networking
@@ -1096,7 +1126,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-09-16T17:30:00.000Z
           - item:
-            name: Tm Forum
+            name: TM Forum
             homepage_url: https://www.tmforum.org/
             logo: tmf-logo-2-01.svg
             twitter: https://twitter.com/LF_Networking
