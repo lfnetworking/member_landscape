@@ -11,6 +11,14 @@ landscape:
             logo: anuket-01.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/anuket
+            repo_url: https://github.com/opnfv/vineperf
+            additional_repos:
+                - repo_url: https://github.com/opnfv/kuberef
+                - repo_url: https://github.com/opnfv/functest
+                - repo_url: https://github.com/opnfv/functest-kubernetes
+                - repo_url: https://github.com/opnfv/functest-xtesting
+                - repo_url: https://github.com/opnfv/cirv-sdv
+                - repo_url: https://github.com/opnfv/barometer
             extra:
               description: |
                 A common model, standardized reference infrastructure specifications,
