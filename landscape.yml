@@ -13,12 +13,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/anuket
             repo_url: https://github.com/opnfv/vineperf
             additional_repos:
-                - repo_url: https://github.com/opnfv/kuberef
-                - repo_url: https://github.com/opnfv/functest
-                - repo_url: https://github.com/opnfv/functest-kubernetes
-                - repo_url: https://github.com/opnfv/functest-xtesting
-                - repo_url: https://github.com/opnfv/cirv-sdv
-                - repo_url: https://github.com/opnfv/barometer
+              - repo_url: https://github.com/opnfv/kuberef
+              - repo_url: https://github.com/opnfv/functest
+              - repo_url: https://github.com/opnfv/functest-kubernetes
+              - repo_url: https://github.com/opnfv/functest-xtesting
+              - repo_url: https://github.com/opnfv/cirv-sdv
+              - repo_url: https://github.com/opnfv/barometer
             extra:
               description: |
                 A common model, standardized reference infrastructure specifications,
@@ -174,25 +174,25 @@ landscape:
             homepage_url: https://www.cncf.io/
             logo: cncf-distribution.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
           - item:
             name: Hyper Ledger
             homepage_url: https://www.hyperledger.org/
             logo: hyperledger-color.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
           - item:
             name: LF AI  Data
             homepage_url: https://lfaidata.foundation/
             logo: LFAI_DATA_horizontal-color.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: LF Edge
             homepage_url: https://www.lfedge.org/
             logo: cncf-distribution.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
   - category:
     name: Standards Developing Organizations (SDOs)
     subcategories:
@@ -205,60 +205,70 @@ landscape:
             logo: 3gpp_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/3gpp
+            hideLicense: true
           - item:
             name: ETSI
             homepage_url: https://www.etsi.org/
             logo: etsi-01.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/etsi
+            hideLicense: true
           - item:
             name: GSMA
             homepage_url: https://www.gsma.com/
             logo: GSMA.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/gsma
+            hideLicense: true
           - item:
             name: IEEE
             homepage_url: https://www.ieee.org/
             logo: IEEE_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/lf-networking
+            hideLicense: true
           - item:
             name: IETF
             homepage_url: https://www.ietf.org/
             logo: ietf-2-01.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/ietf
+            hideLicense: true
           - item:
             name: ITU
             homepage_url: https://www.itu.int/en/Pages/default.aspx
             logo: ITU.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/lf-networking
+            hideLicense: true
           - item:
             name: MEF
             homepage_url: https://www.mef.net/
             logo: MEF-2-01.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/mef
+            hideLicense: true
           - item:
             name: NIST
             homepage_url: https://www.nist.gov/
             logo: nist-2-01.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/nist
+            hideLicense: true
           - item:
             name: OIF
             homepage_url: https://www.oiforum.com/
             logo: OIF_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/lf-networking
+            hideLicense: true
           - item:
             name: TM Forum
             homepage_url: https://www.tmforum.org/
             logo: tmf-logo-2-01.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/tmforum
+            hideLicense: true
   - category:
     name: LFN Archived/Maintained Projects
     subcategories:
