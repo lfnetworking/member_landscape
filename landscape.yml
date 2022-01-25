@@ -39,6 +39,29 @@ landscape:
             logo: logo_fdio.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/fd-io
+            repo_url: https://https://github.com/FDio/archived-deb_dpdk
+            additional_repos:
+            - repo_url: https://github.com/FDio/archived-dmm
+            - repo_url: https://github.com/FDio/archived-honeycomb
+            - repo_url: https://github.com/FDio/archived-jvpp
+            - repo_url: https://github.com/FDio/archived-nsh_sfc
+            - repo_url: https://github.com/FDio/archived-odp4vpp
+            - repo_url: https://github.com/FDio/archived-pma_tools
+            - repo_url: https://github.com/FDio/archived-puppet-fdio
+            - repo_url: https://github.com/FDio/archived-rpm_dpdk
+            - repo_url: https://github.com/FDio/archived-sweetcomb
+            - repo_url: https://github.com/FDio/archived-trex
+            - repo_url: https://github.com/FDio/ci-management
+            - repo_url: https://github.com/FDio/cicn
+            - repo_url: https://github.com/FDio/csit
+            - repo_url: https://github.com/FDio/govpp
+            - repo_url: https://github.com/FDio/hc2vpp
+            - repo_url: https://github.com/FDio/hicn
+            - repo_url: https://github.com/FDio/site
+            - repo_url: https://github.com/FDio/tldk
+            - repo_url: https://github.com/FDio/udpi
+            - repo_url: https://github.com/FDio/vpp
+            - repo_url: https://github.com/FDio/vsap
             extra:
               description: |
                 Open Source high-performance IO services framework for dynamic computing environments.
