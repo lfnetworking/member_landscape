@@ -71,6 +71,11 @@ landscape:
             logo: odim-color-1.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/odim-cb86
+            repo_url: https://github.com/ODIM-Project/BMCSimulator
+            additional_repos:
+            - repo_url: https://github.com/ODIM-Project/CompositionService
+            - repo_url: https://github.com/ODIM-Project/ODIM
+            - repo_url: https://github.com/ODIM-Project/PluginCiscoACI
             extra:
               description: |
                 Open Distributed Infrastructure Manager. Multi-site, multi-vendor physical infrastructure lifecycle management.
