@@ -72,7 +72,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/odim-cb86
             repo_url: https://github.com/ODIM-Project/BMCSimulator
             additional_repos:
-              - repo_url: https://github.com/ODIM-Project/CompositionService
               - repo_url: https://github.com/ODIM-Project/ODIM
               - repo_url: https://github.com/ODIM-Project/PluginCiscoACI
             extra:
@@ -1363,4 +1362,3 @@ landscape:
               product_version: 0.4.11
               version: '2021.10'
               verification_date: 2020-03-17T00:00:00.000Z
-
