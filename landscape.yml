@@ -468,6 +468,108 @@ landscape:
             logo: opendaylight_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/opendaylight
+             repo_url: https://github.com/opendaylight/aaa
+              additional_repos:
+              - repo_url: https://github.com/opendaylight/alt-datastores
+              - repo_url: https://github.com/opendaylight/alto
+              - repo_url: https://github.com/opendaylight/ansible
+              - repo_url: https://github.com/opendaylight/archetypes
+              - repo_url: https://github.com/opendaylight/archived-affinity
+              - repo_url: https://github.com/opendaylight/archived-armoury
+              - repo_url: https://github.com/opendaylight/archived-defense4all
+              - repo_url: https://github.com/opendaylight/archived-discovery
+              - repo_url: https://github.com/opendaylight/archived-integration
+              - repo_url: https://github.com/opendaylight/archived-net-virt-platform
+              - repo_url: https://github.com/opendaylight/archived-opendove
+              - repo_url: https://github.com/opendaylight/archived-plugin2oc
+              - repo_url: https://github.com/opendaylight/archived-tcpmd5
+              - repo_url: https://github.com/opendaylight/archived-toolkit
+              - repo_url: https://github.com/opendaylight/atrium
+              - repo_url: https://github.com/opendaylight/bgpcep
+              - repo_url: https://github.com/opendaylight/bier
+              - repo_url: https://github.com/opendaylight/capwap
+              - repo_url: https://github.com/opendaylight/cardinal
+              - repo_url: https://github.com/opendaylight/centinel
+              - repo_url: https://github.com/opendaylight/coe
+              - repo_url: https://github.com/opendaylight/controller
+              - repo_url: https://github.com/opendaylight/coretutorials
+              - repo_url: https://github.com/opendaylight/daexim
+              - repo_url: https://github.com/opendaylight/detnet
+              - repo_url: https://github.com/opendaylight/didm
+              - repo_url: https://github.com/opendaylight/dlux
+              - repo_url: https://github.com/opendaylight/dluxapps
+              - repo_url: https://github.com/opendaylight/docs
+              - repo_url: https://github.com/opendaylight/eman
+              - repo_url: https://github.com/opendaylight/faas
+              - repo_url: https://github.com/opendaylight/federation
+              - repo_url: https://github.com/opendaylight/fpc
+              - repo_url: https://github.com/opendaylight/genius
+              - repo_url: https://github.com/opendaylight/gnt
+              - repo_url: https://github.com/opendaylight/groupbasedpolicy
+              - repo_url: https://github.com/opendaylight/honeycomb-vbd
+              - repo_url: https://github.com/opendaylight/infrautils
+              - repo_url: https://github.com/opendaylight/integration-distribution
+              - repo_url: https://github.com/opendaylight/integration-packaging
+              - repo_url: https://github.com/opendaylight/integration-packaging-ansible-opendaylight
+              - repo_url: https://github.com/opendaylight/integration-packaging-puppet-opendaylight
+              - repo_url: https://github.com/opendaylight/integration-test
+              - repo_url: https://github.com/opendaylight/iotdm
+              - repo_url: https://github.com/opendaylight/jsonrpc
+              - repo_url: https://github.com/opendaylight/l2switch
+              - repo_url: https://github.com/opendaylight/lacp
+              - repo_url: https://github.com/opendaylight/lispflowmapping
+              - repo_url: https://github.com/opendaylight/mdsal
+              - repo_url: https://github.com/opendaylight/messaging4transport
+              - repo_url: https://github.com/opendaylight/natapp
+              - repo_url: https://github.com/opendaylight/nemo
+              - repo_url: https://github.com/opendaylight/netconf
+              - repo_url: https://github.com/opendaylight/netide
+              - repo_url: https://github.com/opendaylight/netvirt
+              - repo_url: https://github.com/opendaylight/neutron
+              - repo_url: https://github.com/opendaylight/next
+              - repo_url: https://github.com/opendaylight/nic
+              - repo_url: https://github.com/opendaylight/ocpplugin
+              - repo_url: https://github.com/opendaylight/odlguice
+              - repo_url: https://github.com/opendaylight/odlmicro
+              - repo_url: https://github.com/opendaylight/odlparent
+              - repo_url: https://github.com/opendaylight/odlsaf
+              - repo_url: https://github.com/opendaylight/odltools
+              - repo_url: https://github.com/opendaylight/of-config
+              - repo_url: https://github.com/opendaylight/ofextensions-circuitsw
+              - repo_url: https://github.com/opendaylight/openflowjava
+              - repo_url: https://github.com/opendaylight/openflowplugin
+              - repo_url: https://github.com/opendaylight/opflex
+              - repo_url: https://github.com/opendaylight/ovil
+              - repo_url: https://github.com/opendaylight/ovsdb
+              - repo_url: https://github.com/opendaylight/p4plugin
+              - repo_url: https://github.com/opendaylight/packetcable
+              - repo_url: https://github.com/opendaylight/persistence
+              - repo_url: https://github.com/opendaylight/plastic
+              - repo_url: https://github.com/opendaylight/releng-autorelease
+              - repo_url: https://github.com/opendaylight/releng-builder
+              - repo_url: https://github.com/opendaylight/reservation
+              - repo_url: https://github.com/opendaylight/sdninterfaceapp
+              - repo_url: https://github.com/opendaylight/serviceutils
+              - repo_url: https://github.com/opendaylight/sfc
+              - repo_url: https://github.com/opendaylight/snbi
+              - repo_url: https://github.com/opendaylight/snmp
+              - repo_url: https://github.com/opendaylight/snmp4sdn
+              - repo_url: https://github.com/opendaylight/spectrometer
+              - repo_url: https://github.com/opendaylight/sxp
+              - repo_url: https://github.com/opendaylight/systemmetrics
+              - repo_url: https://github.com/opendaylight/telemetry
+              - repo_url: https://github.com/opendaylight/topoprocessing
+              - repo_url: https://github.com/opendaylight/transportpce
+              - repo_url: https://github.com/opendaylight/tsdr
+              - repo_url: https://github.com/opendaylight/ttp
+              - repo_url: https://github.com/opendaylight/unimgr
+              - repo_url: https://github.com/opendaylight/usc
+              - repo_url: https://github.com/opendaylight/usecplugin
+              - repo_url: https://github.com/opendaylight/vpnservice
+              - repo_url: https://github.com/opendaylight/vtn
+              - repo_url: https://github.com/opendaylight/yang-push
+              - repo_url: https://github.com/opendaylight/yangide
+              - repo_url: https://github.com/opendaylight/yangtools
             description: |
               Open source SDN Controller with largest ecosystem and deployment footprint.
           - item:
@@ -476,6 +578,36 @@ landscape:
             logo: pnda_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/pnda
+            repo_url: https://github.com/pndaproject/platform-salt
+            additional_repos:
+            - repo_url: https://github.com/pndaproject/pnda
+            - repo_url: https://github.com/pndaproject/platform-package-repository
+            - repo_url: vhttps://github.com/pndaproject/platform-data-mgmnt
+            - repo_url: https://github.com/pndaproject/platform-testing
+            - repo_url: https://github.com/pndaproject/platform-deployment-manager
+            - repo_url: https://github.com/pndaproject/platform-console-frontend
+            - repo_url: https://github.com/pndaproject/platform-console-backend
+            - repo_url: https://github.com/pndaproject/pnda-helm-chart
+            - repo_url: https://github.com/pndaproject/hub
+            - repo_url: https://github.com/pndaproject/pnda-helm-repo
+            - repo_url: https://github.com/pndaproject/red-pnda
+            - repo_url: https://github.com/pndaproject/pnda-cli
+            - repo_url: https://github.com/pndaproject/example-applications
+            - repo_url: https://github.com/pndaproject/pnda-guide
+            - repo_url: https://github.com/pndaproject/platform-tools
+            - repo_url: https://github.com/pndaproject/platform-libraries
+            - repo_url: https://github.com/pndaproject/platform-gobblin-modules
+            - repo_url: https://github.com/pndaproject/logstash-codec-pnda-avro
+            - repo_url: https://github.com/pndaproject/example-kafka-clients
+            - repo_url: https://github.com/pndaproject/pnda-website
+            - repo_url: https://github.com/pndaproject/pnda-heat-templates
+            - repo_url: https://github.com/pndaproject/pnda-dib-elements
+            - repo_url: https://github.com/pndaproject/gobblin
+            - repo_url: https://github.com/pndaproject/platform-salt-cloud
+            - repo_url: https://github.com/pndaproject/pnda-aws-templates
+            - repo_url: https://github.com/pndaproject/magent
+            - repo_url: https://github.com/pndaproject/pnda-quickstart
+            - repo_url: https://github.com/pndaproject/odl-kafka-plugin
             description: |
               Scalable big data analytics platform for networks and services.
           - item:
@@ -484,6 +616,18 @@ landscape:
             logo: SNAS_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/snas
+            repo_url: https://github.com/SNAS/openbmp
+              additional_repos:
+              - repo_url: https://github.com/SNAS/openbmp-translator
+              - repo_url: https://github.com/SNAS/obmp-postgres
+              - repo_url: https://github.com/SNAS/docker
+              - repo_url: https://github.com/SNAS/openbmp-mrt2bmp
+              - repo_url: https://github.com/SNAS/obmp-grafana
+              - repo_url: https://github.com/SNAS/openbmp-mysql-consumer
+              - repo_url: https://github.com/SNAS/openbmp-java-api-message
+              - repo_url: https://github.com/SNAS/website
+              - repo_url: https://github.com/SNAS/openbmp-python-api-message
+              - repo_url: https://github.com/SNAS/ui
             description: |
               Distributed, low-footprint collector leveraging high performing
               message bus for real-time BGP predictive analytics.
