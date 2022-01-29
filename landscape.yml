@@ -699,6 +699,17 @@ landscape:
             logo: xGVela_Logo_FNL_color-horizontal.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/xgvela
+            repo_url: https://github.com/XGVela/XGVela
+            additional_repos:
+            - repo_url: https://github.com/XGVela/cim
+            - repo_url: https://github.com/XGVela/cmaas
+            - repo_url: https://github.com/XGVela/cnf-packaging
+            - repo_url: https://github.com/XGVela/fmaas
+            - repo_url: https://github.com/XGVela/service-init
+            - repo_url: https://github.com/XGVela/tmaas
+            - repo_url: https://github.com/XGVela/tmaas-gw
+            - repo_url: https://github.com/XGVela/vesgw
+            - repo_url: https://github.com/XGVela/xgvela-builder
             description: |
               An open source cloud native PaaS for applications and
               telco network functions to enable new services.
