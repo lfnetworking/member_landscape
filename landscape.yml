@@ -382,8 +382,8 @@ landscape:
             logo: opendaylight_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/opendaylight
-             repo_url: https://github.com/opendaylight/aaa
-              additional_repos:
+            repo_url: https://github.com/opendaylight/aaa
+            additional_repos:
               - repo_url: https://github.com/opendaylight/alt-datastores
               - repo_url: https://github.com/opendaylight/alto
               - repo_url: https://github.com/opendaylight/ansible
@@ -494,34 +494,34 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/pnda
             repo_url: https://github.com/pndaproject/platform-salt
             additional_repos:
-            - repo_url: https://github.com/pndaproject/pnda
-            - repo_url: https://github.com/pndaproject/platform-package-repository
-            - repo_url: vhttps://github.com/pndaproject/platform-data-mgmnt
-            - repo_url: https://github.com/pndaproject/platform-testing
-            - repo_url: https://github.com/pndaproject/platform-deployment-manager
-            - repo_url: https://github.com/pndaproject/platform-console-frontend
-            - repo_url: https://github.com/pndaproject/platform-console-backend
-            - repo_url: https://github.com/pndaproject/pnda-helm-chart
-            - repo_url: https://github.com/pndaproject/hub
-            - repo_url: https://github.com/pndaproject/pnda-helm-repo
-            - repo_url: https://github.com/pndaproject/red-pnda
-            - repo_url: https://github.com/pndaproject/pnda-cli
-            - repo_url: https://github.com/pndaproject/example-applications
-            - repo_url: https://github.com/pndaproject/pnda-guide
-            - repo_url: https://github.com/pndaproject/platform-tools
-            - repo_url: https://github.com/pndaproject/platform-libraries
-            - repo_url: https://github.com/pndaproject/platform-gobblin-modules
-            - repo_url: https://github.com/pndaproject/logstash-codec-pnda-avro
-            - repo_url: https://github.com/pndaproject/example-kafka-clients
-            - repo_url: https://github.com/pndaproject/pnda-website
-            - repo_url: https://github.com/pndaproject/pnda-heat-templates
-            - repo_url: https://github.com/pndaproject/pnda-dib-elements
-            - repo_url: https://github.com/pndaproject/gobblin
-            - repo_url: https://github.com/pndaproject/platform-salt-cloud
-            - repo_url: https://github.com/pndaproject/pnda-aws-templates
-            - repo_url: https://github.com/pndaproject/magent
-            - repo_url: https://github.com/pndaproject/pnda-quickstart
-            - repo_url: https://github.com/pndaproject/odl-kafka-plugin
+              - repo_url: https://github.com/pndaproject/pnda
+              - repo_url: https://github.com/pndaproject/platform-package-repository
+              - repo_url: https://github.com/pndaproject/platform-data-mgmnt
+              - repo_url: https://github.com/pndaproject/platform-testing
+              - repo_url: https://github.com/pndaproject/platform-deployment-manager
+              - repo_url: https://github.com/pndaproject/platform-console-frontend
+              - repo_url: https://github.com/pndaproject/platform-console-backend
+              - repo_url: https://github.com/pndaproject/pnda-helm-chart
+              - repo_url: https://github.com/pndaproject/hub
+              - repo_url: https://github.com/pndaproject/pnda-helm-repo
+              - repo_url: https://github.com/pndaproject/red-pnda
+              - repo_url: https://github.com/pndaproject/pnda-cli
+              - repo_url: https://github.com/pndaproject/example-applications
+              - repo_url: https://github.com/pndaproject/pnda-guide
+              - repo_url: https://github.com/pndaproject/platform-tools
+              - repo_url: https://github.com/pndaproject/platform-libraries
+              - repo_url: https://github.com/pndaproject/platform-gobblin-modules
+              - repo_url: https://github.com/pndaproject/logstash-codec-pnda-avro
+              - repo_url: https://github.com/pndaproject/example-kafka-clients
+              - repo_url: https://github.com/pndaproject/pnda-website
+              - repo_url: https://github.com/pndaproject/pnda-heat-templates
+              - repo_url: https://github.com/pndaproject/pnda-dib-elements
+              - repo_url: https://github.com/pndaproject/gobblin
+              - repo_url: https://github.com/pndaproject/platform-salt-cloud
+              - repo_url: https://github.com/pndaproject/pnda-aws-templates
+              - repo_url: https://github.com/pndaproject/magent
+              - repo_url: https://github.com/pndaproject/pnda-quickstart
+              - repo_url: https://github.com/pndaproject/odl-kafka-plugin
             description: |
               Scalable big data analytics platform for networks and services.
           - item:
@@ -531,7 +531,7 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/snas
             repo_url: https://github.com/SNAS/openbmp
-              additional_repos:
+            additional_repos:
               - repo_url: https://github.com/SNAS/openbmp-translator
               - repo_url: https://github.com/SNAS/obmp-postgres
               - repo_url: https://github.com/SNAS/docker
@@ -615,15 +615,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/xgvela
             repo_url: https://github.com/XGVela/XGVela
             additional_repos:
-            - repo_url: https://github.com/XGVela/cim
-            - repo_url: https://github.com/XGVela/cmaas
-            - repo_url: https://github.com/XGVela/cnf-packaging
-            - repo_url: https://github.com/XGVela/fmaas
-            - repo_url: https://github.com/XGVela/service-init
-            - repo_url: https://github.com/XGVela/tmaas
-            - repo_url: https://github.com/XGVela/tmaas-gw
-            - repo_url: https://github.com/XGVela/vesgw
-            - repo_url: https://github.com/XGVela/xgvela-builder
+              - repo_url: https://github.com/XGVela/cim
+              - repo_url: https://github.com/XGVela/cmaas
+              - repo_url: https://github.com/XGVela/cnf-packaging
+              - repo_url: https://github.com/XGVela/fmaas
+              - repo_url: https://github.com/XGVela/service-init
+              - repo_url: https://github.com/XGVela/tmaas
+              - repo_url: https://github.com/XGVela/tmaas-gw
+              - repo_url: https://github.com/XGVela/vesgw
+              - repo_url: https://github.com/XGVela/xgvela-builder
             description: |
               An open source cloud native PaaS for applications and
               telco network functions to enable new services.
