@@ -92,12 +92,6 @@ landscape:
             twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
           - item:
-            name: Samsung Electronics Co. Ltd.
-            homepage_url: https://samsung.com/
-            logo: samsung_electronics_co_ltd.svg
-            twitter: https://twitter.com/SamsungUS
-            crunchbase: https://www.crunchbase.com/organization/samsung-electronics
-          - item:
             name: Tech Mahindra Limited
             homepage_url: https://techmahindra.com/
             logo: tech_mahindra_limited.svg
