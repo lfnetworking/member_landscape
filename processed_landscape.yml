@@ -159,6 +159,7 @@ landscape:
             logo: logo_fdio.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/fd-io
+            repo_url: https://github.com/FDio/archived-deb_dpdk
             extra:
               description: |
                 Open Source high-performance IO services framework for dynamic computing environments.
@@ -182,6 +183,151 @@ landscape:
               industries:
                 - Information Technology
                 - Software
+            github_data:
+              languages:
+                - name: C
+                  value: 80843198
+                  color: '#555555'
+                - name: Python
+                  value: 20233629
+                  color: '#3572A5'
+                - name: HTML
+                  value: 16791978
+                  color: '#e34c26'
+                - name: C++
+                  value: 8026345
+                  color: '#f34b7d'
+                - name: Java
+                  value: 6337178
+                  color: '#b07219'
+                - name: RobotFramework
+                  value: 4428176
+                - name: Makefile
+                  value: 904684
+                  color: '#427819'
+                - name: Shell
+                  value: 839456
+                  color: '#89e051'
+                - name: Go
+                  value: 614795
+                  color: '#00ADD8'
+                - name: CMake
+                  value: 560416
+                - name: JavaScript
+                  value: 360221
+                  color: '#f1e05a'
+                - name: Emacs Lisp
+                  value: 217173
+                  color: '#c065db'
+                - name: HCL
+                  value: 197657
+                - name: Lua
+                  value: 160025
+                  color: '#000080'
+                - name: CSS
+                  value: 121152
+                  color: '#563d7c'
+                - name: Vim script
+                  value: 107589
+                  color: '#199f4b'
+                - name: Objective-C
+                  value: 104247
+                  color: '#438eff'
+                - name: M4
+                  value: 99894
+                - name: Assembly
+                  value: 34833
+                  color: '#6E4C13'
+                - name: Groovy
+                  value: 33251
+                  color: '#e69f56'
+                - name: Ruby
+                  value: 30916
+                  color: '#701516'
+                - name: Jinja
+                  value: 25182
+                - name: XS
+                  value: 21306
+                - name: Puppet
+                  value: 15690
+                  color: '#302B6D'
+                - name: Dockerfile
+                  value: 10886
+                  color: '#384d54'
+                - name: Perl
+                  value: 6694
+                  color: '#0298c3'
+                - name: Less
+                  value: 6200
+                - name: XSLT
+                  value: 5400
+                  color: '#EB8CEB'
+                - name: Roff
+                  value: 5284
+                  color: '#ecdebe'
+                - name: Sass
+                  value: 3543
+                - name: Yacc
+                  value: 3034
+                  color: '#4B6C4B'
+                - name: Starlark
+                  value: 2089
+              contributions: >-
+                68;85;76;54;60;53;43;60;39;42;63;57;52;61;56;53;50;61;36;48;67;25;52;51;48;36;48;40;50;37;20;38;41;63;65;48;68;42;56;71;72;41;41;47;19;26;21;7;48;46;45;36
+              firstWeek: 2021-02-07Z
+              stars: 1053
+              license: Other
+              description: null
+              latest_commit_date: '2019-03-20T14:53:31Z'
+              latest_commit_link: /FDio/archived-deb_dpdk/commit/7a2e6cf9d72252a95b0d5f4d8e4750271305fd1c
+              contributors_count: 323
+              contributors_link: https://github.com/FDio/archived-deb_dpdk/graphs/contributors
+            repos:
+              - url: https://github.com/FDio/archived-deb_dpdk
+                stars: 1
+              - url: https://github.com/FDio/vpp
+                stars: 694
+              - url: https://github.com/FDio/tldk
+                stars: 108
+              - url: https://github.com/FDio/govpp
+                stars: 88
+              - url: https://github.com/FDio/hicn
+                stars: 38
+              - url: https://github.com/FDio/cicn
+                stars: 23
+              - url: https://github.com/FDio/vsap
+                stars: 21
+              - url: https://github.com/FDio/csit
+                stars: 18
+              - url: https://github.com/FDio/archived-sweetcomb
+                stars: 15
+              - url: https://github.com/FDio/hc2vpp
+                stars: 12
+              - url: https://github.com/FDio/archived-honeycomb
+                stars: 11
+              - url: https://github.com/FDio/archived-trex
+                stars: 7
+              - url: https://github.com/FDio/archived-nsh_sfc
+                stars: 4
+              - url: https://github.com/FDio/ci-management
+                stars: 4
+              - url: https://github.com/FDio/archived-odp4vpp
+                stars: 3
+              - url: https://github.com/FDio/site
+                stars: 3
+              - url: https://github.com/FDio/archived-rpm_dpdk
+                stars: 2
+              - url: https://github.com/FDio/archived-dmm
+                stars: 1
+              - url: https://github.com/FDio/archived-jvpp
+                stars: 0
+              - url: https://github.com/FDio/archived-pma_tools
+                stars: 0
+              - url: https://github.com/FDio/archived-puppet-fdio
+                stars: 0
+            github_start_commit_data:
+              start_commit_link: /FDio/archived-trex/commit/8b52a31ed2c299b759f330c4f976b9c70f5765f4
+              start_date: '2015-06-24T11:03:29Z'
             image_data:
               fileName: fd-io.svg
               hash: 45hEiNfR4kyfMx7sMS4nfha9vi+KZx3WyaNadPiR5Kg=
@@ -196,6 +342,7 @@ landscape:
             logo: odim-color-1.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/odim-cb86
+            repo_url: https://github.com/ODIM-Project/BMCSimulator
             extra:
               description: |
                 Open Distributed Infrastructure Manager. Multi-site, multi-vendor physical infrastructure lifecycle management.
@@ -215,6 +362,56 @@ landscape:
               stockExchange: null
               company_type: Non Profit
               industries: []
+            github_data:
+              languages:
+                - name: Go
+                  value: 3905038
+                  color: '#00ADD8'
+                - name: Kotlin
+                  value: 1468463
+                  color: '#F18E33'
+                - name: Shell
+                  value: 202964
+                  color: '#89e051'
+                - name: Python
+                  value: 74637
+                  color: '#3572A5'
+                - name: Smarty
+                  value: 52718
+                - name: Jinja
+                  value: 5334
+                - name: Makefile
+                  value: 4638
+                  color: '#427819'
+                - name: Groovy
+                  value: 3851
+                  color: '#e69f56'
+                - name: Mustache
+                  value: 3343
+                - name: Dockerfile
+                  value: 713
+                  color: '#384d54'
+              contributions: 53;51;143;73;63;96;133;36;45;21;26;12;27;16;2;3;1;1;1;22;10;5;16;14;9;4;13;6;25;11;4;4;1;1;4;5;0;9;1;0;0;3;5;0;2;0;0;0;0;3;0;7
+              firstWeek: 2021-02-07Z
+              stars: 26
+              license: Apache License 2.0
+              description: >-
+                BMC simulator source code that is used to compile REST server as a standalone image to mimic BMC HW interface behavour for testing. BMC
+                simulator exposes DMTF Redfish API compliant with OPAF profile.
+              latest_commit_date: '2022-01-14T13:42:02Z'
+              latest_commit_link: /ODIM-Project/BMCSimulator/commit/7e8a3030ca83c040678f8edf76def588b2b01cca
+              contributors_count: 24
+              contributors_link: https://github.com/ODIM-Project/BMCSimulator/graphs/contributors
+            repos:
+              - url: https://github.com/ODIM-Project/BMCSimulator
+                stars: 6
+              - url: https://github.com/ODIM-Project/ODIM
+                stars: 20
+              - url: https://github.com/ODIM-Project/PluginCiscoACI
+                stars: 0
+            github_start_commit_data:
+              start_commit_link: /ODIM-Project/ODIM/commit/6fa216919a3446a760f0795ff97f2964ddcb970b
+              start_date: '2020-06-29T16:48:57Z'
             image_data:
               fileName: odim.svg
               hash: jTjbcp7GPy771hfO5p0oWasUxo5e2uzA1pgFikfaDjQ=
@@ -229,6 +426,7 @@ landscape:
             logo: onap_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/onap
+            repo_url: https://github.com/onap/aaf-authz
             extra:
               description: |
                 A comprehensive platform for orchestration, management, and
@@ -249,6 +447,718 @@ landscape:
               stockExchange: null
               company_type: Non Profit
               industries: []
+            github_data:
+              languages:
+                - name: Java
+                  value: 170637348
+                  color: '#b07219'
+                - name: JavaScript
+                  value: 30739296
+                  color: '#f1e05a'
+                - name: Python
+                  value: 17588655
+                  color: '#3572A5'
+                - name: TypeScript
+                  value: 11163114
+                  color: '#2b7489'
+                - name: Shell
+                  value: 5746917
+                  color: '#89e051'
+                - name: Groovy
+                  value: 5746894
+                  color: '#e69f56'
+                - name: HTML
+                  value: 5628994
+                  color: '#e34c26'
+                - name: Kotlin
+                  value: 4279666
+                  color: '#F18E33'
+                - name: CSS
+                  value: 3399338
+                  color: '#563d7c'
+                - name: C
+                  value: 2909276
+                  color: '#555555'
+                - name: Go
+                  value: 2176528
+                  color: '#00ADD8'
+                - name: RobotFramework
+                  value: 1839939
+                - name: Less
+                  value: 945722
+                - name: SCSS
+                  value: 915797
+                - name: C++
+                  value: 444426
+                  color: '#f34b7d'
+                - name: Smarty
+                  value: 399487
+                - name: FreeMarker
+                  value: 340874
+                  color: '#0050b2'
+                - name: Dockerfile
+                  value: 326997
+                  color: '#384d54'
+                - name: Jinja
+                  value: 261232
+                - name: Makefile
+                  value: 260091
+                  color: '#427819'
+                - name: Erlang
+                  value: 181038
+                  color: '#B83998'
+                - name: Gherkin
+                  value: 175864
+                  color: '#5B2063'
+                - name: PLSQL
+                  value: 133772
+                  color: '#dad8d8'
+                - name: Clojure
+                  value: 129754
+                  color: '#db5855'
+                - name: Ruby
+                  value: 114320
+                  color: '#701516'
+                - name: Lua
+                  value: 79579
+                  color: '#000080'
+                - name: Mustache
+                  value: 73780
+                - name: Scala
+                  value: 73289
+                  color: '#c22d40'
+                - name: HCL
+                  value: 47464
+                - name: Batchfile
+                  value: 40015
+                  color: '#C1F12E'
+                - name: XSLT
+                  value: 11978
+                  color: '#EB8CEB'
+                - name: Handlebars
+                  value: 11514
+                - name: PLpgSQL
+                  value: 10382
+                - name: ANTLR
+                  value: 10256
+                  color: '#9DC3FF'
+                - name: Perl
+                  value: 6410
+                  color: '#0298c3'
+                - name: CMake
+                  value: 4687
+                - name: PowerShell
+                  value: 3532
+                  color: '#012456'
+                - name: D
+                  value: 2796
+                  color: '#ba595e'
+                - name: Roff
+                  value: 2381
+                  color: '#ecdebe'
+                - name: Awk
+                  value: 1842
+                - name: MATLAB
+                  value: 1840
+                  color: '#e16737'
+                - name: PHP
+                  value: 1236
+                  color: '#4F5D95'
+                - name: SaltStack
+                  value: 886
+                  color: '#646464'
+                - name: Fluent
+                  value: 457
+              contributions: >-
+                284;266;390;430;227;385;290;247;168;186;166;163;115;159;133;102;78;102;151;187;135;120;131;159;142;165;129;101;191;197;198;243;225;151;134;152;215;184;119;93;120;61;137;112;84;98;18;24;80;56;106;85
+              firstWeek: 2021-02-07Z
+              stars: 518
+              license: Other
+              description: Mirror of https://gerrit.onap.org/r/#/admin/projects/aaf/authz
+              latest_commit_date: '2021-04-27T18:20:44Z'
+              latest_commit_link: /onap/aaf-authz/commit/5836e4a53d87b1792486aa6b0b1ddb2e71d91bb9
+              contributors_count: 482
+              contributors_link: https://github.com/onap/aaf-authz/graphs/contributors
+            repos:
+              - url: https://github.com/onap/aaf-authz
+                stars: 1
+              - url: https://github.com/onap/oom
+                stars: 28
+              - url: https://github.com/onap/multicloud-k8s
+                stars: 27
+              - url: https://github.com/onap/so
+                stars: 15
+              - url: https://github.com/onap/ccsdk-cds
+                stars: 14
+              - url: https://github.com/onap/sdc
+                stars: 12
+              - url: https://github.com/onap/doc
+                stars: 10
+              - url: https://github.com/onap/integration
+                stars: 9
+              - url: https://github.com/onap/vid
+                stars: 6
+              - url: https://github.com/onap/ci-management
+                stars: 5
+              - url: https://github.com/onap/cli
+                stars: 5
+              - url: https://github.com/onap/logging-analytics
+                stars: 5
+              - url: https://github.com/onap/policy-apex-pdp
+                stars: 5
+              - url: https://github.com/onap/policy-drools-pdp
+                stars: 5
+              - url: https://github.com/onap/aai-aai-common
+                stars: 4
+              - url: https://github.com/onap/integration-csit
+                stars: 4
+              - url: https://github.com/onap/msb-apigateway
+                stars: 4
+              - url: https://github.com/onap/multicloud-openstack
+                stars: 4
+              - url: https://github.com/onap/optf-has
+                stars: 4
+              - url: https://github.com/onap/policy-drools-applications
+                stars: 4
+              - url: https://github.com/onap/policy-models
+                stars: 4
+              - url: https://github.com/onap/vfc-nfvo-lcm
+                stars: 4
+              - url: https://github.com/onap/vnfrqts-requirements
+                stars: 4
+              - url: https://github.com/onap/aai-graphadmin
+                stars: 3
+              - url: https://github.com/onap/aai-traversal
+                stars: 3
+              - url: https://github.com/onap/dcaegen2
+                stars: 3
+              - url: https://github.com/onap/dcaegen2-analytics-tca-gen2
+                stars: 3
+              - url: https://github.com/onap/dcaegen2-collectors-ves
+                stars: 3
+              - url: https://github.com/onap/dcaegen2-platform-blueprints
+                stars: 3
+              - url: https://github.com/onap/dcaegen2-utils
+                stars: 3
+              - url: https://github.com/onap/dmaap-datarouter
+                stars: 3
+              - url: https://github.com/onap/externalapi-nbi
+                stars: 3
+              - url: https://github.com/onap/optf-osdf
+                stars: 3
+              - url: https://github.com/onap/policy-distribution
+                stars: 3
+              - url: https://github.com/onap/policy-parent
+                stars: 3
+              - url: https://github.com/onap/portal
+                stars: 3
+              - url: https://github.com/onap/testsuite
+                stars: 3
+              - url: https://github.com/onap/vfc-nfvo-driver-vnfm-gvnfm
+                stars: 3
+              - url: https://github.com/onap/vfc-nfvo-driver-vnfm-svnfm
+                stars: 3
+              - url: https://github.com/onap/vnfsdk-pkgtools
+                stars: 3
+              - url: https://github.com/onap/aai-gizmo
+                stars: 2
+              - url: https://github.com/onap/ccsdk-apps
+                stars: 2
+              - url: https://github.com/onap/ccsdk-distribution
+                stars: 2
+              - url: https://github.com/onap/ccsdk-parent
+                stars: 2
+              - url: https://github.com/onap/clamp
+                stars: 2
+              - url: https://github.com/onap/cps
+                stars: 2
+              - url: https://github.com/onap/cps-cps-temporal
+                stars: 2
+              - url: https://github.com/onap/cps-ncmp-dmi-plugin
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-analytics-tca
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-collectors-datafile
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-collectors-restconf
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-platform-deployment-handler
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-platform-plugins
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-platform-policy-handler
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-services-prh
+                stars: 2
+              - url: https://github.com/onap/multicloud-framework
+                stars: 2
+              - url: https://github.com/onap/oom-registrator
+                stars: 2
+              - url: https://github.com/onap/oparent
+                stars: 2
+              - url: https://github.com/onap/policy-api
+                stars: 2
+              - url: https://github.com/onap/policy-common
+                stars: 2
+              - url: https://github.com/onap/policy-core
+                stars: 2
+              - url: https://github.com/onap/policy-docker
+                stars: 2
+              - url: https://github.com/onap/policy-gui
+                stars: 2
+              - url: https://github.com/onap/policy-oom
+                stars: 2
+              - url: https://github.com/onap/policy-pap
+                stars: 2
+              - url: https://github.com/onap/policy-pdp
+                stars: 2
+              - url: https://github.com/onap/policy-xacml-pdp
+                stars: 2
+              - url: https://github.com/onap/portal-sdk
+                stars: 2
+              - url: https://github.com/onap/sdc-sdc-workflow-designer
+                stars: 2
+              - url: https://github.com/onap/sdnc-apps
+                stars: 2
+              - url: https://github.com/onap/sdnc-features
+                stars: 2
+              - url: https://github.com/onap/sdnc-plugins
+                stars: 2
+              - url: https://github.com/onap/testsuite-python-testing-utils
+                stars: 2
+              - url: https://github.com/onap/usecase-ui
+                stars: 2
+              - url: https://github.com/onap/vfc-gvnfm-vnflcm
+                stars: 2
+              - url: https://github.com/onap/vnfsdk-refrepo
+                stars: 2
+              - url: https://github.com/onap/vnfsdk-validation
+                stars: 2
+              - url: https://github.com/onap/vvp-validation-scripts
+                stars: 2
+              - url: https://github.com/onap/aaf-cadi
+                stars: 1
+              - url: https://github.com/onap/aaf-certservice
+                stars: 1
+              - url: https://github.com/onap/aaf-oom
+                stars: 1
+              - url: https://github.com/onap/aai-babel
+                stars: 1
+              - url: https://github.com/onap/aai-cacher
+                stars: 1
+              - url: https://github.com/onap/aai-chameleon
+                stars: 1
+              - url: https://github.com/onap/aai-champ
+                stars: 1
+              - url: https://github.com/onap/aai-eis
+                stars: 1
+              - url: https://github.com/onap/aai-enricher
+                stars: 1
+              - url: https://github.com/onap/aai-event-client
+                stars: 1
+              - url: https://github.com/onap/aai-gallifrey
+                stars: 1
+              - url: https://github.com/onap/aai-gap
+                stars: 1
+              - url: https://github.com/onap/aai-graphgraph
+                stars: 1
+              - url: https://github.com/onap/aai-logging-service
+                stars: 1
+              - url: https://github.com/onap/aai-model-loader
+                stars: 1
+              - url: https://github.com/onap/aai-oom
+                stars: 1
+              - url: https://github.com/onap/aai-resources
+                stars: 1
+              - url: https://github.com/onap/aai-rest-client
+                stars: 1
+              - url: https://github.com/onap/aai-router-core
+                stars: 1
+              - url: https://github.com/onap/aai-schema-service
+                stars: 1
+              - url: https://github.com/onap/aai-sparky-be
+                stars: 1
+              - url: https://github.com/onap/aai-sparky-fe
+                stars: 1
+              - url: https://github.com/onap/aai-spike
+                stars: 1
+              - url: https://github.com/onap/aai-tabular-data-service
+                stars: 1
+              - url: https://github.com/onap/aai-test-config
+                stars: 1
+              - url: https://github.com/onap/aai-validation
+                stars: 1
+              - url: https://github.com/onap/appc
+                stars: 1
+              - url: https://github.com/onap/appc-oom
+                stars: 1
+              - url: https://github.com/onap/ccsdk-dashboard
+                stars: 1
+              - url: https://github.com/onap/ccsdk-features
+                stars: 1
+              - url: https://github.com/onap/ccsdk-oran
+                stars: 1
+              - url: https://github.com/onap/ccsdk-platform-blueprints
+                stars: 1
+              - url: https://github.com/onap/ccsdk-platform-nbapi
+                stars: 1
+              - url: https://github.com/onap/ccsdk-platform-plugins
+                stars: 1
+              - url: https://github.com/onap/ccsdk-sli
+                stars: 1
+              - url: https://github.com/onap/ccsdk-storage-esaas
+                stars: 1
+              - url: https://github.com/onap/ccsdk-storage-pgaas
+                stars: 1
+              - url: https://github.com/onap/ccsdk-utils
+                stars: 1
+              - url: https://github.com/onap/clamp-dashboard
+                stars: 1
+              - url: https://github.com/onap/clamp-oom
+                stars: 1
+              - url: https://github.com/onap/clamp-ui
+                stars: 1
+              - url: https://github.com/onap/cli-oom
+                stars: 1
+              - url: https://github.com/onap/cps-cps-tbdmt
+                stars: 1
+              - url: https://github.com/onap/dcae-apod-cdap
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-analytics-flink
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-analytics-pnda
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-collectors
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-collectors-hv-ves
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-collectors-snmptrap
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-deployments
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-oom
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform-cdapbroker
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform-cli
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform-configbinding
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform-inventory-api
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform-servicechange-handler
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform-ves-openapi-manager
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-services
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-services-heartbeat
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-services-mapper
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-services-pm-mapper
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-services-sdk
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-services-son-handler
+                stars: 1
+              - url: https://github.com/onap/dmaap-buscontroller
+                stars: 1
+              - url: https://github.com/onap/dmaap-kafka11aaf
+                stars: 1
+              - url: https://github.com/onap/dmaap-messagerouter-dmaapclient
+                stars: 1
+              - url: https://github.com/onap/dmaap-messagerouter-messageservice
+                stars: 1
+              - url: https://github.com/onap/dmaap-messagerouter-mirroragent
+                stars: 1
+              - url: https://github.com/onap/dmaap-messagerouter-msgrtr
+                stars: 1
+              - url: https://github.com/onap/dmaap-oom
+                stars: 1
+              - url: https://github.com/onap/dmaap-zookeeper
+                stars: 1
+              - url: https://github.com/onap/doc-tools
+                stars: 1
+              - url: https://github.com/onap/esr-oom
+                stars: 1
+              - url: https://github.com/onap/holmes-common
+                stars: 1
+              - url: https://github.com/onap/holmes-engine-management
+                stars: 1
+              - url: https://github.com/onap/holmes-rule-management
+                stars: 1
+              - url: https://github.com/onap/integration-benchmark
+                stars: 1
+              - url: https://github.com/onap/integration-devtool
+                stars: 1
+              - url: https://github.com/onap/integration-ieft-actn-tools
+                stars: 1
+              - url: https://github.com/onap/integration-ietf-actn-tools
+                stars: 1
+              - url: https://github.com/onap/integration-seccom
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-5G-core-nf-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-A1-policy-enforcement-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-core-nssmf-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-dc-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-masspnf-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-nf-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-nf-simulator-avcn-manager
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-nf-simulator-netconf-server
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-nf-simulator-pm-https-server
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-nf-simulator-ves-client
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-pnf-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-ran-nssmf-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-ran-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-terraform
+                stars: 1
+              - url: https://github.com/onap/integration-terragrunt
+                stars: 1
+              - url: https://github.com/onap/integration-usecases-A1-policy-enforcement
+                stars: 1
+              - url: https://github.com/onap/integration-usecases-A1-policy-enforcement-r-apps
+                stars: 1
+              - url: https://github.com/onap/integration-usecases-mdons
+                stars: 1
+              - url: https://github.com/onap/integration-xtesting
+                stars: 1
+              - url: https://github.com/onap/logging-analytics-pomba
+                stars: 1
+              - url: https://github.com/onap/logging-analytics-pomba-pomba-aai-context-builder
+                stars: 1
+              - url: https://github.com/onap/logging-analytics-pomba-pomba-audit-common
+                stars: 1
+              - url: https://github.com/onap/logging-analytics-pomba-pomba-context-aggregator
+                stars: 1
+              - url: https://github.com/onap/logging-analytics-pomba-pomba-network-discovery-context-builder
+                stars: 1
+              - url: https://github.com/onap/logging-analytics-pomba-pomba-sdc-context-builder
+                stars: 1
+              - url: https://github.com/onap/logging-analytics-pomba-pomba-sdnc-context-builder
+                stars: 1
+              - url: https://github.com/onap/modeling-etsicatalog
+                stars: 1
+              - url: https://github.com/onap/modeling-genericparser
+                stars: 1
+              - url: https://github.com/onap/modeling-modelspec
+                stars: 1
+              - url: https://github.com/onap/modeling-toscaparsers
+                stars: 1
+              - url: https://github.com/onap/msb-discovery
+                stars: 1
+              - url: https://github.com/onap/msb-java-sdk
+                stars: 1
+              - url: https://github.com/onap/msb-oom
+                stars: 1
+              - url: https://github.com/onap/msb-service-mesh
+                stars: 1
+              - url: https://github.com/onap/msb-swagger-sdk
+                stars: 1
+              - url: https://github.com/onap/multicloud-oom
+                stars: 1
+              - url: https://github.com/onap/multicloud-openstack-vmware
+                stars: 1
+              - url: https://github.com/onap/multicloud-openstack-windriver
+                stars: 1
+              - url: https://github.com/onap/music-distributed-kv-store
+                stars: 1
+              - url: https://github.com/onap/nbi-oom
+                stars: 1
+              - url: https://github.com/onap/oof-oom
+                stars: 1
+              - url: https://github.com/onap/oom-consul
+                stars: 1
+              - url: https://github.com/onap/oom-offline-installer
+                stars: 1
+              - url: https://github.com/onap/oom-platform-cert-manager
+                stars: 1
+              - url: https://github.com/onap/oom-platform-cert-service
+                stars: 1
+              - url: https://github.com/onap/oom-platform-keycloak
+                stars: 1
+              - url: https://github.com/onap/oom-readiness
+                stars: 1
+              - url: https://github.com/onap/oom-utils
+                stars: 1
+              - url: https://github.com/onap/oparent-cia
+                stars: 1
+              - url: https://github.com/onap/osa
+                stars: 1
+              - url: https://github.com/onap/pnda-oom
+                stars: 1
+              - url: https://github.com/onap/policy-clamp
+                stars: 1
+              - url: https://github.com/onap/pomba-oom
+                stars: 1
+              - url: https://github.com/onap/portal-oom
+                stars: 1
+              - url: https://github.com/onap/robot-oom
+                stars: 1
+              - url: https://github.com/onap/sandbox-2
+                stars: 1
+              - url: https://github.com/onap/sdc-jtosca
+                stars: 1
+              - url: https://github.com/onap/sdc-onap-ui-angular
+                stars: 1
+              - url: https://github.com/onap/sdc-onap-ui-common
+                stars: 1
+              - url: https://github.com/onap/sdc-sdc-be-common
+                stars: 1
+              - url: https://github.com/onap/sdc-sdc-distribution-client
+                stars: 1
+              - url: https://github.com/onap/sdc-sdc-docker-base
+                stars: 1
+              - url: https://github.com/onap/sdc-sdc-helm-validator
+                stars: 1
+              - url: https://github.com/onap/sdc-sdc-pubsub
+                stars: 1
+              - url: https://github.com/onap/sdc-sdc-titan-cassandra
+                stars: 1
+              - url: https://github.com/onap/sdc-sdc-tosca
+                stars: 1
+              - url: https://github.com/onap/sdnc-northbound
+                stars: 1
+              - url: https://github.com/onap/sdnc-oom
+                stars: 1
+              - url: https://github.com/onap/sniro-emulator-oom
+                stars: 1
+              - url: https://github.com/onap/so-adapters-so-cnf-adapter
+                stars: 1
+              - url: https://github.com/onap/so-adapters-so-etsi-sol003-adapter
+                stars: 1
+              - url: https://github.com/onap/so-adapters-so-etsi-sol005-adapter
+                stars: 1
+              - url: https://github.com/onap/so-adapters-so-nssmf-adapter
+                stars: 1
+              - url: https://github.com/onap/so-adapters-so-oof-adapter
+                stars: 1
+              - url: https://github.com/onap/so-chef-repo
+                stars: 1
+              - url: https://github.com/onap/so-docker-config
+                stars: 1
+              - url: https://github.com/onap/so-libs
+                stars: 1
+              - url: https://github.com/onap/so-oom
+                stars: 1
+              - url: https://github.com/onap/so-so-admin-cockpit
+                stars: 1
+              - url: https://github.com/onap/so-so-config
+                stars: 1
+              - url: https://github.com/onap/so-so-etsi-nfvo
+                stars: 1
+              - url: https://github.com/onap/test-oom
+                stars: 1
+              - url: https://github.com/onap/testsuite-cds
+                stars: 1
+              - url: https://github.com/onap/testsuite-cds-mock-odl
+                stars: 1
+              - url: https://github.com/onap/testsuite-cds-mock-server
+                stars: 1
+              - url: https://github.com/onap/testsuite-cds-mock-ssh
+                stars: 1
+              - url: https://github.com/onap/testsuite-heatbridge
+                stars: 1
+              - url: https://github.com/onap/testsuite-oom
+                stars: 1
+              - url: https://github.com/onap/testsuite-properties
+                stars: 1
+              - url: https://github.com/onap/testsuite-pythonsdk-tests
+                stars: 1
+              - url: https://github.com/onap/testsuite-robot-utils
+                stars: 1
+              - url: https://github.com/onap/ui
+                stars: 1
+              - url: https://github.com/onap/ui-dmaapbc
+                stars: 1
+              - url: https://github.com/onap/university
+                stars: 1
+              - url: https://github.com/onap/usecase-ui-nlp
+                stars: 1
+              - url: https://github.com/onap/usecase-ui-server
+                stars: 1
+              - url: https://github.com/onap/uui-oom
+                stars: 1
+              - url: https://github.com/onap/vfc-gvnfm-vnfmgr
+                stars: 1
+              - url: https://github.com/onap/vfc-gvnfm-vnfres
+                stars: 1
+              - url: https://github.com/onap/vfc-nfvo-db
+                stars: 1
+              - url: https://github.com/onap/vfc-oom
+                stars: 1
+              - url: https://github.com/onap/vid-oom
+                stars: 1
+              - url: https://github.com/onap/vnfrqts-epics
+                stars: 1
+              - url: https://github.com/onap/vnfrqts-guidelines
+                stars: 1
+              - url: https://github.com/onap/vnfrqts-testcases
+                stars: 1
+              - url: https://github.com/onap/vnfrqts-usecases
+                stars: 1
+              - url: https://github.com/onap/vnfsdk-compliance
+                stars: 1
+              - url: https://github.com/onap/vnfsdk-dovetail-integration
+                stars: 1
+              - url: https://github.com/onap/vnfsdk-functest
+                stars: 1
+              - url: https://github.com/onap/vnfsdk-lctest
+                stars: 1
+              - url: https://github.com/onap/vnfsdk-model
+                stars: 1
+              - url: https://github.com/onap/vnfsdk-oom
+                stars: 1
+              - url: https://github.com/onap/vnfsdk-ves-agent
+                stars: 1
+              - url: https://github.com/onap/vvp-ansible-ice-bootstrap
+                stars: 1
+              - url: https://github.com/onap/vvp-cms
+                stars: 1
+              - url: https://github.com/onap/vvp-devkit
+                stars: 1
+              - url: https://github.com/onap/vvp-documentation
+                stars: 1
+              - url: https://github.com/onap/vvp-engagementmgr
+                stars: 1
+              - url: https://github.com/onap/vvp-gitlab
+                stars: 1
+              - url: https://github.com/onap/vvp-image-scanner
+                stars: 1
+              - url: https://github.com/onap/vvp-jenkins
+                stars: 1
+              - url: https://github.com/onap/vvp-oom
+                stars: 1
+              - url: https://github.com/onap/vvp-portal
+                stars: 1
+              - url: https://github.com/onap/vvp-postgresql
+                stars: 1
+              - url: https://github.com/onap/vvp-regression-tests
+                stars: 1
+              - url: https://github.com/onap/vvp-test-engine
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-analytics
+                stars: 0
+              - url: https://github.com/onap/integration-data-provider
+                stars: 0
+            github_start_commit_data:
+              start_commit_link: /onap/msb-apigateway/commit/29c0018a50104f18b34277cc01720c0b3e401212
+              start_date: '2016-08-08T16:34:38Z'
             image_data:
               fileName: onap.svg
               hash: WNsu4QYlSKNG/Rf6KSwvyTm0cOpEvJUl4AB8B5/gQTY=
@@ -263,6 +1173,7 @@ landscape:
             logo: opendaylight_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/opendaylight
+            repo_url: https://github.com/opendaylight/aaa
             description: |
               Open source SDN Controller with largest ecosystem and deployment footprint.
             crunchbase_data:
@@ -286,6 +1197,316 @@ landscape:
                 - Computer
                 - Open Source
                 - Virtualization
+            github_data:
+              languages:
+                - name: Java
+                  value: 141149003
+                  color: '#b07219'
+                - name: C++
+                  value: 24587516
+                  color: '#f34b7d'
+                - name: Python
+                  value: 8934086
+                  color: '#3572A5'
+                - name: C
+                  value: 8244912
+                  color: '#555555'
+                - name: RobotFramework
+                  value: 5042892
+                - name: JavaScript
+                  value: 3968080
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 1390605
+                  color: '#e34c26'
+                - name: Shell
+                  value: 929314
+                  color: '#89e051'
+                - name: CSS
+                  value: 668963
+                  color: '#563d7c'
+                - name: Groovy
+                  value: 610310
+                  color: '#e69f56'
+                - name: C#
+                  value: 583603
+                  color: '#178600'
+                - name: Xtend
+                  value: 565318
+                - name: Makefile
+                  value: 339885
+                  color: '#427819'
+                - name: Perl
+                  value: 289472
+                  color: '#0298c3'
+                - name: M4
+                  value: 142099
+                - name: Ruby
+                  value: 126515
+                  color: '#701516'
+                - name: GAP
+                  value: 119834
+                - name: Go
+                  value: 97815
+                  color: '#00ADD8'
+                - name: Less
+                  value: 89627
+                - name: Puppet
+                  value: 42229
+                  color: '#302B6D'
+                - name: Objective-C
+                  value: 31632
+                  color: '#438eff'
+                - name: Dockerfile
+                  value: 17677
+                  color: '#384d54'
+                - name: ANTLR
+                  value: 16628
+                  color: '#9DC3FF'
+                - name: P4
+                  value: 15984
+                  color: '#7055b5'
+                - name: Lua
+                  value: 14393
+                  color: '#000080'
+                - name: Thrift
+                  value: 14043
+                - name: PowerShell
+                  value: 12004
+                  color: '#012456'
+                - name: XS
+                  value: 10617
+                - name: Batchfile
+                  value: 9001
+                  color: '#C1F12E'
+                - name: Awk
+                  value: 8947
+                - name: Assembly
+                  value: 4863
+                  color: '#6E4C13'
+                - name: Smarty
+                  value: 2723
+                - name: SQLPL
+                  value: 1336
+                - name: XSLT
+                  value: 698
+                  color: '#EB8CEB'
+              contributions: >-
+                97;101;105;63;20;26;22;50;64;65;84;65;16;55;74;53;28;34;36;51;91;94;49;45;67;8;50;47;56;65;38;55;71;106;70;77;76;94;75;78;99;50;69;47;32;63;15;5;32;48;37;27
+              firstWeek: 2021-02-07Z
+              stars: 1309
+              license: Unknown License
+              description: Mirror of the OpenDaylight aaa gerrit project
+              latest_commit_date: '2022-01-20T13:09:26Z'
+              latest_commit_link: /opendaylight/aaa/commit/20501f0461c37f958bfbd99d5aa295e263ac9378
+              contributors_count: 517
+              contributors_link: https://github.com/opendaylight/aaa/graphs/contributors
+            repos:
+              - url: https://github.com/opendaylight/aaa
+                stars: 26
+              - url: https://github.com/opendaylight/controller
+                stars: 377
+              - url: https://github.com/opendaylight/yangtools
+                stars: 87
+              - url: https://github.com/opendaylight/netconf
+                stars: 67
+              - url: https://github.com/opendaylight/openflowplugin
+                stars: 56
+              - url: https://github.com/opendaylight/docs
+                stars: 47
+              - url: https://github.com/opendaylight/ovsdb
+                stars: 47
+              - url: https://github.com/opendaylight/sfc
+                stars: 46
+              - url: https://github.com/opendaylight/bgpcep
+                stars: 36
+              - url: https://github.com/opendaylight/mdsal
+                stars: 27
+              - url: https://github.com/opendaylight/integration-test
+                stars: 26
+              - url: https://github.com/opendaylight/l2switch
+                stars: 25
+              - url: https://github.com/opendaylight/coretutorials
+                stars: 20
+              - url: https://github.com/opendaylight/odlparent
+                stars: 20
+              - url: https://github.com/opendaylight/archived-integration
+                stars: 19
+              - url: https://github.com/opendaylight/next
+                stars: 18
+              - url: https://github.com/opendaylight/neutron
+                stars: 16
+              - url: https://github.com/opendaylight/dlux
+                stars: 14
+              - url: https://github.com/opendaylight/genius
+                stars: 14
+              - url: https://github.com/opendaylight/netvirt
+                stars: 14
+              - url: https://github.com/opendaylight/opflex
+                stars: 14
+              - url: https://github.com/opendaylight/openflowjava
+                stars: 12
+              - url: https://github.com/opendaylight/usc
+                stars: 12
+              - url: https://github.com/opendaylight/nic
+                stars: 11
+              - url: https://github.com/opendaylight/tsdr
+                stars: 11
+              - url: https://github.com/opendaylight/groupbasedpolicy
+                stars: 10
+              - url: https://github.com/opendaylight/integration-packaging
+                stars: 10
+              - url: https://github.com/opendaylight/releng-builder
+                stars: 10
+              - url: https://github.com/opendaylight/vtn
+                stars: 10
+              - url: https://github.com/opendaylight/archived-defense4all
+                stars: 9
+              - url: https://github.com/opendaylight/vpnservice
+                stars: 9
+              - url: https://github.com/opendaylight/alto
+                stars: 8
+              - url: https://github.com/opendaylight/capwap
+                stars: 8
+              - url: https://github.com/opendaylight/releng-autorelease
+                stars: 8
+              - url: https://github.com/opendaylight/snmp4sdn
+                stars: 8
+              - url: https://github.com/opendaylight/coe
+                stars: 7
+              - url: https://github.com/opendaylight/integration-distribution
+                stars: 7
+              - url: https://github.com/opendaylight/iotdm
+                stars: 7
+              - url: https://github.com/opendaylight/sxp
+                stars: 7
+              - url: https://github.com/opendaylight/snmp
+                stars: 6
+              - url: https://github.com/opendaylight/transportpce
+                stars: 6
+              - url: https://github.com/opendaylight/infrautils
+                stars: 5
+              - url: https://github.com/opendaylight/integration-packaging-ansible-opendaylight
+                stars: 5
+              - url: https://github.com/opendaylight/lispflowmapping
+                stars: 5
+              - url: https://github.com/opendaylight/nemo
+                stars: 5
+              - url: https://github.com/opendaylight/alt-datastores
+                stars: 4
+              - url: https://github.com/opendaylight/archived-net-virt-platform
+                stars: 4
+              - url: https://github.com/opendaylight/archived-opendove
+                stars: 4
+              - url: https://github.com/opendaylight/archived-tcpmd5
+                stars: 4
+              - url: https://github.com/opendaylight/didm
+                stars: 4
+              - url: https://github.com/opendaylight/faas
+                stars: 4
+              - url: https://github.com/opendaylight/packetcable
+                stars: 4
+              - url: https://github.com/opendaylight/reservation
+                stars: 4
+              - url: https://github.com/opendaylight/archived-discovery
+                stars: 3
+              - url: https://github.com/opendaylight/archived-toolkit
+                stars: 3
+              - url: https://github.com/opendaylight/fpc
+                stars: 3
+              - url: https://github.com/opendaylight/lacp
+                stars: 3
+              - url: https://github.com/opendaylight/messaging4transport
+                stars: 3
+              - url: https://github.com/opendaylight/of-config
+                stars: 3
+              - url: https://github.com/opendaylight/sdninterfaceapp
+                stars: 3
+              - url: https://github.com/opendaylight/snbi
+                stars: 3
+              - url: https://github.com/opendaylight/topoprocessing
+                stars: 3
+              - url: https://github.com/opendaylight/unimgr
+                stars: 3
+              - url: https://github.com/opendaylight/archived-plugin2oc
+                stars: 2
+              - url: https://github.com/opendaylight/detnet
+                stars: 2
+              - url: https://github.com/opendaylight/dluxapps
+                stars: 2
+              - url: https://github.com/opendaylight/netide
+                stars: 2
+              - url: https://github.com/opendaylight/p4plugin
+                stars: 2
+              - url: https://github.com/opendaylight/persistence
+                stars: 2
+              - url: https://github.com/opendaylight/plastic
+                stars: 2
+              - url: https://github.com/opendaylight/serviceutils
+                stars: 2
+              - url: https://github.com/opendaylight/ttp
+                stars: 2
+              - url: https://github.com/opendaylight/archetypes
+                stars: 1
+              - url: https://github.com/opendaylight/archived-affinity
+                stars: 1
+              - url: https://github.com/opendaylight/archived-armoury
+                stars: 1
+              - url: https://github.com/opendaylight/atrium
+                stars: 1
+              - url: https://github.com/opendaylight/bier
+                stars: 1
+              - url: https://github.com/opendaylight/centinel
+                stars: 1
+              - url: https://github.com/opendaylight/daexim
+                stars: 1
+              - url: https://github.com/opendaylight/federation
+                stars: 1
+              - url: https://github.com/opendaylight/integration-packaging-puppet-opendaylight
+                stars: 1
+              - url: https://github.com/opendaylight/natapp
+                stars: 1
+              - url: https://github.com/opendaylight/odlsaf
+                stars: 1
+              - url: https://github.com/opendaylight/odltools
+                stars: 1
+              - url: https://github.com/opendaylight/spectrometer
+                stars: 1
+              - url: https://github.com/opendaylight/systemmetrics
+                stars: 1
+              - url: https://github.com/opendaylight/telemetry
+                stars: 1
+              - url: https://github.com/opendaylight/usecplugin
+                stars: 1
+              - url: https://github.com/opendaylight/yangide
+                stars: 1
+              - url: https://github.com/opendaylight/ansible
+                stars: 0
+              - url: https://github.com/opendaylight/cardinal
+                stars: 0
+              - url: https://github.com/opendaylight/eman
+                stars: 0
+              - url: https://github.com/opendaylight/gnt
+                stars: 0
+              - url: https://github.com/opendaylight/honeycomb-vbd
+                stars: 0
+              - url: https://github.com/opendaylight/jsonrpc
+                stars: 0
+              - url: https://github.com/opendaylight/ocpplugin
+                stars: 0
+              - url: https://github.com/opendaylight/odlguice
+                stars: 0
+              - url: https://github.com/opendaylight/odlmicro
+                stars: 0
+              - url: https://github.com/opendaylight/ofextensions-circuitsw
+                stars: 0
+              - url: https://github.com/opendaylight/ovil
+                stars: 0
+              - url: https://github.com/opendaylight/yang-push
+                stars: 0
+            github_start_commit_data:
+              start_commit_link: /opendaylight/controller/commit/7576b38152b393793b1c9ec3df0ff86685f95236
+              start_date: '2013-03-22T22:32:00Z'
             image_data:
               fileName: opendaylight.svg
               hash: iqY4b/vvQwUODgTRPZSQY6D8JSEm1vlaPJyYF+Ipeow=
@@ -300,6 +1521,7 @@ landscape:
             logo: pnda_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/pnda
+            repo_url: https://github.com/pndaproject/platform-salt
             description: |
               Scalable big data analytics platform for networks and services.
             crunchbase_data:
@@ -318,6 +1540,142 @@ landscape:
               stockExchange: null
               company_type: Non Profit
               industries: []
+            github_data:
+              languages:
+                - name: Java
+                  value: 7393072
+                  color: '#b07219'
+                - name: Python
+                  value: 1056047
+                  color: '#3572A5'
+                - name: Jupyter Notebook
+                  value: 604375
+                  color: '#DA5B0B'
+                - name: JavaScript
+                  value: 523349
+                  color: '#f1e05a'
+                - name: Smarty
+                  value: 483609
+                - name: PHP
+                  value: 449371
+                  color: '#4F5D95'
+                - name: CSS
+                  value: 317053
+                  color: '#563d7c'
+                - name: Shell
+                  value: 275023
+                  color: '#89e051'
+                - name: SaltStack
+                  value: 225987
+                  color: '#646464'
+                - name: HTML
+                  value: 111560
+                  color: '#e34c26'
+                - name: Go
+                  value: 71000
+                  color: '#00ADD8'
+                - name: HCL
+                  value: 54454
+                - name: Scala
+                  value: 43076
+                  color: '#c22d40'
+                - name: Dockerfile
+                  value: 18872
+                  color: '#384d54'
+                - name: Scheme
+                  value: 8737
+                  color: '#1e4aec'
+                - name: Makefile
+                  value: 6966
+                  color: '#427819'
+                - name: Ruby
+                  value: 6240
+                  color: '#701516'
+                - name: XSLT
+                  value: 2760
+                  color: '#EB8CEB'
+                - name: PLSQL
+                  value: 749
+                  color: '#dad8d8'
+                - name: Roff
+                  value: 202
+                  color: '#ecdebe'
+                - name: C++
+                  value: 40
+                  color: '#f34b7d'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2021-02-07Z
+              stars: 179
+              license: Other
+              description: Salt scripts that install PNDA components
+              latest_commit_date: '2019-05-14T08:24:26Z'
+              latest_commit_link: /pndaproject/platform-salt/commit/911b1be9c48336f789a1492bf3ad811000836111
+              release_date: '2017-12-07T09:41:49Z'
+              release_link: https://github.com/pndaproject/platform-salt/releases
+              contributors_count: 242
+              contributors_link: https://github.com/pndaproject/platform-salt/graphs/contributors
+            repos:
+              - url: https://github.com/pndaproject/platform-salt
+                stars: 9
+              - url: https://github.com/pndaproject/pnda
+                stars: 48
+              - url: https://github.com/pndaproject/pnda-guide
+                stars: 41
+              - url: https://github.com/pndaproject/red-pnda
+                stars: 24
+              - url: https://github.com/pndaproject/example-kafka-clients
+                stars: 9
+              - url: https://github.com/pndaproject/example-applications
+                stars: 8
+              - url: https://github.com/pndaproject/platform-console-frontend
+                stars: 6
+              - url: https://github.com/pndaproject/pnda-aws-templates
+                stars: 5
+              - url: https://github.com/pndaproject/pnda-helm-repo
+                stars: 4
+              - url: https://github.com/pndaproject/platform-data-mgmnt
+                stars: 3
+              - url: https://github.com/pndaproject/pnda-helm-chart
+                stars: 3
+              - url: https://github.com/pndaproject/pnda-cli
+                stars: 3
+              - url: https://github.com/pndaproject/platform-deployment-manager
+                stars: 2
+              - url: https://github.com/pndaproject/platform-gobblin-modules
+                stars: 2
+              - url: https://github.com/pndaproject/logstash-codec-pnda-avro
+                stars: 2
+              - url: https://github.com/pndaproject/pnda-heat-templates
+                stars: 2
+              - url: https://github.com/pndaproject/pnda-dib-elements
+                stars: 2
+              - url: https://github.com/pndaproject/platform-salt-cloud
+                stars: 2
+              - url: https://github.com/pndaproject/platform-package-repository
+                stars: 1
+              - url: https://github.com/pndaproject/gobblin
+                stars: 1
+              - url: https://github.com/pndaproject/magent
+                stars: 1
+              - url: https://github.com/pndaproject/odl-kafka-plugin
+                stars: 1
+              - url: https://github.com/pndaproject/platform-testing
+                stars: 0
+              - url: https://github.com/pndaproject/platform-console-backend
+                stars: 0
+              - url: https://github.com/pndaproject/hub
+                stars: 0
+              - url: https://github.com/pndaproject/platform-tools
+                stars: 0
+              - url: https://github.com/pndaproject/platform-libraries
+                stars: 0
+              - url: https://github.com/pndaproject/pnda-website
+                stars: 0
+              - url: https://github.com/pndaproject/pnda-quickstart
+                stars: 0
+            github_start_commit_data:
+              start_commit_link: /pndaproject/gobblin/commit/2425aa4efb9645516a5555a165fd5d26d515f1bd
+              start_date: '2014-02-04T23:07:00Z'
             image_data:
               fileName: pnda.svg
               hash: pOSEQcr3dihswIUBTYw9O9si70JN20CP0hz2Di7YQH8=
@@ -332,6 +1690,7 @@ landscape:
             logo: SNAS_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/snas
+            repo_url: https://github.com/SNAS/openbmp
             description: |
               Distributed, low-footprint collector leveraging high performing
               message bus for real-time BGP predictive analytics.
@@ -351,6 +1710,77 @@ landscape:
               stockExchange: null
               company_type: Non Profit
               industries: []
+            github_data:
+              languages:
+                - name: C++
+                  value: 738205
+                  color: '#f34b7d'
+                - name: JavaScript
+                  value: 634236
+                  color: '#f1e05a'
+                - name: Java
+                  value: 388419
+                  color: '#b07219'
+                - name: Python
+                  value: 299027
+                  color: '#3572A5'
+                - name: HTML
+                  value: 172461
+                  color: '#e34c26'
+                - name: Shell
+                  value: 127957
+                  color: '#89e051'
+                - name: CSS
+                  value: 111955
+                  color: '#563d7c'
+                - name: SQLPL
+                  value: 60504
+                - name: PLpgSQL
+                  value: 49816
+                - name: ApacheConf
+                  value: 24139
+                - name: CMake
+                  value: 14822
+                - name: Dockerfile
+                  value: 6722
+                  color: '#384d54'
+              contributions: 0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2021-02-07Z
+              stars: 275
+              license: Eclipse Public License 1.0
+              description: OpenBMP Server Collector
+              latest_commit_date: '2018-03-06T18:31:59Z'
+              latest_commit_link: /SNAS/openbmp/commit/1a615a3c75a0143cc87ec70458471f0af67d3929
+              release_date: '2018-03-06T20:31:17Z'
+              release_link: https://github.com/SNAS/openbmp/releases
+              contributors_count: 28
+              contributors_link: https://github.com/SNAS/openbmp/graphs/contributors
+            repos:
+              - url: https://github.com/SNAS/openbmp
+                stars: 213
+              - url: https://github.com/SNAS/docker
+                stars: 21
+              - url: https://github.com/SNAS/openbmp-mysql-consumer
+                stars: 10
+              - url: https://github.com/SNAS/obmp-grafana
+                stars: 8
+              - url: https://github.com/SNAS/openbmp-java-api-message
+                stars: 6
+              - url: https://github.com/SNAS/openbmp-python-api-message
+                stars: 6
+              - url: https://github.com/SNAS/openbmp-mrt2bmp
+                stars: 4
+              - url: https://github.com/SNAS/website
+                stars: 4
+              - url: https://github.com/SNAS/ui
+                stars: 2
+              - url: https://github.com/SNAS/obmp-postgres
+                stars: 1
+              - url: https://github.com/SNAS/openbmp-translator
+                stars: 0
+            github_start_commit_data:
+              start_commit_link: /SNAS/openbmp/commit/1bdce81a9a4bfc3fb045e453dfec5e4dc18914a5
+              start_date: '2014-06-25T00:41:40Z'
             image_data:
               fileName: snas.svg
               hash: NtU8AV1WrWDPY2J4MOCbDPVtPv4nCWoI/rZgwxojUJo=
@@ -365,6 +1795,7 @@ landscape:
             logo: tungstenfabric-stacked-color.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/tungsten-fabric
+            repo_url: https://github.com/tungstenfabric/ci-management
             description: |
               A software-defined network & security fabric built for rapid deployment at scale.
             crunchbase_data:
@@ -386,6 +1817,207 @@ landscape:
               company_type: For Profit
               industries:
                 - Information Technology
+            github_data:
+              languages:
+                - name: Python
+                  value: 35878584
+                  color: '#3572A5'
+                - name: C++
+                  value: 28142840
+                  color: '#f34b7d'
+                - name: JavaScript
+                  value: 17989644
+                  color: '#f1e05a'
+                - name: Java
+                  value: 8926147
+                  color: '#b07219'
+                - name: C
+                  value: 4910989
+                  color: '#555555'
+                - name: HTML
+                  value: 3648496
+                  color: '#e34c26'
+                - name: Tcl
+                  value: 2798632
+                  color: '#e4cc98'
+                - name: Shell
+                  value: 1397217
+                  color: '#89e051'
+                - name: Go
+                  value: 1234764
+                  color: '#00ADD8'
+                - name: SCSS
+                  value: 883757
+                - name: Jinja
+                  value: 717288
+                - name: Kotlin
+                  value: 495480
+                  color: '#F18E33'
+                - name: Groovy
+                  value: 317035
+                  color: '#e69f56'
+                - name: GDB
+                  value: 189025
+                - name: Lua
+                  value: 183628
+                  color: '#000080'
+                - name: XSLT
+                  value: 135317
+                  color: '#EB8CEB'
+                - name: CSS
+                  value: 131784
+                  color: '#563d7c'
+                - name: Smarty
+                  value: 84725
+                - name: Dockerfile
+                  value: 59415
+                  color: '#384d54'
+                - name: Makefile
+                  value: 53342
+                  color: '#427819'
+                - name: Yacc
+                  value: 40823
+                  color: '#4B6C4B'
+                - name: Puppet
+                  value: 34517
+                  color: '#302B6D'
+                - name: Perl
+                  value: 32982
+                  color: '#0298c3'
+                - name: FreeMarker
+                  value: 32247
+                  color: '#0050b2'
+                - name: Lex
+                  value: 15749
+                  color: '#DBCA00'
+                - name: Ruby
+                  value: 7784
+                  color: '#701516'
+                - name: LLVM
+                  value: 2937
+                  color: '#185619'
+                - name: SWIG
+                  value: 60
+              contributions: >-
+                84;113;136;142;154;86;87;58;36;48;43;49;74;64;88;82;81;77;66;72;87;52;45;64;46;37;55;21;24;28;46;35;27;12;17;43;36;37;41;68;75;74;46;32;43;34;24;18;33;28;12;7
+              firstWeek: 2021-02-07Z
+              stars: 169
+              license: Unknown License
+              description: null
+              latest_commit_date: '2022-01-12T21:00:38Z'
+              latest_commit_link: /tungstenfabric/ci-management/commit/db9b36fd59b2b3f1f37d5263319dacc889cff1ca
+              contributors_count: 175
+              contributors_link: https://github.com/tungstenfabric/ci-management/graphs/contributors
+            repos:
+              - url: https://github.com/tungstenfabric/ci-management
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-controller
+                stars: 36
+              - url: https://github.com/tungstenfabric/tf-vrouter
+                stars: 31
+              - url: https://github.com/tungstenfabric/opencontrails-docs
+                stars: 14
+              - url: https://github.com/tungstenfabric/tf-devstack
+                stars: 13
+              - url: https://github.com/tungstenfabric/website
+                stars: 12
+              - url: https://github.com/tungstenfabric/tf-ansible-deployer
+                stars: 10
+              - url: https://github.com/tungstenfabric/tf-dev-env
+                stars: 9
+              - url: https://github.com/tungstenfabric/tf-container-builder
+                stars: 4
+              - url: https://github.com/tungstenfabric/tf-api-client
+                stars: 3
+              - url: https://github.com/tungstenfabric/tf-operator
+                stars: 3
+              - url: https://github.com/tungstenfabric/tf-specs
+                stars: 3
+              - url: https://github.com/tungstenfabric/tf-test
+                stars: 3
+              - url: https://github.com/tungstenfabric/tf-vijava
+                stars: 3
+              - url: https://github.com/tungstenfabric/tf-analytics
+                stars: 2
+              - url: https://github.com/tungstenfabric/tf-common
+                stars: 2
+              - url: https://github.com/tungstenfabric/tf-dev-test
+                stars: 2
+              - url: https://github.com/tungstenfabric/tf-packages
+                stars: 2
+              - url: https://github.com/tungstenfabric/docs
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-charms
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-deployers-containers
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-heat-plugin
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-helm-deployer
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-java-api
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-jenkins
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-kolla-ansible
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-neutron-plugin
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-openlab-ci
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-openshift
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-third-party-cache
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-transitional-contrail-docs
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-tripleo-heat-templates
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-vnc
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-web-core
+                stars: 1
+              - url: https://github.com/tungstenfabric/tungsten-tempest
+                stars: 1
+              - url: https://github.com/tungstenfabric/docs-backup
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-build
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-deployment-test
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-dpdk
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-fabric-utils
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-nova-vif-driver
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-openshift-ansible
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-third-party
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-third-party-packages
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-tripleo-puppet
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-vcenter-fabric-manager
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-vcenter-manager
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-vcenter-plugin
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-vro-plugin
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-vrouter-java-api
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-web-controller
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-webui-third-party
+                stars: 0
+              - url: https://github.com/tungstenfabric/tungsten-test-runner
+                stars: 0
+            github_start_commit_data:
+              start_commit_link: /tungstenfabric/opencontrails-docs/commit/2280b25c2d79812781b7922af097aa37da9e049a
+              start_date: '2017-07-14T06:51:13Z'
             image_data:
               fileName: tungsten-fabric.svg
               hash: sjEc6/UG2/GNxq3ZhxLKK2I+xIUei8HO3g5RZtZCf+Y=
@@ -400,6 +2032,7 @@ landscape:
             logo: xGVela_Logo_FNL_color-horizontal.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/xgvela
+            repo_url: https://github.com/XGVela/XGVela
             description: |
               An open source cloud native PaaS for applications and
               telco network functions to enable new services.
@@ -419,6 +2052,61 @@ landscape:
               stockExchange: null
               company_type: Non Profit
               industries: []
+            github_data:
+              languages:
+                - name: Go
+                  value: 988427
+                  color: '#00ADD8'
+                - name: Java
+                  value: 983321
+                  color: '#b07219'
+                - name: Smarty
+                  value: 392765
+                - name: Shell
+                  value: 92623
+                  color: '#89e051'
+                - name: Dockerfile
+                  value: 5890
+                  color: '#384d54'
+                - name: C
+                  value: 3850
+                  color: '#555555'
+                - name: HTML
+                  value: 1082
+                  color: '#e34c26'
+              contributions: 1;0;0;0;0;0;0;0;0;0;9;9;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0
+              firstWeek: 2021-02-07Z
+              stars: 26
+              license: Unknown License
+              description: null
+              latest_commit_date: '2021-11-25T04:33:17Z'
+              latest_commit_link: /XGVela/XGVela/commit/5086f5db758f232d4dad9a1c31e571f30de29f6e
+              contributors_count: 10
+              contributors_link: https://github.com/XGVela/XGVela/graphs/contributors
+            repos:
+              - url: https://github.com/XGVela/XGVela
+                stars: 25
+              - url: https://github.com/XGVela/cmaas
+                stars: 1
+              - url: https://github.com/XGVela/cim
+                stars: 0
+              - url: https://github.com/XGVela/cnf-packaging
+                stars: 0
+              - url: https://github.com/XGVela/fmaas
+                stars: 0
+              - url: https://github.com/XGVela/service-init
+                stars: 0
+              - url: https://github.com/XGVela/tmaas
+                stars: 0
+              - url: https://github.com/XGVela/tmaas-gw
+                stars: 0
+              - url: https://github.com/XGVela/vesgw
+                stars: 0
+              - url: https://github.com/XGVela/xgvela-builder
+                stars: 0
+            github_start_commit_data:
+              start_commit_link: /XGVela/XGVela/commit/3b80c7e42895762024ebd00714cf3a138d178dba
+              start_date: '2020-01-17T02:33:13Z'
             image_data:
               fileName: xg-vela.svg
               hash: sDEGR2c4KNOC+Ddjqvu0Fxwu2jl11wIdZZ7HYccU8uk=
