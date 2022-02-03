@@ -98,6 +98,12 @@ landscape:
             twitter: https://twitter.com/tech_mahindra
             crunchbase: https://www.crunchbase.com/organization/tech-mahindra
           - item:
+            name: Verizon Corporate Services
+            homepage_url: https://verizon.com/
+            logo: verizon_corporate_services.svg
+            twitter: https://twitter.com/Verizon
+            crunchbase: https://www.crunchbase.com/organization/verizon
+          - item:
             name: Walmart Inc.
             homepage_url: https://walmart.com/
             logo: walmart_inc.svg
@@ -175,6 +181,12 @@ landscape:
             logo: arista_networks_inc.svg
             twitter: https://twitter.com/AristaNetworks
             crunchbase: https://www.crunchbase.com/organization/arista-networks
+          - item:
+            name: Arm Limited
+            homepage_url: https://arm.com/
+            logo: arm_limited.svg
+            twitter: https://twitter.com/Arm
+            crunchbase: https://www.crunchbase.com/organization/arm
           - item:
             name: Atos France
             homepage_url: https://atos.net/
@@ -355,6 +367,13 @@ landscape:
             twitter: https://twitter.com/SprintGreenNews
             crunchbase: https://www.crunchbase.com/organization/sprint-nextel
           - item:
+            name: Sterlite Technologies Limited
+            homepage_url: https://stl.tech/
+            logo: sterlite_technologies_limited.svg
+            twitter: https://twitter.com/STL_Tech
+            crunchbase: https://www.crunchbase.com/organization/sterlite-technologies-ltd-
+            stock_ticker:
+          - item:
             name: Swisscom
             homepage_url: https://swisscom.com/
             logo: swisscom.svg
@@ -394,6 +413,12 @@ landscape:
             logo: ulak_haberlesme_as.svg
             twitter: https://twitter.com/UlakHaberlesme
             crunchbase: https://www.crunchbase.com/organization/ulak-haberlesme-a-s
+          - item:
+            name: VMware, Inc.
+            homepage_url: https://vmware.com/
+            logo: vmware_inc.svg
+            twitter: https://twitter.com/VMware
+            crunchbase: https://www.crunchbase.com/organization/vmware
           - item:
             name: VoerEir AB
             homepage_url: https://voereir.com/
