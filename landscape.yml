@@ -637,56 +637,58 @@ landscape:
             name: DANOS
             homepage_url: https://www.danosproject.org/
             logo: danos-2-01.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/danos
+            hideProjectTag: true
           - item:
             name: DENT
             homepage_url: https://dent.dev/
             logo: dent-01.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/dent-cdd1
+            hideProjectTag: true
           - item:
             name: DPDK
             homepage_url: https://www.dpdk.org/
             logo: dpdk-01.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            organization:
+              name: DPDK
+            hideProjectTag: true
           - item:
             name: FRRouting Project
             homepage_url: https://frrouting.org/
             logo: frr-2-01.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/frrouting
+            hideProjectTag: true
           - item:
             name: Magma
             homepage_url: https://www.magmacore.org/
             logo: magma-01.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/magma-fund
+            hideProjectTag: true
           - item:
             name: Open 19
             homepage_url: https://www.open19.org/
             logo: open19-2-01.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/open19-foundation
+            hideProjectTag: true
           - item:
             name: Open vSwitch
             homepage_url: https://www.openvswitch.org/
             logo: openswitch-color.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/open-vswitch
+            hideProjectTag: true
           - item:
             name: US GOV OPS
             homepage_url: https://usgovops.org/
             logo: usgovops-color-1.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase: https://www.crunchbase.com/organization/us-gov-ops
+            hideProjectTag: true
           - item:
             name: Oran Software Community
             homepage_url: https://oran-osc.github.io/
             logo: oran-ocu.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            organization:
+              name: Oran Software Community
+            hideProjectTag: true
   - category:
     name: Linux Foundation Sister Communities
     subcategories:
@@ -697,26 +699,30 @@ landscape:
             name: Cloud Native
             homepage_url: https://www.cncf.io/
             logo: cncf-distribution.svg
-            twitter: https://twitter.com/LF_Networking
+            twitter: https://twitter.com/CloudNativeFdn
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            hideProjectTag: true
           - item:
-            name: Hyper Ledger
+            name: Hyperledger
             homepage_url: https://www.hyperledger.org/
             logo: hyperledger-color.svg
-            twitter: https://twitter.com/LF_Networking
+            twitter: https://twitter.com/Hyperledger
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            hideProjectTag: true
           - item:
-            name: LF AI  Data
+            name: LF AI Data
             homepage_url: https://lfaidata.foundation/
             logo: LFAI_DATA_horizontal-color.svg
-            twitter: https://twitter.com/LF_Networking
+            twitter: https://twitter.com/LFAIDataFdn
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            hideProjectTag: true
           - item:
             name: LF Edge
             homepage_url: https://www.lfedge.org/
-            logo: cncf-distribution.svg
-            twitter: https://twitter.com/LF_Networking
+            logo: lf-edge.svg
+            twitter: https://twitter.com/lf_edge
             crunchbase: https://www.crunchbase.com/organization/lf-edge
+            hideProjectTag: true
   - category:
     name: Standards Developing Organizations (SDOs)
     subcategories:
@@ -727,71 +733,81 @@ landscape:
             name: 3GPP
             homepage_url: https://www.3gpp.org/
             logo: 3gpp_logo.svg
-            twitter: https://twitter.com/LF_Networking
+            twitter: https://twitter.com/3GPPLive
             crunchbase: https://www.crunchbase.com/organization/3gpp
+            hideProjectTag: true
             hideLicense: true
           - item:
             name: ETSI
             homepage_url: https://www.etsi.org/
             logo: etsi-01.svg
-            twitter: https://twitter.com/LF_Networking
+            twitter: https://twitter.com/ETSI_STANDARDS
             crunchbase: https://www.crunchbase.com/organization/etsi
+            hideProjectTag: true
             hideLicense: true
           - item:
             name: GSMA
             homepage_url: https://www.gsma.com/
             logo: GSMA.svg
-            twitter: https://twitter.com/LF_Networking
+            twitter: https://twitter.com/gsma
             crunchbase: https://www.crunchbase.com/organization/gsma
+            hideProjectTag: true
             hideLicense: true
           - item:
             name: IEEE
             homepage_url: https://www.ieee.org/
             logo: IEEE_logo.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            twitter: https://twitter.com/ieeesa
+            crunchbase: https://www.crunchbase.com/organization/ieee-standards-association
+            hideProjectTag: true
             hideLicense: true
           - item:
             name: IETF
             homepage_url: https://www.ietf.org/
             logo: ietf-2-01.svg
-            twitter: https://twitter.com/LF_Networking
+            twitter: https://twitter.com/ietf
             crunchbase: https://www.crunchbase.com/organization/ietf
+            hideProjectTag: true
             hideLicense: true
           - item:
             name: ITU
             homepage_url: https://www.itu.int/en/Pages/default.aspx
             logo: ITU.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            organization:
+              name: ITU
+            hideProjectTag: true
             hideLicense: true
           - item:
             name: MEF
             homepage_url: https://www.mef.net/
             logo: MEF-2-01.svg
-            twitter: https://twitter.com/LF_Networking
+            twitter: https://twitter.com/mef_forum
             crunchbase: https://www.crunchbase.com/organization/mef
+            hideProjectTag: true
             hideLicense: true
           - item:
             name: NIST
             homepage_url: https://www.nist.gov/
             logo: nist-2-01.svg
-            twitter: https://twitter.com/LF_Networking
+            twitter: https://twitter.com/NIST
             crunchbase: https://www.crunchbase.com/organization/nist
+            hideProjectTag: true
             hideLicense: true
           - item:
             name: OIF
             homepage_url: https://www.oiforum.com/
             logo: OIF_logo.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            organization:
+              name: OIF
+            hideProjectTag: true
             hideLicense: true
           - item:
             name: TM Forum
             homepage_url: https://www.tmforum.org/
             logo: tmf-logo-2-01.svg
-            twitter: https://twitter.com/LF_Networking
+            twitter: https://twitter.com/tmforumorg
             crunchbase: https://www.crunchbase.com/organization/tmforum
+            hideProjectTag: true
             hideLicense: true
   - category:
     name: LFN Archived/Maintained Projects
