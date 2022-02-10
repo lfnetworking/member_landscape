@@ -2181,12 +2181,27 @@ landscape:
             name: DPDK
             homepage_url: https://www.dpdk.org/
             logo: dpdk-01.svg
-            organization:
-              name: DPDK
+            crunchbase: https://www.crunchbase.com/organization/dpdk
             hideProjectTag: true
             crunchbase_data:
               name: DPDK
+              description: A Linux Foundation Project, developed by hundreds of contributors, supported by strong leading members, and used in a growing ecosystem.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: http://dpdk.org/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/dpdkproject
+              linkedin: https://www.linkedin.com/company/dpdk-project/
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Communities
+                - Non Profit
+                - Software
             image_data:
               fileName: dpdk.svg
               hash: GZtpwCrYl8gJWAlqrwn4/OKDAC4tBwAE2UAOMKbNEQU=
@@ -2338,17 +2353,17 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Oran Software Community
+            name: O-RAN Software Community
             homepage_url: https://oran-osc.github.io/
             logo: oran-ocu.svg
             organization:
-              name: Oran Software Community
+              name: O-RAN Software Community
             hideProjectTag: true
             crunchbase_data:
-              name: Oran Software Community
+              name: O-RAN Software Community
               parents: []
             image_data:
-              fileName: oran-software-community.svg
+              fileName: o-ran-software-community.svg
               hash: BcL6XenwxqeXPM4O1GypcCIBmjPIEPI1WC3JgLXl5/Q=
             best_practice_data:
               badge: false
@@ -2675,13 +2690,28 @@ landscape:
             name: ITU
             homepage_url: https://www.itu.int/en/Pages/default.aspx
             logo: ITU.svg
-            organization:
-              name: ITU
+            crunchbase: https://www.crunchbase.com/organization/international-telecommunication-union
             hideProjectTag: true
             hideLicense: true
             crunchbase_data:
-              name: ITU
+              name: International Telecommunication Union
+              description: Committed to connecting the world
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: http://www.itu.int/en/
+              city: Geneva
+              region: Geneve
+              country: Switzerland
+              twitter: http://twitter.com/ITU
+              linkedin: https://www.linkedin.com/company-beta/439511/
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Communications Infrastructure
+                - Information and Communications Technology (ICT)
+                - Politics
             image_data:
               fileName: itu.svg
               hash: bPxmKOc4WLfCZPnQ2Z+aQhQ98Dmf43FUqdzHgKQNF4Q=
@@ -2758,19 +2788,38 @@ landscape:
             name: OIF
             homepage_url: https://www.oiforum.com/
             logo: OIF_logo.svg
-            organization:
-              name: OIF
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
             hideProjectTag: true
             hideLicense: true
             crunchbase_data:
-              name: OIF
-              parents: []
+              name: LF Networking
+              description: LFN software and projects provide platforms and building blocks for Network Infrastructure and Services
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
             image_data:
               fileName: oif.svg
               hash: XkAcCwg96KghHlziPIAgS3fpzvH1pqMWvEIlljwuRG4=
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-09-16T17:30:00.000Z
           - item:
             name: TM Forum
             homepage_url: https://www.tmforum.org/

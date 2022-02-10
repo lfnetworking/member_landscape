@@ -649,8 +649,7 @@ landscape:
             name: DPDK
             homepage_url: https://www.dpdk.org/
             logo: dpdk-01.svg
-            organization:
-              name: DPDK
+            crunchbase: https://www.crunchbase.com/organization/dpdk
             hideProjectTag: true
           - item:
             name: FRRouting Project
@@ -683,11 +682,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/us-gov-ops
             hideProjectTag: true
           - item:
-            name: Oran Software Community
+            name: O-RAN Software Community
             homepage_url: https://oran-osc.github.io/
             logo: oran-ocu.svg
             organization:
-              name: Oran Software Community
+              name: O-RAN Software Community
             hideProjectTag: true
   - category:
     name: Linux Foundation Sister Communities
@@ -773,8 +772,7 @@ landscape:
             name: ITU
             homepage_url: https://www.itu.int/en/Pages/default.aspx
             logo: ITU.svg
-            organization:
-              name: ITU
+            crunchbase: https://www.crunchbase.com/organization/international-telecommunication-union
             hideProjectTag: true
             hideLicense: true
           - item:
@@ -797,8 +795,7 @@ landscape:
             name: OIF
             homepage_url: https://www.oiforum.com/
             logo: OIF_logo.svg
-            organization:
-              name: OIF
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
             hideProjectTag: true
             hideLicense: true
           - item:
