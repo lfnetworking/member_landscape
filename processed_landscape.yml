@@ -13,10 +13,9 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/anuket
             repo_url: https://github.com/opnfv/vineperf
-            extra:
-              description: |
-                A common model, standardized reference infrastructure specifications,
-                and conformance and performance frameworks for VNFs & CNFs.
+            description: |
+              A common model, standardized reference infrastructure
+              specifications, and conformance and performance frameworks for VNFs & CNFs.
             crunchbase_data:
               name: Anuket
               description: Anuket delivers a common model, standardized reference infrastructure specifications for virtualized and cloud native network functions.
@@ -160,9 +159,8 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/fd-io
             repo_url: https://github.com/FDio/archived-deb_dpdk
-            extra:
-              description: |
-                Open Source high-performance IO services framework for dynamic computing environments.
+            description: |
+              Open Source high-performance IO services framework for dynamic computing environments.
             crunchbase_data:
               name: FD.io
               description: A collection of several projects and libraries to amplify the transformation that began with Data Plane Development Kit.
@@ -343,9 +341,9 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/odim-cb86
             repo_url: https://github.com/ODIM-Project/BMCSimulator
-            extra:
-              description: |
-                Open Distributed Infrastructure Manager. Multi-site, multi-vendor physical infrastructure lifecycle management.
+            description: |
+              Open Distributed Infrastructure Manager. Multi-site, multi-vendor physical
+              infrastructure lifecycle management.
             crunchbase_data:
               name: Open Distributed Infrastructure Management
               description: Open Distributed Infrastructure Manager. Multi-site, multi-vendor physical infrastructure lifecycle management.
@@ -427,10 +425,9 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/onap
             repo_url: https://github.com/onap/aaf-authz
-            extra:
-              description: |
-                A comprehensive platform for orchestration, management, and
-                automation of network and edge computing services.
+            description: |
+              A comprehensive platform for orchestration, management, and automation
+              of network and edge computing services.
             crunchbase_data:
               name: ONAP
               description: Design, creation, orchestration, monitoring, and life cycle management of open source and commercial VNFs and legacy networks.
@@ -2902,104 +2899,6 @@ landscape:
         name: Platinum
         items:
           - item:
-            name: Amdocs Limited
-            homepage_url: https://amdocs.com/
-            logo: amdocs_limited.svg
-            twitter: https://twitter.com/Amdocs
-            crunchbase: https://www.crunchbase.com/organization/amdocs
-            crunchbase_data:
-              name: Amdocs
-              description: Amdocs is a developer and provider of customer experience systems for communications, media, and entertainment industries.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.amdocs.com
-              city: Chesterfield
-              region: Missouri
-              country: United States
-              twitter: http://twitter.com/amdocs
-              linkedin: https://www.linkedin.com/company/amdocs
-              acquisitions:
-                - date: '2000-03-01'
-                  acquiree: Solect Technology Group
-                  price: 1150000000
-                - date: '2003-12-22'
-                  acquiree: XACCT Technologies
-                  price: 30000000
-                - date: '2005-07-05'
-                  acquiree: DST Innovis
-                  price: 238000000
-                - date: '2006-04-18'
-                  acquiree: Qpass
-                  price: 275000000
-                - date: '2006-07-18'
-                  acquiree: Cramer Systems
-                  price: 375000000
-                - date: '2008-04-08'
-                  acquiree: Jacobs Rimell Ltd.
-                  price: 45000000
-                - date: '2008-12-31'
-                  acquiree: Changingworlds
-                  price: 60000000
-                - date: '2009-10-27'
-                  acquiree: jNetX
-                - date: '2010-03-23'
-                  acquiree: MX Telecom
-                  price: 104000000
-                - date: '2010-04-23'
-                  acquiree: Streamezzo
-                - date: '2011-06-17'
-                  acquiree: Bridgewater Systems
-                  price: 211000000
-                - date: '2013-06-11'
-                  acquiree: Celcite
-                  price: 129000000
-                - date: '2013-09-03'
-                  acquiree: Actix
-                - date: '2016-01-15'
-                  acquiree: cVidya
-                  price: 30000000
-                - date: '2016-09-14'
-                  acquiree: Brite:Bill
-                - date: '2016-09-14'
-                  acquiree: Pontis
-                - date: '2016-09-14'
-                  acquiree: Vindicia
-                - date: '2018-01-30'
-                  acquiree: Vubiquity
-                  price: 224000000
-                - date: '2019-08-07'
-                  acquiree: Telecom Technology Services
-                  price: 50000000
-                - date: '2020-07-23'
-                  acquiree: Openet
-                  price: 180000000
-                - date: '2021-05-12'
-                  acquiree: Sourced Group
-                  price: 75000000
-              parents: []
-              ticker: DOX
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - Big Data
-                - CRM
-                - Customer Service
-                - Outsourcing
-                - Software
-                - Telecommunications
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 10177853440
-              effective_ticker: DOX
-            image_data:
-              fileName: amdocs-limited.svg
-              hash: NtI1GFLrmMrLHCLtYD2A1gre5b2jLPpZmrSXN5iHfBU=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T09:52:49.000Z
-          - item:
             name: AT&T Services, Inc.
             homepage_url: https://att.com/
             logo: att_services_inc.svg
@@ -3158,9 +3057,9 @@ landscape:
             name: China Telecommunications Corporation
             homepage_url: https://chinatelecom.cn/
             logo: china_telecommunications_corporation.svg
+            twitter: https://twitter.com/chinateleglobal
             crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
             stock_ticker: null
-            twitter: https://twitter.com/chinateleglobal
             crunchbase_data:
               name: China Telecom
               description: China Telecom as China's major basic telecom operators, is implementing the transformation and upgrading strategy.
@@ -3891,7 +3790,7 @@ landscape:
               effective_ticker: DTE.DE
             image_data:
               fileName: deutsche-telekom-ag.svg
-              hash: CyTFTsRY3JXH+pO5t+Jgy42e6md5p8AnDT8l+U9Qclc=
+              hash: qzk4W75sZDObIxEkbIlP/vD0m04QRNrQLePtvEJZXR0=
             best_practice_data:
               badge: false
               percentage: null
@@ -5755,6 +5654,123 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-06-17T15:20:24.000Z
           - item:
+            name: Rakuten Group, Inc.
+            homepage_url: https://global.rakuten.com/
+            logo: rakuten_group_inc.svg
+            twitter: https://twitter.com/Rakuten
+            crunchbase: https://www.crunchbase.com/organization/rakuten
+            crunchbase_data:
+              name: Rakuten
+              description: Rakuten is a provider of e-commerce, fintech, digital content, and communications products and services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://global.rakuten.com
+              city: Tokyo
+              region: Tokyo
+              country: Japan
+              twitter: http://twitter.com/RakutenGlobal
+              linkedin: https://www.linkedin.com/company/rakuten
+              acquisitions:
+                - date: '2005-02-01'
+                  acquiree: LinkShare Corporation
+                - date: '2005-09-05'
+                  acquiree: Rakuten Affiliate Network
+                  price: 425000000
+                - date: '2010-03-18'
+                  acquiree: eBank
+                - date: '2010-05-20'
+                  acquiree: Buy.com
+                - date: '2010-06-17'
+                  acquiree: Rakuten France
+                  price: 247476360
+                - date: '2011-06-07'
+                  acquiree: Ikeda
+                - date: '2011-07-01'
+                  acquiree: Tradoria
+                - date: '2011-09-21'
+                  acquiree: Play.com
+                - date: '2011-11-08'
+                  acquiree: Kobo
+                - date: '2012-06-13'
+                  acquiree: wuaki.tv
+                - date: '2012-11-06'
+                  acquiree: Alpha Direct Services
+                - date: '2013-03-27'
+                  acquiree: Rakuten Life Insurance Co., Ltd.
+                - date: '2013-06-05'
+                  acquiree: Webgistix
+                - date: '2013-09-01'
+                  acquiree: Viki
+                - date: '2013-10-15'
+                  acquiree: Spotlight
+                - date: '2014-02-03'
+                  acquiree: VI-VI-VI.COM Co.,Ltd.
+                - date: '2014-02-14'
+                  acquiree: Viber
+                  price: 900000000
+                - date: '2014-05-29'
+                  acquiree: DC Storm Limited
+                - date: '2014-07-17'
+                  acquiree: AIP Corporation
+                - date: '2014-08-11'
+                  acquiree: Slice Technologies
+                - date: '2014-09-08'
+                  acquiree: Rakuten Rewards
+                  price: 1000000000
+                - date: '2014-11-13'
+                  acquiree: Lubic Co., Ltd.
+                - date: '2014-12-08'
+                  acquiree: Crimson Football Club, Inc.
+                - date: '2015-03-19'
+                  acquiree: Overdrive
+                  price: 410000000
+                - date: '2015-07-01'
+                  acquiree: Voyagin
+                - date: '2015-07-13'
+                  acquiree: Rakuten Fits Me
+                - date: '2015-09-16'
+                  acquiree: World Travel System
+                - date: '2015-12-28'
+                  acquiree: Hunglead
+                - date: '2016-09-05'
+                  acquiree: Fablic
+                - date: '2016-10-28'
+                  acquiree: Soukai Drug
+                - date: '2018-01-29'
+                  acquiree: Asahi Fire & Marine Insurance Co.
+                - date: '2018-06-08'
+                  acquiree: Rakuten Ready
+                - date: '2018-07-05'
+                  acquiree: LOB Inc.
+                - date: '2020-05-13'
+                  acquiree: InnoEye Technologies
+                - date: '2020-12-03'
+                  acquiree: 'Fillr: Autofill as a Service'
+                - date: '2021-08-04'
+                  acquiree: Altiostar Networks
+                  price: 1000000000
+              parents: []
+              ticker: 4755.T
+              funding: 2262583516
+              stockExchange: tyo
+              company_type: For Profit
+              industries:
+                - E-Commerce
+                - Electronics
+                - FinTech
+                - Internet
+                - Payments
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 12871026184
+              effective_ticker: 4755.T
+            image_data:
+              fileName: rakuten-group-inc.svg
+              hash: rfX7HZCBG/6NarGj/LumlmyUIVVIv6ghfS7ZZE5dxik=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Red Hat, Inc.
             homepage_url: https://redhat.com/
             logo: red_hat_inc.svg
@@ -5849,128 +5865,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-17T15:30:13.000Z
-          - item:
-            name: Samsung Electronics Co. Ltd.
-            homepage_url: https://samsung.com/
-            logo: samsung_electronics_co_ltd.svg
-            twitter: https://twitter.com/Samsung
-            crunchbase: https://www.crunchbase.com/organization/samsung-electronics
-            crunchbase_data:
-              name: Samsung Electronics
-              description: Samsung Electronics is a South Korean multinational electronics company
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.samsung.com/us
-              city: Seoul
-              region: Seoul-t'ukpyolsi
-              country: South Korea
-              twitter: https://twitter.com/samsung
-              linkedin: https://www.linkedin.com/company/samsung-electronics/
-              acquisitions:
-                - date: '2007-08-09'
-                  acquiree: Genoa Color Technologies
-                - date: '2008-03-01'
-                  acquiree: Clairvoyante, Inc.
-                - date: '2011-01-19'
-                  acquiree: Liquavista
-                - date: '2011-08-01'
-                  acquiree: Grandis
-                - date: '2011-11-15'
-                  acquiree: Nexus Dx
-                - date: '2011-12-01'
-                  acquiree: ZigZag Software
-                - date: '2012-05-09'
-                  acquiree: mSpot
-                - date: '2012-06-01'
-                  acquiree: Nanoradio
-                - date: '2012-12-15'
-                  acquiree: NVELO
-                - date: '2013-01-29'
-                  acquiree: NeuroLogica
-                - date: '2013-05-06'
-                  acquiree: MOVL
-                - date: '2013-07-03'
-                  acquiree: Boxee
-                  price: 30000000
-                - date: '2013-08-09'
-                  acquiree: Novaled
-                  price: 347000000
-                - date: '2014-06-05'
-                  acquiree: Shelby.tv
-                - date: '2014-07-14'
-                  acquiree: SmartThings
-                  price: 200000000
-                - date: '2014-09-02'
-                  acquiree: PrinterOn
-                - date: '2014-11-02'
-                  acquiree: Proximal Data
-                - date: '2015-01-30'
-                  acquiree: Simpress
-                - date: '2015-02-18'
-                  acquiree: LoopPay
-                - date: '2015-03-17'
-                  acquiree: YESCO Electronics
-                - date: '2016-06-16'
-                  acquiree: AdGear
-                - date: '2016-06-16'
-                  acquiree: Joyent
-                - date: '2016-08-10'
-                  acquiree: DACOR
-                - date: '2016-10-05'
-                  acquiree: Viv
-                - date: '2016-10-27'
-                  acquiree: Tachyon
-                - date: '2016-11-14'
-                  acquiree: Harman International Industries
-                  price: 8000000000
-                - date: '2016-11-15'
-                  acquiree: NewNet Communication Technologies
-                - date: '2016-11-23'
-                  acquiree: QD Vision
-                - date: '2017-02-03'
-                  acquiree: Perch
-                - date: '2017-02-15'
-                  acquiree: melaud
-                - date: '2017-06-16'
-                  acquiree: VRB
-                  price: 5500000
-                - date: '2017-07-10'
-                  acquiree: innoetics
-                - date: '2017-11-28'
-                  acquiree: Fluenty
-                - date: '2018-03-06'
-                  acquiree: Kngine
-                  price: 275000
-                - date: '2018-10-17'
-                  acquiree: Zhilabs
-                - date: '2019-01-28'
-                  acquiree: Corephotonics
-                  price: 155000000
-                - date: '2020-01-13'
-                  acquiree: TeleWorld Solutions
-              parents: []
-              ticker: 005930.KS
-              stockExchange: krx
-              company_type: For Profit
-              industries:
-                - Electronics
-                - Hardware
-                - Manufacturing
-                - Mobile
-                - Mobile Devices
-                - Software
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 480132884914
-              effective_ticker: 005930.KS
-            image_data:
-              fileName: samsung-electronics-co-ltd.svg
-              hash: IlROeAMJeDKc8ah7+hJRCl8eJjngrpsz8TIHp0qCuF0=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T00:05:00.000Z
           - item:
             name: Tech Mahindra Limited
             homepage_url: https://techmahindra.com/
@@ -6220,470 +6114,61 @@ landscape:
         name: Gold
         items:
           - item:
-            name: Accenture Global Solutions Limited
-            homepage_url: https://accenture.com/
-            logo: accenture_global_solutions_limited.svg
-            twitter: https://twitter.com/Accenture
-            crunchbase: https://www.crunchbase.com/organization/organization/accenture
+            name: Advanced Micro Devices (AMD)
+            homepage_url: https://amd.com/
+            logo: advanced_micro_devices_amd.svg
+            twitter: https://twitter.com/AMD
+            crunchbase: https://www.crunchbase.com/organization/amd
             crunchbase_data:
-              name: Accenture
-              description: Accenture is a professional services company, providing services and solutions in strategy, consulting, digital, technology and operations.
+              name: AMD
+              description: Advanced Micro Devices (AMD) is a semiconductor company that designs and develops graphics units, processors, and media solutions.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.accenture.com
-              city: Dublin
-              region: Dublin
-              country: Ireland
-              twitter: http://twitter.com/accenture
-              linkedin: https://www.linkedin.com/company/accenture
+              homepage: http://www.amd.com
+              city: Santa Clara
+              region: California
+              country: United States
+              twitter: https://twitter.com/amd
+              linkedin: https://www.linkedin.com/company/amd
               acquisitions:
-                - date: '2001-08-20'
-                  acquiree: Epylon
-                - date: '2003-02-06'
-                  acquiree: Systor AG
-                - date: '2005-04-20'
-                  acquiree: Capgemini - North American health practice
-                  price: 175000000
-                - date: '2005-11-03'
-                  acquiree: Media Audits Ltd.
-                - date: '2006-04-07'
-                  acquiree: Pecaso Ltd.
-                - date: '2006-05-15'
-                  acquiree: Hagberg Consulting Group
-                - date: '2006-06-22'
-                  acquiree: Random Walk Computing
-                - date: '2006-07-11'
-                  acquiree: Advantium, Inc.
-                - date: '2006-07-11'
-                  acquiree: Meridian Informed Purchasing Ltd.
-                - date: '2006-08-17'
-                  acquiree: NaviSys, Inc.
-                - date: '2007-03-12'
-                  acquiree: Digiplug S.A.S.
-                - date: '2007-05-14'
-                  acquiree: Mediasenz Pty Ltd.
-                - date: '2007-07-19'
-                  acquiree: George Group Consulting, L.P.
-                - date: '2007-10-02'
-                  acquiree: H.B. Maynard and Co., Inc.
-                - date: '2007-10-04'
-                  acquiree: Corliant
-                - date: '2007-10-25'
-                  acquiree: Gestalt
-                - date: '2007-11-15'
-                  acquiree: MAXIM Systems, Inc.
-                - date: '2008-01-23'
-                  acquiree: Maxamine International
-                - date: '2008-04-03'
-                  acquiree: SOPIA Corp.
-                - date: '2008-05-07'
-                  acquiree: AddVal Technology
-                - date: '2008-05-13'
-                  acquiree: Origin Digital
-                - date: '2008-05-19'
-                  acquiree: ATAN
-                - date: '2010-02-12'
-                  acquiree: RiskControl
-                - date: '2010-05-18'
-                  acquiree: CadenceQuest, Inc.
-                - date: '2010-07-13'
-                  acquiree: Acceria
-                - date: '2010-10-06'
-                  acquiree: Ariba - BPO
-                - date: '2010-11-02'
-                  acquiree: Knowledge Rules, Inc.
-                - date: '2010-11-09'
-                  acquiree: Beijing Genesis Interactive Technology Co. Ltd.
-                - date: '2010-11-19'
-                  acquiree: CAS
-                - date: '2011-07-14'
-                  acquiree: Duck Creek Technologies
-                - date: '2011-08-22'
-                  acquiree: Zenta
-                - date: '2012-01-24'
-                  acquiree: Neo Metrics Analytics S.L.
-                - date: '2012-08-02'
-                  acquiree: Octagon Research Solutions Inc.
-                - date: '2012-08-30'
-                  acquiree: NewsPage
-                - date: '2012-10-09'
-                  acquiree: avVenta
-                - date: '2013-04-03'
-                  acquiree: ChangeTrack Research Pty Ltd.
-                - date: '2013-05-07'
-                  acquiree: Fjord
-                - date: '2013-05-19'
-                  acquiree: Acquity Group
-                - date: '2013-07-15'
-                  acquiree: Mortgage Cadence, an Accenture Company
-                - date: '2013-07-31'
-                  acquiree: ASM Research, Inc.
-                - date: '2013-08-12'
-                  acquiree: PRION GmbH
-                - date: '2013-09-16'
-                  acquiree: Vivere Brasil Soluções De Crédito Ltda.
-                - date: '2013-10-03'
-                  acquiree: Procurian Inc.
-                  price: 375000000
-                - date: '2013-10-31'
-                  acquiree: PCO Innovation
-                - date: '2013-11-28'
-                  acquiree: evopro Group
-                - date: '2014-01-20'
-                  acquiree: ClientHouse GmbH
-                - date: '2014-05-15'
-                  acquiree: Enkitec
-                - date: '2014-05-15'
-                  acquiree: i4C Analytics
-                - date: '2014-06-09'
-                  acquiree: PureApps Ltd.
-                - date: '2014-08-05'
-                  acquiree: Hytracc consulting AS
-                - date: '2014-12-02'
-                  acquiree: Reactive Media Pty Ltd.
-                - date: '2015-01-06'
-                  acquiree: Structure Consulting Group LLC
-                - date: '2015-02-09'
-                  acquiree: Agilex Technologies, Inc.
-                - date: '2015-02-25'
-                  acquiree: Gapso Serviços de Informática Ltda.
-                - date: '2015-04-03'
-                  acquiree: Axia Ltd.
-                - date: '2015-05-06'
-                  acquiree: Tquila
-                - date: '2015-05-18'
-                  acquiree: Javelin Group
-                - date: '2015-06-23'
-                  acquiree: Brightstep AB
-                - date: '2015-07-08'
-                  acquiree: PacificLink Group
-                - date: '2015-07-20'
-                  acquiree: Solium
-                - date: '2015-07-21'
-                  acquiree: EnergyQuote JHA
-                - date: '2015-07-22'
-                  acquiree: Chaotic Moon Studios
-                - date: '2015-08-01'
-                  acquiree: AD.Dialeto Agencia de Publicidade
-                - date: '2015-08-04'
-                  acquiree: FusionX
-                - date: '2015-08-17'
-                  acquiree: Schlumberger Business Consulting
-                - date: '2015-08-18'
-                  acquiree: Total Logistics
-                - date: '2015-09-08'
-                  acquiree: S3 TV Technology Ltd.
-                - date: '2015-09-15'
-                  acquiree: Cloud Sherpas
-                - date: '2015-09-23'
-                  acquiree: Sagacious Consultants
-                - date: '2015-12-09'
-                  acquiree: Cimation
-                - date: '2015-12-10'
-                  acquiree: Boomerang Pharmaceutical Communications
-                - date: '2015-12-15'
-                  acquiree: Beacon Consulting Group
-                - date: '2016-01-04'
-                  acquiree: CRMWaypoint
-                - date: '2016-01-07'
-                  acquiree: Formicary
-                - date: '2016-04-04'
-                  acquiree: IMJ
-                - date: '2016-05-09'
-                  acquiree: OPS Rules Management Consultants
-                - date: '2016-06-20'
-                  acquiree: Maglan
-                - date: '2016-06-24'
-                  acquiree: Dgroup
-                - date: '2016-07-19'
-                  acquiree: MobGen
-                - date: '2016-07-28'
-                  acquiree: Tecnilógica
-                - date: '2016-08-22'
-                  acquiree: Redcore
-                - date: '2016-09-08'
-                  acquiree: New Energy Group
-                - date: '2016-09-22'
-                  acquiree: Kurt Salmon
-                - date: '2016-09-26'
-                  acquiree: DayNine Consulting
-                - date: '2016-10-05'
-                  acquiree: Defense Point Security
-                - date: '2016-10-18'
-                  acquiree: Allen International
-                - date: '2016-10-31'
-                  acquiree: 2nd Road
-                - date: '2016-11-01'
-                  acquiree: Realworld OO Systems Ltd.
-                - date: '2016-11-09'
-                  acquiree: Nashco Consulting
-                - date: '2016-11-29'
-                  acquiree: Karmarama
-                - date: '2016-12-19'
-                  acquiree: Arismore
-                - date: '2017-01-09'
-                  acquiree: Altitude
-                - date: '2017-01-19'
-                  acquiree: Seabury Consulting
-                - date: '2017-01-25'
-                  acquiree: solid-serVision.com GmbH
-                - date: '2017-01-31'
-                  acquiree: InvestTech
-                - date: '2017-02-09'
-                  acquiree: iDefense
-                - date: '2017-02-20'
-                  acquiree: SinnerSchrader
-                - date: '2017-03-01'
-                  acquiree: Davies Consulting
-                - date: '2017-03-21'
-                  acquiree: Focus Group Europe
-                - date: '2017-03-21'
-                  acquiree: OCTO Technology
-                - date: '2017-03-23'
-                  acquiree: First Annapolis Consulting, Inc.
-                - date: '2017-04-03'
-                  acquiree: Genfour
-                - date: '2017-04-20'
-                  acquiree: Kunstmaan
-                - date: '2017-05-07'
-                  acquiree: The Monkeys
-                - date: '2017-05-15'
-                  acquiree: Media Hive
-                - date: '2017-06-01'
-                  acquiree: LabAnswer
-                - date: '2017-06-02'
-                  acquiree: SolutionsIQ
-                - date: '2017-06-07'
-                  acquiree: Phase One Consulting Group
-                - date: '2017-06-28'
-                  acquiree: Intrepid
-                - date: '2017-07-11'
-                  acquiree: Clearhead
-                - date: '2017-08-03'
-                  acquiree: Brand Learning
-                - date: '2017-08-08'
-                  acquiree: Concrete Solutions
-                - date: '2017-08-09'
-                  acquiree: Wire Stone
-                - date: '2017-08-24'
-                  acquiree: Verax Solutions
-                - date: '2017-09-06'
-                  acquiree: IBB Consulting
-                - date: '2017-09-06'
-                  acquiree: Matter
-                - date: '2017-10-17'
-                  acquiree: Altima
-                - date: '2017-12-14'
-                  acquiree: Rothco
-                - date: '2018-01-10'
-                  acquiree: Mackevision Medien Design
-                - date: '2018-03-29'
-                  acquiree: Meredith Xcelerated Marketing
-                - date: '2018-05-01'
-                  acquiree: Certus Solutions Ltd
-                - date: '2018-07-12'
-                  acquiree: Kogentix
-                - date: '2018-08-06'
-                  acquiree: designaffairs
-                - date: '2018-08-09'
-                  acquiree: Mindtribe
-                - date: '2018-08-09'
-                  acquiree: Pillar Technology
-                - date: '2018-10-17'
-                  acquiree: TargetST8
-                - date: '2018-10-21'
-                  acquiree: DAZ Systems
-                - date: '2018-10-22'
-                  acquiree: New Content
-                - date: '2018-11-02'
-                  acquiree: Kolle Rebbe
-                - date: '2018-11-05'
-                  acquiree: Intrigo Systems
-                - date: '2018-12-03'
-                  acquiree: Enaxis Consulting
-                - date: '2018-12-03'
-                  acquiree: SEC Servizi
-                - date: '2018-12-10'
-                  acquiree: PrimeQ
-                - date: '2018-12-12'
-                  acquiree: Adaptly
-                - date: '2018-12-20'
-                  acquiree: Knowledgent
-                - date: '2019-01-09'
-                  acquiree: Orbium
-                - date: '2019-03-04'
-                  acquiree: '?What If!'
-                - date: '2019-03-05'
-                  acquiree: Enterprise System Partners
-                - date: '2019-03-15'
-                  acquiree: Storm Digital
-                - date: '2019-04-08'
-                  acquiree: Cirruseo
-                - date: '2019-04-30'
-                  acquiree: Zielpuls
-                - date: '2019-06-03'
-                  acquiree: Bridge Energy Group
-                - date: '2019-06-17'
-                  acquiree: Deja vu Security
-                - date: '2019-06-26'
-                  acquiree: BCT Solutions
-                - date: '2019-08-05'
-                  acquiree: Northstream
-                - date: '2019-08-12'
-                  acquiree: Insitum
-                - date: '2019-08-15'
-                  acquiree: Analytics8
-                - date: '2019-08-19'
-                  acquiree: Parker Fitzgerald
-                - date: '2019-08-27'
-                  acquiree: Fairway Technologies
-                - date: '2019-09-10'
-                  acquiree: PRAGSIS BIDOOP
-                - date: '2019-10-03'
-                  acquiree: NYTEC
-                - date: '2019-10-10'
-                  acquiree: FutureMove Automotive
-                - date: '2019-10-17'
-                  acquiree: Happen
-                - date: '2019-10-31'
-                  acquiree: Bow & Arrow
-                - date: '2019-11-14'
-                  acquiree: Silveo
-                - date: '2019-12-02'
-                  acquiree: Apis Group
-                - date: '2019-12-13'
-                  acquiree: Clarity Insights
-                - date: '2020-01-07'
-                  acquiree: Maihiro
-                - date: '2020-01-07'
-                  acquiree: Symantec Cybersecurity Services
-                  price: 205000000
-                - date: '2020-02-03'
-                  acquiree: Mudano
-                - date: '2020-02-18'
-                  acquiree: Icon Integration
-                - date: '2020-02-19'
-                  acquiree: VanBerlo
-                - date: '2020-02-27'
-                  acquiree: AlphaBeta
-                - date: '2020-03-06'
-                  acquiree: Context Information Security
-                  price: 140000000
-                - date: '2020-03-10'
-                  acquiree: ESR Labs
-                - date: '2020-04-02'
-                  acquiree: Yesler
-                - date: '2020-04-07'
-                  acquiree: Revolutionary Security
-                - date: '2020-04-20'
-                  acquiree: Gekko
-                - date: '2020-05-05'
-                  acquiree: Callisto Integration
-                - date: '2020-05-05'
-                  acquiree: Nike Group
-                - date: '2020-05-18'
-                  acquiree: Byte Prophecy
-                - date: '2020-05-19'
-                  acquiree: PLM Systems
-                - date: '2020-06-15'
-                  acquiree: Sentelis
-                - date: '2020-08-10'
-                  acquiree: Organize Cloud Labs
-                - date: '2020-08-13'
-                  acquiree: CreativeDrive
-                - date: '2020-09-16'
-                  acquiree: SALT Solutions
-                - date: '2020-09-22'
-                  acquiree: N3
-                - date: '2020-10-05'
-                  acquiree: Zag Team
-                  price: 32370514
-                - date: '2020-10-06'
-                  acquiree: Myrtle Consulting Group
-                - date: '2020-10-07'
-                  acquiree: Avenai
-                - date: '2020-10-26'
-                  acquiree: Enimbos
+                - date: '2002-02-06'
+                  acquiree: Alchemy Semiconductor
+                - date: '2006-07-24'
+                  acquiree: ATI Technologies
+                  price: 5400000000
+                - date: '2012-02-29'
+                  acquiree: SeaMicro
+                  price: 334000000
+                - date: '2016-06-29'
+                  acquiree: HiAlgo
+                - date: '2017-04-10'
+                  acquiree: Nitero
                 - date: '2020-10-27'
-                  acquiree: OpusLine
-                - date: '2020-11-20'
-                  acquiree: Arca
-                - date: '2020-11-23'
-                  acquiree: End-to-End Analytics
-                - date: '2020-11-30'
-                  acquiree: Olikka
-                - date: '2021-01-11'
-                  acquiree: Real Protect
-                - date: '2021-01-15'
-                  acquiree: Wolox
-                - date: '2021-02-01'
-                  acquiree: BUSINET SYSTEM
-                - date: '2021-02-01'
-                  acquiree: Imaginea
-                - date: '2021-02-02'
-                  acquiree: Future State
-                - date: '2021-02-15'
-                  acquiree: Edenhouse Solutions
-                - date: '2021-02-16'
-                  acquiree: Infinity Works
-                - date: '2021-03-01'
-                  acquiree: Cirrus
-                - date: '2021-03-01'
-                  acquiree: GRA
-                - date: '2021-03-02'
-                  acquiree: Pollux Automation
-                - date: '2021-03-03'
-                  acquiree: REPL Group
-                - date: '2021-03-10'
-                  acquiree: Fableplus
-                - date: '2021-03-29'
-                  acquiree: Cygni
-                - date: '2021-04-07'
-                  acquiree: Core Compete
-                - date: '2021-04-23'
-                  acquiree: Root
-                - date: '2021-04-29'
-                  acquiree: Openminded
-                - date: '2021-05-03'
-                  acquiree: AppsPro
-                - date: '2021-05-03'
-                  acquiree: Electro 80
-                - date: '2021-05-04'
-                  acquiree: thinktank.net
-                - date: '2021-05-11'
-                  acquiree: LINKBYNET
-                - date: '2021-05-18'
-                  acquiree: Homburg & Partner
-                - date: '2021-05-26'
-                  acquiree: Industrie&Co
-                - date: '2021-06-01'
-                  acquiree: Nell'Armonia
-                - date: '2021-06-14'
-                  acquiree: Umlaut
-                - date: '2021-06-15'
-                  acquiree: DI SQUARE
+                  acquiree: Xilinx
+                  price: 35000000000
               parents: []
-              ticker: CSA.F
-              funding: 6000000
-              stockExchange: fra
+              ticker: AMD
+              stockExchange: nasdaq
               company_type: For Profit
               industries:
-                - Construction
-                - Consulting
-                - Information Technology
-                - Outsourcing
+                - Cloud Computing
+                - Hardware
+                - Semiconductor
+                - Software
+                - Video Games
+                - Virtualization
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 180130907094
-              effective_ticker: CSA.F
+              market_cap: 102294970368
+              effective_ticker: AMD
             image_data:
-              fileName: accenture-global-solutions-limited.svg
-              hash: zBHV+B5ZcK6k4GKJOlCQyGMKqJx43+yamfdLlBSaRVo=
+              fileName: advanced-micro-devices-amd.svg
+              hash: 2Za4zJY0wFoO5LflFP238qc7drUBfIwmuqMPxhAaABo=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-16T19:09:03.000Z
+              latest_tweet_date: 2021-06-17T15:11:10.000Z
           - item:
             name: Bell Canada
             homepage_url: https://bell.net/
@@ -7289,133 +6774,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-10-08T21:03:03.000Z
-          - item:
-            name: Wipro Limited
-            homepage_url: https://wipro.com/
-            logo: wipro_limited.svg
-            twitter: https://twitter.com/Wipro
-            crunchbase: https://www.crunchbase.com/organization/wipro
-            crunchbase_data:
-              name: Wipro Technologies
-              description: Wipro is a global information technology, consulting and business process services company.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.wipro.com
-              city: Bengaluru
-              region: Karnataka
-              country: India
-              twitter: http://twitter.com/Wipro
-              linkedin: https://www.linkedin.com/company/wipro
-              acquisitions:
-                - date: '2005-12-19'
-                  acquiree: NewLogic Technologies AG
-                  price: 56394879
-                - date: '2005-12-22'
-                  acquiree: MPACT Technology Services
-                - date: '2005-12-22'
-                  acquiree: mPower Software Services
-                - date: '2006-02-21'
-                  acquiree: cMango
-                  price: 20000000
-                - date: '2006-05-15'
-                  acquiree: Quantech Global Services
-                  price: 10000000
-                - date: '2006-06-01'
-                  acquiree: Enabler
-                  price: 53000000
-                - date: '2006-06-09'
-                  acquiree: Saraware Oy
-                  price: 32500000
-                - date: '2007-07-06'
-                  acquiree: Unza
-                  price: 250518667
-                - date: '2007-08-06'
-                  acquiree: Infocrossing
-                  price: 600000000
-                - date: '2007-12-12'
-                  acquiree: Wipro Techno Centre (Singapore) Pte. Ltd.
-                - date: '2008-07-02'
-                  acquiree: Gallagher Financial Systems
-                - date: '2008-12-23'
-                  acquiree: Citi Technology Services
-                  price: 127000000
-                - date: '2011-04-01'
-                  acquiree: Global Oil and Gas Information Technology Services Business
-                  price: 150000000
-                - date: '2012-05-01'
-                  acquiree: Promax Application Group
-                - date: '2013-12-02'
-                  acquiree: Opus Capital Markets Consultants
-                - date: '2014-07-18'
-                  acquiree: ATCO I-Tek
-                  price: 195000000
-                - date: '2015-12-02'
-                  acquiree: cellent AG
-                  price: 77985078
-                - date: '2015-12-23'
-                  acquiree: Viteos Group
-                  price: 130000000
-                - date: '2016-02-11'
-                  acquiree: HealthPlan Services
-                  price: 480000000
-                - date: '2016-10-20'
-                  acquiree: Appirio
-                  price: 500000000
-                - date: '2017-01-25'
-                  acquiree: InfoSERVER
-                  price: 8700000
-                - date: '2019-04-19'
-                  acquiree: Splash Corporation
-                - date: '2019-06-05'
-                  acquiree: International TechneGroup
-                - date: '2020-02-21'
-                  acquiree: Rational Interaction
-                - date: '2020-07-14'
-                  acquiree: IVIA
-                - date: '2020-07-23'
-                  acquiree: We Are 4C
-                  price: 78849356
-                - date: '2020-10-13'
-                  acquiree: Eximius Design
-                  price: 79857202
-                - date: '2020-10-28'
-                  acquiree: Encore Theme Technologies
-                - date: '2020-12-23'
-                  acquiree: METRO SYSTEMS Romania
-                - date: '2020-12-23'
-                  acquiree: Metronom
-                - date: '2021-03-04'
-                  acquiree: Capco
-                  price: 1450000000
-                - date: '2021-03-31'
-                  acquiree: Ampion
-                  price: 117000000
-              parents: []
-              ticker: WIPRO.NS
-              funding: 1104375782
-              stockExchange: nse
-              company_type: For Profit
-              industries:
-                - Cloud Data Services
-                - Consulting
-                - Enterprise Software
-                - Information Services
-                - Information Technology
-                - Mobile
-                - Outsourcing
-                - Software
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 41132402426
-              effective_ticker: WIPRO.NS
-            image_data:
-              fileName: wipro-limited.svg
-              hash: lf/3/68tJyxt33sDjwBbLGLBUQBeemREnMFlWcPJRH8=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T18:24:58.000Z
       - subcategory:
         name: Silver
         items:
@@ -7500,62 +6858,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-16T19:49:20.000Z
-          - item:
-            name: Advanced Micro Devices (AMD)
-            homepage_url: https://amd.com/
-            logo: advanced_micro_devices_amd.svg
-            twitter: https://twitter.com/AMD
-            crunchbase: https://www.crunchbase.com/organization/amd
-            crunchbase_data:
-              name: AMD
-              description: Advanced Micro Devices (AMD) is a semiconductor company that designs and develops graphics units, processors, and media solutions.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.amd.com
-              city: Santa Clara
-              region: California
-              country: United States
-              twitter: https://twitter.com/amd
-              linkedin: https://www.linkedin.com/company/amd
-              acquisitions:
-                - date: '2002-02-06'
-                  acquiree: Alchemy Semiconductor
-                - date: '2006-07-24'
-                  acquiree: ATI Technologies
-                  price: 5400000000
-                - date: '2012-02-29'
-                  acquiree: SeaMicro
-                  price: 334000000
-                - date: '2016-06-29'
-                  acquiree: HiAlgo
-                - date: '2017-04-10'
-                  acquiree: Nitero
-                - date: '2020-10-27'
-                  acquiree: Xilinx
-                  price: 35000000000
-              parents: []
-              ticker: AMD
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Hardware
-                - Semiconductor
-                - Software
-                - Video Games
-                - Virtualization
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 102294970368
-              effective_ticker: AMD
-            image_data:
-              fileName: advanced-micro-devices-amd.svg
-              hash: 2Za4zJY0wFoO5LflFP238qc7drUBfIwmuqMPxhAaABo=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:11:10.000Z
           - item:
             name: Adva Optical Networking SE
             homepage_url: https://advaoptical.com/
@@ -7652,6 +6954,104 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-06-17T10:54:49.000Z
           - item:
+            name: Amdocs Limited
+            homepage_url: https://amdocs.com/
+            logo: amdocs_limited.svg
+            twitter: https://twitter.com/Amdocs
+            crunchbase: https://www.crunchbase.com/organization/amdocs
+            crunchbase_data:
+              name: Amdocs
+              description: Amdocs is a developer and provider of customer experience systems for communications, media, and entertainment industries.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.amdocs.com
+              city: Chesterfield
+              region: Missouri
+              country: United States
+              twitter: http://twitter.com/amdocs
+              linkedin: https://www.linkedin.com/company/amdocs
+              acquisitions:
+                - date: '2000-03-01'
+                  acquiree: Solect Technology Group
+                  price: 1150000000
+                - date: '2003-12-22'
+                  acquiree: XACCT Technologies
+                  price: 30000000
+                - date: '2005-07-05'
+                  acquiree: DST Innovis
+                  price: 238000000
+                - date: '2006-04-18'
+                  acquiree: Qpass
+                  price: 275000000
+                - date: '2006-07-18'
+                  acquiree: Cramer Systems
+                  price: 375000000
+                - date: '2008-04-08'
+                  acquiree: Jacobs Rimell Ltd.
+                  price: 45000000
+                - date: '2008-12-31'
+                  acquiree: Changingworlds
+                  price: 60000000
+                - date: '2009-10-27'
+                  acquiree: jNetX
+                - date: '2010-03-23'
+                  acquiree: MX Telecom
+                  price: 104000000
+                - date: '2010-04-23'
+                  acquiree: Streamezzo
+                - date: '2011-06-17'
+                  acquiree: Bridgewater Systems
+                  price: 211000000
+                - date: '2013-06-11'
+                  acquiree: Celcite
+                  price: 129000000
+                - date: '2013-09-03'
+                  acquiree: Actix
+                - date: '2016-01-15'
+                  acquiree: cVidya
+                  price: 30000000
+                - date: '2016-09-14'
+                  acquiree: Brite:Bill
+                - date: '2016-09-14'
+                  acquiree: Pontis
+                - date: '2016-09-14'
+                  acquiree: Vindicia
+                - date: '2018-01-30'
+                  acquiree: Vubiquity
+                  price: 224000000
+                - date: '2019-08-07'
+                  acquiree: Telecom Technology Services
+                  price: 50000000
+                - date: '2020-07-23'
+                  acquiree: Openet
+                  price: 180000000
+                - date: '2021-05-12'
+                  acquiree: Sourced Group
+                  price: 75000000
+              parents: []
+              ticker: DOX
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Big Data
+                - CRM
+                - Customer Service
+                - Outsourcing
+                - Software
+                - Telecommunications
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 10177853440
+              effective_ticker: DOX
+            image_data:
+              fileName: amdocs-limited.svg
+              hash: NtI1GFLrmMrLHCLtYD2A1gre5b2jLPpZmrSXN5iHfBU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T09:52:49.000Z
+          - item:
             name: AQSACOM
             homepage_url: https://aqsacom.com/
             logo: aqsacom.svg
@@ -7684,9 +7084,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-06-15T18:36:23.000Z
           - item:
-            name: Arista Networks
-            homepage_url: https://aristanetworks.com/
-            logo: arista_networks.svg
+            name: Arista Networks, Inc.
+            homepage_url: https://arista.com/
+            logo: arista_networks_inc.svg
             twitter: https://twitter.com/AristaNetworks
             crunchbase: https://www.crunchbase.com/organization/arista-networks
             crunchbase_data:
@@ -7725,7 +7125,7 @@ landscape:
               market_cap: 28454293504
               effective_ticker: ANET
             image_data:
-              fileName: arista-networks.svg
+              fileName: arista-networks-inc.svg
               hash: kWZCmCUsFW5ZIK/WBatze1mYRvDFNKfsDRhkMrPYldM=
             best_practice_data:
               badge: false
@@ -7809,9 +7209,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-10-07T17:02:55.000Z
           - item:
-            name: Atos
+            name: Atos France
             homepage_url: https://atos.net/
-            logo: atos.svg
+            logo: atos_france.svg
             twitter: https://twitter.com/Atos
             crunchbase: https://www.crunchbase.com/organization/atos
             crunchbase_data:
@@ -7916,42 +7316,13 @@ landscape:
               market_cap: 5742245888
               effective_ticker: AEXAF
             image_data:
-              fileName: atos.svg
+              fileName: atos-france.svg
               hash: lyfHA0SObHCJcQgG+mQAa2f8x7/tCvWbdyCVJGm6TVM=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-10-08T15:35:01.000Z
-          - item:
-            name: ATS (a KGPCo Company)
-            homepage_url: https://atsgen.com/
-            logo: ats_a_kgpco_company.svg
-            crunchbase: https://www.crunchbase.com/organization/kgpco
-            twitter: https://twitter.com/KGPCo
-            crunchbase_data:
-              name: KGPCo
-              description: KGPCo provides customized, scalable supply chain and network transformation solutions for the communications industry.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: http://www.kgpco.com/
-              city: Faribault
-              region: Minnesota
-              country: United States
-              twitter: https://twitter.com/KGPCo1
-              linkedin: https://www.linkedin.com/company/kgpco/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Telecommunications
-            image_data:
-              fileName: ats-a-kgp-co-company.svg
-              hash: TUHSHY5zmMqehvYMd+r5JgIs6JTTyDi5tqu7oWo4foY=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: Cable Television Laboratories Inc.
             homepage_url: https://cablelabs.com/
@@ -8020,34 +7391,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-14T19:35:34.000Z
-          - item:
-            name: CertusNet Inc.
-            homepage_url: https://certusnet.com.cn/
-            logo: certusnet_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/certusnet
-            crunchbase_data:
-              name: CertusNet
-              description: CertusNet offers software development and experimental testing services for clients in China.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: http://www.certusnetnj.com.cn
-              city: Yangpu
-              region: Hainan
-              country: China
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Software
-            image_data:
-              fileName: certus-net-inc.svg
-              hash: V8SFtjixE9RDGRXT6yz0kgVniJMCPUEGgHDwaX9DCT4=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: China Unicom
             homepage_url: https://chinaunicom.com/
@@ -8194,73 +7537,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-06-17T14:02:10.000Z
           - item:
-            name: CommScope Inc.
-            homepage_url: https://commscope.com/
-            logo: commscope_inc.svg
-            twitter: https://twitter.com/CommScope
-            crunchbase: https://www.crunchbase.com/organization/commscope-enterprise-solutions
-            crunchbase_data:
-              name: CommScope
-              description: CommScope Enterprise Solutions, a division of CommScope, Inc., offers a complete portfolio of network infrastructure solutions that enable
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.commscope.com
-              city: Richardson
-              region: Texas
-              country: United States
-              twitter: http://twitter.com/commscope
-              linkedin: https://www.linkedin.com/company/commscope
-              acquisitions:
-                - date: '2003-10-27'
-                  acquiree: Avaya - Connectivity Solutions (ACS)
-                  price: 263000000
-                - date: '2007-06-27'
-                  acquiree: Andrew Corp
-                  price: 2700000000
-                - date: '2011-06-02'
-                  acquiree: LiquidxStream Systems
-                - date: '2011-06-19'
-                  acquiree: Argus Technologies
-                - date: '2013-03-19'
-                  acquiree: iTracs
-                - date: '2013-07-09'
-                  acquiree: Redwood Systems
-                - date: '2014-07-01'
-                  acquiree: Alifabs Group
-                - date: '2015-01-28'
-                  acquiree: ADC Telecommunications
-                - date: '2015-01-28'
-                  acquiree: TE Connectivity’s - Telecom, Enterprise and Wireless businesses
-                  price: 3000000000
-                - date: '2015-10-01'
-                  acquiree: Airvana
-                - date: '2017-07-12'
-                  acquiree: Cable Exchange
-                - date: '2018-11-08'
-                  acquiree: Arris Group
-                  price: 7400000000
-              parents: []
-              ticker: COMM
-              funding: 100000000
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - Broadcasting
-                - Hardware
-                - Software
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 4223415040
-              effective_ticker: COMM
-            image_data:
-              fileName: comm-scope-inc.svg
-              hash: 6ci9DzBEmZY/XlzSt3wS23Nf2gQ5hbD9VVAb3qFwzUM=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T19:00:12.000Z
-          - item:
             name: Equinix, Inc.
             homepage_url: https://equinix.com/
             logo: equinix_inc.svg
@@ -8337,44 +7613,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-17T13:48:02.000Z
-          - item:
-            name: everis
-            homepage_url: https://everis.com/
-            logo: everis.svg
-            twitter: https://twitter.com/everis_en
-            crunchbase: https://www.crunchbase.com/organization/everis
-            crunchbase_data:
-              name: Everis Group
-              description: Everis offers outgoing development through its highly trained and nurtured staff offering transparency, consistency and responsibility.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://everis.com/
-              city: Madrid
-              region: Madrid
-              country: Spain
-              twitter: https://twitter.com/everis_en
-              linkedin: https://www.linkedin.com/company/everis/
-              acquisitions:
-                - date: '2010-10-05'
-                  acquiree: Net2u
-                - date: '2015-04-13'
-                  acquiree: Serviabertis
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Consulting
-                - Information Technology
-                - Internet
-                - Outsourcing
-            image_data:
-              fileName: everis.svg
-              hash: W/ejt0/3LZdMB1husxo30UbfheFMvy8K/6yFDvNxklk=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T08:50:11.000Z
           - item:
             name: Fujitsu Limited
             homepage_url: https://fujitsu.com/
@@ -8493,90 +7731,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2008-11-06T19:58:30.000Z
-          - item:
-            name: HCL Technologies Ltd.
-            homepage_url: https://hcltech.com/
-            logo: hcl_technologies_ltd.svg
-            twitter: https://twitter.com/hcltech
-            crunchbase: https://www.crunchbase.com/organization/hcl-technologies
-            crunchbase_data:
-              name: HCL Technologies
-              description: HCL Technologies is a global IT services company, working with clients in the areas that impact and redefine the core of their businesses.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.hcltech.com
-              city: Noida
-              region: Uttar Pradesh
-              country: India
-              twitter: http://twitter.com/hcltech
-              linkedin: https://www.linkedin.com/company-beta/1756
-              acquisitions:
-                - date: '2011-08-19'
-                  acquiree: AXON Group Ltd.
-                  price: 726711778
-                - date: '2015-10-19'
-                  acquiree: Concept2Silicon Systems
-                - date: '2015-10-29'
-                  acquiree: PowerObjects
-                - date: '2016-01-28'
-                  acquiree: Point to Point
-                  price: 11000000
-                - date: '2016-04-02'
-                  acquiree: GeometricPLM
-                  price: 200000000
-                - date: '2016-10-21'
-                  acquiree: Butler America
-                  price: 85000000
-                - date: '2017-04-25'
-                  acquiree: Urban Fulfillment Services
-                  price: 30000000
-                - date: '2017-09-06'
-                  acquiree: Datawave
-                - date: '2018-04-05'
-                  acquiree: C3i Solutions
-                - date: '2018-04-12'
-                  acquiree: Actian
-                  price: 264000000
-                - date: '2018-06-27'
-                  acquiree: H&D International Group
-                - date: '2018-12-07'
-                  acquiree: Lotus Development Corporation
-                  price: 1800000000
-                - date: '2019-03-13'
-                  acquiree: Strong-Bridge Envision
-                - date: '2019-09-10'
-                  acquiree: Sankalp Semiconductors
-                  price: 25043648
-                - date: '2020-05-29'
-                  acquiree: NortonLifeLock
-                - date: '2020-09-21'
-                  acquiree: DWS
-              parents: []
-              ticker: HCLTECH.NS
-              funding: 220000000
-              stockExchange: nse
-              company_type: For Profit
-              industries:
-                - Aerospace
-                - Consumer Electronics
-                - IT Management
-                - Information and Communications Technology (ICT)
-                - Media and Entertainment
-                - Outsourcing
-                - Software
-                - Telecommunications
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 36087630684
-              effective_ticker: HCLTECH.NS
-            image_data:
-              fileName: hcl-technologies-ltd.svg
-              hash: zW119g+f9Tyy43ou4Y/24Npvbh7eTxHEgf5NQGnMmmk=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T13:23:54.000Z
           - item:
             name: Hewlett Packard Enterprise Development LP
             homepage_url: https://hpe.com/
@@ -8700,7 +7854,7 @@ landscape:
             name: KDDI Corporation
             homepage_url: https://kddi.com/
             logo: kddi_corporation.svg
-            twitter: https://twitter.com/ts_kddi
+            twitter: https://twitter.com/kddipr
             crunchbase: https://www.crunchbase.com/organization/kddi
             crunchbase_data:
               name: KDDI
@@ -8753,8 +7907,65 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T09:46:50.000Z
+          - item:
+            name: Keysight Technologies Inc.
+            homepage_url: https://keysight.com/
+            logo: keysight_technologies_inc.svg
+            twitter: https://twitter.com/Keysight
+            crunchbase: https://www.crunchbase.com/organization/keysight-technologies
+            crunchbase_data:
+              name: Keysight Technologies
+              description: Keysight Technologies is an electronic measurement company.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.keysight.com
+              city: Santa Rosa
+              region: California
+              country: United States
+              twitter: https://twitter.com/Keysight
+              linkedin: https://www.linkedin.com/company/keysight-technologies
+              acquisitions:
+                - date: '2005-08-01'
+                  acquiree: Eagleware-Elanix
+                - date: '2015-08-13'
+                  acquiree: Anite
+                  price: 600000000
+                - date: '2015-08-28'
+                  acquiree: Electroservices Enterprises
+                - date: '2017-01-30'
+                  acquiree: IXIA
+                  price: 1600000000
+                - date: '2018-08-13'
+                  acquiree: Thales Calibration Services
+                - date: '2020-03-02'
+                  acquiree: Labber
+                - date: '2020-06-25'
+                  acquiree: Eggplant
+                  price: 330000000
+                - date: '2021-02-22'
+                  acquiree: Sanjole
+                - date: '2021-05-25'
+                  acquiree: Quantum Benchmark
+                - date: '2021-10-18'
+                  acquiree: Scalable Network Technologies
+              parents: []
+              ticker: KEYS
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Electrical Distribution
+                - Electronics
+                - Manufacturing
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 30163206144
+              effective_ticker: KEYS
+            image_data:
+              fileName: keysight-technologies-inc.svg
+              hash: P3mOqwJkyHj99naRxO8/IIKxKtiyYQqbLRF1eCZiElM=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Kubermatic GmbH
             homepage_url: https://kubermatic.com/
@@ -9150,6 +8361,90 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-06-15T18:30:45.000Z
           - item:
+            name: NTT DATA Spain, S.L.U.
+            homepage_url: https://everis.com/
+            logo: ntt_data_spain_slu.svg
+            twitter: https://twitter.com/NTTDATAServices
+            crunchbase: https://www.crunchbase.com/organization/ntt-data
+            crunchbase_data:
+              name: NTT Data
+              description: NTT DATA provides broad range of IT services and solutions, including consulting, systems integration, and IT outsourcing.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.nttdata.com/jp/ja/
+              city: Koto
+              region: Tokyo
+              country: Japan
+              twitter: https://twitter.com/nttdata_pr
+              linkedin: https://www.linkedin.com/company/ntt-data/
+              acquisitions:
+                - date: '2010-06-14'
+                  acquiree: Intelligroup
+                - date: '2010-09-02'
+                  acquiree: NTT DATA FA Insurance Systems
+                - date: '2010-12-30'
+                  acquiree: Keane International
+                - date: '2011-05-30'
+                  acquiree: Value Team
+                - date: '2011-06-15'
+                  acquiree: Mpayy
+                - date: '2012-01-25'
+                  acquiree: Netmagic Solutions
+                  price: 128000000
+                - date: '2012-10-10'
+                  acquiree: RMA Consulting
+                - date: '2013-11-01'
+                  acquiree: Everis Group
+                - date: '2013-11-21'
+                  acquiree: Optimal Solutions Integration
+                - date: '2015-06-08'
+                  acquiree: Carlisle & Gallagher Consulting Group
+                - date: '2015-12-23'
+                  acquiree: Wizardsgroup
+                - date: '2016-09-27'
+                  acquiree: Nefos
+                - date: '2017-05-11'
+                  acquiree: PT. Abyor International
+                - date: '2018-06-01'
+                  acquiree: MagenTys
+                - date: '2018-06-25'
+                  acquiree: gen-ius dms GmbH
+                - date: '2018-10-29'
+                  acquiree: Sierra Systems Group Inc.
+                - date: '2018-11-27'
+                  acquiree: Atom Technologies
+                - date: '2019-12-03'
+                  acquiree: Flux7
+                - date: '2019-12-18'
+                  acquiree: NETE
+                - date: '2020-08-27'
+                  acquiree: Acorio
+                - date: '2020-12-11'
+                  acquiree: Hashmap
+                - date: '2021-01-15'
+                  acquiree: My Supply Chain Group
+                - date: '2021-12-22'
+                  acquiree: Chainalytics
+              parents:
+                - https://www.crunchbase.com/organization/nippon-telegraph-and-telephone-corporation
+              ticker: 9613.T
+              stockExchange: tyo
+              company_type: For Profit
+              industries:
+                - Information Services
+                - Information Technology
+                - Software
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 26374587694
+              effective_ticker: 9613.T
+            image_data:
+              fileName: ntt-data-spain-s-l-u.svg
+              hash: W/ejt0/3LZdMB1husxo30UbfheFMvy8K/6yFDvNxklk=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: PANTHEON.tech s.r.o
             homepage_url: https://pantheon.tech/
             logo: pantheontech_sro.svg
@@ -9176,7 +8471,7 @@ landscape:
                 - Software
             image_data:
               fileName: pantheon-tech-s-r-o.svg
-              hash: 0YnBwwlQKZUvrlejyaVlO/SBKrYEHXUEIWqkg9pDfzU=
+              hash: 1gbWD8yyWNV9qsoS/5GlNjyDR1Q15eagpuXZbuVzTe4=
             best_practice_data:
               badge: false
               percentage: null
@@ -9351,39 +8646,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Solutions by STC
-            homepage_url: https://solutions.com.sa/
-            logo: solutions_by_stc.svg
-            twitter: https://twitter.com/solutions_bystc
-            crunchbase: https://www.crunchbase.com/organization/stc-solutions
-            crunchbase_data:
-              name: STC Solutions
-              description: STC Solutions can offer IT support to large business organizations.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: null
-              city: Riyadh
-              region: Ar Riyad
-              country: Saudi Arabia
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Consulting
-                - Information Technology
-                - Software
-            image_data:
-              fileName: solutions-by-stc.svg
-              hash: P2D+kq/OufvcOHrzcwGgXINXtP64wq96UWJd46GLnu8=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-10-05T18:56:13.000Z
-          - item:
             name: Spirent Communications Inc
             homepage_url: https://spirent.com/
             logo: spirent_communications_inc.svg
@@ -9509,8 +8771,9 @@ landscape:
               latest_tweet_date: 2015-11-14T18:08:20.000Z
           - item:
             name: Sterlite Technologies Limited
-            homepage_url: https://sterlite.com/
+            homepage_url: https://stl.tech/
             logo: sterlite_technologies_limited.svg
+            twitter: https://twitter.com/STL_Tech
             crunchbase: https://www.crunchbase.com/organization/sterlite-technologies-ltd-
             stock_ticker: null
             crunchbase_data:
@@ -9545,44 +8808,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: SUSE LLC
-            homepage_url: https://suse.com/
-            logo: suse_llc.svg
-            twitter: https://twitter.com/SUSE
-            crunchbase: https://www.crunchbase.com/organization/suse
-            crunchbase_data:
-              name: SUSE
-              description: SUSE provides reliable and interoperable Linux and cloud infrastructure solutions that give enterprises greater control and flexibility.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: http://www.suse.com
-              city: Nuremberg
-              region: Bayern
-              country: Germany
-              twitter: https://twitter.com/SUSE
-              linkedin: https://www.linkedin.com/company/suse
-              acquisitions:
-                - date: '2020-07-08'
-                  acquiree: Rancher Labs
-                  price: 600000000
-              parents: []
-              ticker: SUSE.F
-              stockExchange: fra
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Enterprise Software
-                - Linux
-                - Software
-            image_data:
-              fileName: suse-llc.svg
-              hash: QAm64D8D4cZikorTRFLBsTNwGavSD9D/mpa647CDxpA=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T14:03:28.000Z
           - item:
             name: Swisscom
             homepage_url: https://swisscom.com/
@@ -9703,6 +8928,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-06-17T11:00:14.000Z
           - item:
+            name: Telaverge Communications
+            homepage_url: https://telavergecommunications.com/
+            logo: telaverge_communications.svg
+            organization:
+              name: Telaverge Communications
+            crunchbase_data:
+              name: Telaverge Communications
+              parents: []
+            image_data:
+              fileName: telaverge-communications.svg
+              hash: rB4yg82uD8NGLUrLcT1M4pmZdxx5kEbIXVO+TOtlB0w=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Telecom Italia Mobile (TIM) S.p.A.
             homepage_url: https://telecomitalia.com/
             logo: telecom_italia_mobile_tim_spa.svg
@@ -9747,88 +8987,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-17T13:00:02.000Z
-          - item:
-            name: Tencent Holdings Limited
-            homepage_url: https://tencent.com/
-            logo: tencent_holdings_limited.svg
-            twitter: https://twitter.com/TencentGlobal
-            crunchbase: https://www.crunchbase.com/organization/tencent
-            crunchbase_data:
-              name: Tencent
-              description: Tencent is an internet service portal offering value-added internet, mobile, telecom, and online advertising services.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.tencent.com/en-us/
-              city: Shenzhen
-              region: Guangdong
-              country: China
-              twitter: https://twitter.com/tencentglobal
-              linkedin: https://www.linkedin.com/company/166328/
-              acquisitions:
-                - date: '2010-04-20'
-                  acquiree: Shenzhen Domain Networks
-                - date: '2010-08-23'
-                  acquiree: Comsenz
-                - date: '2011-02-01'
-                  acquiree: Riot Games
-                  price: 400000000
-                - date: '2012-03-01'
-                  acquiree: Zam
-                - date: '2014-01-26'
-                  acquiree: Linktech Navi
-                - date: '2015-01-27'
-                  acquiree: Cloudary
-                - date: '2015-02-18'
-                  acquiree: Miniclip
-                - date: '2016-06-21'
-                  acquiree: Supercell
-                  price: 8600000000
-                - date: '2016-07-14'
-                  acquiree: Tencent Music Entertainment
-                  price: 2700000000
-                - date: '2016-12-22'
-                  acquiree: Sanook
-                - date: '2018-05-21'
-                  acquiree: Grinding Gear Games
-                - date: '2018-08-22'
-                  acquiree: Cat Cake
-                - date: '2019-05-21'
-                  acquiree: Sharkmob
-                - date: '2020-06-24'
-                  acquiree: iflix
-                - date: '2020-08-28'
-                  acquiree: Leyou Technologies Holdings
-                  price: 1400000000
-                - date: '2020-09-29'
-                  acquiree: Sogou
-                  price: 3500000000
-                - date: '2020-10-01'
-                  acquiree: 10 Chambers Collective
-                - date: '2021-01-24'
-                  acquiree: Klei Entertainment
-              parents: []
-              ticker: 0700.HK
-              funding: 12576770000
-              stockExchange: hkg
-              company_type: For Profit
-              industries:
-                - Advertising
-                - Internet
-                - Online Games
-                - Online Portals
-                - Social Media Marketing
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 740171214674
-              effective_ticker: 0700.HK
-            image_data:
-              fileName: tencent-holdings-limited.svg
-              hash: PQiZ4cqkLJF8BJP9/4KUaBPUCLxjn6OqqYJcZZdR/TY=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-03T20:02:04.000Z
           - item:
             name: Turk Telekomünikasyon A.S.
             homepage_url: https://turktelekom.com.tr/
@@ -10065,7 +9223,7 @@ landscape:
               effective_ticker: VMW
             image_data:
               fileName: v-mware-inc.svg
-              hash: 7gVris1FCx5z4YHo5+L3moavB2dGiY/uBWT2wA7fCik=
+              hash: ifx1u+sPs/VHqYgRJStdCPMD/zPTbeYPF0Su4jO56Fw=
             best_practice_data:
               badge: false
               percentage: null
@@ -10218,7 +9376,7 @@ landscape:
               industries: []
             image_data:
               fileName: beijing-university-of-posts-and-telecommunications-bupt.svg
-              hash: UhWZ9oJjKEwA1qNEapWgND7jS7NhakE3BLIt41Ae9uk=
+              hash: LplwgIfdpQ1Abqmig4T6CxJ/7gqEZTY8LU2t/DvQuYM=
             best_practice_data:
               badge: false
               percentage: null
@@ -10284,7 +9442,7 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: CPqD
+            name: CPQD
             homepage_url: https://cpqd.com.br/
             logo: cpqd.svg
             twitter: https://twitter.com/cpqd
@@ -10307,8 +9465,8 @@ landscape:
               industries:
                 - Social Media
             image_data:
-              fileName: c-pq-d.svg
-              hash: o0qMXcyRW6cXbUtxMkJz4Cpahh+MvnIDIESte1ueST0=
+              fileName: cpqd.svg
+              hash: eRLObqjGKMXvyJzs9uVVS30lQzzwGcbO2i9r5+x422s=
             best_practice_data:
               badge: false
               percentage: null
@@ -10417,26 +9575,28 @@ landscape:
             homepage_url: https://mef.net/
             logo: mef_forum.svg
             twitter: https://twitter.com/MEF_Forum
-            crunchbase: https://www.crunchbase.com/organization/mef-university
+            crunchbase: https://www.crunchbase.com/organization/mef
             crunchbase_data:
-              name: MEF University
-              description: MEF University is a non-profit private university in Istanbul, founded by the İbrahim Arıkan Education and Scientific Research Foundation.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: http://www.mef.edu.tr/
-              city: Maslak
-              region: Istanbul
-              country: Turkey
-              twitter: https://twitter.com/MEFUniversitesi
-              linkedin: https://www.linkedin.com/school/mefuniversitesi/
+              name: MEF
+              description: The MEF is a nonprofit international industry consortium, dedicated to worldwide adoption of Carrier Ethernet networks and services.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: https://www.mef.net/
+              city: Los Angeles
+              region: California
+              country: United States
+              twitter: https://www.twitter.com/mef_forum
+              linkedin: https://www.linkedin.com/company/mef-forum/about/
               acquisitions: []
               parents: []
               stockExchange: null
-              company_type: ''
-              industries: []
+              company_type: Non Profit
+              industries:
+                - Association
+                - Telecommunications
             image_data:
               fileName: mef-forum.svg
-              hash: yYTNmrZj0YgK5JoFnAKEnUksqvtkiDSHCb+tl/2HkCo=
+              hash: B6evW7NCIqYD9s9sqsf3BtTum43cUxCEF04aEXXYUEY=
             best_practice_data:
               badge: false
               percentage: null
@@ -10609,6 +9769,41 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-10-10T16:34:02.000Z
+          - item:
+            name: UNH InterOperability Lab
+            homepage_url: https://iol.unh.edu/
+            logo: unh_interoperability_lab.svg
+            twitter: https://twitter.com/UofNH
+            crunchbase: https://www.crunchbase.com/organization/interoperability-laboratory
+            crunchbase_data:
+              name: InterOperability Laboratory
+              description: IOL provides independent, broad-based interoperability and conformance testing for data, telecom and storage networking technologies.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: https://www.iol.unh.edu/
+              city: Durham
+              region: North Carolina
+              country: United States
+              twitter: https://twitter.com/UNH_IOL
+              linkedin: https://www.linkedin.com/company/unh-interoperability-lab/
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/university-of-new-hampshire
+              funding: 958152
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Technology
+                - Virtual Reality
+              kind: funding
+            image_data:
+              fileName: unh-inter-operability-lab.svg
+              hash: 3ZdPKqZsLq7ZlfmO91npi2xKBh7fFVwdf/BUVHF5S3I=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T13:44:03.000Z
           - item:
             name: University of New Hampshire
             homepage_url: https://unh.edu/

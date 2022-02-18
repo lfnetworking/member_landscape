@@ -140,8 +140,8 @@ big_picture:
       - type: HorizontalCategory
         category: LF Networking Projects
         rows: 30
-        width: 1200
-        height: 1000
+        width: 450
+        height: 200
         top: 0
         left: 0
         color: rgb(84,125,14)

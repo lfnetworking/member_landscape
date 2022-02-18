@@ -12,6 +12,9 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/anuket
             repo_url: https://github.com/opnfv/vineperf
+            description: |
+              A common model, standardized reference infrastructure
+              specifications, and conformance and performance frameworks for VNFs & CNFs.
             additional_repos:
               - repo_url: https://github.com/opnfv/kuberef
               - repo_url: https://github.com/opnfv/functest
@@ -19,10 +22,6 @@ landscape:
               - repo_url: https://github.com/opnfv/functest-xtesting
               - repo_url: https://github.com/opnfv/cirv-sdv
               - repo_url: https://github.com/opnfv/barometer
-            extra:
-              description: |
-                A common model, standardized reference infrastructure specifications,
-                and conformance and performance frameworks for VNFs & CNFs.
           - item:
             name: EMCO
             homepage_url: https://project-emco.io/
@@ -40,6 +39,8 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/fd-io
             repo_url: https://github.com/FDio/archived-deb_dpdk
+            description: |
+              Open Source high-performance IO services framework for dynamic computing environments.
             additional_repos:
               - repo_url: https://github.com/FDio/archived-dmm
               - repo_url: https://github.com/FDio/archived-honeycomb
@@ -61,9 +62,6 @@ landscape:
               - repo_url: https://github.com/FDio/tldk
               - repo_url: https://github.com/FDio/vpp
               - repo_url: https://github.com/FDio/vsap
-            extra:
-              description: |
-                Open Source high-performance IO services framework for dynamic computing environments.
           - item:
             name: ODIM
             homepage_url: https://odim.io/
@@ -71,12 +69,12 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/odim-cb86
             repo_url: https://github.com/ODIM-Project/BMCSimulator
+            description: |
+              Open Distributed Infrastructure Manager. Multi-site, multi-vendor physical
+              infrastructure lifecycle management.
             additional_repos:
               - repo_url: https://github.com/ODIM-Project/ODIM
               - repo_url: https://github.com/ODIM-Project/PluginCiscoACI
-            extra:
-              description: |
-                Open Distributed Infrastructure Manager. Multi-site, multi-vendor physical infrastructure lifecycle management.
           - item:
             name: ONAP
             homepage_url: https://www.onap.org/
@@ -84,6 +82,9 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/onap
             repo_url: https://github.com/onap/aaf-authz
+            description: |
+              A comprehensive platform for orchestration, management, and automation
+              of network and edge computing services.
             additional_repos:
               - repo_url: https://github.com/onap/aaf-cadi
               - repo_url: https://github.com/onap/aaf-certservice
@@ -372,10 +373,6 @@ landscape:
               - repo_url: https://github.com/onap/vvp-regression-tests
               - repo_url: https://github.com/onap/vvp-test-engine
               - repo_url: https://github.com/onap/vvp-validation-scripts
-            extra:
-              description: |
-                A comprehensive platform for orchestration, management, and
-                automation of network and edge computing services.
           - item:
             name: Opendaylight
             homepage_url: https://www.opendaylight.org/
