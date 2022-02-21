@@ -1375,7 +1375,7 @@ landscape:
             type: Cloud Native
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://techhub.hpe.com/eginfolib/servers/docs/Telco/Blueprints/infocenter/index.html
-            logo: university_of_surrey.svg
+            logo: sample_logo.svg
             extra:
               description: |
                 HPE Telco Blueprints
@@ -1388,7 +1388,7 @@ landscape:
             type: Cloud Native
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://networks.nokia.com/solutions/edge-cloud
-            logo: university_of_surrey.svg
+            logo: sample_logo.svg
             extra:
               description: |
                 Nokia Edge Cloud NFVI consist of Nokia AirFrame Open
@@ -1407,7 +1407,7 @@ landscape:
             type: Cloud Native
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.lenovo.com/us/en/data-center/solutions/NFV-Solutions-for-CSPs/p/csp-solutions
-            logo: university_of_surrey.svg
+            logo: sample_logo.svg
             extra:
               description: |
                 Lenovo Select Solution for NFVI with Wind River
@@ -1436,7 +1436,7 @@ landscape:
             type: NFV
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.affirmednetworks.com
-            logo: university_of_surrey.svg
+            logo: sample_logo.svg
             extra:
               description: |
                 The CSM runs the tasks needed for call control, IP
@@ -1452,7 +1452,7 @@ landscape:
             type: NFV
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.ulakhaberlesme.com.tr/index.php/en/
-            logo: university_of_surrey.svg
+            logo: sample_logo.svg
             extra:
               description: |
                 5G CN NRF and NSSF VNF

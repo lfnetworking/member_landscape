@@ -9882,7 +9882,7 @@ landscape:
             type: Cloud Native
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://techhub.hpe.com/eginfolib/servers/docs/Telco/Blueprints/infocenter/index.html
-            logo: university_of_surrey.svg
+            logo: sample_logo.svg
             extra:
               description: |
                 HPE Telco Blueprints
@@ -9912,7 +9912,7 @@ landscape:
                 - Telecommunications
             image_data:
               fileName: hpe-telco-blueprints.svg
-              hash: RTzY7Z7B+wOZWVkBLbQg/xUb5mul3azFG6yUhvK2lQs=
+              hash: mkZvrBeS+snIFuDvYERDfYmcSnu/SiiBiHXm5+dlJQg=
             best_practice_data:
               badge: false
               percentage: null
@@ -9924,7 +9924,7 @@ landscape:
             type: Cloud Native
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://networks.nokia.com/solutions/edge-cloud
-            logo: university_of_surrey.svg
+            logo: sample_logo.svg
             extra:
               description: |
                 Nokia Edge Cloud NFVI consist of Nokia AirFrame Open
@@ -9960,7 +9960,7 @@ landscape:
                 - Telecommunications
             image_data:
               fileName: nokia-edge-cloud-nfvi.svg
-              hash: RTzY7Z7B+wOZWVkBLbQg/xUb5mul3azFG6yUhvK2lQs=
+              hash: mkZvrBeS+snIFuDvYERDfYmcSnu/SiiBiHXm5+dlJQg=
             best_practice_data:
               badge: false
               percentage: null
@@ -9972,7 +9972,7 @@ landscape:
             type: Cloud Native
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.lenovo.com/us/en/data-center/solutions/NFV-Solutions-for-CSPs/p/csp-solutions
-            logo: university_of_surrey.svg
+            logo: sample_logo.svg
             extra:
               description: |
                 Lenovo Select Solution for NFVI with Wind River
@@ -10015,7 +10015,7 @@ landscape:
                 - Telecommunications
             image_data:
               fileName: lenovo-select-solution-for-nfvi-with-wind-river-titanium-cloud.svg
-              hash: RTzY7Z7B+wOZWVkBLbQg/xUb5mul3azFG6yUhvK2lQs=
+              hash: mkZvrBeS+snIFuDvYERDfYmcSnu/SiiBiHXm5+dlJQg=
             best_practice_data:
               badge: false
               percentage: null
@@ -10030,7 +10030,7 @@ landscape:
             type: NFV
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.affirmednetworks.com
-            logo: university_of_surrey.svg
+            logo: sample_logo.svg
             extra:
               description: |
                 The CSM runs the tasks needed for call control, IP
@@ -10063,7 +10063,7 @@ landscape:
                 - Telecommunications
             image_data:
               fileName: content-service-module.svg
-              hash: RTzY7Z7B+wOZWVkBLbQg/xUb5mul3azFG6yUhvK2lQs=
+              hash: mkZvrBeS+snIFuDvYERDfYmcSnu/SiiBiHXm5+dlJQg=
             best_practice_data:
               badge: false
               percentage: null
@@ -10075,7 +10075,7 @@ landscape:
             type: NFV
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.ulakhaberlesme.com.tr/index.php/en/
-            logo: university_of_surrey.svg
+            logo: sample_logo.svg
             extra:
               description: |
                 5G CN NRF and NSSF VNF
@@ -10107,7 +10107,7 @@ landscape:
                 - Telecommunications
             image_data:
               fileName: cinar.svg
-              hash: RTzY7Z7B+wOZWVkBLbQg/xUb5mul3azFG6yUhvK2lQs=
+              hash: mkZvrBeS+snIFuDvYERDfYmcSnu/SiiBiHXm5+dlJQg=
             best_practice_data:
               badge: false
               percentage: null
