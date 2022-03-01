@@ -902,12 +902,6 @@ landscape:
             twitter: https://twitter.com/orange
             crunchbase: https://www.crunchbase.com/organization/orange
           - item:
-            name: Rakuten Group, Inc.
-            homepage_url: https://global.rakuten.com/
-            logo: rakuten_group_inc.svg
-            twitter: https://twitter.com/Rakuten
-            crunchbase: https://www.crunchbase.com/organization/rakuten
-          - item:
             name: Red Hat, Inc.
             homepage_url: https://redhat.com/
             logo: red_hat_inc.svg
