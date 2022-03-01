@@ -76,7 +76,7 @@ relation:
       label: LF Networking Members Projects/Products
       tag: LF Networking Member
     - id: false
-      lable: Non-LF Networking Members Projects/Products
+      label: Non-LF Networking Members Projects/Products
       url: 'no'
 # membership levels
 membership:
