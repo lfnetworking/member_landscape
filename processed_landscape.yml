@@ -1,6 +1,259 @@
 # THIS FILE IS GENERATED AUTOMATICALLY!
 landscape:
   - category:
+    name: Cloud/Core
+    subcategories:
+      - subcategory:
+        name: Management & Orchestration
+        items:
+          - item:
+            name: Meta
+            homepage_url: https://anuket.io/
+            logo: meta.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/facebook
+            description: |
+              Meta is a social technology company that enables
+              people to connect, find communities, and grow businesses.
+            crunchbase_data:
+              name: Meta
+              description: Meta is a social technology company that enables people to connect, find communities, and grow businesses.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://meta.com
+              city: Menlo Park
+              region: California
+              country: United States
+              twitter: https://twitter.com/Meta
+              linkedin: https://www.linkedin.com/company/meta/
+              acquisitions:
+                - date: '2007-07-01'
+                  acquiree: Parakey
+                - date: '2009-08-10'
+                  acquiree: FriendFeed
+                  price: 50000000
+                - date: '2010-02-19'
+                  acquiree: Octazen Solutions
+                - date: '2010-04-02'
+                  acquiree: Divvyshot
+                - date: '2010-05-26'
+                  acquiree: ShareGrove
+                - date: '2010-07-28'
+                  acquiree: Hot Potato
+                  price: 10000000
+                - date: '2010-08-15'
+                  acquiree: Chai Labs
+                  price: 10000000
+                - date: '2010-09-25'
+                  acquiree: Nextstop
+                  price: 2500000
+                - date: '2010-10-29'
+                  acquiree: drop.io
+                - date: '2010-11-16'
+                  acquiree: Zenbe
+                - date: '2011-01-25'
+                  acquiree: Rel8tion
+                - date: '2011-02-25'
+                  acquiree: Pursuit
+                - date: '2011-03-01'
+                  acquiree: Beluga
+                - date: '2011-03-20'
+                  acquiree: Snaptu
+                  price: 70000000
+                - date: '2011-04-27'
+                  acquiree: Daytum
+                - date: '2011-06-09'
+                  acquiree: Sofa
+                - date: '2011-08-02'
+                  acquiree: Push Pop Press
+                - date: '2011-11-07'
+                  acquiree: Digital Staircase
+                - date: '2011-11-08'
+                  acquiree: Strobe
+                - date: '2011-11-15'
+                  acquiree: MailRank
+                - date: '2011-11-28'
+                  acquiree: WhoGlue
+                - date: '2011-12-02'
+                  acquiree: Gowalla (acquired by facebook)
+                  price: 3000000
+                - date: '2012-02-29'
+                  acquiree: Sendoid
+                - date: '2012-03-03'
+                  acquiree: Friend.ly
+                - date: '2012-03-10'
+                  acquiree: GazeHawk
+                - date: '2012-04-09'
+                  acquiree: Instagram
+                  price: 1010470000
+                - date: '2012-04-13'
+                  acquiree: Tagtile
+                - date: '2012-05-04'
+                  acquiree: Glancee
+                - date: '2012-05-15'
+                  acquiree: Lightbox
+                - date: '2012-05-18'
+                  acquiree: Karma
+                - date: '2012-06-11'
+                  acquiree: Pieceable
+                - date: '2012-06-18'
+                  acquiree: Face.com
+                - date: '2012-06-21'
+                  acquiree: Bolt | Peters
+                - date: '2012-07-14'
+                  acquiree: Spool
+                - date: '2012-07-20'
+                  acquiree: Acrylic Software
+                - date: '2012-08-24'
+                  acquiree: threadsy
+                - date: '2013-02-28'
+                  acquiree: Atlas Solutions
+                - date: '2013-03-08'
+                  acquiree: Storylane
+                - date: '2013-03-14'
+                  acquiree: Hot Studio
+                - date: '2013-04-11'
+                  acquiree: Osmeta
+                - date: '2013-04-23'
+                  acquiree: Spaceport.io
+                - date: '2013-04-25'
+                  acquiree: Parse
+                  price: 85000000
+                - date: '2013-07-18'
+                  acquiree: Monoidics
+                - date: '2013-08-12'
+                  acquiree: Jibbigo
+                - date: '2013-10-14'
+                  acquiree: Onavo
+                  price: 120000000
+                - date: '2013-12-17'
+                  acquiree: SportStream
+                - date: '2014-01-13'
+                  acquiree: Branch
+                  price: 15000000
+                - date: '2014-02-19'
+                  acquiree: WhatsApp
+                  price: 19000000000
+                - date: '2014-03-25'
+                  acquiree: Oculus
+                  price: 2000000000
+                - date: '2014-03-28'
+                  acquiree: Ascenta (UK)
+                  price: 20000000
+                - date: '2014-04-24'
+                  acquiree: Moves
+                - date: '2014-04-24'
+                  acquiree: ProtoGeo
+                - date: '2014-06-14'
+                  acquiree: Pryte
+                - date: '2014-07-01'
+                  acquiree: Little Eye Labs
+                - date: '2014-08-07'
+                  acquiree: PrivateCore
+                - date: '2014-08-14'
+                  acquiree: LiveRail
+                  price: 500000000
+                - date: '2015-01-05'
+                  acquiree: Wit.ai
+                - date: '2015-01-08'
+                  acquiree: QuickFire Networks
+                - date: '2015-01-16'
+                  acquiree: Teehan+Lax
+                - date: '2015-03-13'
+                  acquiree: TheFind, Inc.
+                - date: '2015-05-20'
+                  acquiree: Tugboat Yards
+                - date: '2015-10-05'
+                  acquiree: Endaga
+                - date: '2016-03-09'
+                  acquiree: Masquerade
+                - date: '2016-05-23'
+                  acquiree: Two Big Ears Ltd
+                - date: '2016-08-08'
+                  acquiree: Eyegroove
+                - date: '2016-09-19'
+                  acquiree: Nascent Objects Inc
+                - date: '2016-11-11'
+                  acquiree: CrowdTangle
+                - date: '2017-07-24'
+                  acquiree: Source3
+                - date: '2017-07-31'
+                  acquiree: Ozlo
+                - date: '2017-08-11'
+                  acquiree: Fayteq AG
+                - date: '2017-10-16'
+                  acquiree: tbh
+                - date: '2018-01-23'
+                  acquiree: Confirm
+                - date: '2018-07-02'
+                  acquiree: Bloomsbury AI
+                - date: '2018-07-26'
+                  acquiree: RedKix
+                - date: '2018-08-14'
+                  acquiree: Vidpresso
+                - date: '2018-10-01'
+                  acquiree: Refdash
+                - date: '2018-11-28'
+                  acquiree: Dreambit
+                - date: '2019-02-08'
+                  acquiree: Grokstyle
+                - date: '2019-03-13'
+                  acquiree: Sonics
+                - date: '2019-09-22'
+                  acquiree: Servicefriend
+                - date: '2019-09-23'
+                  acquiree: CTRL-labs
+                - date: '2019-12-13'
+                  acquiree: Atlas ML
+                - date: '2019-12-19'
+                  acquiree: PlayGiga
+                - date: '2019-12-20'
+                  acquiree: Packagd
+                - date: '2020-02-09'
+                  acquiree: Scape Technologies
+                - date: '2020-02-25'
+                  acquiree: Sanzaru Games
+                - date: '2020-05-15'
+                  acquiree: Giphy
+                  price: 400000000
+                - date: '2020-06-18'
+                  acquiree: Mapillary
+                - date: '2020-09-22'
+                  acquiree: Lemnis Technologies
+                - date: '2020-11-30'
+                  acquiree: Kustomer
+                  price: 1000000000
+                - date: '2021-06-04'
+                  acquiree: Unit 2 Games
+                - date: '2021-10-12'
+                  acquiree: AI.Reverie
+                - date: '2021-10-29'
+                  acquiree: Within (VR/AR)
+                - date: '2021-12-21'
+                  acquiree: ImagineOptix
+              parents: []
+              ticker: FB
+              funding: 16122817488
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Augmented Reality
+                - Social Media
+                - Social Network
+                - Virtual Reality
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 544551305216
+              effective_ticker: FB
+            image_data:
+              fileName: meta.svg
+              hash: bL+0ciQVVML7W77Bhq7k0JGsbo1+Dlodsdfz9zneuNU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-09-16T17:30:00.000Z
+  - category:
     name: LF Networking Projects
     subcategories:
       - subcategory:
@@ -1507,280 +1760,6 @@ landscape:
             image_data:
               fileName: opendaylight.svg
               hash: iqY4b/vvQwUODgTRPZSQY6D8JSEm1vlaPJyYF+Ipeow=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-09-16T17:30:00.000Z
-          - item:
-            name: PNDA
-            homepage_url: http://pnda.io/
-            logo: pnda_logo.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/pnda
-            repo_url: https://github.com/pndaproject/platform-salt
-            description: |
-              Scalable big data analytics platform for networks and services.
-            crunchbase_data:
-              name: PNDA
-              description: Scalable big data analytics platform for networks and services.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: http://pnda.io
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: Non Profit
-              industries: []
-            github_data:
-              languages:
-                - name: Java
-                  value: 7393072
-                  color: '#b07219'
-                - name: Python
-                  value: 1056047
-                  color: '#3572A5'
-                - name: Jupyter Notebook
-                  value: 604375
-                  color: '#DA5B0B'
-                - name: JavaScript
-                  value: 523349
-                  color: '#f1e05a'
-                - name: Smarty
-                  value: 483609
-                - name: PHP
-                  value: 449371
-                  color: '#4F5D95'
-                - name: CSS
-                  value: 317053
-                  color: '#563d7c'
-                - name: Shell
-                  value: 275023
-                  color: '#89e051'
-                - name: SaltStack
-                  value: 225987
-                  color: '#646464'
-                - name: HTML
-                  value: 111560
-                  color: '#e34c26'
-                - name: Go
-                  value: 71000
-                  color: '#00ADD8'
-                - name: HCL
-                  value: 54454
-                - name: Scala
-                  value: 43076
-                  color: '#c22d40'
-                - name: Dockerfile
-                  value: 18872
-                  color: '#384d54'
-                - name: Scheme
-                  value: 8737
-                  color: '#1e4aec'
-                - name: Makefile
-                  value: 6966
-                  color: '#427819'
-                - name: Ruby
-                  value: 6240
-                  color: '#701516'
-                - name: XSLT
-                  value: 2760
-                  color: '#EB8CEB'
-                - name: PLSQL
-                  value: 749
-                  color: '#dad8d8'
-                - name: Roff
-                  value: 202
-                  color: '#ecdebe'
-                - name: C++
-                  value: 40
-                  color: '#f34b7d'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-02-07Z
-              stars: 179
-              license: Other
-              description: Salt scripts that install PNDA components
-              latest_commit_date: '2019-05-14T08:24:26Z'
-              latest_commit_link: /pndaproject/platform-salt/commit/911b1be9c48336f789a1492bf3ad811000836111
-              release_date: '2017-12-07T09:41:49Z'
-              release_link: https://github.com/pndaproject/platform-salt/releases
-              contributors_count: 242
-              contributors_link: https://github.com/pndaproject/platform-salt/graphs/contributors
-            repos:
-              - url: https://github.com/pndaproject/platform-salt
-                stars: 9
-              - url: https://github.com/pndaproject/pnda
-                stars: 48
-              - url: https://github.com/pndaproject/pnda-guide
-                stars: 41
-              - url: https://github.com/pndaproject/red-pnda
-                stars: 24
-              - url: https://github.com/pndaproject/example-kafka-clients
-                stars: 9
-              - url: https://github.com/pndaproject/example-applications
-                stars: 8
-              - url: https://github.com/pndaproject/platform-console-frontend
-                stars: 6
-              - url: https://github.com/pndaproject/pnda-aws-templates
-                stars: 5
-              - url: https://github.com/pndaproject/pnda-helm-repo
-                stars: 4
-              - url: https://github.com/pndaproject/platform-data-mgmnt
-                stars: 3
-              - url: https://github.com/pndaproject/pnda-helm-chart
-                stars: 3
-              - url: https://github.com/pndaproject/pnda-cli
-                stars: 3
-              - url: https://github.com/pndaproject/platform-deployment-manager
-                stars: 2
-              - url: https://github.com/pndaproject/platform-gobblin-modules
-                stars: 2
-              - url: https://github.com/pndaproject/logstash-codec-pnda-avro
-                stars: 2
-              - url: https://github.com/pndaproject/pnda-heat-templates
-                stars: 2
-              - url: https://github.com/pndaproject/pnda-dib-elements
-                stars: 2
-              - url: https://github.com/pndaproject/platform-salt-cloud
-                stars: 2
-              - url: https://github.com/pndaproject/platform-package-repository
-                stars: 1
-              - url: https://github.com/pndaproject/gobblin
-                stars: 1
-              - url: https://github.com/pndaproject/magent
-                stars: 1
-              - url: https://github.com/pndaproject/odl-kafka-plugin
-                stars: 1
-              - url: https://github.com/pndaproject/platform-testing
-                stars: 0
-              - url: https://github.com/pndaproject/platform-console-backend
-                stars: 0
-              - url: https://github.com/pndaproject/hub
-                stars: 0
-              - url: https://github.com/pndaproject/platform-tools
-                stars: 0
-              - url: https://github.com/pndaproject/platform-libraries
-                stars: 0
-              - url: https://github.com/pndaproject/pnda-website
-                stars: 0
-              - url: https://github.com/pndaproject/pnda-quickstart
-                stars: 0
-            github_start_commit_data:
-              start_commit_link: /pndaproject/gobblin/commit/2425aa4efb9645516a5555a165fd5d26d515f1bd
-              start_date: '2014-02-04T23:07:00Z'
-            image_data:
-              fileName: pnda.svg
-              hash: pOSEQcr3dihswIUBTYw9O9si70JN20CP0hz2Di7YQH8=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-09-16T17:30:00.000Z
-          - item:
-            name: SNAS
-            homepage_url: https://www.snas.io/
-            logo: SNAS_logo.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/snas
-            repo_url: https://github.com/SNAS/openbmp
-            description: |
-              Distributed, low-footprint collector leveraging high performing
-              message bus for real-time BGP predictive analytics.
-            crunchbase_data:
-              name: SNAS
-              description: Distributed, low-footprint collector leveraging high performing message bus for real-time BGP predictive analytics.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://www.snas.io
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: Non Profit
-              industries: []
-            github_data:
-              languages:
-                - name: C++
-                  value: 738205
-                  color: '#f34b7d'
-                - name: JavaScript
-                  value: 634236
-                  color: '#f1e05a'
-                - name: Java
-                  value: 388419
-                  color: '#b07219'
-                - name: Python
-                  value: 299027
-                  color: '#3572A5'
-                - name: HTML
-                  value: 172461
-                  color: '#e34c26'
-                - name: Shell
-                  value: 127957
-                  color: '#89e051'
-                - name: CSS
-                  value: 111955
-                  color: '#563d7c'
-                - name: SQLPL
-                  value: 60504
-                - name: PLpgSQL
-                  value: 49816
-                - name: ApacheConf
-                  value: 24139
-                - name: CMake
-                  value: 14822
-                - name: Dockerfile
-                  value: 6722
-                  color: '#384d54'
-              contributions: 0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-02-07Z
-              stars: 275
-              license: Eclipse Public License 1.0
-              description: OpenBMP Server Collector
-              latest_commit_date: '2018-03-06T18:31:59Z'
-              latest_commit_link: /SNAS/openbmp/commit/1a615a3c75a0143cc87ec70458471f0af67d3929
-              release_date: '2018-03-06T20:31:17Z'
-              release_link: https://github.com/SNAS/openbmp/releases
-              contributors_count: 28
-              contributors_link: https://github.com/SNAS/openbmp/graphs/contributors
-            repos:
-              - url: https://github.com/SNAS/openbmp
-                stars: 213
-              - url: https://github.com/SNAS/docker
-                stars: 21
-              - url: https://github.com/SNAS/openbmp-mysql-consumer
-                stars: 10
-              - url: https://github.com/SNAS/obmp-grafana
-                stars: 8
-              - url: https://github.com/SNAS/openbmp-java-api-message
-                stars: 6
-              - url: https://github.com/SNAS/openbmp-python-api-message
-                stars: 6
-              - url: https://github.com/SNAS/openbmp-mrt2bmp
-                stars: 4
-              - url: https://github.com/SNAS/website
-                stars: 4
-              - url: https://github.com/SNAS/ui
-                stars: 2
-              - url: https://github.com/SNAS/obmp-postgres
-                stars: 1
-              - url: https://github.com/SNAS/openbmp-translator
-                stars: 0
-            github_start_commit_data:
-              start_commit_link: /SNAS/openbmp/commit/1bdce81a9a4bfc3fb045e453dfec5e4dc18914a5
-              start_date: '2014-06-25T00:41:40Z'
-            image_data:
-              fileName: snas.svg
-              hash: NtU8AV1WrWDPY2J4MOCbDPVtPv4nCWoI/rZgwxojUJo=
             best_practice_data:
               badge: false
               percentage: null
@@ -5653,123 +5632,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-17T15:20:24.000Z
-          - item:
-            name: Rakuten Group, Inc.
-            homepage_url: https://global.rakuten.com/
-            logo: rakuten_group_inc.svg
-            twitter: https://twitter.com/Rakuten
-            crunchbase: https://www.crunchbase.com/organization/rakuten
-            crunchbase_data:
-              name: Rakuten
-              description: Rakuten is a provider of e-commerce, fintech, digital content, and communications products and services.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://global.rakuten.com
-              city: Tokyo
-              region: Tokyo
-              country: Japan
-              twitter: http://twitter.com/RakutenGlobal
-              linkedin: https://www.linkedin.com/company/rakuten
-              acquisitions:
-                - date: '2005-02-01'
-                  acquiree: LinkShare Corporation
-                - date: '2005-09-05'
-                  acquiree: Rakuten Affiliate Network
-                  price: 425000000
-                - date: '2010-03-18'
-                  acquiree: eBank
-                - date: '2010-05-20'
-                  acquiree: Buy.com
-                - date: '2010-06-17'
-                  acquiree: Rakuten France
-                  price: 247476360
-                - date: '2011-06-07'
-                  acquiree: Ikeda
-                - date: '2011-07-01'
-                  acquiree: Tradoria
-                - date: '2011-09-21'
-                  acquiree: Play.com
-                - date: '2011-11-08'
-                  acquiree: Kobo
-                - date: '2012-06-13'
-                  acquiree: wuaki.tv
-                - date: '2012-11-06'
-                  acquiree: Alpha Direct Services
-                - date: '2013-03-27'
-                  acquiree: Rakuten Life Insurance Co., Ltd.
-                - date: '2013-06-05'
-                  acquiree: Webgistix
-                - date: '2013-09-01'
-                  acquiree: Viki
-                - date: '2013-10-15'
-                  acquiree: Spotlight
-                - date: '2014-02-03'
-                  acquiree: VI-VI-VI.COM Co.,Ltd.
-                - date: '2014-02-14'
-                  acquiree: Viber
-                  price: 900000000
-                - date: '2014-05-29'
-                  acquiree: DC Storm Limited
-                - date: '2014-07-17'
-                  acquiree: AIP Corporation
-                - date: '2014-08-11'
-                  acquiree: Slice Technologies
-                - date: '2014-09-08'
-                  acquiree: Rakuten Rewards
-                  price: 1000000000
-                - date: '2014-11-13'
-                  acquiree: Lubic Co., Ltd.
-                - date: '2014-12-08'
-                  acquiree: Crimson Football Club, Inc.
-                - date: '2015-03-19'
-                  acquiree: Overdrive
-                  price: 410000000
-                - date: '2015-07-01'
-                  acquiree: Voyagin
-                - date: '2015-07-13'
-                  acquiree: Rakuten Fits Me
-                - date: '2015-09-16'
-                  acquiree: World Travel System
-                - date: '2015-12-28'
-                  acquiree: Hunglead
-                - date: '2016-09-05'
-                  acquiree: Fablic
-                - date: '2016-10-28'
-                  acquiree: Soukai Drug
-                - date: '2018-01-29'
-                  acquiree: Asahi Fire & Marine Insurance Co.
-                - date: '2018-06-08'
-                  acquiree: Rakuten Ready
-                - date: '2018-07-05'
-                  acquiree: LOB Inc.
-                - date: '2020-05-13'
-                  acquiree: InnoEye Technologies
-                - date: '2020-12-03'
-                  acquiree: 'Fillr: Autofill as a Service'
-                - date: '2021-08-04'
-                  acquiree: Altiostar Networks
-                  price: 1000000000
-              parents: []
-              ticker: 4755.T
-              funding: 2262583516
-              stockExchange: tyo
-              company_type: For Profit
-              industries:
-                - E-Commerce
-                - Electronics
-                - FinTech
-                - Internet
-                - Payments
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 12871026184
-              effective_ticker: 4755.T
-            image_data:
-              fileName: rakuten-group-inc.svg
-              hash: rfX7HZCBG/6NarGj/LumlmyUIVVIv6ghfS7ZZE5dxik=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: Red Hat, Inc.
             homepage_url: https://redhat.com/

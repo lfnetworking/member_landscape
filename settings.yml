@@ -318,6 +318,39 @@ big_picture:
             right: 10
             top: 10
             title: LFN Logo
+  super-blueprint:
+    tab_index: 3
+    url: super-blueprint
+    name: 5G Super Blueprint
+    title: 5G Super Blueprint
+    fullscreen_header: See the members interactive display at <yet to be defined>
+    category: Cloud/Core
+    elements:
+      - type: LandscapeInfo
+        width: 500
+        height: 50
+        top: 0
+        left: 0
+        color: '#1B446C'
+        key: 'cn'
+        children:
+          - type: text
+            text: Cloud/Core
+            font_size: 18
+            color: '#1B446C'
+            top: 0
+            left: 200
+            right: 10
+      - type: HorizontalCategory
+        category: Management & Orchestration
+        rows: 2
+        width: 500
+        height: 200
+        top: 60
+        left: 0
+        color: '#c5c4c2'
+        fit_width: true
+        is_large: true
 # test to make sure the build worked. Identify one landscape item that you know will always be there, preferably towards the top of the rendering
 test:
   header: Linux Foundation Networking Landscape
