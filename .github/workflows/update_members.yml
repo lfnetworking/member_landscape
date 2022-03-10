@@ -2,9 +2,9 @@ name: Update members
 
 on:
   workflow_dispatch:
-    schedule:
-      # Run a build everyday at 10AM PST
-      - cron: '0 17 * * *'
+  schedule:
+    # Run a build everyday at 10AM PST
+    - cron: '0 17 * * *'
 
 jobs:
   build:
