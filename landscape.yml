@@ -7,9 +7,9 @@ landscape:
         items:
           - item:
             name: Meta
-            homepage_url: https://anuket.io/
+            homepage_url: https://about.facebook.com/meta/
             logo: meta.svg
-            twitter: https://twitter.com/LF_Networking
+            twitter: https://twitter.com/meta
             crunchbase: https://www.crunchbase.com/organization/facebook
             description: |
               Meta is a social technology company that enables
