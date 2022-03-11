@@ -132,15 +132,46 @@ big_picture:
     fullscreen_header: See the interactive landscape at <yet to be defined>
     # add one element for each category in landscape.yml
     elements:
-      - type: VerticalCategory
-        category: LF Networking Member Roster
+      - type: HorizontalCategory
+        category: LF Networking Projects
         rows: 30
-        width: 1200
-        height: 1000
+        width: 450
+        height: 200
         top: 0
         left: 0
+        color: rgb(84,125,14)
+        fit_width: true
+        is_large: true
+      - type: HorizontalCategory
+        category: Other Linux Foundation Hosted Networking Projects
+        rows: 30
+        width: 450
+        height: 200
+        top: 0
+        left: 460
+        color: rgb(14,125,77)
+        fit_width: true
+        is_large: true
+      - type: HorizontalCategory
+        category: Standards Developing Organizations (SDOs)
+        rows: 30
+        width: 450
+        height: 200
+        top: 220
+        left: 0
+        color: rgb(125,14,51)
+        fit_width: true
+        is_large: true
+      - type: HorizontalCategory
+        category: Linux Foundation Sister Communities
+        rows: 30
+        width: 450
+        height: 200
+        top: 220
+        left: 460
         color: rgb(126,115,14)
         fit_width: true
+        is_large: true
   members:
     tab_index: 1
     url: members

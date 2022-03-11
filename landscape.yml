@@ -1,5 +1,762 @@
 landscape:
   - category:
+    name: LF Networking Projects
+    subcategories:
+      - subcategory:
+        name: LF Networking Projects
+        items:
+          - item:
+            name: Anuket
+            homepage_url: https://anuket.io/
+            logo: anuket-01.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/anuket
+            repo_url: https://github.com/opnfv/vineperf
+            description: |
+              A common model, standardized reference infrastructure
+              specifications, and conformance and performance frameworks for VNFs & CNFs.
+            additional_repos:
+              - repo_url: https://github.com/opnfv/kuberef
+              - repo_url: https://github.com/opnfv/functest
+              - repo_url: https://github.com/opnfv/functest-kubernetes
+              - repo_url: https://github.com/opnfv/functest-xtesting
+              - repo_url: https://github.com/opnfv/cirv-sdv
+              - repo_url: https://github.com/opnfv/barometer
+          - item:
+            name: EMCO
+            homepage_url: https://project-emco.io/
+            logo: EMCO.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/the-edge-multi-cluster-orchestrator-emco
+            extra:
+              description: |
+                A universal control plane to securely connect and deploy workloads
+                across public clouds, private clouds and edge locations.
+          - item:
+            name: FD.io
+            homepage_url: https://fd.io/
+            logo: logo_fdio.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/fd-io
+            repo_url: https://github.com/FDio/archived-deb_dpdk
+            description: |
+              Open Source high-performance IO services framework for dynamic computing environments.
+            additional_repos:
+              - repo_url: https://github.com/FDio/archived-dmm
+              - repo_url: https://github.com/FDio/archived-honeycomb
+              - repo_url: https://github.com/FDio/archived-jvpp
+              - repo_url: https://github.com/FDio/archived-nsh_sfc
+              - repo_url: https://github.com/FDio/archived-odp4vpp
+              - repo_url: https://github.com/FDio/archived-pma_tools
+              - repo_url: https://github.com/FDio/archived-puppet-fdio
+              - repo_url: https://github.com/FDio/archived-rpm_dpdk
+              - repo_url: https://github.com/FDio/archived-sweetcomb
+              - repo_url: https://github.com/FDio/archived-trex
+              - repo_url: https://github.com/FDio/ci-management
+              - repo_url: https://github.com/FDio/cicn
+              - repo_url: https://github.com/FDio/csit
+              - repo_url: https://github.com/FDio/govpp
+              - repo_url: https://github.com/FDio/hc2vpp
+              - repo_url: https://github.com/FDio/hicn
+              - repo_url: https://github.com/FDio/site
+              - repo_url: https://github.com/FDio/tldk
+              - repo_url: https://github.com/FDio/vpp
+              - repo_url: https://github.com/FDio/vsap
+          - item:
+            name: ODIM
+            homepage_url: https://odim.io/
+            logo: odim-color-1.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/odim-cb86
+            repo_url: https://github.com/ODIM-Project/BMCSimulator
+            description: |
+              Open Distributed Infrastructure Manager. Multi-site, multi-vendor physical
+              infrastructure lifecycle management.
+            additional_repos:
+              - repo_url: https://github.com/ODIM-Project/ODIM
+              - repo_url: https://github.com/ODIM-Project/PluginCiscoACI
+          - item:
+            name: ONAP
+            homepage_url: https://www.onap.org/
+            logo: onap_logo.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/onap
+            repo_url: https://github.com/onap/aaf-authz
+            description: |
+              A comprehensive platform for orchestration, management, and automation
+              of network and edge computing services.
+            additional_repos:
+              - repo_url: https://github.com/onap/aaf-cadi
+              - repo_url: https://github.com/onap/aaf-certservice
+              - repo_url: https://github.com/onap/aaf-oom
+              - repo_url: https://github.com/onap/aai-aai-common
+              - repo_url: https://github.com/onap/aai-babel
+              - repo_url: https://github.com/onap/aai-cacher
+              - repo_url: https://github.com/onap/aai-chameleon
+              - repo_url: https://github.com/onap/aai-champ
+              - repo_url: https://github.com/onap/aai-eis
+              - repo_url: https://github.com/onap/aai-enricher
+              - repo_url: https://github.com/onap/aai-event-client
+              - repo_url: https://github.com/onap/aai-gallifrey
+              - repo_url: https://github.com/onap/aai-gap
+              - repo_url: https://github.com/onap/aai-gizmo
+              - repo_url: https://github.com/onap/aai-graphadmin
+              - repo_url: https://github.com/onap/aai-graphgraph
+              - repo_url: https://github.com/onap/aai-logging-service
+              - repo_url: https://github.com/onap/aai-model-loader
+              - repo_url: https://github.com/onap/aai-oom
+              - repo_url: https://github.com/onap/aai-resources
+              - repo_url: https://github.com/onap/aai-rest-client
+              - repo_url: https://github.com/onap/aai-router-core
+              - repo_url: https://github.com/onap/aai-schema-service
+              - repo_url: https://github.com/onap/aai-sparky-be
+              - repo_url: https://github.com/onap/aai-sparky-fe
+              - repo_url: https://github.com/onap/aai-spike
+              - repo_url: https://github.com/onap/aai-tabular-data-service
+              - repo_url: https://github.com/onap/aai-test-config
+              - repo_url: https://github.com/onap/aai-traversal
+              - repo_url: https://github.com/onap/aai-validation
+              - repo_url: https://github.com/onap/appc
+              - repo_url: https://github.com/onap/appc-oom
+              - repo_url: https://github.com/onap/ccsdk-apps
+              - repo_url: https://github.com/onap/ccsdk-cds
+              - repo_url: https://github.com/onap/ccsdk-dashboard
+              - repo_url: https://github.com/onap/ccsdk-distribution
+              - repo_url: https://github.com/onap/ccsdk-features
+              - repo_url: https://github.com/onap/ccsdk-oran
+              - repo_url: https://github.com/onap/ccsdk-parent
+              - repo_url: https://github.com/onap/ccsdk-platform-blueprints
+              - repo_url: https://github.com/onap/ccsdk-platform-nbapi
+              - repo_url: https://github.com/onap/ccsdk-platform-plugins
+              - repo_url: https://github.com/onap/ccsdk-sli
+              - repo_url: https://github.com/onap/ccsdk-storage-esaas
+              - repo_url: https://github.com/onap/ccsdk-storage-pgaas
+              - repo_url: https://github.com/onap/ccsdk-utils
+              - repo_url: https://github.com/onap/ci-management
+              - repo_url: https://github.com/onap/clamp
+              - repo_url: https://github.com/onap/clamp-dashboard
+              - repo_url: https://github.com/onap/clamp-oom
+              - repo_url: https://github.com/onap/clamp-ui
+              - repo_url: https://github.com/onap/cli
+              - repo_url: https://github.com/onap/cli-oom
+              - repo_url: https://github.com/onap/cps
+              - repo_url: https://github.com/onap/cps-cps-tbdmt
+              - repo_url: https://github.com/onap/cps-cps-temporal
+              - repo_url: https://github.com/onap/cps-ncmp-dmi-plugin
+              - repo_url: https://github.com/onap/dcae-apod-cdap
+              - repo_url: https://github.com/onap/dcaegen2
+              - repo_url: https://github.com/onap/dcaegen2-analytics
+              - repo_url: https://github.com/onap/dcaegen2-analytics-flink
+              - repo_url: https://github.com/onap/dcaegen2-analytics-pnda
+              - repo_url: https://github.com/onap/dcaegen2-analytics-tca
+              - repo_url: https://github.com/onap/dcaegen2-analytics-tca-gen2
+              - repo_url: https://github.com/onap/dcaegen2-collectors
+              - repo_url: https://github.com/onap/dcaegen2-collectors-datafile
+              - repo_url: https://github.com/onap/dcaegen2-collectors-hv-ves
+              - repo_url: https://github.com/onap/dcaegen2-collectors-restconf
+              - repo_url: https://github.com/onap/dcaegen2-collectors-snmptrap
+              - repo_url: https://github.com/onap/dcaegen2-collectors-ves
+              - repo_url: https://github.com/onap/dcaegen2-deployments
+              - repo_url: https://github.com/onap/dcaegen2-oom
+              - repo_url: https://github.com/onap/dcaegen2-platform
+              - repo_url: https://github.com/onap/dcaegen2-platform-blueprints
+              - repo_url: https://github.com/onap/dcaegen2-platform-cdapbroker
+              - repo_url: https://github.com/onap/dcaegen2-platform-cli
+              - repo_url: https://github.com/onap/dcaegen2-platform-configbinding
+              - repo_url: https://github.com/onap/dcaegen2-platform-deployment-handler
+              - repo_url: https://github.com/onap/dcaegen2-platform-inventory-api
+              - repo_url: https://github.com/onap/dcaegen2-platform-plugins
+              - repo_url: https://github.com/onap/dcaegen2-platform-policy-handler
+              - repo_url: https://github.com/onap/dcaegen2-platform-servicechange-handler
+              - repo_url: https://github.com/onap/dcaegen2-platform-ves-openapi-manager
+              - repo_url: https://github.com/onap/dcaegen2-services
+              - repo_url: https://github.com/onap/dcaegen2-services-heartbeat
+              - repo_url: https://github.com/onap/dcaegen2-services-mapper
+              - repo_url: https://github.com/onap/dcaegen2-services-pm-mapper
+              - repo_url: https://github.com/onap/dcaegen2-services-prh
+              - repo_url: https://github.com/onap/dcaegen2-services-sdk
+              - repo_url: https://github.com/onap/dcaegen2-services-son-handler
+              - repo_url: https://github.com/onap/dcaegen2-utils
+              - repo_url: https://github.com/onap/dmaap-buscontroller
+              - repo_url: https://github.com/onap/dmaap-datarouter
+              - repo_url: https://github.com/onap/dmaap-kafka11aaf
+              - repo_url: https://github.com/onap/dmaap-messagerouter-dmaapclient
+              - repo_url: https://github.com/onap/dmaap-messagerouter-messageservice
+              - repo_url: https://github.com/onap/dmaap-messagerouter-mirroragent
+              - repo_url: https://github.com/onap/dmaap-messagerouter-msgrtr
+              - repo_url: https://github.com/onap/dmaap-oom
+              - repo_url: https://github.com/onap/dmaap-zookeeper
+              - repo_url: https://github.com/onap/doc
+              - repo_url: https://github.com/onap/doc-tools
+              - repo_url: https://github.com/onap/esr-oom
+              - repo_url: https://github.com/onap/externalapi-nbi
+              - repo_url: https://github.com/onap/holmes-common
+              - repo_url: https://github.com/onap/holmes-engine-management
+              - repo_url: https://github.com/onap/holmes-rule-management
+              - repo_url: https://github.com/onap/integration
+              - repo_url: https://github.com/onap/integration-benchmark
+              - repo_url: https://github.com/onap/integration-csit
+              - repo_url: https://github.com/onap/integration-data-provider
+              - repo_url: https://github.com/onap/integration-devtool
+              - repo_url: https://github.com/onap/integration-ieft-actn-tools
+              - repo_url: https://github.com/onap/integration-ietf-actn-tools
+              - repo_url: https://github.com/onap/integration-seccom
+              - repo_url: https://github.com/onap/integration-simulators-5G-core-nf-simulator
+              - repo_url: https://github.com/onap/integration-simulators-A1-policy-enforcement-simulator
+              - repo_url: https://github.com/onap/integration-simulators-core-nssmf-simulator
+              - repo_url: https://github.com/onap/integration-simulators-dc-simulator
+              - repo_url: https://github.com/onap/integration-simulators-masspnf-simulator
+              - repo_url: https://github.com/onap/integration-simulators-nf-simulator
+              - repo_url: https://github.com/onap/integration-simulators-nf-simulator-avcn-manager
+              - repo_url: https://github.com/onap/integration-simulators-nf-simulator-netconf-server
+              - repo_url: https://github.com/onap/integration-simulators-nf-simulator-pm-https-server
+              - repo_url: https://github.com/onap/integration-simulators-nf-simulator-ves-client
+              - repo_url: https://github.com/onap/integration-simulators-pnf-simulator
+              - repo_url: https://github.com/onap/integration-simulators-ran-nssmf-simulator
+              - repo_url: https://github.com/onap/integration-simulators-ran-simulator
+              - repo_url: https://github.com/onap/integration-terraform
+              - repo_url: https://github.com/onap/integration-terragrunt
+              - repo_url: https://github.com/onap/integration-usecases-A1-policy-enforcement
+              - repo_url: https://github.com/onap/integration-usecases-A1-policy-enforcement-r-apps
+              - repo_url: https://github.com/onap/integration-usecases-mdons
+              - repo_url: https://github.com/onap/integration-xtesting
+              - repo_url: https://github.com/onap/logging-analytics
+              - repo_url: https://github.com/onap/logging-analytics-pomba
+              - repo_url: https://github.com/onap/logging-analytics-pomba-pomba-aai-context-builder
+              - repo_url: https://github.com/onap/logging-analytics-pomba-pomba-audit-common
+              - repo_url: https://github.com/onap/logging-analytics-pomba-pomba-context-aggregator
+              - repo_url: https://github.com/onap/logging-analytics-pomba-pomba-network-discovery-context-builder
+              - repo_url: https://github.com/onap/logging-analytics-pomba-pomba-sdc-context-builder
+              - repo_url: https://github.com/onap/logging-analytics-pomba-pomba-sdnc-context-builder
+              - repo_url: https://github.com/onap/modeling-etsicatalog
+              - repo_url: https://github.com/onap/modeling-genericparser
+              - repo_url: https://github.com/onap/modeling-modelspec
+              - repo_url: https://github.com/onap/modeling-toscaparsers
+              - repo_url: https://github.com/onap/msb-apigateway
+              - repo_url: https://github.com/onap/msb-discovery
+              - repo_url: https://github.com/onap/msb-java-sdk
+              - repo_url: https://github.com/onap/msb-oom
+              - repo_url: https://github.com/onap/msb-service-mesh
+              - repo_url: https://github.com/onap/msb-swagger-sdk
+              - repo_url: https://github.com/onap/multicloud-framework
+              - repo_url: https://github.com/onap/multicloud-k8s
+              - repo_url: https://github.com/onap/multicloud-oom
+              - repo_url: https://github.com/onap/multicloud-openstack
+              - repo_url: https://github.com/onap/multicloud-openstack-vmware
+              - repo_url: https://github.com/onap/multicloud-openstack-windriver
+              - repo_url: https://github.com/onap/music-distributed-kv-store
+              - repo_url: https://github.com/onap/nbi-oom
+              - repo_url: https://github.com/onap/oof-oom
+              - repo_url: https://github.com/onap/oom
+              - repo_url: https://github.com/onap/oom-consul
+              - repo_url: https://github.com/onap/oom-offline-installer
+              - repo_url: https://github.com/onap/oom-platform-cert-manager
+              - repo_url: https://github.com/onap/oom-platform-cert-service
+              - repo_url: https://github.com/onap/oom-platform-keycloak
+              - repo_url: https://github.com/onap/oom-readiness
+              - repo_url: https://github.com/onap/oom-registrator
+              - repo_url: https://github.com/onap/oom-utils
+              - repo_url: https://github.com/onap/oparent
+              - repo_url: https://github.com/onap/oparent-cia
+              - repo_url: https://github.com/onap/optf-has
+              - repo_url: https://github.com/onap/optf-osdf
+              - repo_url: https://github.com/onap/osa
+              - repo_url: https://github.com/onap/pnda-oom
+              - repo_url: https://github.com/onap/policy-apex-pdp
+              - repo_url: https://github.com/onap/policy-api
+              - repo_url: https://github.com/onap/policy-clamp
+              - repo_url: https://github.com/onap/policy-common
+              - repo_url: https://github.com/onap/policy-core
+              - repo_url: https://github.com/onap/policy-distribution
+              - repo_url: https://github.com/onap/policy-docker
+              - repo_url: https://github.com/onap/policy-drools-applications
+              - repo_url: https://github.com/onap/policy-drools-pdp
+              - repo_url: https://github.com/onap/policy-gui
+              - repo_url: https://github.com/onap/policy-models
+              - repo_url: https://github.com/onap/policy-oom
+              - repo_url: https://github.com/onap/policy-pap
+              - repo_url: https://github.com/onap/policy-parent
+              - repo_url: https://github.com/onap/policy-pdp
+              - repo_url: https://github.com/onap/policy-xacml-pdp
+              - repo_url: https://github.com/onap/pomba-oom
+              - repo_url: https://github.com/onap/portal
+              - repo_url: https://github.com/onap/portal-oom
+              - repo_url: https://github.com/onap/portal-sdk
+              - repo_url: https://github.com/onap/robot-oom
+              - repo_url: https://github.com/onap/sandbox-2
+              - repo_url: https://github.com/onap/sdc
+              - repo_url: https://github.com/onap/sdc-jtosca
+              - repo_url: https://github.com/onap/sdc-onap-ui-angular
+              - repo_url: https://github.com/onap/sdc-onap-ui-common
+              - repo_url: https://github.com/onap/sdc-sdc-be-common
+              - repo_url: https://github.com/onap/sdc-sdc-distribution-client
+              - repo_url: https://github.com/onap/sdc-sdc-docker-base
+              - repo_url: https://github.com/onap/sdc-sdc-helm-validator
+              - repo_url: https://github.com/onap/sdc-sdc-pubsub
+              - repo_url: https://github.com/onap/sdc-sdc-titan-cassandra
+              - repo_url: https://github.com/onap/sdc-sdc-tosca
+              - repo_url: https://github.com/onap/sdc-sdc-workflow-designer
+              - repo_url: https://github.com/onap/sdnc-apps
+              - repo_url: https://github.com/onap/sdnc-features
+              - repo_url: https://github.com/onap/sdnc-northbound
+              - repo_url: https://github.com/onap/sdnc-oom
+              - repo_url: https://github.com/onap/sdnc-plugins
+              - repo_url: https://github.com/onap/sniro-emulator-oom
+              - repo_url: https://github.com/onap/so
+              - repo_url: https://github.com/onap/so-adapters-so-cnf-adapter
+              - repo_url: https://github.com/onap/so-adapters-so-etsi-sol003-adapter
+              - repo_url: https://github.com/onap/so-adapters-so-etsi-sol005-adapter
+              - repo_url: https://github.com/onap/so-adapters-so-nssmf-adapter
+              - repo_url: https://github.com/onap/so-adapters-so-oof-adapter
+              - repo_url: https://github.com/onap/so-chef-repo
+              - repo_url: https://github.com/onap/so-docker-config
+              - repo_url: https://github.com/onap/so-libs
+              - repo_url: https://github.com/onap/so-oom
+              - repo_url: https://github.com/onap/so-so-admin-cockpit
+              - repo_url: https://github.com/onap/so-so-config
+              - repo_url: https://github.com/onap/so-so-etsi-nfvo
+              - repo_url: https://github.com/onap/test-oom
+              - repo_url: https://github.com/onap/testsuite
+              - repo_url: https://github.com/onap/testsuite-cds
+              - repo_url: https://github.com/onap/testsuite-cds-mock-odl
+              - repo_url: https://github.com/onap/testsuite-cds-mock-server
+              - repo_url: https://github.com/onap/testsuite-cds-mock-ssh
+              - repo_url: https://github.com/onap/testsuite-heatbridge
+              - repo_url: https://github.com/onap/testsuite-oom
+              - repo_url: https://github.com/onap/testsuite-properties
+              - repo_url: https://github.com/onap/testsuite-python-testing-utils
+              - repo_url: https://github.com/onap/testsuite-pythonsdk-tests
+              - repo_url: https://github.com/onap/testsuite-robot-utils
+              - repo_url: https://github.com/onap/ui
+              - repo_url: https://github.com/onap/ui-dmaapbc
+              - repo_url: https://github.com/onap/university
+              - repo_url: https://github.com/onap/usecase-ui
+              - repo_url: https://github.com/onap/usecase-ui-nlp
+              - repo_url: https://github.com/onap/usecase-ui-server
+              - repo_url: https://github.com/onap/uui-oom
+              - repo_url: https://github.com/onap/vfc-gvnfm-vnflcm
+              - repo_url: https://github.com/onap/vfc-gvnfm-vnfmgr
+              - repo_url: https://github.com/onap/vfc-gvnfm-vnfres
+              - repo_url: https://github.com/onap/vfc-nfvo-db
+              - repo_url: https://github.com/onap/vfc-nfvo-driver-vnfm-gvnfm
+              - repo_url: https://github.com/onap/vfc-nfvo-driver-vnfm-svnfm
+              - repo_url: https://github.com/onap/vfc-nfvo-lcm
+              - repo_url: https://github.com/onap/vfc-oom
+              - repo_url: https://github.com/onap/vid
+              - repo_url: https://github.com/onap/vid-oom
+              - repo_url: https://github.com/onap/vnfrqts-epics
+              - repo_url: https://github.com/onap/vnfrqts-guidelines
+              - repo_url: https://github.com/onap/vnfrqts-requirements
+              - repo_url: https://github.com/onap/vnfrqts-testcases
+              - repo_url: https://github.com/onap/vnfrqts-usecases
+              - repo_url: https://github.com/onap/vnfsdk-compliance
+              - repo_url: https://github.com/onap/vnfsdk-dovetail-integration
+              - repo_url: https://github.com/onap/vnfsdk-functest
+              - repo_url: https://github.com/onap/vnfsdk-lctest
+              - repo_url: https://github.com/onap/vnfsdk-model
+              - repo_url: https://github.com/onap/vnfsdk-oom
+              - repo_url: https://github.com/onap/vnfsdk-pkgtools
+              - repo_url: https://github.com/onap/vnfsdk-refrepo
+              - repo_url: https://github.com/onap/vnfsdk-validation
+              - repo_url: https://github.com/onap/vnfsdk-ves-agent
+              - repo_url: https://github.com/onap/vvp-ansible-ice-bootstrap
+              - repo_url: https://github.com/onap/vvp-cms
+              - repo_url: https://github.com/onap/vvp-devkit
+              - repo_url: https://github.com/onap/vvp-documentation
+              - repo_url: https://github.com/onap/vvp-engagementmgr
+              - repo_url: https://github.com/onap/vvp-gitlab
+              - repo_url: https://github.com/onap/vvp-image-scanner
+              - repo_url: https://github.com/onap/vvp-jenkins
+              - repo_url: https://github.com/onap/vvp-oom
+              - repo_url: https://github.com/onap/vvp-portal
+              - repo_url: https://github.com/onap/vvp-postgresql
+              - repo_url: https://github.com/onap/vvp-regression-tests
+              - repo_url: https://github.com/onap/vvp-test-engine
+              - repo_url: https://github.com/onap/vvp-validation-scripts
+          - item:
+            name: Opendaylight
+            homepage_url: https://www.opendaylight.org/
+            logo: opendaylight_logo.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/opendaylight
+            repo_url: https://github.com/opendaylight/aaa
+            additional_repos:
+              - repo_url: https://github.com/opendaylight/alt-datastores
+              - repo_url: https://github.com/opendaylight/alto
+              - repo_url: https://github.com/opendaylight/ansible
+              - repo_url: https://github.com/opendaylight/archetypes
+              - repo_url: https://github.com/opendaylight/archived-affinity
+              - repo_url: https://github.com/opendaylight/archived-armoury
+              - repo_url: https://github.com/opendaylight/archived-defense4all
+              - repo_url: https://github.com/opendaylight/archived-discovery
+              - repo_url: https://github.com/opendaylight/archived-integration
+              - repo_url: https://github.com/opendaylight/archived-net-virt-platform
+              - repo_url: https://github.com/opendaylight/archived-opendove
+              - repo_url: https://github.com/opendaylight/archived-plugin2oc
+              - repo_url: https://github.com/opendaylight/archived-tcpmd5
+              - repo_url: https://github.com/opendaylight/archived-toolkit
+              - repo_url: https://github.com/opendaylight/atrium
+              - repo_url: https://github.com/opendaylight/bgpcep
+              - repo_url: https://github.com/opendaylight/bier
+              - repo_url: https://github.com/opendaylight/capwap
+              - repo_url: https://github.com/opendaylight/cardinal
+              - repo_url: https://github.com/opendaylight/centinel
+              - repo_url: https://github.com/opendaylight/coe
+              - repo_url: https://github.com/opendaylight/controller
+              - repo_url: https://github.com/opendaylight/coretutorials
+              - repo_url: https://github.com/opendaylight/daexim
+              - repo_url: https://github.com/opendaylight/detnet
+              - repo_url: https://github.com/opendaylight/didm
+              - repo_url: https://github.com/opendaylight/dlux
+              - repo_url: https://github.com/opendaylight/dluxapps
+              - repo_url: https://github.com/opendaylight/docs
+              - repo_url: https://github.com/opendaylight/eman
+              - repo_url: https://github.com/opendaylight/faas
+              - repo_url: https://github.com/opendaylight/federation
+              - repo_url: https://github.com/opendaylight/fpc
+              - repo_url: https://github.com/opendaylight/genius
+              - repo_url: https://github.com/opendaylight/gnt
+              - repo_url: https://github.com/opendaylight/groupbasedpolicy
+              - repo_url: https://github.com/opendaylight/honeycomb-vbd
+              - repo_url: https://github.com/opendaylight/infrautils
+              - repo_url: https://github.com/opendaylight/integration-distribution
+              - repo_url: https://github.com/opendaylight/integration-packaging
+              - repo_url: https://github.com/opendaylight/integration-packaging-ansible-opendaylight
+              - repo_url: https://github.com/opendaylight/integration-packaging-puppet-opendaylight
+              - repo_url: https://github.com/opendaylight/integration-test
+              - repo_url: https://github.com/opendaylight/iotdm
+              - repo_url: https://github.com/opendaylight/jsonrpc
+              - repo_url: https://github.com/opendaylight/l2switch
+              - repo_url: https://github.com/opendaylight/lacp
+              - repo_url: https://github.com/opendaylight/lispflowmapping
+              - repo_url: https://github.com/opendaylight/mdsal
+              - repo_url: https://github.com/opendaylight/messaging4transport
+              - repo_url: https://github.com/opendaylight/natapp
+              - repo_url: https://github.com/opendaylight/nemo
+              - repo_url: https://github.com/opendaylight/netconf
+              - repo_url: https://github.com/opendaylight/netide
+              - repo_url: https://github.com/opendaylight/netvirt
+              - repo_url: https://github.com/opendaylight/neutron
+              - repo_url: https://github.com/opendaylight/next
+              - repo_url: https://github.com/opendaylight/nic
+              - repo_url: https://github.com/opendaylight/ocpplugin
+              - repo_url: https://github.com/opendaylight/odlguice
+              - repo_url: https://github.com/opendaylight/odlmicro
+              - repo_url: https://github.com/opendaylight/odlparent
+              - repo_url: https://github.com/opendaylight/odlsaf
+              - repo_url: https://github.com/opendaylight/odltools
+              - repo_url: https://github.com/opendaylight/of-config
+              - repo_url: https://github.com/opendaylight/ofextensions-circuitsw
+              - repo_url: https://github.com/opendaylight/openflowjava
+              - repo_url: https://github.com/opendaylight/openflowplugin
+              - repo_url: https://github.com/opendaylight/opflex
+              - repo_url: https://github.com/opendaylight/ovil
+              - repo_url: https://github.com/opendaylight/ovsdb
+              - repo_url: https://github.com/opendaylight/p4plugin
+              - repo_url: https://github.com/opendaylight/packetcable
+              - repo_url: https://github.com/opendaylight/persistence
+              - repo_url: https://github.com/opendaylight/plastic
+              - repo_url: https://github.com/opendaylight/releng-autorelease
+              - repo_url: https://github.com/opendaylight/releng-builder
+              - repo_url: https://github.com/opendaylight/reservation
+              - repo_url: https://github.com/opendaylight/sdninterfaceapp
+              - repo_url: https://github.com/opendaylight/serviceutils
+              - repo_url: https://github.com/opendaylight/sfc
+              - repo_url: https://github.com/opendaylight/snbi
+              - repo_url: https://github.com/opendaylight/snmp
+              - repo_url: https://github.com/opendaylight/snmp4sdn
+              - repo_url: https://github.com/opendaylight/spectrometer
+              - repo_url: https://github.com/opendaylight/sxp
+              - repo_url: https://github.com/opendaylight/systemmetrics
+              - repo_url: https://github.com/opendaylight/telemetry
+              - repo_url: https://github.com/opendaylight/topoprocessing
+              - repo_url: https://github.com/opendaylight/transportpce
+              - repo_url: https://github.com/opendaylight/tsdr
+              - repo_url: https://github.com/opendaylight/ttp
+              - repo_url: https://github.com/opendaylight/unimgr
+              - repo_url: https://github.com/opendaylight/usc
+              - repo_url: https://github.com/opendaylight/usecplugin
+              - repo_url: https://github.com/opendaylight/vpnservice
+              - repo_url: https://github.com/opendaylight/vtn
+              - repo_url: https://github.com/opendaylight/yang-push
+              - repo_url: https://github.com/opendaylight/yangide
+              - repo_url: https://github.com/opendaylight/yangtools
+            description: |
+              Open source SDN Controller with largest ecosystem and deployment footprint.
+          - item:
+            name: Tungsten Fabric
+            homepage_url: https://tungsten.io/
+            logo: tungstenfabric-stacked-color.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/tungsten-fabric
+            repo_url: https://github.com/tungstenfabric/ci-management
+            additional_repos:
+              - repo_url: https://github.com/tungstenfabric/docs
+              - repo_url: https://github.com/tungstenfabric/docs-backup
+              - repo_url: https://github.com/tungstenfabric/opencontrails-docs
+              - repo_url: https://github.com/tungstenfabric/tf-analytics
+              - repo_url: https://github.com/tungstenfabric/tf-ansible-deployer
+              - repo_url: https://github.com/tungstenfabric/tf-api-client
+              - repo_url: https://github.com/tungstenfabric/tf-build
+              - repo_url: https://github.com/tungstenfabric/tf-charms
+              - repo_url: https://github.com/tungstenfabric/tf-common
+              - repo_url: https://github.com/tungstenfabric/tf-container-builder
+              - repo_url: https://github.com/tungstenfabric/tf-controller
+              - repo_url: https://github.com/tungstenfabric/tf-deployers-containers
+              - repo_url: https://github.com/tungstenfabric/tf-deployment-test
+              - repo_url: https://github.com/tungstenfabric/tf-dev-env
+              - repo_url: https://github.com/tungstenfabric/tf-dev-test
+              - repo_url: https://github.com/tungstenfabric/tf-devstack
+              - repo_url: https://github.com/tungstenfabric/tf-dpdk
+              - repo_url: https://github.com/tungstenfabric/tf-fabric-utils
+              - repo_url: https://github.com/tungstenfabric/tf-heat-plugin
+              - repo_url: https://github.com/tungstenfabric/tf-helm-deployer
+              - repo_url: https://github.com/tungstenfabric/tf-java-api
+              - repo_url: https://github.com/tungstenfabric/tf-jenkins
+              - repo_url: https://github.com/tungstenfabric/tf-kolla-ansible
+              - repo_url: https://github.com/tungstenfabric/tf-neutron-plugin
+              - repo_url: https://github.com/tungstenfabric/tf-nova-vif-driver
+              - repo_url: https://github.com/tungstenfabric/tf-openlab-ci
+              - repo_url: https://github.com/tungstenfabric/tf-openshift
+              - repo_url: https://github.com/tungstenfabric/tf-openshift-ansible
+              - repo_url: https://github.com/tungstenfabric/tf-operator
+              - repo_url: https://github.com/tungstenfabric/tf-packages
+              - repo_url: https://github.com/tungstenfabric/tf-specs
+              - repo_url: https://github.com/tungstenfabric/tf-test
+              - repo_url: https://github.com/tungstenfabric/tf-third-party
+              - repo_url: https://github.com/tungstenfabric/tf-third-party-cache
+              - repo_url: https://github.com/tungstenfabric/tf-third-party-packages
+              - repo_url: https://github.com/tungstenfabric/tf-transitional-contrail-docs
+              - repo_url: https://github.com/tungstenfabric/tf-tripleo-heat-templates
+              - repo_url: https://github.com/tungstenfabric/tf-tripleo-puppet
+              - repo_url: https://github.com/tungstenfabric/tf-vcenter-fabric-manager
+              - repo_url: https://github.com/tungstenfabric/tf-vcenter-manager
+              - repo_url: https://github.com/tungstenfabric/tf-vcenter-plugin
+              - repo_url: https://github.com/tungstenfabric/tf-vijava
+              - repo_url: https://github.com/tungstenfabric/tf-vnc
+              - repo_url: https://github.com/tungstenfabric/tf-vro-plugin
+              - repo_url: https://github.com/tungstenfabric/tf-vrouter
+              - repo_url: https://github.com/tungstenfabric/tf-vrouter-java-api
+              - repo_url: https://github.com/tungstenfabric/tf-web-controller
+              - repo_url: https://github.com/tungstenfabric/tf-web-core
+              - repo_url: https://github.com/tungstenfabric/tf-webui-third-party
+              - repo_url: https://github.com/tungstenfabric/tungsten-tempest
+              - repo_url: https://github.com/tungstenfabric/tungsten-test-runner
+              - repo_url: https://github.com/tungstenfabric/website
+            description: |
+              A software-defined network & security fabric built for rapid deployment at scale.
+          - item:
+            name: XG Vela
+            homepage_url: https://xgvela.org/
+            logo: xGVela_Logo_FNL_color-horizontal.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/xgvela
+            repo_url: https://github.com/XGVela/XGVela
+            additional_repos:
+              - repo_url: https://github.com/XGVela/cim
+              - repo_url: https://github.com/XGVela/cmaas
+              - repo_url: https://github.com/XGVela/cnf-packaging
+              - repo_url: https://github.com/XGVela/fmaas
+              - repo_url: https://github.com/XGVela/service-init
+              - repo_url: https://github.com/XGVela/tmaas
+              - repo_url: https://github.com/XGVela/tmaas-gw
+              - repo_url: https://github.com/XGVela/vesgw
+              - repo_url: https://github.com/XGVela/xgvela-builder
+            description: |
+              An open source cloud native PaaS for applications and
+              telco network functions to enable new services.
+  - category:
+    name: Other Linux Foundation Hosted Networking Projects
+    subcategories:
+      - subcategory:
+        name: Other Linux Foundation Hosted Networking Projects
+        items:
+          - item:
+            name: DANOS
+            homepage_url: https://www.danosproject.org/
+            logo: danos-2-01.svg
+            crunchbase: https://www.crunchbase.com/organization/danos
+            hideProjectTag: true
+          - item:
+            name: DENT
+            homepage_url: https://dent.dev/
+            logo: dent-01.svg
+            crunchbase: https://www.crunchbase.com/organization/dent-cdd1
+            hideProjectTag: true
+          - item:
+            name: DPDK
+            homepage_url: https://www.dpdk.org/
+            logo: dpdk-01.svg
+            crunchbase: https://www.crunchbase.com/organization/dpdk
+            hideProjectTag: true
+          - item:
+            name: FRRouting Project
+            homepage_url: https://frrouting.org/
+            logo: frr-2-01.svg
+            crunchbase: https://www.crunchbase.com/organization/frrouting
+            hideProjectTag: true
+          - item:
+            name: Magma
+            homepage_url: https://www.magmacore.org/
+            logo: magma-01.svg
+            crunchbase: https://www.crunchbase.com/organization/magma-fund
+            hideProjectTag: true
+          - item:
+            name: Open 19
+            homepage_url: https://www.open19.org/
+            logo: open19-2-01.svg
+            crunchbase: https://www.crunchbase.com/organization/open19-foundation
+            hideProjectTag: true
+          - item:
+            name: Open vSwitch
+            homepage_url: https://www.openvswitch.org/
+            logo: openswitch-color.svg
+            crunchbase: https://www.crunchbase.com/organization/open-vswitch
+            hideProjectTag: true
+          - item:
+            name: US GOV OPS
+            homepage_url: https://usgovops.org/
+            logo: usgovops-color-1.svg
+            crunchbase: https://www.crunchbase.com/organization/us-gov-ops
+            hideProjectTag: true
+          - item:
+            name: O-RAN Software Community
+            homepage_url: https://oran-osc.github.io/
+            logo: oran-ocu.svg
+            organization:
+              name: O-RAN Software Community
+            hideProjectTag: true
+  - category:
+    name: Linux Foundation Sister Communities
+    subcategories:
+      - subcategory:
+        name: Linux Foundation Sister Communities
+        items:
+          - item:
+            name: Cloud Native
+            homepage_url: https://www.cncf.io/
+            logo: cncf-distribution.svg
+            twitter: https://twitter.com/CloudNativeFdn
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            hideProjectTag: true
+          - item:
+            name: Hyperledger
+            homepage_url: https://www.hyperledger.org/
+            logo: hyperledger-color.svg
+            twitter: https://twitter.com/Hyperledger
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            hideProjectTag: true
+          - item:
+            name: LF AI Data
+            homepage_url: https://lfaidata.foundation/
+            logo: LFAI_DATA_horizontal-color.svg
+            twitter: https://twitter.com/LFAIDataFdn
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            hideProjectTag: true
+          - item:
+            name: LF Edge
+            homepage_url: https://www.lfedge.org/
+            logo: lf-edge.svg
+            twitter: https://twitter.com/lf_edge
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
+            hideProjectTag: true
+  - category:
+    name: Standards Developing Organizations (SDOs)
+    subcategories:
+      - subcategory:
+        name: Standards Developing Organizations (SDOs)
+        items:
+          - item:
+            name: 3GPP
+            homepage_url: https://www.3gpp.org/
+            logo: 3gpp_logo.svg
+            twitter: https://twitter.com/3GPPLive
+            crunchbase: https://www.crunchbase.com/organization/3gpp
+            hideProjectTag: true
+            hideLicense: true
+          - item:
+            name: ETSI
+            homepage_url: https://www.etsi.org/
+            logo: etsi-01.svg
+            twitter: https://twitter.com/ETSI_STANDARDS
+            crunchbase: https://www.crunchbase.com/organization/etsi
+            hideProjectTag: true
+            hideLicense: true
+          - item:
+            name: GSMA
+            homepage_url: https://www.gsma.com/
+            logo: GSMA.svg
+            twitter: https://twitter.com/gsma
+            crunchbase: https://www.crunchbase.com/organization/gsma
+            hideProjectTag: true
+            hideLicense: true
+          - item:
+            name: IEEE
+            homepage_url: https://www.ieee.org/
+            logo: IEEE_logo.svg
+            twitter: https://twitter.com/ieeesa
+            crunchbase: https://www.crunchbase.com/organization/ieee-standards-association
+            hideProjectTag: true
+            hideLicense: true
+          - item:
+            name: IETF
+            homepage_url: https://www.ietf.org/
+            logo: ietf-2-01.svg
+            twitter: https://twitter.com/ietf
+            crunchbase: https://www.crunchbase.com/organization/ietf
+            hideProjectTag: true
+            hideLicense: true
+          - item:
+            name: ITU
+            homepage_url: https://www.itu.int/en/Pages/default.aspx
+            logo: ITU.svg
+            crunchbase: https://www.crunchbase.com/organization/international-telecommunication-union
+            hideProjectTag: true
+            hideLicense: true
+          - item:
+            name: MEF
+            homepage_url: https://www.mef.net/
+            logo: MEF-2-01.svg
+            twitter: https://twitter.com/mef_forum
+            crunchbase: https://www.crunchbase.com/organization/mef
+            hideProjectTag: true
+            hideLicense: true
+          - item:
+            name: NIST
+            homepage_url: https://www.nist.gov/
+            logo: nist-2-01.svg
+            twitter: https://twitter.com/NIST
+            crunchbase: https://www.crunchbase.com/organization/nist
+            hideProjectTag: true
+            hideLicense: true
+          - item:
+            name: OIF
+            homepage_url: https://www.oiforum.com/
+            logo: OIF_logo.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            hideProjectTag: true
+            hideLicense: true
+          - item:
+            name: TM Forum
+            homepage_url: https://www.tmforum.org/
+            logo: tmf-logo-2-01.svg
+            twitter: https://twitter.com/tmforumorg
+            crunchbase: https://www.crunchbase.com/organization/tmforum
+            hideProjectTag: true
+            hideLicense: true
+  - category:
+    name: LFN Archived/Maintained Projects
+    subcategories:
+      - subcategory:
+        name: LFN Archived/Maintained Projects
+        items:
+          - item:
+            name: Openswitch
+            homepage_url: https://www.openswitch.net/
+            logo: openswitch-color.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+  - category:
     name: LF Networking Member Roster
     subcategories:
       - subcategory:
@@ -23,7 +780,7 @@ landscape:
             logo: china_telecommunications_corporation.svg
             twitter: https://twitter.com/chinateleglobal
             crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
@@ -372,7 +1129,7 @@ landscape:
             logo: sterlite_technologies_limited.svg
             twitter: https://twitter.com/STL_Tech
             crunchbase: https://www.crunchbase.com/organization/sterlite-technologies-ltd-
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: Swisscom
             homepage_url: https://swisscom.com/
@@ -553,9 +1310,10 @@ landscape:
             homepage_url: https://techhub.hpe.com/eginfolib/servers/docs/Telco/Blueprints/infocenter/index.html
             logo: university_of_surrey.svg
             extra:
-              description: "HPE Telco Blueprints\n"
+              description: |
+                HPE Telco Blueprints
               version: '2019.12'
-              sut_sw_version:
+              sut_sw_version: null
               sut_hw_version: DL360
           - item:
             name: Nokia Edge Cloud NFVI
@@ -563,23 +1321,38 @@ landscape:
             homepage_url: https://networks.nokia.com/solutions/edge-cloud
             logo: university_of_surrey.svg
             extra:
-              description: "Nokia Edge Cloud NFVI consist of Nokia AirFrame Open\nEdge hardware and Nokia AirFrame Cloud\nInfrastructure for Real-time applications\
-                \ (NCIR).\nNCIR is low latency NFVI for edge data centers and\nruns VM and container workloads. Nokia AirFrame Open\nEdge, is x86 based solution with\
-                \ single Intel\nprocessor in 3U high chassis including 5 servers.\n"
+              description: |
+                Nokia Edge Cloud NFVI consist of Nokia AirFrame Open
+                Edge hardware and Nokia AirFrame Cloud
+                Infrastructure for Real-time applications (NCIR).
+                NCIR is low latency NFVI for edge data centers and
+                runs VM and container workloads. Nokia AirFrame Open
+                Edge, is x86 based solution with single Intel
+                processor in 3U high chassis including 5 servers.
               verson: '2018.09'
               sut_sw_version: NCI_R19-3
-              sut_hw_version:
+              sut_hw_version: null
           - item:
             name: Lenovo Select Solution for NFVI with Wind River Titanium Cloud
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.lenovo.com/us/en/data-center/solutions/NFV-Solutions-for-CSPs/p/csp-solutions
             logo: university_of_surrey.svg
             extra:
-              description: "Lenovo Select Solution for NFVI with Wind River\nTitanium Cloud consists of Lenovo validated\nconfigurations of ThinkSystem SR630 and\
-                \ SR650\nservers as part of Intel® Select Solution for NFVI\ncombined with Wind River Titanium Cloud\napplication-ready software platform. These solutions\n\
-                are optimized for packet processing, encryption and\ncompression based workloads to help accelerate\nCoSPs’ migration to NFV. Lenovo XClarity\nAdministrator\
-                \ provides the physical infrastructure\nmanagement. Key benefits of deploying a Lenovo\nSelect Solution for NFVI include simplified\nevaluation, rapid\
-                \ deployment and workload-optimized\nperformance.\n"
+              description: |
+                Lenovo Select Solution for NFVI with Wind River
+                Titanium Cloud consists of Lenovo validated
+                configurations of ThinkSystem SR630 and SR650
+                servers as part of Intel® Select Solution for NFVI
+                combined with Wind River Titanium Cloud
+                application-ready software platform. These solutions
+                are optimized for packet processing, encryption and
+                compression based workloads to help accelerate
+                CoSPs’ migration to NFV. Lenovo XClarity
+                Administrator provides the physical infrastructure
+                management. Key benefits of deploying a Lenovo
+                Select Solution for NFVI include simplified
+                evaluation, rapid deployment and workload-optimized
+                performance.
               version: 2018.09
               sut_sw_version: R5
               sut_hw_version: R1
@@ -592,21 +1365,24 @@ landscape:
             homepage_url: https://www.affirmednetworks.com
             logo: university_of_surrey.svg
             extra:
-              description: "The CSM runs the tasks needed for call control, IP\nrouting and providing advanced services.\n"
+              description: |
+                The CSM runs the tasks needed for call control, IP
+                routing and providing advanced services.
               model_language: HEAT
               checksum: 372393d689d1cfa52877d7fb77ed54642589edf2e818a3bb8b65f0567f7d507a
               product_version: 9
               version: '2019.12'
-              verification_date: 2020-05-19 00:00:00
+              verification_date: 2020-05-19T00:00:00.000Z
           - item:
             name: Cinar
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.ulakhaberlesme.com.tr/index.php/en/
             logo: university_of_surrey.svg
             extra:
-              description: "5G CN NRF and NSSF VNF\n"
+              description: |
+                5G CN NRF and NSSF VNF
               model_language: HEAT
               checksum: 669a5ae0a71ec99aaaa022b71d25fc36a1ab2c6c6aaaafc752ceb303e4cf0741
               product_version: 0.4.11
               version: '2019.12'
-              verification_date: 2020-03-17 00:00:00
+              verification_date: 2020-03-17T00:00:00.000Z
