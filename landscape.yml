@@ -119,12 +119,6 @@ landscape:
         name: Gold
         items:
           - item:
-            name: Advanced Micro Devices (AMD)
-            homepage_url: https://amd.com/
-            logo: advanced_micro_devices_amd.svg
-            twitter: https://twitter.com/AMD
-            crunchbase: https://www.crunchbase.com/organization/amd
-          - item:
             name: Bell Canada
             homepage_url: https://bell.net/
             logo: bell_canada.svg
@@ -151,6 +145,12 @@ landscape:
             logo: aarna_networks.svg
             twitter: https://twitter.com/aarnanetworks
             crunchbase: https://www.crunchbase.com/organization/aarna-networks
+          - item:
+            name: Advanced Micro Devices (AMD)
+            homepage_url: https://amd.com/
+            logo: advanced_micro_devices_amd.svg
+            twitter: https://twitter.com/AMD
+            crunchbase: https://www.crunchbase.com/organization/amd
           - item:
             name: Adva Optical Networking SE
             homepage_url: https://advaoptical.com/
