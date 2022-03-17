@@ -1838,6 +1838,38 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-09-16T17:30:00.000Z
+          - item:
+            name: L3AF
+            homepage_url: https://l3af.io/
+            logo: L3AF_logo.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/l3af
+            description: |
+              L3AF is an eBPF based platform enabling network functions a service.
+            crunchbase_data:
+              name: L3AF
+              description: L3AF is an eBPF based platform enabling network functions a service.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://www,l3af.io
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries: []
+            image_data:
+              fileName: l3-af.svg
+              hash: 5sxtuiyGl4MASUN8dOAJL6/x28QfVW6XEQJN0dopYzU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-09-16T17:30:00.000Z
   - category:
     name: Other Linux Foundation Hosted Networking Projects
     subcategories:
@@ -2088,6 +2120,36 @@ landscape:
             image_data:
               fileName: o-ran-software-community.svg
               hash: BcL6XenwxqeXPM4O1GypcCIBmjPIEPI1WC3JgLXl5/Q=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Camara
+            homepage_url: http://camaraproject.org/
+            logo: Camara.svg
+            crunchbase: https://www.crunchbase.com/organization/camara-project
+            hideProjectTag: true
+            description: |
+              4G/5G network capabilities exposed through APIs provide a large benefit for customers.
+            crunchbase_data:
+              name: Camara Project
+              description: 4G/5G network capabilities exposed through APIs provide a large benefit for customers
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://github.com/camaraproject
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries: []
+            image_data:
+              fileName: camara.svg
+              hash: i6PF49zelSgZbjeGdbzWvZ/9+JwfV5d4eTQ9si5XjHM=
             best_practice_data:
               badge: false
               percentage: null

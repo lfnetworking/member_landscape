@@ -565,6 +565,14 @@ landscape:
             description: |
               An open source cloud native PaaS for applications and
               telco network functions to enable new services.
+          - item:
+            name: L3AF
+            homepage_url: https://l3af.io/
+            logo: L3AF_logo.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/l3af
+            description: |
+              L3AF is an eBPF based platform enabling network functions a service.
   - category:
     name: Other Linux Foundation Hosted Networking Projects
     subcategories:
@@ -626,6 +634,14 @@ landscape:
             organization:
               name: O-RAN Software Community
             hideProjectTag: true
+          - item:
+            name: Camara
+            homepage_url: http://camaraproject.org/
+            logo: Camara.svg
+            crunchbase: https://www.crunchbase.com/organization/camara-project
+            hideProjectTag: true
+            description: |
+              4G/5G network capabilities exposed through APIs provide a large benefit for customers.
   - category:
     name: Linux Foundation Sister Communities
     subcategories:
