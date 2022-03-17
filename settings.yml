@@ -16,6 +16,11 @@ global:
   email: info@lfnetworking.org
   # Crunchbase entry for your project
 
+   # AA logo
+  aa_logo: /images/anuket_assured.svg
+  # LFN Logo
+  lfn_logo: /images/lfn.svg
+
   self: https://www.crunchbase.com/organization/lf-networking
   # Slack channel for posting build updates
   slack_channel: T02H1G4T9/B01S2SBK81G/iQb9UtQn04EbF0d57xT8vkeM
@@ -141,8 +146,66 @@ big_picture:
         left: 0
         color: rgb(126,115,14)
         fit_width: true
-  members:
+  verification:
     tab_index: 1
+    url: verification
+    name: Verification
+    title: Anuket Assured Program
+    fullscreen_header: See the members interactive display at <yet to be defined>
+    category: Anuket Assured Program
+    elements:
+      - type: LandscapeInfo
+        width: 400
+        height: 50
+        top: 0
+        left: 0
+        color: '#1B446C'
+        key: 'cn'
+        children:
+          - type: text
+            text: Cloud Native
+            font_size: 18
+            color: '#1B446C'
+            top: 0
+            left: 140
+            right: 10
+      - type: LandscapeInfo
+        width: 400
+        height: 50
+        top: 0
+        left: 410
+        key: 'vm'
+        color: '#1B446C'
+        children:
+          - type: text
+            text: NFV
+            font_size: 18
+            color: '#1B446C'
+            top: 0
+            left: 175
+            right: 10
+      - type: HorizontalCategory
+        category: 'Infrastructure: Release 2021.10'
+        rows: 2
+        width: 400
+        height: 200
+        top: 50
+        left: 0
+        color: rgb(143,109,61)
+        fit_width: true
+        is_large: true
+      - type: HorizontalCategory
+        category: 'Workload: Release 2021.10'
+        rows: 2
+        width: 400
+        height: 200
+        top: 50
+        left: 410
+        color: rgb(102,61,143)
+        fit_width: true
+        is_large: true
+  members:
+    tab_index: 2
     url: members
     name: Members
     title: LFN Membership Landscape
