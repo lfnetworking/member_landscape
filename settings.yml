@@ -229,29 +229,33 @@ big_picture:
     name: 5G Super Blueprint
     title: 5G Super Blueprint
     fullscreen_header: See the members interactive display at <yet to be defined>
-    category: Cloud/Core
     elements:
-      - type: LandscapeInfo
-        width: 500
-        height: 50
+      - type: HorizontalCategory
+        category: Cloud/Core
+        rows: 2
+        width: 1000
+        height: 200
         top: 0
         left: 0
-        color: '#1B446C'
-        key: 'cn'
-        children:
-          - type: text
-            text: Cloud/Core
-            font_size: 18
-            color: '#1B446C'
-            top: 0
-            left: 200
-            right: 10
+        color: '#c5c4c2'
+        fit_width: true
+        is_large: true
       - type: HorizontalCategory
-        category: Management & Orchestration
+        category: Service Provider Edge
         rows: 2
-        width: 500
+        width: 1000
         height: 200
-        top: 60
+        top: 210
+        left: 0
+        color: '#c5c4c2'
+        fit_width: true
+        is_large: true
+      - type: HorizontalCategory
+        category: User Edge
+        rows: 2
+        width: 1000
+        height: 200
+        top: 420
         left: 0
         color: '#c5c4c2'
         fit_width: true

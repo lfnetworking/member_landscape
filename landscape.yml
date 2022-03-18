@@ -7,6 +7,7 @@ landscape:
         items:
           - item:
             name: Meta
+            allow_duplicate_repo: true
             homepage_url: https://about.facebook.com/meta/
             logo: meta.svg
             twitter: https://twitter.com/meta
@@ -14,6 +15,266 @@ landscape:
             description: |
               Meta is a social technology company that enables
               people to connect, find communities, and grow businesses.
+          - item:
+            name: L3AF (5G)
+            homepage_url: https://l3af.io/
+            allow_duplicate_repo: true
+            logo: L3AF_logo.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/l3af
+            description: |
+              L3AF is an eBPF based platform enabling network functions a service.
+          - item:
+            name: A10 Networks (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://a10networks.com/
+            logo: a10_networks.svg
+            twitter: https://twitter.com/A10Networks
+            crunchbase: https://www.crunchbase.com/organization/a10-networks
+          - item:
+            name: Aarna Networks
+            allow_duplicate_repo: true
+            homepage_url: https://aarnanetworks.com/
+            logo: aarna_networks.svg
+            twitter: https://twitter.com/aarnanetworks
+            crunchbase: https://www.crunchbase.com/organization/aarna-networks
+          - item:
+            name: Red Hat, Inc. (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://redhat.com/
+            logo: red_hat_inc.svg
+            twitter: https://twitter.com/RedHat
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+          - item:
+            name: Turnium Technology Group Inc (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://ttgi.io/
+            logo: turnium_technology_group_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
+          - item:
+            name: EMCO (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://project-emco.io/
+            logo: EMCO.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/the-edge-multi-cluster-orchestrator-emco
+            extra:
+              description: |
+                A universal control plane to securely connect and deploy workloads
+                across public clouds, private clouds and edge locations.
+          - item:
+            name: ONAP (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://www.onap.org/
+            logo: onap_logo.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/onap
+            repo_url: https://github.com/onap/aaf-authz
+            description: |
+              A comprehensive platform for orchestration, management, and automation
+              of network and edge computing services.
+          - item:
+            name: DPDK (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://www.dpdk.org/
+            logo: dpdk-01.svg
+            crunchbase: https://www.crunchbase.com/organization/dpdk
+      - subcategory:
+        name: Cloud Infrastructure
+        items:
+          - item:
+            name: Anuket (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://anuket.io/
+            logo: anuket-01.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/anuket
+            repo_url: https://github.com/opnfv/vineperf
+            description: |
+              A common model, standardized reference infrastructure
+              specifications, and conformance and performance frameworks for VNFs & CNFs.
+            additional_repos:
+              - repo_url: https://github.com/opnfv/kuberef
+              - repo_url: https://github.com/opnfv/functest
+              - repo_url: https://github.com/opnfv/functest-kubernetes
+              - repo_url: https://github.com/opnfv/functest-xtesting
+              - repo_url: https://github.com/opnfv/cirv-sdv
+              - repo_url: https://github.com/opnfv/barometer
+          - item:
+            name: Intel Corporation (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://intel.com/
+            logo: intel_corporation.svg
+            twitter: https://twitter.com/intel
+            crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: Kaloom Inc. (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://kaloom.com/
+            logo: kaloom_inc.svg
+            twitter: https://twitter.com/Kaloom_Inc
+            crunchbase: https://www.crunchbase.com/organization/kaloom
+          - item:
+            name: Red Hat, Inc. (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://redhat.com/
+            logo: red_hat_inc.svg
+            twitter: https://twitter.com/RedHat
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+          - item:
+            name: UNH InterOperability Lab
+            allow_duplicate_repo: true
+            homepage_url: https://iol.unh.edu/
+            logo: unh_interoperability_lab.svg
+            twitter: https://twitter.com/UofNH
+            crunchbase: https://www.crunchbase.com/organization/interoperability-laboratory
+      - subcategory:
+        name: 5G Network Functions/Apps
+        items:
+          - item:
+            name: A10 Networks
+            allow_duplicate_repo: true
+            homepage_url: https://a10networks.com/
+            logo: a10_networks.svg
+            twitter: https://twitter.com/A10Networks
+            crunchbase: https://www.crunchbase.com/organization/a10-networks
+          - item:
+            name: Kaloom Inc.
+            allow_duplicate_repo: true
+            homepage_url: https://kaloom.com/
+            logo: kaloom_inc.svg
+            twitter: https://twitter.com/Kaloom_Inc
+            crunchbase: https://www.crunchbase.com/organization/kaloom
+          - item:
+            name: Intel Corporation (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://intel.com/
+            logo: intel_corporation.svg
+            twitter: https://twitter.com/intel
+            crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: Meta (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://about.facebook.com/meta/
+            logo: meta.svg
+            twitter: https://twitter.com/meta
+            crunchbase: https://www.crunchbase.com/organization/facebook
+            description: |
+              Meta is a social technology company that enables
+              people to connect, find communities, and grow businesses.
+          - item:
+            name: Turnium Technology Group Inc (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://ttgi.io/
+            logo: turnium_technology_group_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
+          - item:
+            name: Wavelabs (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://wavelabs.ai/
+            logo: wavelabs.svg
+            twitter: https://twitter.com/WavelabsTech
+            crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
+  - category:
+    name: User Edge
+    subcategories:
+      - subcategory:
+        name: Smart Edge/Apps
+        items:
+          - item:
+            name: Meta
+            allow_duplicate_repo: true
+            homepage_url: https://about.facebook.com/meta/
+            logo: meta.svg
+            twitter: https://twitter.com/meta
+            crunchbase: https://www.crunchbase.com/organization/facebook
+            description: |
+              Meta is a social technology company that enables
+              people to connect, find communities, and grow businesses.
+          - item:
+            name: Wavelabs (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://wavelabs.ai/
+            logo: wavelabs.svg
+            twitter: https://twitter.com/WavelabsTech
+            crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
+          - item:
+            name: A10 Networks 5(G)
+            allow_duplicate_repo: true
+            homepage_url: https://a10networks.com/
+            logo: a10_networks.svg
+            twitter: https://twitter.com/A10Networks
+            crunchbase: https://www.crunchbase.com/organization/a10-networks
+          - item:
+            name: Turnium Technology Group Inc (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://ttgi.io/
+            logo: turnium_technology_group_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
+          - item:
+            name: Intel Corporation (5G)
+            homepage_url: https://intel.com/
+            allow_duplicate_repo: true
+            logo: intel_corporation.svg
+            twitter: https://twitter.com/intel
+            crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: Kaloom Inc. (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://kaloom.com/
+            logo: kaloom_inc.svg
+            twitter: https://twitter.com/Kaloom_Inc
+            crunchbase: https://www.crunchbase.com/organization/kaloom
+  - category:
+    name: Service Provider Edge
+    subcategories:
+      - subcategory:
+        name: 5G Edge Stack/Apps
+        items:
+          - item:
+            name: Meta
+            allow_duplicate_repo: true
+            homepage_url: https://about.facebook.com/meta/
+            logo: meta.svg
+            twitter: https://twitter.com/meta
+            crunchbase: https://www.crunchbase.com/organization/facebook
+            description: |
+              Meta is a social technology company that enables
+              people to connect, find communities, and grow businesses.
+          - item:
+            name: Wavelabs (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://wavelabs.ai/
+            logo: wavelabs.svg
+            twitter: https://twitter.com/WavelabsTech
+            crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
+          - item:
+            name: A10 Networks 5(G)
+            allow_duplicate_repo: true
+            homepage_url: https://a10networks.com/
+            logo: a10_networks.svg
+            twitter: https://twitter.com/A10Networks
+            crunchbase: https://www.crunchbase.com/organization/a10-networks
+          - item:
+            name: Turnium Technology Group Inc (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://ttgi.io/
+            logo: turnium_technology_group_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
+          - item:
+            name: Intel Corporation (5G)
+            homepage_url: https://intel.com/
+            allow_duplicate_repo: true
+            logo: intel_corporation.svg
+            twitter: https://twitter.com/intel
+            crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: Kaloom Inc. (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://kaloom.com/
+            logo: kaloom_inc.svg
+            twitter: https://twitter.com/Kaloom_Inc
+            crunchbase: https://www.crunchbase.com/organization/kaloom
   - category:
     name: LF Networking Member Roster
     subcategories:
@@ -72,6 +333,7 @@ landscape:
           - item:
             name: Intel Corporation
             homepage_url: https://intel.com/
+            allow_duplicate_repo: true
             logo: intel_corporation.svg
             twitter: https://twitter.com/intel
             crunchbase: https://www.crunchbase.com/organization/intel
@@ -102,6 +364,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/orange
           - item:
             name: Red Hat, Inc.
+            allow_duplicate_repo: true
             homepage_url: https://redhat.com/
             logo: red_hat_inc.svg
             twitter: https://twitter.com/RedHat
@@ -156,12 +419,14 @@ landscape:
         items:
           - item:
             name: A10 Networks
+            allow_duplicate_repo: true
             homepage_url: https://a10networks.com/
             logo: a10_networks.svg
             twitter: https://twitter.com/A10Networks
             crunchbase: https://www.crunchbase.com/organization/a10-networks
           - item:
             name: Aarna Networks
+            allow_duplicate_repo: true
             homepage_url: https://aarnanetworks.com/
             logo: aarna_networks.svg
             twitter: https://twitter.com/aarnanetworks
@@ -264,6 +529,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
           - item:
             name: Kaloom Inc.
+            allow_duplicate_repo: true
             homepage_url: https://kaloom.com/
             logo: kaloom_inc.svg
             twitter: https://twitter.com/Kaloom_Inc
@@ -419,6 +685,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/trk-telekom
           - item:
             name: Turnium Technology Group Inc
+            allow_duplicate_repo: true
             homepage_url: https://ttgi.io/
             logo: turnium_technology_group_inc.svg
             crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
@@ -442,6 +709,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/voereir
           - item:
             name: Wavelabs
+            allow_duplicate_repo: true
             homepage_url: https://wavelabs.ai/
             logo: wavelabs.svg
             twitter: https://twitter.com/WavelabsTech
@@ -540,6 +808,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/trinity-college-dublin
           - item:
             name: UNH InterOperability Lab
+            allow_duplicate_repo: true
             homepage_url: https://iol.unh.edu/
             logo: unh_interoperability_lab.svg
             twitter: https://twitter.com/UofNH
