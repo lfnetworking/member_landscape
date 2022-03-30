@@ -19,6 +19,7 @@ landscape:
             name: L3AF (5G)
             homepage_url: https://l3af.io/
             allow_duplicate_repo: true
+            project: tacprojects
             logo: L3AF_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/l3af
@@ -54,6 +55,7 @@ landscape:
           - item:
             name: EMCO (5G)
             allow_duplicate_repo: true
+            project: tacprojects
             homepage_url: https://project-emco.io/
             logo: EMCO.svg
             twitter: https://twitter.com/LF_Networking
@@ -65,6 +67,7 @@ landscape:
           - item:
             name: ONAP (5G)
             allow_duplicate_repo: true
+            project: tacprojects
             homepage_url: https://www.onap.org/
             logo: onap_logo.svg
             twitter: https://twitter.com/LF_Networking
@@ -76,6 +79,7 @@ landscape:
           - item:
             name: DPDK (5G)
             allow_duplicate_repo: true
+            project: tacprojects
             homepage_url: https://www.dpdk.org/
             logo: dpdk-01.svg
             crunchbase: https://www.crunchbase.com/organization/dpdk
@@ -85,6 +89,7 @@ landscape:
           - item:
             name: Anuket (5G)
             allow_duplicate_repo: true
+            project: tacprojects
             homepage_url: https://anuket.io/
             logo: anuket-01.svg
             twitter: https://twitter.com/LF_Networking
@@ -175,6 +180,12 @@ landscape:
             logo: wavelabs.svg
             twitter: https://twitter.com/WavelabsTech
             crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
+          - item:
+            name: CapGemini Engineering (5G)
+            homepage_url: https://www.capgemini.com/
+            logo: capgemini.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/cap-gemini
   - category:
     name: User Edge
     subcategories:
@@ -182,49 +193,14 @@ landscape:
         name: Smart Edge/Apps
         items:
           - item:
-            name: Meta
+            name: Zededa
             allow_duplicate_repo: true
-            homepage_url: https://about.facebook.com/meta/
-            logo: meta.svg
-            twitter: https://twitter.com/meta
-            crunchbase: https://www.crunchbase.com/organization/facebook
+            homepage_url: https://zededa.com//
+            logo: zededa.svg
+            twitter: https://twitter.com/ZEDEDAEdge
+            crunchbase: https://www.crunchbase.com/organization/zededa
             description: |
-              Meta is a social technology company that enables
-              people to connect, find communities, and grow businesses.
-          - item:
-            name: Wavelabs (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://wavelabs.ai/
-            logo: wavelabs.svg
-            twitter: https://twitter.com/WavelabsTech
-            crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
-          - item:
-            name: A10 Networks 5(G)
-            allow_duplicate_repo: true
-            homepage_url: https://a10networks.com/
-            logo: a10_networks.svg
-            twitter: https://twitter.com/A10Networks
-            crunchbase: https://www.crunchbase.com/organization/a10-networks
-          - item:
-            name: Turnium Technology Group Inc (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://ttgi.io/
-            logo: turnium_technology_group_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
-          - item:
-            name: Intel Corporation (5G)
-            homepage_url: https://intel.com/
-            allow_duplicate_repo: true
-            logo: intel_corporation.svg
-            twitter: https://twitter.com/intel
-            crunchbase: https://www.crunchbase.com/organization/intel
-          - item:
-            name: Kaloom Inc. (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://kaloom.com/
-            logo: kaloom_inc.svg
-            twitter: https://twitter.com/Kaloom_Inc
-            crunchbase: https://www.crunchbase.com/organization/kaloom
+              ZEDEDA is a provider of distributed edge orchestration and virtualization software.
   - category:
     name: Service Provider Edge
     subcategories:
