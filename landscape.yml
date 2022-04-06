@@ -6,26 +6,6 @@ landscape:
         name: Management & Orchestration
         items:
           - item:
-            name: Meta
-            allow_duplicate_repo: true
-            homepage_url: https://about.facebook.com/meta/
-            logo: meta.svg
-            twitter: https://twitter.com/meta
-            crunchbase: https://www.crunchbase.com/organization/facebook
-            description: |
-              Meta is a social technology company that enables
-              people to connect, find communities, and grow businesses.
-          - item:
-            name: L3AF (5G)
-            homepage_url: https://l3af.io/
-            allow_duplicate_repo: true
-            project: tacprojects
-            logo: L3AF_logo.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/l3af
-            description: |
-              L3AF is an eBPF based platform enabling network functions a service.
-          - item:
             name: A10 Networks (5G)
             allow_duplicate_repo: true
             homepage_url: https://a10networks.com/
@@ -55,9 +35,9 @@ landscape:
           - item:
             name: EMCO (5G)
             allow_duplicate_repo: true
-            project: tacprojects
             homepage_url: https://project-emco.io/
             logo: EMCO.svg
+            project: sandbox
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/the-edge-multi-cluster-orchestrator-emco
             extra:
@@ -67,9 +47,9 @@ landscape:
           - item:
             name: ONAP (5G)
             allow_duplicate_repo: true
-            project: tacprojects
             homepage_url: https://www.onap.org/
             logo: onap_logo.svg
+            project: tac
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/onap
             repo_url: https://github.com/onap/aaf-authz
@@ -79,19 +59,31 @@ landscape:
           - item:
             name: DPDK (5G)
             allow_duplicate_repo: true
-            project: tacprojects
             homepage_url: https://www.dpdk.org/
             logo: dpdk-01.svg
+            project: tac
             crunchbase: https://www.crunchbase.com/organization/dpdk
+          - item:
+            name: CapGemini Engineering
+            homepage_url: https://www.capgemini.com/
+            logo: capgemini.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/cap-gemini
+          - item:
+            name: Rebaca
+            homepage_url: https://www.rebaca.com/
+            logo: rebaca.svg
+            twitter: https://twitter.com/rebacainc
+            crunchbase: https://www.crunchbase.com/organization/rebaca-technologies
       - subcategory:
         name: Cloud Infrastructure
         items:
           - item:
             name: Anuket (5G)
             allow_duplicate_repo: true
-            project: tacprojects
             homepage_url: https://anuket.io/
             logo: anuket-01.svg
+            project: tac
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/anuket
             repo_url: https://github.com/opnfv/vineperf
@@ -133,6 +125,12 @@ landscape:
             logo: unh_interoperability_lab.svg
             twitter: https://twitter.com/UofNH
             crunchbase: https://www.crunchbase.com/organization/interoperability-laboratory
+          - item:
+            name: K8s
+            homepage_url: https://kubernetes.io/
+            logo: kubernetes.svg
+            twitter: https://twitter.com/kubernetesio
+            crunchbase: https://www.crunchbase.com/organization/kubernetes
       - subcategory:
         name: 5G Network Functions/Apps
         items:
@@ -186,6 +184,12 @@ landscape:
             logo: capgemini.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/cap-gemini
+          - item:
+            name: Rebaca (5G)
+            homepage_url: https://www.rebaca.com/
+            logo: rebaca.svg
+            twitter: https://twitter.com/rebacainc
+            crunchbase: https://www.crunchbase.com/organization/rebaca-technologies
   - category:
     name: User Edge
     subcategories:
@@ -195,12 +199,19 @@ landscape:
           - item:
             name: Zededa
             allow_duplicate_repo: true
-            homepage_url: https://zededa.com//
+            homepage_url: https://zededa.com/
             logo: zededa.svg
             twitter: https://twitter.com/ZEDEDAEdge
             crunchbase: https://www.crunchbase.com/organization/zededa
             description: |
               ZEDEDA is a provider of distributed edge orchestration and virtualization software.
+          - item:
+            name: EdgeXFoundry
+            allow_duplicate_repo: true
+            homepage_url: https://www.edgexfoundry.org/
+            logo: edgeX_foundry.svg
+            twitter: https://twitter.com/EdgeXFoundry
+            crunchbase: https://www.crunchbase.com/organization/edgex-foundry
   - category:
     name: Service Provider Edge
     subcategories:
@@ -208,35 +219,12 @@ landscape:
         name: 5G Edge Stack/Apps
         items:
           - item:
-            name: Meta
+            name: EdgeXFoundry (5G)
             allow_duplicate_repo: true
-            homepage_url: https://about.facebook.com/meta/
-            logo: meta.svg
-            twitter: https://twitter.com/meta
-            crunchbase: https://www.crunchbase.com/organization/facebook
-            description: |
-              Meta is a social technology company that enables
-              people to connect, find communities, and grow businesses.
-          - item:
-            name: Wavelabs (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://wavelabs.ai/
-            logo: wavelabs.svg
-            twitter: https://twitter.com/WavelabsTech
-            crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
-          - item:
-            name: A10 Networks 5(G)
-            allow_duplicate_repo: true
-            homepage_url: https://a10networks.com/
-            logo: a10_networks.svg
-            twitter: https://twitter.com/A10Networks
-            crunchbase: https://www.crunchbase.com/organization/a10-networks
-          - item:
-            name: Turnium Technology Group Inc (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://ttgi.io/
-            logo: turnium_technology_group_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
+            homepage_url: https://www.edgexfoundry.org/
+            logo: edgeX_foundry.svg
+            twitter: https://twitter.com/EdgeXFoundry
+            crunchbase: https://www.crunchbase.com/organization/edgex-foundry
           - item:
             name: Intel Corporation (5G)
             homepage_url: https://intel.com/

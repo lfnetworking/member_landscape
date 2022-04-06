@@ -55,13 +55,37 @@ relation:
       # children to identify maturity levels ( incubation, active, etc ). If there aren't multiple levels, then just complete like below.
       ### Should I add all prois under the children tag - each with a sep "- id:" line??? I think this is showing examples of sep types of projects???
       children:
-        - id: tacprojects
-          label: TAC Projects
-          prefix: TAC
-          tag: TAC Project
+        - id: tac
+          label: LFN TAC
+          prefix: LFN
+          tag: LFN TAC
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: TAC Projects
+          big_picture_label: LFN TAC
+          big_picture_color: rgb(24,54,114)
+        - id: sandbox
+          label: LFN Sandbox
+          prefix: LFN
+          tag: LFN Sandbox
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: LFN Sandbox
+          big_picture_color: rgb(24,54,114)
+        - id: incubation
+          label: LFN Incubation
+          prefix: LFN
+          tag: LFN Incubation
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: LFN Incubation
+          big_picture_color: rgb(24,54,114)
+        - id: archived
+          label: LFN Archived
+          prefix: LFN
+          tag: LFN Archived
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: LFN Archived
           big_picture_color: rgb(24,54,114)
     - id: company
       label: LF Networking Members

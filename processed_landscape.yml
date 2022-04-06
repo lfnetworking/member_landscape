@@ -7,284 +7,6 @@ landscape:
         name: Management & Orchestration
         items:
           - item:
-            name: Meta
-            allow_duplicate_repo: true
-            homepage_url: https://about.facebook.com/meta/
-            logo: meta.svg
-            twitter: https://twitter.com/meta
-            crunchbase: https://www.crunchbase.com/organization/facebook
-            description: |
-              Meta is a social technology company that enables
-              people to connect, find communities, and grow businesses.
-            crunchbase_data:
-              name: Meta
-              description: Meta is a social technology company that enables people to connect, find communities, and grow businesses.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://meta.com
-              city: Menlo Park
-              region: California
-              country: United States
-              twitter: https://twitter.com/Meta
-              linkedin: https://www.linkedin.com/company/meta/
-              acquisitions:
-                - date: '2007-07-01'
-                  acquiree: Parakey
-                - date: '2009-08-10'
-                  acquiree: FriendFeed
-                  price: 50000000
-                - date: '2010-02-19'
-                  acquiree: Octazen Solutions
-                - date: '2010-04-02'
-                  acquiree: Divvyshot
-                - date: '2010-05-26'
-                  acquiree: ShareGrove
-                - date: '2010-07-28'
-                  acquiree: Hot Potato
-                  price: 10000000
-                - date: '2010-08-15'
-                  acquiree: Chai Labs
-                  price: 10000000
-                - date: '2010-09-25'
-                  acquiree: Nextstop
-                  price: 2500000
-                - date: '2010-10-29'
-                  acquiree: drop.io
-                - date: '2010-11-16'
-                  acquiree: Zenbe
-                - date: '2011-01-25'
-                  acquiree: Rel8tion
-                - date: '2011-02-25'
-                  acquiree: Pursuit
-                - date: '2011-03-01'
-                  acquiree: Beluga
-                - date: '2011-03-20'
-                  acquiree: Snaptu
-                  price: 70000000
-                - date: '2011-04-27'
-                  acquiree: Daytum
-                - date: '2011-06-09'
-                  acquiree: Sofa
-                - date: '2011-08-02'
-                  acquiree: Push Pop Press
-                - date: '2011-11-07'
-                  acquiree: Digital Staircase
-                - date: '2011-11-08'
-                  acquiree: Strobe
-                - date: '2011-11-15'
-                  acquiree: MailRank
-                - date: '2011-11-28'
-                  acquiree: WhoGlue
-                - date: '2011-12-02'
-                  acquiree: Gowalla (acquired by facebook)
-                  price: 3000000
-                - date: '2012-02-29'
-                  acquiree: Sendoid
-                - date: '2012-03-03'
-                  acquiree: Friend.ly
-                - date: '2012-03-10'
-                  acquiree: GazeHawk
-                - date: '2012-04-09'
-                  acquiree: Instagram
-                  price: 1010470000
-                - date: '2012-04-13'
-                  acquiree: Tagtile
-                - date: '2012-05-04'
-                  acquiree: Glancee
-                - date: '2012-05-15'
-                  acquiree: Lightbox
-                - date: '2012-05-18'
-                  acquiree: Karma
-                - date: '2012-06-11'
-                  acquiree: Pieceable
-                - date: '2012-06-18'
-                  acquiree: Face.com
-                - date: '2012-06-21'
-                  acquiree: Bolt | Peters
-                - date: '2012-07-14'
-                  acquiree: Spool
-                - date: '2012-07-20'
-                  acquiree: Acrylic Software
-                - date: '2012-08-24'
-                  acquiree: threadsy
-                - date: '2013-02-28'
-                  acquiree: Atlas Solutions
-                - date: '2013-03-08'
-                  acquiree: Storylane
-                - date: '2013-03-14'
-                  acquiree: Hot Studio
-                - date: '2013-04-11'
-                  acquiree: Osmeta
-                - date: '2013-04-23'
-                  acquiree: Spaceport.io
-                - date: '2013-04-25'
-                  acquiree: Parse
-                  price: 85000000
-                - date: '2013-07-18'
-                  acquiree: Monoidics
-                - date: '2013-08-12'
-                  acquiree: Jibbigo
-                - date: '2013-10-14'
-                  acquiree: Onavo
-                  price: 120000000
-                - date: '2013-12-17'
-                  acquiree: SportStream
-                - date: '2014-01-13'
-                  acquiree: Branch
-                  price: 15000000
-                - date: '2014-02-19'
-                  acquiree: WhatsApp
-                  price: 19000000000
-                - date: '2014-03-25'
-                  acquiree: Oculus
-                  price: 2000000000
-                - date: '2014-03-28'
-                  acquiree: Ascenta (UK)
-                  price: 20000000
-                - date: '2014-04-24'
-                  acquiree: Moves
-                - date: '2014-04-24'
-                  acquiree: ProtoGeo
-                - date: '2014-06-14'
-                  acquiree: Pryte
-                - date: '2014-07-01'
-                  acquiree: Little Eye Labs
-                - date: '2014-08-07'
-                  acquiree: PrivateCore
-                - date: '2014-08-14'
-                  acquiree: LiveRail
-                  price: 500000000
-                - date: '2015-01-05'
-                  acquiree: Wit.ai
-                - date: '2015-01-08'
-                  acquiree: QuickFire Networks
-                - date: '2015-01-16'
-                  acquiree: Teehan+Lax
-                - date: '2015-03-13'
-                  acquiree: TheFind, Inc.
-                - date: '2015-05-20'
-                  acquiree: Tugboat Yards
-                - date: '2015-10-05'
-                  acquiree: Endaga
-                - date: '2016-03-09'
-                  acquiree: Masquerade
-                - date: '2016-05-23'
-                  acquiree: Two Big Ears Ltd
-                - date: '2016-08-08'
-                  acquiree: Eyegroove
-                - date: '2016-09-19'
-                  acquiree: Nascent Objects Inc
-                - date: '2016-11-11'
-                  acquiree: CrowdTangle
-                - date: '2017-07-24'
-                  acquiree: Source3
-                - date: '2017-07-31'
-                  acquiree: Ozlo
-                - date: '2017-08-11'
-                  acquiree: Fayteq AG
-                - date: '2017-10-16'
-                  acquiree: tbh
-                - date: '2018-01-23'
-                  acquiree: Confirm
-                - date: '2018-07-02'
-                  acquiree: Bloomsbury AI
-                - date: '2018-07-26'
-                  acquiree: RedKix
-                - date: '2018-08-14'
-                  acquiree: Vidpresso
-                - date: '2018-10-01'
-                  acquiree: Refdash
-                - date: '2018-11-28'
-                  acquiree: Dreambit
-                - date: '2019-02-08'
-                  acquiree: Grokstyle
-                - date: '2019-03-13'
-                  acquiree: Sonics
-                - date: '2019-09-22'
-                  acquiree: Servicefriend
-                - date: '2019-09-23'
-                  acquiree: CTRL-labs
-                - date: '2019-12-13'
-                  acquiree: Atlas ML
-                - date: '2019-12-19'
-                  acquiree: PlayGiga
-                - date: '2019-12-20'
-                  acquiree: Packagd
-                - date: '2020-02-09'
-                  acquiree: Scape Technologies
-                - date: '2020-02-25'
-                  acquiree: Sanzaru Games
-                - date: '2020-05-15'
-                  acquiree: Giphy
-                  price: 400000000
-                - date: '2020-06-18'
-                  acquiree: Mapillary
-                - date: '2020-09-22'
-                  acquiree: Lemnis Technologies
-                - date: '2020-11-30'
-                  acquiree: Kustomer
-                  price: 1000000000
-                - date: '2021-06-04'
-                  acquiree: Unit 2 Games
-                - date: '2021-10-12'
-                  acquiree: AI.Reverie
-                - date: '2021-10-29'
-                  acquiree: Within (VR/AR)
-                - date: '2021-12-21'
-                  acquiree: ImagineOptix
-              parents: []
-              ticker: FB
-              funding: 16122817488
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - Augmented Reality
-                - Social Media
-                - Social Network
-                - Virtual Reality
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 531349929984
-              effective_ticker: FB
-            image_data:
-              fileName: meta.svg
-              hash: bL+0ciQVVML7W77Bhq7k0JGsbo1+Dlodsdfz9zneuNU=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: L3AF (5G)
-            homepage_url: https://l3af.io/
-            allow_duplicate_repo: true
-            project: tacprojects
-            logo: L3AF_logo.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/l3af
-            description: |
-              L3AF is an eBPF based platform enabling network functions a service.
-            crunchbase_data:
-              name: L3AF
-              description: L3AF is an eBPF based platform enabling network functions a service.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://www,l3af.io
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: Non Profit
-              industries: []
-            image_data:
-              fileName: l3-af-5-g.svg
-              hash: 5sxtuiyGl4MASUN8dOAJL6/x28QfVW6XEQJN0dopYzU=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: A10 Networks (5G)
             allow_duplicate_repo: true
             homepage_url: https://a10networks.com/
@@ -494,9 +216,9 @@ landscape:
           - item:
             name: EMCO (5G)
             allow_duplicate_repo: true
-            project: tacprojects
             homepage_url: https://project-emco.io/
             logo: EMCO.svg
+            project: sandbox
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/the-edge-multi-cluster-orchestrator-emco
             extra:
@@ -528,9 +250,9 @@ landscape:
           - item:
             name: ONAP (5G)
             allow_duplicate_repo: true
-            project: tacprojects
             homepage_url: https://www.onap.org/
             logo: onap_logo.svg
+            project: tac
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/onap
             repo_url: https://github.com/onap/aaf-authz
@@ -594,9 +316,9 @@ landscape:
           - item:
             name: DPDK (5G)
             allow_duplicate_repo: true
-            project: tacprojects
             homepage_url: https://www.dpdk.org/
             logo: dpdk-01.svg
+            project: tac
             crunchbase: https://www.crunchbase.com/organization/dpdk
             crunchbase_data:
               name: DPDK
@@ -623,15 +345,186 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: CapGemini Engineering
+            homepage_url: https://www.capgemini.com/
+            logo: capgemini.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/cap-gemini
+            crunchbase_data:
+              name: Capgemini
+              description: Capgemini provides consulting, technology, and digital transformation services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.capgemini.com
+              city: Paris
+              region: Ile-de-France
+              country: France
+              twitter: http://twitter.com/Capgemini
+              linkedin: https://www.linkedin.com/company/capgemini/
+              acquisitions:
+                - date: '2002-01-02'
+                  acquiree: Ernst & Young - Consulting Unit
+                  price: 11000000000
+                - date: '2003-01-01'
+                  acquiree: Transiciel SA
+                - date: '2004-03-01'
+                  acquiree: Dräger Synematic GmbH
+                - date: '2006-01-01'
+                  acquiree: Kanbay Software India Pty Ltd
+                - date: '2006-10-10'
+                  acquiree: Plecto AG
+                - date: '2006-10-11'
+                  acquiree: Capgemini Business Services (India) Pvt Ltd
+                - date: '2006-10-26'
+                  acquiree: Kanbay
+                - date: '2007-02-09'
+                  acquiree: Capgemini Financial Services International
+                - date: '2008-05-02'
+                  acquiree: Capgemini Business Services Brazil
+                - date: '2008-07-31'
+                  acquiree: Capgemini Nederland
+                - date: '2008-11-26'
+                  acquiree: EMPIRE
+                - date: '2009-09-17'
+                  acquiree: Nu Solutions
+                - date: '2010-06-01'
+                  acquiree: Plaisir Informatique
+                - date: '2010-06-15'
+                  acquiree: SSS Holdings Corp.
+                - date: '2010-07-29'
+                  acquiree: Skvader Systems AB
+                - date: '2010-09-01'
+                  acquiree: CPM Braxis
+                - date: '2010-11-24'
+                  acquiree: Thesys Technologies Private Ltd
+                - date: '2010-12-15'
+                  acquiree: CS Consulting GmbH
+                - date: '2011-04-05'
+                  acquiree: Avantias SAS
+                - date: '2011-05-05'
+                  acquiree: BI Consulting Group
+                - date: '2011-06-24'
+                  acquiree: Praxis Technology
+                - date: '2011-07-05'
+                  acquiree: Capgemini BST
+                - date: '2011-07-29'
+                  acquiree: Prosodie
+                - date: '2011-11-15'
+                  acquiree: Vengroff, Williams & Associates
+                - date: '2013-04-04'
+                  acquiree: DTWO Solutions
+                - date: '2014-01-21'
+                  acquiree: Sogeti
+                - date: '2014-05-06'
+                  acquiree: Strategic Systems & Products Corp.
+                - date: '2014-05-07'
+                  acquiree: Groupe Euriware S.A.
+                - date: '2015-04-27'
+                  acquiree: iGATE Global Solutions
+                  price: 4000000000
+                - date: '2015-07-01'
+                  acquiree: iGATE
+                - date: '2016-01-05'
+                  acquiree: IT & Business Services GmbH
+                - date: '2016-02-25'
+                  acquiree: Fahrenheit 212
+                - date: '2017-02-16'
+                  acquiree: Idean
+                - date: '2017-02-16'
+                  acquiree: TCube Solutions
+                - date: '2017-03-23'
+                  acquiree: ITELIOS SAS
+                - date: '2017-09-20'
+                  acquiree: Lyons Consulting Group
+                - date: '2018-02-05'
+                  acquiree: LiquidHub
+                - date: '2018-06-07'
+                  acquiree: Leidos Cyber
+                - date: '2018-10-09'
+                  acquiree: DOING
+                - date: '2019-06-24'
+                  acquiree: Altran
+                  price: 4103733257
+                - date: '2019-06-24'
+                  acquiree: Altran India Pvt. Ltd
+                  price: 4103733257
+                - date: '2020-03-26'
+                  acquiree: WhiteSky Labs
+                - date: '2020-11-10'
+                  acquiree: RXP Services
+                  price: 69535004
+                - date: '2021-05-10'
+                  acquiree: Multibook - SAP services business
+                - date: '2021-07-05'
+                  acquiree: Acclimation
+                - date: '2021-07-19'
+                  acquiree: Empired
+                  price: 172400000
+                - date: '2021-09-14'
+                  acquiree: VariQ
+              parents: []
+              ticker: CAP.PA
+              stockExchange: epa
+              company_type: For Profit
+              industries:
+                - Consulting
+                - IT Management
+                - Information Technology
+                - News
+                - Software
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 37598272424
+              effective_ticker: CAP.PA
+            image_data:
+              fileName: cap-gemini-engineering.svg
+              hash: wkRNDc+22LpDWdVl9Q9enfLXeEMePOoUEDxhaast2zw=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Rebaca
+            homepage_url: https://www.rebaca.com/
+            logo: rebaca.svg
+            twitter: https://twitter.com/rebacainc
+            crunchbase: https://www.crunchbase.com/organization/rebaca-technologies
+            crunchbase_data:
+              name: Rebaca Technologies
+              description: Software services for Video & Telecom
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: http://www.rebaca.com
+              city: Kolkata
+              region: West Bengal
+              country: India
+              twitter: http://twitter.com/RebacaInc
+              linkedin: https://www.linkedin.com/company/rebaca-technologies
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Network Security
+                - Software
+                - Telecommunications
+                - Video
+                - Wireless
+            image_data:
+              fileName: rebaca.svg
+              hash: Z2r2An/FWNqsDgur7ckugdjAnOoIsYTiB5dMXclBJ2U=
+            best_practice_data:
+              badge: false
+              percentage: null
       - subcategory:
         name: Cloud Infrastructure
         items:
           - item:
             name: Anuket (5G)
             allow_duplicate_repo: true
-            project: tacprojects
             homepage_url: https://anuket.io/
             logo: anuket-01.svg
+            project: tac
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/anuket
             repo_url: https://github.com/opnfv/vineperf
@@ -1183,6 +1076,42 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-17T13:44:03.000Z
+          - item:
+            name: K8s
+            homepage_url: https://kubernetes.io/
+            logo: kubernetes.svg
+            twitter: https://twitter.com/kubernetesio
+            crunchbase: https://www.crunchbase.com/organization/kubernetes
+            crunchbase_data:
+              name: Kubernetes
+              description: Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: https://kubernetes.io/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/kubernetesio
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/cloud-native-computing-foundation
+                - https://www.crunchbase.com/organization/linux-foundation
+              funding: 3000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Business Information Systems
+                - Business Intelligence
+                - Cloud Computing
+                - Cloud Data Services
+              kind: funding
+            image_data:
+              fileName: k8s.svg
+              hash: Ye4qvW1Fj8ioY8YiJWBdQdmf+u5jN+U6P338BJ93bQo=
+            best_practice_data:
+              badge: false
+              percentage: null
       - subcategory:
         name: 5G Network Functions/Apps
         items:
@@ -1995,6 +1924,39 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: Rebaca (5G)
+            homepage_url: https://www.rebaca.com/
+            logo: rebaca.svg
+            twitter: https://twitter.com/rebacainc
+            crunchbase: https://www.crunchbase.com/organization/rebaca-technologies
+            crunchbase_data:
+              name: Rebaca Technologies
+              description: Software services for Video & Telecom
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: http://www.rebaca.com
+              city: Kolkata
+              region: West Bengal
+              country: India
+              twitter: http://twitter.com/RebacaInc
+              linkedin: https://www.linkedin.com/company/rebaca-technologies
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Network Security
+                - Software
+                - Telecommunications
+                - Video
+                - Wireless
+            image_data:
+              fileName: rebaca-5-g.svg
+              hash: Z2r2An/FWNqsDgur7ckugdjAnOoIsYTiB5dMXclBJ2U=
+            best_practice_data:
+              badge: false
+              percentage: null
   - category:
     name: User Edge
     subcategories:
@@ -2004,7 +1966,7 @@ landscape:
           - item:
             name: Zededa
             allow_duplicate_repo: true
-            homepage_url: https://zededa.com//
+            homepage_url: https://zededa.com/
             logo: zededa.svg
             twitter: https://twitter.com/ZEDEDAEdge
             crunchbase: https://www.crunchbase.com/organization/zededa
@@ -2038,6 +2000,36 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: EdgeXFoundry
+            allow_duplicate_repo: true
+            homepage_url: https://www.edgexfoundry.org/
+            logo: edgeX_foundry.svg
+            twitter: https://twitter.com/EdgeXFoundry
+            crunchbase: https://www.crunchbase.com/organization/edgex-foundry
+            crunchbase_data:
+              name: EdgeX Foundry
+              description: EdgeX Foundry is an open source project hosted by the linux foundation to build a common open framework for internet of things .
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.edgexfoundry.org
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: https://twitter.com/EdgeXFoundry
+              linkedin: https://www.linkedin.com/company-beta/22298339/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Technology
+            image_data:
+              fileName: edge-x-foundry.svg
+              hash: 9NhZ1+UwsO+snvWtmYJcm/tdIw5ETnbee4DYnjfJZj0=
+            best_practice_data:
+              badge: false
+              percentage: null
   - category:
     name: Service Provider Edge
     subcategories:
@@ -2045,360 +2037,32 @@ landscape:
         name: 5G Edge Stack/Apps
         items:
           - item:
-            name: Meta
+            name: EdgeXFoundry (5G)
             allow_duplicate_repo: true
-            homepage_url: https://about.facebook.com/meta/
-            logo: meta.svg
-            twitter: https://twitter.com/meta
-            crunchbase: https://www.crunchbase.com/organization/facebook
-            description: |
-              Meta is a social technology company that enables
-              people to connect, find communities, and grow businesses.
+            homepage_url: https://www.edgexfoundry.org/
+            logo: edgeX_foundry.svg
+            twitter: https://twitter.com/EdgeXFoundry
+            crunchbase: https://www.crunchbase.com/organization/edgex-foundry
             crunchbase_data:
-              name: Meta
-              description: Meta is a social technology company that enables people to connect, find communities, and grow businesses.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://meta.com
-              city: Menlo Park
-              region: California
-              country: United States
-              twitter: https://twitter.com/Meta
-              linkedin: https://www.linkedin.com/company/meta/
-              acquisitions:
-                - date: '2007-07-01'
-                  acquiree: Parakey
-                - date: '2009-08-10'
-                  acquiree: FriendFeed
-                  price: 50000000
-                - date: '2010-02-19'
-                  acquiree: Octazen Solutions
-                - date: '2010-04-02'
-                  acquiree: Divvyshot
-                - date: '2010-05-26'
-                  acquiree: ShareGrove
-                - date: '2010-07-28'
-                  acquiree: Hot Potato
-                  price: 10000000
-                - date: '2010-08-15'
-                  acquiree: Chai Labs
-                  price: 10000000
-                - date: '2010-09-25'
-                  acquiree: Nextstop
-                  price: 2500000
-                - date: '2010-10-29'
-                  acquiree: drop.io
-                - date: '2010-11-16'
-                  acquiree: Zenbe
-                - date: '2011-01-25'
-                  acquiree: Rel8tion
-                - date: '2011-02-25'
-                  acquiree: Pursuit
-                - date: '2011-03-01'
-                  acquiree: Beluga
-                - date: '2011-03-20'
-                  acquiree: Snaptu
-                  price: 70000000
-                - date: '2011-04-27'
-                  acquiree: Daytum
-                - date: '2011-06-09'
-                  acquiree: Sofa
-                - date: '2011-08-02'
-                  acquiree: Push Pop Press
-                - date: '2011-11-07'
-                  acquiree: Digital Staircase
-                - date: '2011-11-08'
-                  acquiree: Strobe
-                - date: '2011-11-15'
-                  acquiree: MailRank
-                - date: '2011-11-28'
-                  acquiree: WhoGlue
-                - date: '2011-12-02'
-                  acquiree: Gowalla (acquired by facebook)
-                  price: 3000000
-                - date: '2012-02-29'
-                  acquiree: Sendoid
-                - date: '2012-03-03'
-                  acquiree: Friend.ly
-                - date: '2012-03-10'
-                  acquiree: GazeHawk
-                - date: '2012-04-09'
-                  acquiree: Instagram
-                  price: 1010470000
-                - date: '2012-04-13'
-                  acquiree: Tagtile
-                - date: '2012-05-04'
-                  acquiree: Glancee
-                - date: '2012-05-15'
-                  acquiree: Lightbox
-                - date: '2012-05-18'
-                  acquiree: Karma
-                - date: '2012-06-11'
-                  acquiree: Pieceable
-                - date: '2012-06-18'
-                  acquiree: Face.com
-                - date: '2012-06-21'
-                  acquiree: Bolt | Peters
-                - date: '2012-07-14'
-                  acquiree: Spool
-                - date: '2012-07-20'
-                  acquiree: Acrylic Software
-                - date: '2012-08-24'
-                  acquiree: threadsy
-                - date: '2013-02-28'
-                  acquiree: Atlas Solutions
-                - date: '2013-03-08'
-                  acquiree: Storylane
-                - date: '2013-03-14'
-                  acquiree: Hot Studio
-                - date: '2013-04-11'
-                  acquiree: Osmeta
-                - date: '2013-04-23'
-                  acquiree: Spaceport.io
-                - date: '2013-04-25'
-                  acquiree: Parse
-                  price: 85000000
-                - date: '2013-07-18'
-                  acquiree: Monoidics
-                - date: '2013-08-12'
-                  acquiree: Jibbigo
-                - date: '2013-10-14'
-                  acquiree: Onavo
-                  price: 120000000
-                - date: '2013-12-17'
-                  acquiree: SportStream
-                - date: '2014-01-13'
-                  acquiree: Branch
-                  price: 15000000
-                - date: '2014-02-19'
-                  acquiree: WhatsApp
-                  price: 19000000000
-                - date: '2014-03-25'
-                  acquiree: Oculus
-                  price: 2000000000
-                - date: '2014-03-28'
-                  acquiree: Ascenta (UK)
-                  price: 20000000
-                - date: '2014-04-24'
-                  acquiree: Moves
-                - date: '2014-04-24'
-                  acquiree: ProtoGeo
-                - date: '2014-06-14'
-                  acquiree: Pryte
-                - date: '2014-07-01'
-                  acquiree: Little Eye Labs
-                - date: '2014-08-07'
-                  acquiree: PrivateCore
-                - date: '2014-08-14'
-                  acquiree: LiveRail
-                  price: 500000000
-                - date: '2015-01-05'
-                  acquiree: Wit.ai
-                - date: '2015-01-08'
-                  acquiree: QuickFire Networks
-                - date: '2015-01-16'
-                  acquiree: Teehan+Lax
-                - date: '2015-03-13'
-                  acquiree: TheFind, Inc.
-                - date: '2015-05-20'
-                  acquiree: Tugboat Yards
-                - date: '2015-10-05'
-                  acquiree: Endaga
-                - date: '2016-03-09'
-                  acquiree: Masquerade
-                - date: '2016-05-23'
-                  acquiree: Two Big Ears Ltd
-                - date: '2016-08-08'
-                  acquiree: Eyegroove
-                - date: '2016-09-19'
-                  acquiree: Nascent Objects Inc
-                - date: '2016-11-11'
-                  acquiree: CrowdTangle
-                - date: '2017-07-24'
-                  acquiree: Source3
-                - date: '2017-07-31'
-                  acquiree: Ozlo
-                - date: '2017-08-11'
-                  acquiree: Fayteq AG
-                - date: '2017-10-16'
-                  acquiree: tbh
-                - date: '2018-01-23'
-                  acquiree: Confirm
-                - date: '2018-07-02'
-                  acquiree: Bloomsbury AI
-                - date: '2018-07-26'
-                  acquiree: RedKix
-                - date: '2018-08-14'
-                  acquiree: Vidpresso
-                - date: '2018-10-01'
-                  acquiree: Refdash
-                - date: '2018-11-28'
-                  acquiree: Dreambit
-                - date: '2019-02-08'
-                  acquiree: Grokstyle
-                - date: '2019-03-13'
-                  acquiree: Sonics
-                - date: '2019-09-22'
-                  acquiree: Servicefriend
-                - date: '2019-09-23'
-                  acquiree: CTRL-labs
-                - date: '2019-12-13'
-                  acquiree: Atlas ML
-                - date: '2019-12-19'
-                  acquiree: PlayGiga
-                - date: '2019-12-20'
-                  acquiree: Packagd
-                - date: '2020-02-09'
-                  acquiree: Scape Technologies
-                - date: '2020-02-25'
-                  acquiree: Sanzaru Games
-                - date: '2020-05-15'
-                  acquiree: Giphy
-                  price: 400000000
-                - date: '2020-06-18'
-                  acquiree: Mapillary
-                - date: '2020-09-22'
-                  acquiree: Lemnis Technologies
-                - date: '2020-11-30'
-                  acquiree: Kustomer
-                  price: 1000000000
-                - date: '2021-06-04'
-                  acquiree: Unit 2 Games
-                - date: '2021-10-12'
-                  acquiree: AI.Reverie
-                - date: '2021-10-29'
-                  acquiree: Within (VR/AR)
-                - date: '2021-12-21'
-                  acquiree: ImagineOptix
-              parents: []
-              ticker: FB
-              funding: 16122817488
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - Augmented Reality
-                - Social Media
-                - Social Network
-                - Virtual Reality
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 531349929984
-              effective_ticker: FB
-            image_data:
-              fileName: meta.svg
-              hash: bL+0ciQVVML7W77Bhq7k0JGsbo1+Dlodsdfz9zneuNU=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Wavelabs (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://wavelabs.ai/
-            logo: wavelabs.svg
-            twitter: https://twitter.com/WavelabsTech
-            crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
-            crunchbase_data:
-              name: Wavelabs Technologies Private Limited
-              description: We are a cloud-native, tech-first company that embraces disruptive technologies to offer real-time solutions for complex issues.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: https://www.wavelabs.ai/
-              city: Hyderabad
-              region: Andhra Pradesh
-              country: India
-              twitter: https://twitter.com/wavelabsindia
-              linkedin: https://www.linkedin.com/company/wavelabs-technologies-private-limited
+              name: EdgeX Foundry
+              description: EdgeX Foundry is an open source project hosted by the linux foundation to build a common open framework for internet of things .
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.edgexfoundry.org
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: https://twitter.com/EdgeXFoundry
+              linkedin: https://www.linkedin.com/company-beta/22298339/
               acquisitions: []
               parents: []
               stockExchange: null
               company_type: For Profit
               industries:
-                - Big Data
-                - Cloud Computing
-                - Cloud Data Services
-                - Cloud Infrastructure
-                - Cloud Management
-                - Cloud Security
-                - Cloud Storage
-                - Enterprise Software
-                - Software
-                - Software Engineering
+                - Information Technology
             image_data:
-              fileName: wavelabs-5-g.svg
-              hash: 056sFOs06anrDPmi1y/l1EBaEYqJzy/WfvKYrgNtuA4=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: A10 Networks 5(G)
-            allow_duplicate_repo: true
-            homepage_url: https://a10networks.com/
-            logo: a10_networks.svg
-            twitter: https://twitter.com/A10Networks
-            crunchbase: https://www.crunchbase.com/organization/a10-networks
-            crunchbase_data:
-              name: A10 Networks
-              description: A10 Networks offers solutions for accelerating web application delivery, bandwidth management and network identity issues.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: http://www.a10networks.com
-              city: San Jose
-              region: California
-              country: United States
-              twitter: http://twitter.com/A10Networks
-              linkedin: https://www.linkedin.com/company/a10networks
-              acquisitions:
-                - date: '2016-07-26'
-                  acquiree: Appcito
-              parents: []
-              ticker: ATEN
-              funding: 178000000
-              stockExchange: nyse
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Hardware
-                - SEO
-                - Security
-                - Virtualization
-                - Web Hosting
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 846050368
-              effective_ticker: ATEN
-            image_data:
-              fileName: a10-networks-5-g.svg
-              hash: yNoK7a9hxQp/DGMN0Kki0U57Tr6wm5s10nI9BOKhXjw=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:09:00.000Z
-          - item:
-            name: Turnium Technology Group Inc (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://ttgi.io/
-            logo: turnium_technology_group_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
-            crunchbase_data:
-              name: Turnium Technology Group Inc.
-              description: Turnium Technology specializes in providing network technology solutions.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://ttgi.io
-              city: North Vancouver
-              region: British Columbia
-              country: Canada
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries: []
-            image_data:
-              fileName: turnium-technology-group-inc-5-g.svg
-              hash: pGQCYfdKseurHFFtg+b26qWvQIIKrcbyDQwcXTO19UQ=
+              fileName: edge-x-foundry-5-g.svg
+              hash: 9NhZ1+UwsO+snvWtmYJcm/tdIw5ETnbee4DYnjfJZj0=
             best_practice_data:
               badge: false
               percentage: null
