@@ -314,38 +314,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: DPDK (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://www.dpdk.org/
-            logo: dpdk-01.svg
-            project: tac
-            crunchbase: https://www.crunchbase.com/organization/dpdk
-            crunchbase_data:
-              name: DPDK
-              description: A Linux Foundation Project, developed by hundreds of contributors, supported by strong leading members, and used in a growing ecosystem.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: http://dpdk.org/
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://twitter.com/dpdkproject
-              linkedin: https://www.linkedin.com/company/dpdk-project/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: ''
-              industries:
-                - Communities
-                - Non Profit
-                - Software
-            image_data:
-              fileName: dpdk-5-g.svg
-              hash: GZtpwCrYl8gJWAlqrwn4/OKDAC4tBwAE2UAOMKbNEQU=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: CapGemini Engineering
             homepage_url: https://www.capgemini.com/
             logo: capgemini.svg
@@ -513,6 +481,41 @@ landscape:
             image_data:
               fileName: rebaca.svg
               hash: Z2r2An/FWNqsDgur7ckugdjAnOoIsYTiB5dMXclBJ2U=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: GenxComm
+            homepage_url: https://www.genxcomm.com/
+            logo: GenxComm.svg
+            twitter: https://twitter.com/GenXComm
+            crunchbase: https://www.crunchbase.com/organization/genxcomm
+            crunchbase_data:
+              name: GenXComm
+              description: GenXComm enables true full duplex for next generation communications infrastructure.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.genxcomm.com/
+              city: Austin
+              region: Texas
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company-beta/10378127/
+              acquisitions: []
+              parents: []
+              funding: 30246945
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Services
+                - Information Technology
+                - Software
+                - Telecommunications
+                - Wireless
+              kind: funding
+            image_data:
+              fileName: genx-comm.svg
+              hash: U+naC9gVWD7W0lGGpQHoaoKlQ7lFw1A28JjIdkGbEek=
             best_practice_data:
               badge: false
               percentage: null
@@ -1079,6 +1082,7 @@ landscape:
           - item:
             name: K8s
             homepage_url: https://kubernetes.io/
+            project: sandbox
             logo: kubernetes.svg
             twitter: https://twitter.com/kubernetesio
             crunchbase: https://www.crunchbase.com/organization/kubernetes
@@ -1957,6 +1961,77 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: GenxComm (5G)
+            homepage_url: https://www.genxcomm.com/
+            logo: GenxComm.svg
+            twitter: https://twitter.com/GenXComm
+            crunchbase: https://www.crunchbase.com/organization/genxcomm
+            crunchbase_data:
+              name: GenXComm
+              description: GenXComm enables true full duplex for next generation communications infrastructure.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.genxcomm.com/
+              city: Austin
+              region: Texas
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company-beta/10378127/
+              acquisitions: []
+              parents: []
+              funding: 30246945
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Services
+                - Information Technology
+                - Software
+                - Telecommunications
+                - Wireless
+              kind: funding
+            image_data:
+              fileName: genx-comm-5-g.svg
+              hash: U+naC9gVWD7W0lGGpQHoaoKlQ7lFw1A28JjIdkGbEek=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Magma (5G)
+            homepage_url: https://magmacore.org//
+            logo: magma_fund.svg
+            project: sandbox
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/genxcomm
+            crunchbase_data:
+              name: GenXComm
+              description: GenXComm enables true full duplex for next generation communications infrastructure.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.genxcomm.com/
+              city: Austin
+              region: Texas
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company-beta/10378127/
+              acquisitions: []
+              parents: []
+              funding: 30246945
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Services
+                - Information Technology
+                - Software
+                - Telecommunications
+                - Wireless
+              kind: funding
+            image_data:
+              fileName: magma-5-g.svg
+              hash: 6A7t8olhicXttVyem2MNW1v1lwEYC84ZBL4dLcGdlUM=
+            best_practice_data:
+              badge: false
+              percentage: null
   - category:
     name: User Edge
     subcategories:
@@ -2030,12 +2105,166 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: EVE
+            homepage_url: https://www.lfedge.org/projects/eve/
+            logo: eve.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
+            crunchbase_data:
+              name: LF Edge
+              description: LF Edge is builds an open source framework for the edge.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://www.lfedge.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/lf_edge
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Open Source
+            image_data:
+              fileName: eve.svg
+              hash: XEOnOMegX/zGqpXkARvuoD9sPCuOriJ33uWLyvP+RPY=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Fledge
+            homepage_url: https://www.lfedge.org/projects/fledge/
+            logo: fledge.svg
+            twitter: https://twitter.com/lf_edge
+            crunchbase: https://www.crunchbase.com/organization/fledge-0f11
+            crunchbase_data:
+              name: Fledge
+              description: Fledge - a Linux Foundation IIoT project connecting all machine data to any destination(s), enabling advanced sensor to cloud applications.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://www.lfedge.org/projects/fledge
+              city: Menlo Park
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Artificial Intelligence
+                - Industrial Automation
+                - Information Technology
+                - Internet of Things
+                - Open Source
+            image_data:
+              fileName: fledge.svg
+              hash: q2x+bDrevh38OkKQ6Q34l3E6z0lsdfQknH5aJC5F2yI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Zephyr
+            homepage_url: https://zephyrproject.org
+            logo: zephyr.svg
+            twitter: https://twitter.com/zephyriot
+            crunchbase: https://www.crunchbase.com/organization/zephy-project
+            crunchbase_data:
+              name: Zephyr Project
+              description: The Zephyr™ Project is a scalable real-time operating system.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.zephyrproject.org/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/zephyriot
+              linkedin: https://www.linkedin.com/company/the-zephyr-project/about/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Computer
+                - Information Technology
+                - Software
+            image_data:
+              fileName: zephyr.svg
+              hash: iWgNvmv/CqEmNk9sl3/f6BA44ku0ubWNP13PyUJPiKs=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Dianomics
+            homepage_url: https://dianomic.com/
+            logo: dianomic.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/dianomic
+            crunchbase_data:
+              name: Dianomic
+              description: Dianomic is open source platform for the IoT edge.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.dianomic.com
+              city: Menlo Park
+              region: California
+              country: United States
+              twitter: https://twitter.com/dianomicsystems
+              linkedin: https://www.linkedin.com/company/18276796/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Internet of Things
+            image_data:
+              fileName: dianomics.svg
+              hash: coOUVmgN1LISHe6WCitDyAyJhfmujC3+IMVOp5G37lI=
+            best_practice_data:
+              badge: false
+              percentage: null
   - category:
     name: Service Provider Edge
     subcategories:
       - subcategory:
         name: 5G Edge Stack/Apps
         items:
+          - item:
+            name: Akraino
+            homepage_url: https://www.lfedge.org/projects/akraino/
+            logo: akraino.svg
+            project: sandbox
+            twitter: https://twitter.com/lf_edge
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
+            crunchbase_data:
+              name: LF Edge
+              description: LF Edge is builds an open source framework for the edge.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://www.lfedge.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/lf_edge
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Open Source
+            image_data:
+              fileName: akraino.svg
+              hash: 32sj13iP4PJIKblghzPtoxSO+xUiekHWho3bPVP9+Vk=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: EdgeXFoundry (5G)
             allow_duplicate_repo: true
@@ -2379,6 +2608,69 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-16T14:29:59.000Z
+          - item:
+            name: GenxComm (5G Edge)
+            homepage_url: https://www.genxcomm.com/
+            logo: GenxComm.svg
+            twitter: https://twitter.com/GenXComm
+            crunchbase: https://www.crunchbase.com/organization/genxcomm
+            crunchbase_data:
+              name: GenXComm
+              description: GenXComm enables true full duplex for next generation communications infrastructure.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.genxcomm.com/
+              city: Austin
+              region: Texas
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company-beta/10378127/
+              acquisitions: []
+              parents: []
+              funding: 30246945
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Services
+                - Information Technology
+                - Software
+                - Telecommunications
+                - Wireless
+              kind: funding
+            image_data:
+              fileName: genx-comm-5-g-edge.svg
+              hash: U+naC9gVWD7W0lGGpQHoaoKlQ7lFw1A28JjIdkGbEek=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: O-RAN SC
+            homepage_url: https://oran-osc.github.io
+            logo: oran-ocu.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/o-ran-alliance
+            crunchbase_data:
+              name: O-RAN ALLIANCE
+              description: Transforming the Radio Access Network industry towards open, intelligent, virtualized and fully interoperable RAN.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.o-ran.org
+              city: Alfter
+              region: Nordrhein-Westfalen
+              country: Germany
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: o-ran-sc.svg
+              hash: BcL6XenwxqeXPM4O1GypcCIBmjPIEPI1WC3JgLXl5/Q=
+            best_practice_data:
+              badge: false
+              percentage: null
   - category:
     name: LF Networking Member Roster
     subcategories:

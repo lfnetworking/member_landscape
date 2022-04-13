@@ -57,13 +57,6 @@ landscape:
               A comprehensive platform for orchestration, management, and automation
               of network and edge computing services.
           - item:
-            name: DPDK (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://www.dpdk.org/
-            logo: dpdk-01.svg
-            project: tac
-            crunchbase: https://www.crunchbase.com/organization/dpdk
-          - item:
             name: CapGemini Engineering
             homepage_url: https://www.capgemini.com/
             logo: capgemini.svg
@@ -75,6 +68,12 @@ landscape:
             logo: rebaca.svg
             twitter: https://twitter.com/rebacainc
             crunchbase: https://www.crunchbase.com/organization/rebaca-technologies
+          - item:
+            name: GenxComm
+            homepage_url: https://www.genxcomm.com/
+            logo: GenxComm.svg
+            twitter: https://twitter.com/GenXComm
+            crunchbase: https://www.crunchbase.com/organization/genxcomm
       - subcategory:
         name: Cloud Infrastructure
         items:
@@ -128,6 +127,7 @@ landscape:
           - item:
             name: K8s
             homepage_url: https://kubernetes.io/
+            project: sandbox
             logo: kubernetes.svg
             twitter: https://twitter.com/kubernetesio
             crunchbase: https://www.crunchbase.com/organization/kubernetes
@@ -190,6 +190,19 @@ landscape:
             logo: rebaca.svg
             twitter: https://twitter.com/rebacainc
             crunchbase: https://www.crunchbase.com/organization/rebaca-technologies
+          - item:
+            name: GenxComm (5G)
+            homepage_url: https://www.genxcomm.com/
+            logo: GenxComm.svg
+            twitter: https://twitter.com/GenXComm
+            crunchbase: https://www.crunchbase.com/organization/genxcomm
+          - item:
+            name: Magma (5G)
+            homepage_url: https://magmacore.org//
+            logo: magma_fund.svg
+            project: sandbox
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/genxcomm
   - category:
     name: User Edge
     subcategories:
@@ -212,12 +225,43 @@ landscape:
             logo: edgeX_foundry.svg
             twitter: https://twitter.com/EdgeXFoundry
             crunchbase: https://www.crunchbase.com/organization/edgex-foundry
+          - item:
+            name: EVE
+            homepage_url: https://www.lfedge.org/projects/eve/
+            logo: eve.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
+          - item:
+            name: Fledge
+            homepage_url: https://www.lfedge.org/projects/fledge/
+            logo: fledge.svg
+            twitter: https://twitter.com/lf_edge
+            crunchbase: https://www.crunchbase.com/organization/fledge-0f11
+          - item:
+            name: Zephyr
+            homepage_url: https://zephyrproject.org
+            logo: zephyr.svg
+            twitter: https://twitter.com/zephyriot
+            crunchbase: https://www.crunchbase.com/organization/zephy-project
+          - item:
+            name: Dianomics
+            homepage_url: https://dianomic.com/
+            logo: dianomic.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/dianomic
   - category:
     name: Service Provider Edge
     subcategories:
       - subcategory:
         name: 5G Edge Stack/Apps
         items:
+          - item:
+            name: Akraino
+            homepage_url: https://www.lfedge.org/projects/akraino/
+            logo: akraino.svg
+            project: sandbox
+            twitter: https://twitter.com/lf_edge
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
           - item:
             name: EdgeXFoundry (5G)
             allow_duplicate_repo: true
@@ -239,6 +283,18 @@ landscape:
             logo: kaloom_inc.svg
             twitter: https://twitter.com/Kaloom_Inc
             crunchbase: https://www.crunchbase.com/organization/kaloom
+          - item:
+            name: GenxComm (5G Edge)
+            homepage_url: https://www.genxcomm.com/
+            logo: GenxComm.svg
+            twitter: https://twitter.com/GenXComm
+            crunchbase: https://www.crunchbase.com/organization/genxcomm
+          - item:
+            name: O-RAN SC
+            homepage_url: https://oran-osc.github.io
+            logo: oran-ocu.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/o-ran-alliance
   - category:
     name: LF Networking Member Roster
     subcategories:
