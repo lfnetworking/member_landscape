@@ -2080,6 +2080,7 @@ landscape:
             allow_duplicate_repo: true
             homepage_url: https://www.edgexfoundry.org/
             logo: edgeX_foundry.svg
+            project: impact
             twitter: https://twitter.com/EdgeXFoundry
             crunchbase: https://www.crunchbase.com/organization/edgex-foundry
             crunchbase_data:
@@ -2109,6 +2110,7 @@ landscape:
             name: EVE
             homepage_url: https://www.lfedge.org/projects/eve/
             logo: eve.svg
+            project: growth
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/lf-edge
             crunchbase_data:
@@ -2139,6 +2141,7 @@ landscape:
             name: Fledge
             homepage_url: https://www.lfedge.org/projects/fledge/
             logo: fledge.svg
+            project: growth
             twitter: https://twitter.com/lf_edge
             crunchbase: https://www.crunchbase.com/organization/fledge-0f11
             crunchbase_data:

@@ -87,6 +87,22 @@ relation:
           big_picture_order: 1
           big_picture_label: LFN Archived
           big_picture_color: rgb(24,54,114)
+        - id: growth
+          label: LFEdge Growth
+          prefix: LFN
+          tag: LFEdge Growth
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: LFEdge Growth
+          big_picture_color: rgb(24,54,114)
+        - id: impact
+          label: LFEdge Impact
+          prefix: LFN
+          tag: LFEdge Impact
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: LFEdge Impact
+          big_picture_color: rgb(24,54,114)
     - id: company
       label: LF Networking Members
       tag: Company
