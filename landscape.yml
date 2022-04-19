@@ -1213,13 +1213,13 @@ landscape:
             homepage_url: https://cpqd.com.br/
             logo: cpqd.svg
             twitter: https://twitter.com/cpqd
-            crunchbase: https://www.crunchbase.com/organization/cpqd/timeline
+            crunchbase: https://www.crunchbase.com/organization/cpqd
           - item:
             name: GRADIANT
             homepage_url: https://gradiant.org/
             logo: gradiant.svg
             twitter: https://twitter.com/Gradiant
-            crunchbase: https://www.crunchbase.com/organization/gradiant/press
+            crunchbase: https://www.crunchbase.com/organization/gradiant
           - item:
             name: High School Technology Services
             homepage_url: https://myhsts.org/
