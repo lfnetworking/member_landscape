@@ -87,21 +87,29 @@ relation:
           big_picture_order: 1
           big_picture_label: LFN Archived
           big_picture_color: rgb(24,54,114)
-        - id: growth
-          label: LFEdge Growth
+        - id: lfedge
+          label: LF Edge
           prefix: LFN
-          tag: LFEdge Growth
+          tag: LF Edge
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: LFEdge Growth
+          big_picture_label: LF Edge
           big_picture_color: rgb(24,54,114)
-        - id: impact
-          label: LFEdge Impact
+        - id: cncf
+          label: CNCF
           prefix: LFN
-          tag: LFEdge Impact
+          tag: CNCF
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: LFEdge Impact
+          big_picture_label: CNCF
+          big_picture_color: rgb(24,54,114)
+        - id: foundation
+          label: Linux Foundation
+          prefix: LFN
+          tag: Linux Foundation
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: Linux Foundation
           big_picture_color: rgb(24,54,114)
     - id: company
       label: LF Networking Members
@@ -284,7 +292,7 @@ big_picture:
         category: Service Provider Edge
         rows: 2
         width: 350
-        height: 120
+        height: 140
         top: 160
         left: 0
         color: '#c5c4c2'
@@ -294,7 +302,7 @@ big_picture:
         category: User Edge
         rows: 2
         width: 350
-        height: 120
+        height: 140
         top: 160
         left: 400
         color: '#c5c4c2'
