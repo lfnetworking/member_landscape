@@ -127,7 +127,7 @@ landscape:
           - item:
             name: K8s
             homepage_url: https://kubernetes.io/
-            project: sandbox
+            project: cncf
             logo: kubernetes.svg
             twitter: https://twitter.com/kubernetesio
             crunchbase: https://www.crunchbase.com/organization/kubernetes
@@ -200,7 +200,7 @@ landscape:
             name: Magma (5G)
             homepage_url: https://magmacore.org//
             logo: magma_fund.svg
-            project: sandbox
+            project: foundation
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/genxcomm
   - category:
@@ -223,27 +223,28 @@ landscape:
             allow_duplicate_repo: true
             homepage_url: https://www.edgexfoundry.org/
             logo: edgeX_foundry.svg
-            project: impact
+            project: lfedge
             twitter: https://twitter.com/EdgeXFoundry
             crunchbase: https://www.crunchbase.com/organization/edgex-foundry
           - item:
             name: EVE
             homepage_url: https://www.lfedge.org/projects/eve/
             logo: eve.svg
-            project: growth
+            project: lfedge
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/lf-edge
           - item:
             name: Fledge
             homepage_url: https://www.lfedge.org/projects/fledge/
             logo: fledge.svg
-            project: growth
+            project: lfedge
             twitter: https://twitter.com/lf_edge
             crunchbase: https://www.crunchbase.com/organization/fledge-0f11
           - item:
             name: Zephyr
             homepage_url: https://zephyrproject.org
             logo: zephyr.svg
+            project: foundation
             twitter: https://twitter.com/zephyriot
             crunchbase: https://www.crunchbase.com/organization/zephy-project
           - item:
@@ -262,7 +263,7 @@ landscape:
             name: Akraino
             homepage_url: https://www.lfedge.org/projects/akraino/
             logo: akraino.svg
-            project: sandbox
+            project: lfedge
             twitter: https://twitter.com/lf_edge
             crunchbase: https://www.crunchbase.com/organization/lf-edge
           - item:
@@ -270,6 +271,7 @@ landscape:
             allow_duplicate_repo: true
             homepage_url: https://www.edgexfoundry.org/
             logo: edgeX_foundry.svg
+            project: lfedge
             twitter: https://twitter.com/EdgeXFoundry
             crunchbase: https://www.crunchbase.com/organization/edgex-foundry
           - item:
@@ -296,6 +298,7 @@ landscape:
             name: O-RAN SC
             homepage_url: https://oran-osc.github.io
             logo: oran-ocu.svg
+            project: foundation
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/o-ran-alliance
   - category:
