@@ -39,7 +39,7 @@ landscape:
             logo: EMCO.svg
             project: sandbox
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/the-edge-multi-cluster-orchestrator-emco
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
             extra:
               description: |
                 A universal control plane to securely connect and deploy workloads
@@ -51,7 +51,7 @@ landscape:
             logo: onap_logo.svg
             project: tac
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/onap
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
             repo_url: https://github.com/onap/aaf-authz
             description: |
               A comprehensive platform for orchestration, management, and automation
@@ -84,7 +84,7 @@ landscape:
             logo: anuket-01.svg
             project: tac
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/anuket
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
             repo_url: https://github.com/opnfv/vineperf
             description: |
               A common model, standardized reference infrastructure

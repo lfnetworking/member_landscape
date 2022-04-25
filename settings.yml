@@ -52,8 +52,6 @@ relation:
   values:
     - id: hosted
       label: TAC Projects
-      # children to identify maturity levels ( incubation, active, etc ). If there aren't multiple levels, then just complete like below.
-      ### Should I add all prois under the children tag - each with a sep "- id:" line??? I think this is showing examples of sep types of projects???
       children:
         - id: tac
           label: LFN TAC
@@ -87,30 +85,30 @@ relation:
           big_picture_order: 1
           big_picture_label: LFN Archived
           big_picture_color: rgb(24,54,114)
-        - id: lfedge
-          label: LF Edge
-          prefix: LFN
-          tag: LF Edge
-          color: '#3570af'
-          big_picture_order: 1
-          big_picture_label: LF Edge
-          big_picture_color: rgb(24,54,114)
-        - id: cncf
-          label: CNCF
-          prefix: LFN
-          tag: CNCF
-          color: '#3570af'
-          big_picture_order: 1
-          big_picture_label: CNCF
-          big_picture_color: rgb(24,54,114)
-        - id: foundation
-          label: Linux Foundation
-          prefix: LFN
-          tag: Linux Foundation
-          color: '#3570af'
-          big_picture_order: 1
-          big_picture_label: Linux Foundation
-          big_picture_color: rgb(24,54,114)
+    - id: lfedge
+      label: LF Edge
+      prefix: LF Edge
+      tag: LF Edge
+      color: '#3570af'
+      big_picture_order: 1
+      big_picture_label: LF Edge
+      big_picture_color: rgb(24,54,114)
+    - id: cncf
+      label: CNCF
+      prefix: CNCF
+      tag: CNCF
+      color: '#3570af'
+      big_picture_order: 1
+      big_picture_label: CNCF
+      big_picture_color: rgb(24,54,114)
+    - id: foundation
+      label: Linux Foundation
+      prefix: LFN
+      tag: Linux Foundation
+      color: '#3570af'
+      big_picture_order: 1
+      big_picture_label: Linux Foundation
+      big_picture_color: rgb(24,54,114)
     - id: company
       label: LF Networking Members
       tag: Company
@@ -119,7 +117,7 @@ relation:
       label: LF Networking Members Projects/Products
       tag: LF Networking Member
     - id: false
-      lable: Non-LF Networking Members Projects/Products
+      label: Non-LF Networking Members Projects/Products
       url: 'no'
 # membership levels
 membership:
