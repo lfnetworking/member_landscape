@@ -37,7 +37,7 @@ landscape:
             allow_duplicate_repo: true
             homepage_url: https://project-emco.io/
             logo: EMCO.svg
-            project: sandbox
+            project: lfn
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/the-edge-multi-cluster-orchestrator-emco
             extra:
@@ -49,7 +49,7 @@ landscape:
             allow_duplicate_repo: true
             homepage_url: https://www.onap.org/
             logo: onap_logo.svg
-            project: tac
+            project: lfn
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/onap
             repo_url: https://github.com/onap/aaf-authz
@@ -82,7 +82,7 @@ landscape:
             allow_duplicate_repo: true
             homepage_url: https://anuket.io/
             logo: anuket-01.svg
-            project: tac
+            project: lfn
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/anuket
             repo_url: https://github.com/opnfv/vineperf
