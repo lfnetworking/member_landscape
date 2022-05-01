@@ -1069,7 +1069,7 @@ landscape:
             name: NTT DATA Spain, S.L.U.
             homepage_url: https://everis.com/
             logo: ntt_data_spain_slu.svg
-            twitter: https://twitter.com/NTTDATAServices
+            twitter: https://twitter.com/NTTDATA
             crunchbase: https://www.crunchbase.com/organization/ntt-data
           - item:
             name: PANTHEON.tech s.r.o
@@ -1116,8 +1116,9 @@ landscape:
             name: Sprint Corporation
             homepage_url: https://sprint.com/
             logo: sprint_corporation.svg
-            twitter: https://twitter.com/SprintGreenNews
-            crunchbase: https://www.crunchbase.com/organization/sprint-nextel
+            twitter: https://twitter.com/TMobile
+            crunchbase: https://www.crunchbase.com/organization/t-mobile
+            stock_ticker:
           - item:
             name: Sterlite Technologies Limited
             homepage_url: https://stl.tech/
