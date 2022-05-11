@@ -3,6 +3,78 @@ landscape:
     name: Cloud/Core
     subcategories:
       - subcategory:
+        name: 5G Network Functions/Apps
+        items:
+          - item:
+            name: A10 Networks
+            allow_duplicate_repo: true
+            homepage_url: https://a10networks.com/
+            logo: a10_networks.svg
+            twitter: https://twitter.com/A10Networks
+            crunchbase: https://www.crunchbase.com/organization/a10-networks
+          - item:
+            name: Kaloom Inc.
+            allow_duplicate_repo: true
+            homepage_url: https://kaloom.com/
+            logo: kaloom_inc.svg
+            twitter: https://twitter.com/Kaloom_Inc
+            crunchbase: https://www.crunchbase.com/organization/kaloom
+          - item:
+            name: Intel Corporation (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://intel.com/
+            logo: intel_corporation.svg
+            twitter: https://twitter.com/intel
+            crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: Meta (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://about.facebook.com/meta/
+            logo: meta.svg
+            twitter: https://twitter.com/meta
+            crunchbase: https://www.crunchbase.com/organization/facebook
+            description: |
+              Meta is a social technology company that enables
+              people to connect, find communities, and grow businesses.
+          - item:
+            name: Turnium Technology Group Inc (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://ttgi.io/
+            logo: turnium_technology_group_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
+          - item:
+            name: Wavelabs (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://wavelabs.ai/
+            logo: wavelabs.svg
+            twitter: https://twitter.com/WavelabsTech
+            crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
+          - item:
+            name: CapGemini Engineering (5G)
+            homepage_url: https://www.capgemini.com/
+            logo: capgemini.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/cap-gemini
+          - item:
+            name: Rebaca (5G)
+            homepage_url: https://www.rebaca.com/
+            logo: rebaca.svg
+            twitter: https://twitter.com/rebacainc
+            crunchbase: https://www.crunchbase.com/organization/rebaca-technologies
+          - item:
+            name: GenxComm (5G)
+            homepage_url: https://www.genxcomm.com/
+            logo: GenxComm.svg
+            twitter: https://twitter.com/GenXComm
+            crunchbase: https://www.crunchbase.com/organization/genxcomm
+          - item:
+            name: Magma (5G)
+            homepage_url: https://magmacore.org//
+            logo: magma_fund.svg
+            project: foundation
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/genxcomm
+      - subcategory:
         name: Management & Orchestration
         items:
           - item:
@@ -131,78 +203,6 @@ landscape:
             logo: kubernetes.svg
             twitter: https://twitter.com/kubernetesio
             crunchbase: https://www.crunchbase.com/organization/kubernetes
-      - subcategory:
-        name: 5G Network Functions/Apps
-        items:
-          - item:
-            name: A10 Networks
-            allow_duplicate_repo: true
-            homepage_url: https://a10networks.com/
-            logo: a10_networks.svg
-            twitter: https://twitter.com/A10Networks
-            crunchbase: https://www.crunchbase.com/organization/a10-networks
-          - item:
-            name: Kaloom Inc.
-            allow_duplicate_repo: true
-            homepage_url: https://kaloom.com/
-            logo: kaloom_inc.svg
-            twitter: https://twitter.com/Kaloom_Inc
-            crunchbase: https://www.crunchbase.com/organization/kaloom
-          - item:
-            name: Intel Corporation (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://intel.com/
-            logo: intel_corporation.svg
-            twitter: https://twitter.com/intel
-            crunchbase: https://www.crunchbase.com/organization/intel
-          - item:
-            name: Meta (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://about.facebook.com/meta/
-            logo: meta.svg
-            twitter: https://twitter.com/meta
-            crunchbase: https://www.crunchbase.com/organization/facebook
-            description: |
-              Meta is a social technology company that enables
-              people to connect, find communities, and grow businesses.
-          - item:
-            name: Turnium Technology Group Inc (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://ttgi.io/
-            logo: turnium_technology_group_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
-          - item:
-            name: Wavelabs (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://wavelabs.ai/
-            logo: wavelabs.svg
-            twitter: https://twitter.com/WavelabsTech
-            crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
-          - item:
-            name: CapGemini Engineering (5G)
-            homepage_url: https://www.capgemini.com/
-            logo: capgemini.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/cap-gemini
-          - item:
-            name: Rebaca (5G)
-            homepage_url: https://www.rebaca.com/
-            logo: rebaca.svg
-            twitter: https://twitter.com/rebacainc
-            crunchbase: https://www.crunchbase.com/organization/rebaca-technologies
-          - item:
-            name: GenxComm (5G)
-            homepage_url: https://www.genxcomm.com/
-            logo: GenxComm.svg
-            twitter: https://twitter.com/GenXComm
-            crunchbase: https://www.crunchbase.com/organization/genxcomm
-          - item:
-            name: Magma (5G)
-            homepage_url: https://magmacore.org//
-            logo: magma_fund.svg
-            project: foundation
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/genxcomm
   - category:
     name: User Edge
     subcategories:
