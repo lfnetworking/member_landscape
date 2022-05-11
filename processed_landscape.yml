@@ -220,27 +220,32 @@ landscape:
             logo: EMCO.svg
             project: lfn
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/the-edge-multi-cluster-orchestrator-emco
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
             extra:
               description: |
                 A universal control plane to securely connect and deploy workloads
                 across public clouds, private clouds and edge locations.
             crunchbase_data:
-              name: Edge Multi-Cluster Orchestrator (EMCO)
-              description: A universal control plane to securely connect and deploy workloads across public clouds, private clouds and edge locations
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://project-emco.io
+              name: Linux Networking Foundation
+              description: LF Networking is the center of gravity for global carrier and enterprise networking success
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
               city: San Francisco
               region: California
               country: United States
-              twitter: null
-              linkedin: null
+              twitter: https://twitter.com/LF_Networking
+              linkedin: https://www.linkedin.com/company/lf-networking
               acquisitions: []
-              parents: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
               company_type: Non Profit
-              industries: []
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
             image_data:
               fileName: emco-5-g.svg
               hash: 56NERmI9O3WULOGgAeB30PNFsQeFqwKph1xgIcCVg+I=
@@ -254,27 +259,32 @@ landscape:
             logo: onap_logo.svg
             project: lfn
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/onap
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
             repo_url: https://github.com/onap/aaf-authz
             description: |
               A comprehensive platform for orchestration, management, and automation
               of network and edge computing services.
             crunchbase_data:
-              name: ONAP
-              description: A comprehensive platform for orchestration, management, and automation of network and edge computing services.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://www.onap.org
+              name: Linux Networking Foundation
+              description: LF Networking is the center of gravity for global carrier and enterprise networking success
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
               city: San Francisco
               region: California
               country: United States
-              twitter: null
-              linkedin: null
+              twitter: https://twitter.com/LF_Networking
+              linkedin: https://www.linkedin.com/company/lf-networking
               acquisitions: []
-              parents: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
               company_type: Non Profit
-              industries: []
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
             github_data:
               languages:
                 - name: Java
@@ -529,27 +539,32 @@ landscape:
             logo: anuket-01.svg
             project: lfn
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/anuket
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
             repo_url: https://github.com/opnfv/vineperf
             description: |
               A common model, standardized reference infrastructure
               specifications, and conformance and performance frameworks for VNFs & CNFs.
             crunchbase_data:
-              name: Anuket
-              description: A common model, standardized reference infrastructure specifications, and conformance and performance frameworks for VNFs & CNFs.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://anuket.io
+              name: Linux Networking Foundation
+              description: LF Networking is the center of gravity for global carrier and enterprise networking success
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
               city: San Francisco
               region: California
               country: United States
               twitter: https://twitter.com/LF_Networking
-              linkedin: null
+              linkedin: https://www.linkedin.com/company/lf-networking
               acquisitions: []
-              parents: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
-              company_type: ''
-              industries: []
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
             github_data:
               languages:
                 - name: Python

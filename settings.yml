@@ -273,7 +273,7 @@ big_picture:
         rows: 2
         width: 750
         height: 150
-        top: 0
+        top: 160
         left: 0
         color: '#c5c4c2'
         fit_width: false
@@ -283,7 +283,7 @@ big_picture:
         rows: 2
         width: 350
         height: 140
-        top: 160
+        top: 0
         left: 0
         color: '#c5c4c2'
         fit_width: false
@@ -293,7 +293,7 @@ big_picture:
         rows: 2
         width: 350
         height: 140
-        top: 160
+        top: 0
         left: 400
         color: '#c5c4c2'
         fit_width: false
