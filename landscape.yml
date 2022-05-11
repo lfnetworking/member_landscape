@@ -764,12 +764,6 @@ landscape:
         name: Platinum
         items:
           - item:
-            name: AT&T Services, Inc.
-            homepage_url: https://att.com/
-            logo: att_services_inc.svg
-            twitter: https://twitter.com/ATT
-            crunchbase: https://www.crunchbase.com/organization/at-t
-          - item:
             name: China Mobile Communication Company Ltd
             homepage_url: https://chinamobileltd.com/
             logo: china_mobile_communication_company_ltd.svg
@@ -882,6 +876,12 @@ landscape:
             logo: bell_canada.svg
             twitter: https://twitter.com/Bell
             crunchbase: https://www.crunchbase.com/organization/bell-net
+          - item:
+            name: AT&T Services, Inc.
+            homepage_url: https://att.com/
+            logo: att_services_inc.svg
+            twitter: https://twitter.com/ATT
+            crunchbase: https://www.crunchbase.com/organization/at-t
       - subcategory:
         name: Silver
         items:
