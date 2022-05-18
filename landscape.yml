@@ -75,6 +75,63 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/genxcomm
       - subcategory:
+        name: Cloud Infrastructure
+        items:
+          - item:
+            name: Anuket (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://anuket.io/
+            logo: anuket-01.svg
+            project: lfn
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            repo_url: https://github.com/opnfv/vineperf
+            description: |
+              A common model, standardized reference infrastructure
+              specifications, and conformance and performance frameworks for VNFs & CNFs.
+            additional_repos:
+              - repo_url: https://github.com/opnfv/kuberef
+              - repo_url: https://github.com/opnfv/functest
+              - repo_url: https://github.com/opnfv/functest-kubernetes
+              - repo_url: https://github.com/opnfv/functest-xtesting
+              - repo_url: https://github.com/opnfv/cirv-sdv
+              - repo_url: https://github.com/opnfv/barometer
+          - item:
+            name: Intel Corporation (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://intel.com/
+            logo: intel_corporation.svg
+            twitter: https://twitter.com/intel
+            crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: Kaloom Inc. (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://kaloom.com/
+            logo: kaloom_inc.svg
+            twitter: https://twitter.com/Kaloom_Inc
+            crunchbase: https://www.crunchbase.com/organization/kaloom
+          - item:
+            name: Red Hat, Inc. (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://redhat.com/
+            logo: red_hat_inc.svg
+            twitter: https://twitter.com/RedHat
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+          - item:
+            name: UNH InterOperability Lab
+            allow_duplicate_repo: true
+            homepage_url: https://iol.unh.edu/
+            logo: unh_interoperability_lab.svg
+            twitter: https://twitter.com/UofNH
+            crunchbase: https://www.crunchbase.com/organization/interoperability-laboratory
+          - item:
+            name: K8s
+            homepage_url: https://kubernetes.io/
+            project: cncf
+            logo: kubernetes.svg
+            twitter: https://twitter.com/kubernetesio
+            crunchbase: https://www.crunchbase.com/organization/kubernetes
+      - subcategory:
         name: Management & Orchestration
         items:
           - item:
@@ -146,63 +203,6 @@ landscape:
             logo: GenxComm.svg
             twitter: https://twitter.com/GenXComm
             crunchbase: https://www.crunchbase.com/organization/genxcomm
-      - subcategory:
-        name: Cloud Infrastructure
-        items:
-          - item:
-            name: Anuket (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://anuket.io/
-            logo: anuket-01.svg
-            project: lfn
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
-            repo_url: https://github.com/opnfv/vineperf
-            description: |
-              A common model, standardized reference infrastructure
-              specifications, and conformance and performance frameworks for VNFs & CNFs.
-            additional_repos:
-              - repo_url: https://github.com/opnfv/kuberef
-              - repo_url: https://github.com/opnfv/functest
-              - repo_url: https://github.com/opnfv/functest-kubernetes
-              - repo_url: https://github.com/opnfv/functest-xtesting
-              - repo_url: https://github.com/opnfv/cirv-sdv
-              - repo_url: https://github.com/opnfv/barometer
-          - item:
-            name: Intel Corporation (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://intel.com/
-            logo: intel_corporation.svg
-            twitter: https://twitter.com/intel
-            crunchbase: https://www.crunchbase.com/organization/intel
-          - item:
-            name: Kaloom Inc. (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://kaloom.com/
-            logo: kaloom_inc.svg
-            twitter: https://twitter.com/Kaloom_Inc
-            crunchbase: https://www.crunchbase.com/organization/kaloom
-          - item:
-            name: Red Hat, Inc. (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://redhat.com/
-            logo: red_hat_inc.svg
-            twitter: https://twitter.com/RedHat
-            crunchbase: https://www.crunchbase.com/organization/red-hat
-          - item:
-            name: UNH InterOperability Lab
-            allow_duplicate_repo: true
-            homepage_url: https://iol.unh.edu/
-            logo: unh_interoperability_lab.svg
-            twitter: https://twitter.com/UofNH
-            crunchbase: https://www.crunchbase.com/organization/interoperability-laboratory
-          - item:
-            name: K8s
-            homepage_url: https://kubernetes.io/
-            project: cncf
-            logo: kubernetes.svg
-            twitter: https://twitter.com/kubernetesio
-            crunchbase: https://www.crunchbase.com/organization/kubernetes
   - category:
     name: User Edge
     subcategories:

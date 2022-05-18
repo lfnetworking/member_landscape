@@ -920,532 +920,6 @@ landscape:
               badge: false
               percentage: null
       - subcategory:
-        name: Management & Orchestration
-        items:
-          - item:
-            name: A10 Networks (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://a10networks.com/
-            logo: a10_networks.svg
-            twitter: https://twitter.com/A10Networks
-            crunchbase: https://www.crunchbase.com/organization/a10-networks
-            crunchbase_data:
-              name: A10 Networks
-              description: A10 Networks offers solutions for accelerating web application delivery, bandwidth management and network identity issues.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: http://www.a10networks.com
-              city: San Jose
-              region: California
-              country: United States
-              twitter: http://twitter.com/A10Networks
-              linkedin: https://www.linkedin.com/company/a10networks
-              acquisitions:
-                - date: '2016-07-26'
-                  acquiree: Appcito
-              parents: []
-              ticker: ATEN
-              funding: 178000000
-              stockExchange: nyse
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Hardware
-                - SEO
-                - Security
-                - Virtualization
-                - Web Hosting
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 846050368
-              effective_ticker: ATEN
-            image_data:
-              fileName: a10-networks-5-g.svg
-              hash: yNoK7a9hxQp/DGMN0Kki0U57Tr6wm5s10nI9BOKhXjw=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:09:00.000Z
-          - item:
-            name: Aarna Networks
-            allow_duplicate_repo: true
-            homepage_url: https://aarnanetworks.com/
-            logo: aarna_networks.svg
-            twitter: https://twitter.com/aarnanetworks
-            crunchbase: https://www.crunchbase.com/organization/aarna-networks
-            crunchbase_data:
-              name: Aarna Networks
-              description: Aarna Networks build 5G and edge computing application automation software
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.aarnanetworks.com/
-              city: San Jose
-              region: California
-              country: United States
-              twitter: https://twitter.com/aarnanetworks
-              linkedin: https://www.linkedin.com/company/aarna-networks-inc.
-              acquisitions: []
-              parents: []
-              funding: 650000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Information Technology
-                - Open Source
-                - Software
-                - Telecommunications
-              kind: funding
-            image_data:
-              fileName: aarna-networks.svg
-              hash: ccTjiQ2BqYa3xEMqu9yd0bGdlF8Dm7+xGm29XTYSSH8=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T19:49:20.000Z
-          - item:
-            name: Red Hat, Inc. (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://redhat.com/
-            logo: red_hat_inc.svg
-            twitter: https://twitter.com/RedHat
-            crunchbase: https://www.crunchbase.com/organization/red-hat
-            crunchbase_data:
-              name: Red Hat
-              description: Red Hat is a multinational software company engaged in providing open-source software products to the enterprise community.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: http://www.redhat.com
-              city: Raleigh
-              region: North Carolina
-              country: United States
-              twitter: http://twitter.com/redhat
-              linkedin: https://www.linkedin.com/company/red-hat
-              acquisitions:
-                - date: '2001-01-31'
-                  acquiree: Akopia
-                - date: '2002-10-07'
-                  acquiree: NOCpulse
-                - date: '2003-12-18'
-                  acquiree: Sistina Software
-                  price: 31000000
-                - date: '2004-02-20'
-                  acquiree: JBoss
-                  price: 350000000
-                - date: '2007-06-02'
-                  acquiree: MetaMatrix
-                - date: '2008-03-14'
-                  acquiree: Amentra
-                - date: '2008-06-19'
-                  acquiree: Identyx
-                - date: '2008-09-04'
-                  acquiree: Qumranet
-                - date: '2010-11-30'
-                  acquiree: Makara
-                - date: '2011-10-04'
-                  acquiree: Gluster
-                  price: 136000000
-                - date: '2012-06-27'
-                  acquiree: FuseSource
-                - date: '2012-08-28'
-                  acquiree: Polymita Technologies
-                - date: '2012-08-29'
-                  acquiree: BPM Technology
-                - date: '2012-12-22'
-                  acquiree: ManageIQ
-                - date: '2014-04-30'
-                  acquiree: Inktank
-                  price: 175000000
-                - date: '2014-06-18'
-                  acquiree: eNovance
-                  price: 95074205
-                - date: '2014-09-18'
-                  acquiree: FeedHenry
-                  price: 82000000
-                - date: '2015-10-16'
-                  acquiree: Red Hat Ansible
-                  price: 150000000
-                - date: '2016-06-22'
-                  acquiree: 3scale
-                - date: '2017-05-25'
-                  acquiree: Codenvy
-                - date: '2017-07-31'
-                  acquiree: Permabit Technology Corporation
-                - date: '2018-01-30'
-                  acquiree: CoreOS
-                  price: 250000000
-                - date: '2018-11-27'
-                  acquiree: NooBaa
-                - date: '2021-01-07'
-                  acquiree: StackRox
-              parents:
-                - https://www.crunchbase.com/organization/ibm
-              ticker: IBM
-              stockExchange: nyse
-              company_type: For Profit
-              industries:
-                - Linux
-                - Open Source
-                - Software
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 132057341952
-              effective_ticker: IBM
-            image_data:
-              fileName: red-hat-inc-5-g.svg
-              hash: DP0xJOzNJFgqbN0RMQSYjY7TWaKh09iHDrR5sH3vk2U=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:30:13.000Z
-          - item:
-            name: Turnium Technology Group Inc (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://ttgi.io/
-            logo: turnium_technology_group_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
-            crunchbase_data:
-              name: Turnium Technology Group Inc.
-              description: Turnium Technology specializes in providing network technology solutions.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://ttgi.io
-              city: North Vancouver
-              region: British Columbia
-              country: Canada
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries: []
-            image_data:
-              fileName: turnium-technology-group-inc-5-g.svg
-              hash: pGQCYfdKseurHFFtg+b26qWvQIIKrcbyDQwcXTO19UQ=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: EMCO (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://project-emco.io/
-            logo: EMCO.svg
-            project: lfn
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
-            extra:
-              description: |
-                A universal control plane to securely connect and deploy workloads
-                across public clouds, private clouds and edge locations.
-            crunchbase_data:
-              name: Linux Networking Foundation
-              description: LF Networking is the center of gravity for global carrier and enterprise networking success
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.lfnetworking.org
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://twitter.com/LF_Networking
-              linkedin: https://www.linkedin.com/company/lf-networking
-              acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
-              stockExchange: null
-              company_type: Non Profit
-              industries:
-                - Network Hardware
-                - Network Security
-                - Open Source
-                - Telecommunications
-            image_data:
-              fileName: emco-5-g.svg
-              hash: 56NERmI9O3WULOGgAeB30PNFsQeFqwKph1xgIcCVg+I=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: ONAP (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://www.onap.org/
-            logo: onap_logo.svg
-            project: lfn
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
-            repo_url: https://github.com/onap/aaf-authz
-            description: |
-              A comprehensive platform for orchestration, management, and automation
-              of network and edge computing services.
-            crunchbase_data:
-              name: Linux Networking Foundation
-              description: LF Networking is the center of gravity for global carrier and enterprise networking success
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.lfnetworking.org
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://twitter.com/LF_Networking
-              linkedin: https://www.linkedin.com/company/lf-networking
-              acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
-              stockExchange: null
-              company_type: Non Profit
-              industries:
-                - Network Hardware
-                - Network Security
-                - Open Source
-                - Telecommunications
-            github_data:
-              languages:
-                - name: Java
-                  value: 5788430
-                  color: '#b07219'
-                - name: Shell
-                  value: 139122
-                  color: '#89e051'
-                - name: JavaScript
-                  value: 14962
-                  color: '#f1e05a'
-                - name: CSS
-                  value: 11489
-                  color: '#563d7c'
-                - name: HTML
-                  value: 2360
-                  color: '#e34c26'
-              contributions: 0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-03-21Z
-              stars: 1
-              license: Other
-              description: Mirror of https://gerrit.onap.org/r/#/admin/projects/aaf/authz
-              latest_commit_date: '2021-04-27T18:20:44Z'
-              latest_commit_link: /onap/archived-aaf-authz/commit/5836e4a53d87b1792486aa6b0b1ddb2e71d91bb9
-              contributors_count: 66
-              contributors_link: https://github.com/onap/aaf-authz/graphs/contributors
-            repos:
-              - url: https://github.com/onap/aaf-authz
-                stars: 1
-            github_start_commit_data:
-              start_commit_link: /onap/archived-aaf-authz/commit/f691a8b8dfc9eea4c6b3bfa45ea60f07ad347e69
-              start_date: '2017-07-12T17:55:10Z'
-            image_data:
-              fileName: onap-5-g.svg
-              hash: WNsu4QYlSKNG/Rf6KSwvyTm0cOpEvJUl4AB8B5/gQTY=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: CapGemini Engineering
-            homepage_url: https://www.capgemini.com/
-            logo: capgemini.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/cap-gemini
-            crunchbase_data:
-              name: Capgemini
-              description: Capgemini provides consulting, technology, and digital transformation services.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.capgemini.com
-              city: Paris
-              region: Ile-de-France
-              country: France
-              twitter: http://twitter.com/Capgemini
-              linkedin: https://www.linkedin.com/company/capgemini/
-              acquisitions:
-                - date: '2002-01-02'
-                  acquiree: Ernst & Young - Consulting Unit
-                  price: 11000000000
-                - date: '2003-01-01'
-                  acquiree: Transiciel SA
-                - date: '2004-03-01'
-                  acquiree: Dräger Synematic GmbH
-                - date: '2006-01-01'
-                  acquiree: Kanbay Software India Pty Ltd
-                - date: '2006-10-10'
-                  acquiree: Plecto AG
-                - date: '2006-10-11'
-                  acquiree: Capgemini Business Services (India) Pvt Ltd
-                - date: '2006-10-26'
-                  acquiree: Kanbay
-                - date: '2007-02-09'
-                  acquiree: Capgemini Financial Services International
-                - date: '2008-05-02'
-                  acquiree: Capgemini Business Services Brazil
-                - date: '2008-07-31'
-                  acquiree: Capgemini Nederland
-                - date: '2008-11-26'
-                  acquiree: EMPIRE
-                - date: '2009-09-17'
-                  acquiree: Nu Solutions
-                - date: '2010-06-01'
-                  acquiree: Plaisir Informatique
-                - date: '2010-06-15'
-                  acquiree: SSS Holdings Corp.
-                - date: '2010-07-29'
-                  acquiree: Skvader Systems AB
-                - date: '2010-09-01'
-                  acquiree: CPM Braxis
-                - date: '2010-11-24'
-                  acquiree: Thesys Technologies Private Ltd
-                - date: '2010-12-15'
-                  acquiree: CS Consulting GmbH
-                - date: '2011-04-05'
-                  acquiree: Avantias SAS
-                - date: '2011-05-05'
-                  acquiree: BI Consulting Group
-                - date: '2011-06-24'
-                  acquiree: Praxis Technology
-                - date: '2011-07-05'
-                  acquiree: Capgemini BST
-                - date: '2011-07-29'
-                  acquiree: Prosodie
-                - date: '2011-11-15'
-                  acquiree: Vengroff, Williams & Associates
-                - date: '2013-04-04'
-                  acquiree: DTWO Solutions
-                - date: '2014-01-21'
-                  acquiree: Sogeti
-                - date: '2014-05-06'
-                  acquiree: Strategic Systems & Products Corp.
-                - date: '2014-05-07'
-                  acquiree: Groupe Euriware S.A.
-                - date: '2015-04-27'
-                  acquiree: iGATE Global Solutions
-                  price: 4000000000
-                - date: '2015-07-01'
-                  acquiree: iGATE
-                - date: '2016-01-05'
-                  acquiree: IT & Business Services GmbH
-                - date: '2016-02-25'
-                  acquiree: Fahrenheit 212
-                - date: '2017-02-16'
-                  acquiree: Idean
-                - date: '2017-02-16'
-                  acquiree: TCube Solutions
-                - date: '2017-03-23'
-                  acquiree: ITELIOS SAS
-                - date: '2017-09-20'
-                  acquiree: Lyons Consulting Group
-                - date: '2018-02-05'
-                  acquiree: LiquidHub
-                - date: '2018-06-07'
-                  acquiree: Leidos Cyber
-                - date: '2018-10-09'
-                  acquiree: DOING
-                - date: '2019-06-24'
-                  acquiree: Altran
-                  price: 4103733257
-                - date: '2019-06-24'
-                  acquiree: Altran India Pvt. Ltd
-                  price: 4103733257
-                - date: '2020-03-26'
-                  acquiree: WhiteSky Labs
-                - date: '2020-11-10'
-                  acquiree: RXP Services
-                  price: 69535004
-                - date: '2021-05-10'
-                  acquiree: Multibook - SAP services business
-                - date: '2021-07-05'
-                  acquiree: Acclimation
-                - date: '2021-07-19'
-                  acquiree: Empired
-                  price: 172400000
-                - date: '2021-09-14'
-                  acquiree: VariQ
-              parents: []
-              ticker: CAP.PA
-              stockExchange: epa
-              company_type: For Profit
-              industries:
-                - Consulting
-                - IT Management
-                - Information Technology
-                - News
-                - Software
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 37598272424
-              effective_ticker: CAP.PA
-            image_data:
-              fileName: cap-gemini-engineering.svg
-              hash: wkRNDc+22LpDWdVl9Q9enfLXeEMePOoUEDxhaast2zw=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Rebaca
-            homepage_url: https://www.rebaca.com/
-            logo: rebaca.svg
-            twitter: https://twitter.com/rebacainc
-            crunchbase: https://www.crunchbase.com/organization/rebaca-technologies
-            crunchbase_data:
-              name: Rebaca Technologies
-              description: Software services for Video & Telecom
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: http://www.rebaca.com
-              city: Kolkata
-              region: West Bengal
-              country: India
-              twitter: http://twitter.com/RebacaInc
-              linkedin: https://www.linkedin.com/company/rebaca-technologies
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Network Security
-                - Software
-                - Telecommunications
-                - Video
-                - Wireless
-            image_data:
-              fileName: rebaca.svg
-              hash: Z2r2An/FWNqsDgur7ckugdjAnOoIsYTiB5dMXclBJ2U=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: GenxComm
-            homepage_url: https://www.genxcomm.com/
-            logo: GenxComm.svg
-            twitter: https://twitter.com/GenXComm
-            crunchbase: https://www.crunchbase.com/organization/genxcomm
-            crunchbase_data:
-              name: GenXComm
-              description: GenXComm enables true full duplex for next generation communications infrastructure.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://www.genxcomm.com/
-              city: Austin
-              region: Texas
-              country: United States
-              twitter: null
-              linkedin: https://www.linkedin.com/company-beta/10378127/
-              acquisitions: []
-              parents: []
-              funding: 30246945
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Services
-                - Information Technology
-                - Software
-                - Telecommunications
-                - Wireless
-              kind: funding
-            image_data:
-              fileName: genx-comm.svg
-              hash: U+naC9gVWD7W0lGGpQHoaoKlQ7lFw1A28JjIdkGbEek=
-            best_practice_data:
-              badge: false
-              percentage: null
-      - subcategory:
         name: Cloud Infrastructure
         items:
           - item:
@@ -2044,6 +1518,532 @@ landscape:
             image_data:
               fileName: k8s.svg
               hash: Ye4qvW1Fj8ioY8YiJWBdQdmf+u5jN+U6P338BJ93bQo=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Management & Orchestration
+        items:
+          - item:
+            name: A10 Networks (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://a10networks.com/
+            logo: a10_networks.svg
+            twitter: https://twitter.com/A10Networks
+            crunchbase: https://www.crunchbase.com/organization/a10-networks
+            crunchbase_data:
+              name: A10 Networks
+              description: A10 Networks offers solutions for accelerating web application delivery, bandwidth management and network identity issues.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: http://www.a10networks.com
+              city: San Jose
+              region: California
+              country: United States
+              twitter: http://twitter.com/A10Networks
+              linkedin: https://www.linkedin.com/company/a10networks
+              acquisitions:
+                - date: '2016-07-26'
+                  acquiree: Appcito
+              parents: []
+              ticker: ATEN
+              funding: 178000000
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Hardware
+                - SEO
+                - Security
+                - Virtualization
+                - Web Hosting
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 846050368
+              effective_ticker: ATEN
+            image_data:
+              fileName: a10-networks-5-g.svg
+              hash: yNoK7a9hxQp/DGMN0Kki0U57Tr6wm5s10nI9BOKhXjw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T15:09:00.000Z
+          - item:
+            name: Aarna Networks
+            allow_duplicate_repo: true
+            homepage_url: https://aarnanetworks.com/
+            logo: aarna_networks.svg
+            twitter: https://twitter.com/aarnanetworks
+            crunchbase: https://www.crunchbase.com/organization/aarna-networks
+            crunchbase_data:
+              name: Aarna Networks
+              description: Aarna Networks build 5G and edge computing application automation software
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.aarnanetworks.com/
+              city: San Jose
+              region: California
+              country: United States
+              twitter: https://twitter.com/aarnanetworks
+              linkedin: https://www.linkedin.com/company/aarna-networks-inc.
+              acquisitions: []
+              parents: []
+              funding: 650000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Information Technology
+                - Open Source
+                - Software
+                - Telecommunications
+              kind: funding
+            image_data:
+              fileName: aarna-networks.svg
+              hash: ccTjiQ2BqYa3xEMqu9yd0bGdlF8Dm7+xGm29XTYSSH8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-16T19:49:20.000Z
+          - item:
+            name: Red Hat, Inc. (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://redhat.com/
+            logo: red_hat_inc.svg
+            twitter: https://twitter.com/RedHat
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+            crunchbase_data:
+              name: Red Hat
+              description: Red Hat is a multinational software company engaged in providing open-source software products to the enterprise community.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://www.redhat.com
+              city: Raleigh
+              region: North Carolina
+              country: United States
+              twitter: http://twitter.com/redhat
+              linkedin: https://www.linkedin.com/company/red-hat
+              acquisitions:
+                - date: '2001-01-31'
+                  acquiree: Akopia
+                - date: '2002-10-07'
+                  acquiree: NOCpulse
+                - date: '2003-12-18'
+                  acquiree: Sistina Software
+                  price: 31000000
+                - date: '2004-02-20'
+                  acquiree: JBoss
+                  price: 350000000
+                - date: '2007-06-02'
+                  acquiree: MetaMatrix
+                - date: '2008-03-14'
+                  acquiree: Amentra
+                - date: '2008-06-19'
+                  acquiree: Identyx
+                - date: '2008-09-04'
+                  acquiree: Qumranet
+                - date: '2010-11-30'
+                  acquiree: Makara
+                - date: '2011-10-04'
+                  acquiree: Gluster
+                  price: 136000000
+                - date: '2012-06-27'
+                  acquiree: FuseSource
+                - date: '2012-08-28'
+                  acquiree: Polymita Technologies
+                - date: '2012-08-29'
+                  acquiree: BPM Technology
+                - date: '2012-12-22'
+                  acquiree: ManageIQ
+                - date: '2014-04-30'
+                  acquiree: Inktank
+                  price: 175000000
+                - date: '2014-06-18'
+                  acquiree: eNovance
+                  price: 95074205
+                - date: '2014-09-18'
+                  acquiree: FeedHenry
+                  price: 82000000
+                - date: '2015-10-16'
+                  acquiree: Red Hat Ansible
+                  price: 150000000
+                - date: '2016-06-22'
+                  acquiree: 3scale
+                - date: '2017-05-25'
+                  acquiree: Codenvy
+                - date: '2017-07-31'
+                  acquiree: Permabit Technology Corporation
+                - date: '2018-01-30'
+                  acquiree: CoreOS
+                  price: 250000000
+                - date: '2018-11-27'
+                  acquiree: NooBaa
+                - date: '2021-01-07'
+                  acquiree: StackRox
+              parents:
+                - https://www.crunchbase.com/organization/ibm
+              ticker: IBM
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Linux
+                - Open Source
+                - Software
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 132057341952
+              effective_ticker: IBM
+            image_data:
+              fileName: red-hat-inc-5-g.svg
+              hash: DP0xJOzNJFgqbN0RMQSYjY7TWaKh09iHDrR5sH3vk2U=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T15:30:13.000Z
+          - item:
+            name: Turnium Technology Group Inc (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://ttgi.io/
+            logo: turnium_technology_group_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
+            crunchbase_data:
+              name: Turnium Technology Group Inc.
+              description: Turnium Technology specializes in providing network technology solutions.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://ttgi.io
+              city: North Vancouver
+              region: British Columbia
+              country: Canada
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries: []
+            image_data:
+              fileName: turnium-technology-group-inc-5-g.svg
+              hash: pGQCYfdKseurHFFtg+b26qWvQIIKrcbyDQwcXTO19UQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: EMCO (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://project-emco.io/
+            logo: EMCO.svg
+            project: lfn
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            extra:
+              description: |
+                A universal control plane to securely connect and deploy workloads
+                across public clouds, private clouds and edge locations.
+            crunchbase_data:
+              name: Linux Networking Foundation
+              description: LF Networking is the center of gravity for global carrier and enterprise networking success
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: https://www.linkedin.com/company/lf-networking
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: emco-5-g.svg
+              hash: 56NERmI9O3WULOGgAeB30PNFsQeFqwKph1xgIcCVg+I=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: ONAP (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://www.onap.org/
+            logo: onap_logo.svg
+            project: lfn
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            repo_url: https://github.com/onap/aaf-authz
+            description: |
+              A comprehensive platform for orchestration, management, and automation
+              of network and edge computing services.
+            crunchbase_data:
+              name: Linux Networking Foundation
+              description: LF Networking is the center of gravity for global carrier and enterprise networking success
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: https://www.linkedin.com/company/lf-networking
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            github_data:
+              languages:
+                - name: Java
+                  value: 5788430
+                  color: '#b07219'
+                - name: Shell
+                  value: 139122
+                  color: '#89e051'
+                - name: JavaScript
+                  value: 14962
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 11489
+                  color: '#563d7c'
+                - name: HTML
+                  value: 2360
+                  color: '#e34c26'
+              contributions: 0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2021-03-21Z
+              stars: 1
+              license: Other
+              description: Mirror of https://gerrit.onap.org/r/#/admin/projects/aaf/authz
+              latest_commit_date: '2021-04-27T18:20:44Z'
+              latest_commit_link: /onap/archived-aaf-authz/commit/5836e4a53d87b1792486aa6b0b1ddb2e71d91bb9
+              contributors_count: 66
+              contributors_link: https://github.com/onap/aaf-authz/graphs/contributors
+            repos:
+              - url: https://github.com/onap/aaf-authz
+                stars: 1
+            github_start_commit_data:
+              start_commit_link: /onap/archived-aaf-authz/commit/f691a8b8dfc9eea4c6b3bfa45ea60f07ad347e69
+              start_date: '2017-07-12T17:55:10Z'
+            image_data:
+              fileName: onap-5-g.svg
+              hash: WNsu4QYlSKNG/Rf6KSwvyTm0cOpEvJUl4AB8B5/gQTY=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: CapGemini Engineering
+            homepage_url: https://www.capgemini.com/
+            logo: capgemini.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/cap-gemini
+            crunchbase_data:
+              name: Capgemini
+              description: Capgemini provides consulting, technology, and digital transformation services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.capgemini.com
+              city: Paris
+              region: Ile-de-France
+              country: France
+              twitter: http://twitter.com/Capgemini
+              linkedin: https://www.linkedin.com/company/capgemini/
+              acquisitions:
+                - date: '2002-01-02'
+                  acquiree: Ernst & Young - Consulting Unit
+                  price: 11000000000
+                - date: '2003-01-01'
+                  acquiree: Transiciel SA
+                - date: '2004-03-01'
+                  acquiree: Dräger Synematic GmbH
+                - date: '2006-01-01'
+                  acquiree: Kanbay Software India Pty Ltd
+                - date: '2006-10-10'
+                  acquiree: Plecto AG
+                - date: '2006-10-11'
+                  acquiree: Capgemini Business Services (India) Pvt Ltd
+                - date: '2006-10-26'
+                  acquiree: Kanbay
+                - date: '2007-02-09'
+                  acquiree: Capgemini Financial Services International
+                - date: '2008-05-02'
+                  acquiree: Capgemini Business Services Brazil
+                - date: '2008-07-31'
+                  acquiree: Capgemini Nederland
+                - date: '2008-11-26'
+                  acquiree: EMPIRE
+                - date: '2009-09-17'
+                  acquiree: Nu Solutions
+                - date: '2010-06-01'
+                  acquiree: Plaisir Informatique
+                - date: '2010-06-15'
+                  acquiree: SSS Holdings Corp.
+                - date: '2010-07-29'
+                  acquiree: Skvader Systems AB
+                - date: '2010-09-01'
+                  acquiree: CPM Braxis
+                - date: '2010-11-24'
+                  acquiree: Thesys Technologies Private Ltd
+                - date: '2010-12-15'
+                  acquiree: CS Consulting GmbH
+                - date: '2011-04-05'
+                  acquiree: Avantias SAS
+                - date: '2011-05-05'
+                  acquiree: BI Consulting Group
+                - date: '2011-06-24'
+                  acquiree: Praxis Technology
+                - date: '2011-07-05'
+                  acquiree: Capgemini BST
+                - date: '2011-07-29'
+                  acquiree: Prosodie
+                - date: '2011-11-15'
+                  acquiree: Vengroff, Williams & Associates
+                - date: '2013-04-04'
+                  acquiree: DTWO Solutions
+                - date: '2014-01-21'
+                  acquiree: Sogeti
+                - date: '2014-05-06'
+                  acquiree: Strategic Systems & Products Corp.
+                - date: '2014-05-07'
+                  acquiree: Groupe Euriware S.A.
+                - date: '2015-04-27'
+                  acquiree: iGATE Global Solutions
+                  price: 4000000000
+                - date: '2015-07-01'
+                  acquiree: iGATE
+                - date: '2016-01-05'
+                  acquiree: IT & Business Services GmbH
+                - date: '2016-02-25'
+                  acquiree: Fahrenheit 212
+                - date: '2017-02-16'
+                  acquiree: Idean
+                - date: '2017-02-16'
+                  acquiree: TCube Solutions
+                - date: '2017-03-23'
+                  acquiree: ITELIOS SAS
+                - date: '2017-09-20'
+                  acquiree: Lyons Consulting Group
+                - date: '2018-02-05'
+                  acquiree: LiquidHub
+                - date: '2018-06-07'
+                  acquiree: Leidos Cyber
+                - date: '2018-10-09'
+                  acquiree: DOING
+                - date: '2019-06-24'
+                  acquiree: Altran
+                  price: 4103733257
+                - date: '2019-06-24'
+                  acquiree: Altran India Pvt. Ltd
+                  price: 4103733257
+                - date: '2020-03-26'
+                  acquiree: WhiteSky Labs
+                - date: '2020-11-10'
+                  acquiree: RXP Services
+                  price: 69535004
+                - date: '2021-05-10'
+                  acquiree: Multibook - SAP services business
+                - date: '2021-07-05'
+                  acquiree: Acclimation
+                - date: '2021-07-19'
+                  acquiree: Empired
+                  price: 172400000
+                - date: '2021-09-14'
+                  acquiree: VariQ
+              parents: []
+              ticker: CAP.PA
+              stockExchange: epa
+              company_type: For Profit
+              industries:
+                - Consulting
+                - IT Management
+                - Information Technology
+                - News
+                - Software
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 37598272424
+              effective_ticker: CAP.PA
+            image_data:
+              fileName: cap-gemini-engineering.svg
+              hash: wkRNDc+22LpDWdVl9Q9enfLXeEMePOoUEDxhaast2zw=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Rebaca
+            homepage_url: https://www.rebaca.com/
+            logo: rebaca.svg
+            twitter: https://twitter.com/rebacainc
+            crunchbase: https://www.crunchbase.com/organization/rebaca-technologies
+            crunchbase_data:
+              name: Rebaca Technologies
+              description: Software services for Video & Telecom
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: http://www.rebaca.com
+              city: Kolkata
+              region: West Bengal
+              country: India
+              twitter: http://twitter.com/RebacaInc
+              linkedin: https://www.linkedin.com/company/rebaca-technologies
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Network Security
+                - Software
+                - Telecommunications
+                - Video
+                - Wireless
+            image_data:
+              fileName: rebaca.svg
+              hash: Z2r2An/FWNqsDgur7ckugdjAnOoIsYTiB5dMXclBJ2U=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: GenxComm
+            homepage_url: https://www.genxcomm.com/
+            logo: GenxComm.svg
+            twitter: https://twitter.com/GenXComm
+            crunchbase: https://www.crunchbase.com/organization/genxcomm
+            crunchbase_data:
+              name: GenXComm
+              description: GenXComm enables true full duplex for next generation communications infrastructure.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.genxcomm.com/
+              city: Austin
+              region: Texas
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company-beta/10378127/
+              acquisitions: []
+              parents: []
+              funding: 30246945
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Services
+                - Information Technology
+                - Software
+                - Telecommunications
+                - Wireless
+              kind: funding
+            image_data:
+              fileName: genx-comm.svg
+              hash: U+naC9gVWD7W0lGGpQHoaoKlQ7lFw1A28JjIdkGbEek=
             best_practice_data:
               badge: false
               percentage: null
