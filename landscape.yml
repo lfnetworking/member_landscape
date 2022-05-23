@@ -1,307 +1,5 @@
 landscape:
   - category:
-    name: Cloud/Core
-    subcategories:
-      - subcategory:
-        name: 5G Network Functions/Apps
-        items:
-          - item:
-            name: A10 Networks
-            allow_duplicate_repo: true
-            homepage_url: https://a10networks.com/
-            logo: a10_networks.svg
-            twitter: https://twitter.com/A10Networks
-            crunchbase: https://www.crunchbase.com/organization/a10-networks
-          - item:
-            name: Kaloom Inc.
-            allow_duplicate_repo: true
-            homepage_url: https://kaloom.com/
-            logo: kaloom_inc.svg
-            twitter: https://twitter.com/Kaloom_Inc
-            crunchbase: https://www.crunchbase.com/organization/kaloom
-          - item:
-            name: Intel Corporation (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://intel.com/
-            logo: intel_corporation.svg
-            twitter: https://twitter.com/intel
-            crunchbase: https://www.crunchbase.com/organization/intel
-          - item:
-            name: Meta (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://about.facebook.com/meta/
-            logo: meta.svg
-            twitter: https://twitter.com/meta
-            crunchbase: https://www.crunchbase.com/organization/facebook
-            description: |
-              Meta is a social technology company that enables
-              people to connect, find communities, and grow businesses.
-          - item:
-            name: Turnium Technology Group Inc (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://ttgi.io/
-            logo: turnium_technology_group_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
-          - item:
-            name: Wavelabs (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://wavelabs.ai/
-            logo: wavelabs.svg
-            twitter: https://twitter.com/WavelabsTech
-            crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
-          - item:
-            name: CapGemini Engineering (5G)
-            homepage_url: https://www.capgemini.com/
-            logo: capgemini.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/cap-gemini
-          - item:
-            name: Rebaca (5G)
-            homepage_url: https://www.rebaca.com/
-            logo: rebaca.svg
-            twitter: https://twitter.com/rebacainc
-            crunchbase: https://www.crunchbase.com/organization/rebaca-technologies
-          - item:
-            name: GenxComm (5G)
-            homepage_url: https://www.genxcomm.com/
-            logo: GenxComm.svg
-            twitter: https://twitter.com/GenXComm
-            crunchbase: https://www.crunchbase.com/organization/genxcomm
-          - item:
-            name: Magma (5G)
-            homepage_url: https://magmacore.org//
-            logo: magma_fund.svg
-            project: foundation
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/genxcomm
-      - subcategory:
-        name: Cloud Infrastructure
-        items:
-          - item:
-            name: Anuket (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://anuket.io/
-            logo: anuket-01.svg
-            project: lfn
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
-            repo_url: https://github.com/opnfv/vineperf
-            description: |
-              A common model, standardized reference infrastructure
-              specifications, and conformance and performance frameworks for VNFs & CNFs.
-            additional_repos:
-              - repo_url: https://github.com/opnfv/kuberef
-              - repo_url: https://github.com/opnfv/functest
-              - repo_url: https://github.com/opnfv/functest-kubernetes
-              - repo_url: https://github.com/opnfv/functest-xtesting
-              - repo_url: https://github.com/opnfv/cirv-sdv
-              - repo_url: https://github.com/opnfv/barometer
-          - item:
-            name: Intel Corporation (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://intel.com/
-            logo: intel_corporation.svg
-            twitter: https://twitter.com/intel
-            crunchbase: https://www.crunchbase.com/organization/intel
-          - item:
-            name: Kaloom Inc. (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://kaloom.com/
-            logo: kaloom_inc.svg
-            twitter: https://twitter.com/Kaloom_Inc
-            crunchbase: https://www.crunchbase.com/organization/kaloom
-          - item:
-            name: Red Hat, Inc. (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://redhat.com/
-            logo: red_hat_inc.svg
-            twitter: https://twitter.com/RedHat
-            crunchbase: https://www.crunchbase.com/organization/red-hat
-          - item:
-            name: UNH InterOperability Lab
-            allow_duplicate_repo: true
-            homepage_url: https://iol.unh.edu/
-            logo: unh_interoperability_lab.svg
-            twitter: https://twitter.com/UofNH
-            crunchbase: https://www.crunchbase.com/organization/interoperability-laboratory
-          - item:
-            name: K8s
-            homepage_url: https://kubernetes.io/
-            project: cncf
-            logo: kubernetes.svg
-            twitter: https://twitter.com/kubernetesio
-            crunchbase: https://www.crunchbase.com/organization/kubernetes
-      - subcategory:
-        name: Management & Orchestration
-        items:
-          - item:
-            name: A10 Networks (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://a10networks.com/
-            logo: a10_networks.svg
-            twitter: https://twitter.com/A10Networks
-            crunchbase: https://www.crunchbase.com/organization/a10-networks
-          - item:
-            name: Aarna Networks
-            allow_duplicate_repo: true
-            homepage_url: https://aarnanetworks.com/
-            logo: aarna_networks.svg
-            twitter: https://twitter.com/aarnanetworks
-            crunchbase: https://www.crunchbase.com/organization/aarna-networks
-          - item:
-            name: Red Hat, Inc. (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://redhat.com/
-            logo: red_hat_inc.svg
-            twitter: https://twitter.com/RedHat
-            crunchbase: https://www.crunchbase.com/organization/red-hat
-          - item:
-            name: Turnium Technology Group Inc (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://ttgi.io/
-            logo: turnium_technology_group_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
-          - item:
-            name: EMCO (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://project-emco.io/
-            logo: EMCO.svg
-            project: lfn
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
-            extra:
-              description: |
-                A universal control plane to securely connect and deploy workloads
-                across public clouds, private clouds and edge locations.
-          - item:
-            name: ONAP (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://www.onap.org/
-            logo: onap_logo.svg
-            project: lfn
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
-            repo_url: https://github.com/onap/aaf-authz
-            description: |
-              A comprehensive platform for orchestration, management, and automation
-              of network and edge computing services.
-          - item:
-            name: CapGemini Engineering
-            homepage_url: https://www.capgemini.com/
-            logo: capgemini.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/cap-gemini
-          - item:
-            name: Rebaca
-            homepage_url: https://www.rebaca.com/
-            logo: rebaca.svg
-            twitter: https://twitter.com/rebacainc
-            crunchbase: https://www.crunchbase.com/organization/rebaca-technologies
-          - item:
-            name: GenxComm
-            homepage_url: https://www.genxcomm.com/
-            logo: GenxComm.svg
-            twitter: https://twitter.com/GenXComm
-            crunchbase: https://www.crunchbase.com/organization/genxcomm
-  - category:
-    name: User Edge
-    subcategories:
-      - subcategory:
-        name: Smart Edge/Apps
-        items:
-          - item:
-            name: Zededa
-            allow_duplicate_repo: true
-            homepage_url: https://zededa.com/
-            logo: zededa.svg
-            twitter: https://twitter.com/ZEDEDAEdge
-            crunchbase: https://www.crunchbase.com/organization/zededa
-            description: |
-              ZEDEDA is a provider of distributed edge orchestration and virtualization software.
-          - item:
-            name: EdgeXFoundry
-            allow_duplicate_repo: true
-            homepage_url: https://www.edgexfoundry.org/
-            logo: edgeX_foundry.svg
-            project: lfedge
-            twitter: https://twitter.com/EdgeXFoundry
-            crunchbase: https://www.crunchbase.com/organization/edgex-foundry
-          - item:
-            name: EVE
-            homepage_url: https://www.lfedge.org/projects/eve/
-            logo: eve.svg
-            project: lfedge
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-edge
-          - item:
-            name: Fledge
-            homepage_url: https://www.lfedge.org/projects/fledge/
-            logo: fledge.svg
-            project: lfedge
-            twitter: https://twitter.com/lf_edge
-            crunchbase: https://www.crunchbase.com/organization/fledge-0f11
-          - item:
-            name: Zephyr
-            homepage_url: https://zephyrproject.org
-            logo: zephyr.svg
-            project: foundation
-            twitter: https://twitter.com/zephyriot
-            crunchbase: https://www.crunchbase.com/organization/zephy-project
-          - item:
-            name: Dianomics
-            homepage_url: https://dianomic.com/
-            logo: dianomic.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/dianomic
-  - category:
-    name: Service Provider Edge
-    subcategories:
-      - subcategory:
-        name: 5G Edge Stack/Apps
-        items:
-          - item:
-            name: Akraino
-            homepage_url: https://www.lfedge.org/projects/akraino/
-            logo: akraino.svg
-            project: lfedge
-            twitter: https://twitter.com/lf_edge
-            crunchbase: https://www.crunchbase.com/organization/lf-edge
-          - item:
-            name: EdgeXFoundry (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://www.edgexfoundry.org/
-            logo: edgeX_foundry.svg
-            project: lfedge
-            twitter: https://twitter.com/EdgeXFoundry
-            crunchbase: https://www.crunchbase.com/organization/edgex-foundry
-          - item:
-            name: Intel Corporation (5G)
-            homepage_url: https://intel.com/
-            allow_duplicate_repo: true
-            logo: intel_corporation.svg
-            twitter: https://twitter.com/intel
-            crunchbase: https://www.crunchbase.com/organization/intel
-          - item:
-            name: Kaloom Inc. (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://kaloom.com/
-            logo: kaloom_inc.svg
-            twitter: https://twitter.com/Kaloom_Inc
-            crunchbase: https://www.crunchbase.com/organization/kaloom
-          - item:
-            name: GenxComm (5G Edge)
-            homepage_url: https://www.genxcomm.com/
-            logo: GenxComm.svg
-            twitter: https://twitter.com/GenXComm
-            crunchbase: https://www.crunchbase.com/organization/genxcomm
-          - item:
-            name: O-RAN SC
-            homepage_url: https://oran-osc.github.io
-            logo: oran-ocu.svg
-            project: foundation
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/o-ran-alliance
-  - category:
     name: LF Networking Member Roster
     subcategories:
       - subcategory:
@@ -851,6 +549,308 @@ landscape:
             logo: university_of_surrey.svg
             twitter: https://twitter.com/UniOfSurrey
             crunchbase: https://www.crunchbase.com/organization/university-of-surrey
+  - category:
+    name: Cloud/Core
+    subcategories:
+      - subcategory:
+        name: 5G Network Functions/Apps
+        items:
+          - item:
+            name: A10 Networks
+            allow_duplicate_repo: true
+            homepage_url: https://a10networks.com/
+            logo: a10_networks.svg
+            twitter: https://twitter.com/A10Networks
+            crunchbase: https://www.crunchbase.com/organization/a10-networks
+          - item:
+            name: Kaloom Inc.
+            allow_duplicate_repo: true
+            homepage_url: https://kaloom.com/
+            logo: kaloom_inc.svg
+            twitter: https://twitter.com/Kaloom_Inc
+            crunchbase: https://www.crunchbase.com/organization/kaloom
+          - item:
+            name: Intel Corporation (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://intel.com/
+            logo: intel_corporation.svg
+            twitter: https://twitter.com/intel
+            crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: Meta (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://about.facebook.com/meta/
+            logo: meta.svg
+            twitter: https://twitter.com/meta
+            crunchbase: https://www.crunchbase.com/organization/facebook
+            description: |
+              Meta is a social technology company that enables
+              people to connect, find communities, and grow businesses.
+          - item:
+            name: Turnium Technology Group Inc (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://ttgi.io/
+            logo: turnium_technology_group_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
+          - item:
+            name: Wavelabs (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://wavelabs.ai/
+            logo: wavelabs.svg
+            twitter: https://twitter.com/WavelabsTech
+            crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
+          - item:
+            name: CapGemini Engineering (5G)
+            homepage_url: https://www.capgemini.com/
+            logo: capgemini.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/cap-gemini
+          - item:
+            name: Rebaca (5G)
+            homepage_url: https://www.rebaca.com/
+            logo: rebaca.svg
+            twitter: https://twitter.com/rebacainc
+            crunchbase: https://www.crunchbase.com/organization/rebaca-technologies
+          - item:
+            name: GenxComm (5G)
+            homepage_url: https://www.genxcomm.com/
+            logo: GenxComm.svg
+            twitter: https://twitter.com/GenXComm
+            crunchbase: https://www.crunchbase.com/organization/genxcomm
+          - item:
+            name: Magma (5G)
+            homepage_url: https://magmacore.org//
+            logo: magma_fund.svg
+            project: foundation
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/genxcomm
+      - subcategory:
+        name: Cloud Infrastructure
+        items:
+          - item:
+            name: Anuket (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://anuket.io/
+            logo: anuket-01.svg
+            project: lfn
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            repo_url: https://github.com/opnfv/vineperf
+            description: |
+              A common model, standardized reference infrastructure
+              specifications, and conformance and performance frameworks for VNFs & CNFs.
+            additional_repos:
+              - repo_url: https://github.com/opnfv/kuberef
+              - repo_url: https://github.com/opnfv/functest
+              - repo_url: https://github.com/opnfv/functest-kubernetes
+              - repo_url: https://github.com/opnfv/functest-xtesting
+              - repo_url: https://github.com/opnfv/cirv-sdv
+              - repo_url: https://github.com/opnfv/barometer
+          - item:
+            name: Intel Corporation (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://intel.com/
+            logo: intel_corporation.svg
+            twitter: https://twitter.com/intel
+            crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: Kaloom Inc. (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://kaloom.com/
+            logo: kaloom_inc.svg
+            twitter: https://twitter.com/Kaloom_Inc
+            crunchbase: https://www.crunchbase.com/organization/kaloom
+          - item:
+            name: Red Hat, Inc. (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://redhat.com/
+            logo: red_hat_inc.svg
+            twitter: https://twitter.com/RedHat
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+          - item:
+            name: UNH InterOperability Lab
+            allow_duplicate_repo: true
+            homepage_url: https://iol.unh.edu/
+            logo: unh_interoperability_lab.svg
+            twitter: https://twitter.com/UofNH
+            crunchbase: https://www.crunchbase.com/organization/interoperability-laboratory
+          - item:
+            name: K8s
+            homepage_url: https://kubernetes.io/
+            project: cncf
+            logo: kubernetes.svg
+            twitter: https://twitter.com/kubernetesio
+            crunchbase: https://www.crunchbase.com/organization/kubernetes
+      - subcategory:
+        name: Management & Orchestration
+        items:
+          - item:
+            name: A10 Networks (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://a10networks.com/
+            logo: a10_networks.svg
+            twitter: https://twitter.com/A10Networks
+            crunchbase: https://www.crunchbase.com/organization/a10-networks
+          - item:
+            name: Aarna Networks
+            allow_duplicate_repo: true
+            homepage_url: https://aarnanetworks.com/
+            logo: aarna_networks.svg
+            twitter: https://twitter.com/aarnanetworks
+            crunchbase: https://www.crunchbase.com/organization/aarna-networks
+          - item:
+            name: Red Hat, Inc. (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://redhat.com/
+            logo: red_hat_inc.svg
+            twitter: https://twitter.com/RedHat
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+          - item:
+            name: Turnium Technology Group Inc (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://ttgi.io/
+            logo: turnium_technology_group_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
+          - item:
+            name: EMCO (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://project-emco.io/
+            logo: EMCO.svg
+            project: lfn
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            extra:
+              description: |
+                A universal control plane to securely connect and deploy workloads
+                across public clouds, private clouds and edge locations.
+          - item:
+            name: ONAP (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://www.onap.org/
+            logo: onap_logo.svg
+            project: lfn
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            repo_url: https://github.com/onap/aaf-authz
+            description: |
+              A comprehensive platform for orchestration, management, and automation
+              of network and edge computing services.
+          - item:
+            name: CapGemini Engineering
+            homepage_url: https://www.capgemini.com/
+            logo: capgemini.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/cap-gemini
+          - item:
+            name: Rebaca
+            homepage_url: https://www.rebaca.com/
+            logo: rebaca.svg
+            twitter: https://twitter.com/rebacainc
+            crunchbase: https://www.crunchbase.com/organization/rebaca-technologies
+          - item:
+            name: GenxComm
+            homepage_url: https://www.genxcomm.com/
+            logo: GenxComm.svg
+            twitter: https://twitter.com/GenXComm
+            crunchbase: https://www.crunchbase.com/organization/genxcomm
+  - category:
+    name: User Edge
+    subcategories:
+      - subcategory:
+        name: Smart Edge/Apps
+        items:
+          - item:
+            name: Zededa
+            allow_duplicate_repo: true
+            homepage_url: https://zededa.com/
+            logo: zededa.svg
+            twitter: https://twitter.com/ZEDEDAEdge
+            crunchbase: https://www.crunchbase.com/organization/zededa
+            description: |
+              ZEDEDA is a provider of distributed edge orchestration and virtualization software.
+          - item:
+            name: EdgeXFoundry
+            allow_duplicate_repo: true
+            homepage_url: https://www.edgexfoundry.org/
+            logo: edgeX_foundry.svg
+            project: lfedge
+            twitter: https://twitter.com/EdgeXFoundry
+            crunchbase: https://www.crunchbase.com/organization/edgex-foundry
+          - item:
+            name: EVE
+            homepage_url: https://www.lfedge.org/projects/eve/
+            logo: eve.svg
+            project: lfedge
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
+          - item:
+            name: Fledge
+            homepage_url: https://www.lfedge.org/projects/fledge/
+            logo: fledge.svg
+            project: lfedge
+            twitter: https://twitter.com/lf_edge
+            crunchbase: https://www.crunchbase.com/organization/fledge-0f11
+          - item:
+            name: Zephyr
+            homepage_url: https://zephyrproject.org
+            logo: zephyr.svg
+            project: foundation
+            twitter: https://twitter.com/zephyriot
+            crunchbase: https://www.crunchbase.com/organization/zephy-project
+          - item:
+            name: Dianomics
+            homepage_url: https://dianomic.com/
+            logo: dianomic.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/dianomic
+  - category:
+    name: Service Provider Edge
+    subcategories:
+      - subcategory:
+        name: 5G Edge Stack/Apps
+        items:
+          - item:
+            name: Akraino
+            homepage_url: https://www.lfedge.org/projects/akraino/
+            logo: akraino.svg
+            project: lfedge
+            twitter: https://twitter.com/lf_edge
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
+          - item:
+            name: EdgeXFoundry (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://www.edgexfoundry.org/
+            logo: edgeX_foundry.svg
+            project: lfedge
+            twitter: https://twitter.com/EdgeXFoundry
+            crunchbase: https://www.crunchbase.com/organization/edgex-foundry
+          - item:
+            name: Intel Corporation (5G)
+            homepage_url: https://intel.com/
+            allow_duplicate_repo: true
+            logo: intel_corporation.svg
+            twitter: https://twitter.com/intel
+            crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: Kaloom Inc. (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://kaloom.com/
+            logo: kaloom_inc.svg
+            twitter: https://twitter.com/Kaloom_Inc
+            crunchbase: https://www.crunchbase.com/organization/kaloom
+          - item:
+            name: GenxComm (5G Edge)
+            homepage_url: https://www.genxcomm.com/
+            logo: GenxComm.svg
+            twitter: https://twitter.com/GenXComm
+            crunchbase: https://www.crunchbase.com/organization/genxcomm
+          - item:
+            name: O-RAN SC
+            homepage_url: https://oran-osc.github.io
+            logo: oran-ocu.svg
+            project: foundation
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/o-ran-alliance
   - category:
     name: Anuket Assured Program
     subcategories:
