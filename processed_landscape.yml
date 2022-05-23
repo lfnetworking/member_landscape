@@ -1,6 +1,2001 @@
 # THIS FILE IS GENERATED AUTOMATICALLY!
 landscape:
   - category:
+    name: LF Networking Projects
+    subcategories:
+      - subcategory:
+        name: LF Networking Projects
+        items:
+          - item:
+            name: Anuket
+            allow_duplicate_repo: true
+            homepage_url: https://anuket.io/
+            logo: anuket-01.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/anuket
+            repo_url: https://github.com/opnfv/vineperf
+            description: |
+              A common model, standardized reference infrastructure
+              specifications, and conformance and performance frameworks for VNFs & CNFs.
+            crunchbase_data:
+              name: Anuket
+              description: A common model, standardized reference infrastructure specifications, and conformance and performance frameworks for VNFs & CNFs.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://anuket.io
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/lf-networking
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: ''
+              industries: []
+            github_data:
+              languages:
+                - name: Python
+                  value: 2124753
+                  color: '#3572A5'
+                - name: Shell
+                  value: 214514
+                  color: '#89e051'
+                - name: HTML
+                  value: 177498
+                  color: '#e34c26'
+                - name: Jupyter Notebook
+                  value: 117089
+                  color: '#DA5B0B'
+                - name: Jinja
+                  value: 68558
+                - name: Gherkin
+                  value: 60768
+                  color: '#5B2063'
+                - name: Dockerfile
+                  value: 60452
+                  color: '#384d54'
+                - name: Makefile
+                  value: 52347
+                  color: '#427819'
+                - name: Go
+                  value: 44259
+                  color: '#00ADD8'
+                - name: C
+                  value: 42730
+                  color: '#555555'
+                - name: Ruby
+                  value: 36512
+                  color: '#701516'
+                - name: Puppet
+                  value: 32135
+                  color: '#302B6D'
+                - name: CSS
+                  value: 12106
+                  color: '#563d7c'
+                - name: JavaScript
+                  value: 12100
+                  color: '#f1e05a'
+                - name: Lua
+                  value: 2306
+                  color: '#000080'
+                - name: Roff
+                  value: 314
+                  color: '#ecdebe'
+                - name: RobotFramework
+                  value: 58
+              contributions: 20;2;13;5;8;7;11;16;12;19;12;12;6;8;14;14;3;2;1;6;18;4;8;9;1;5;2;1;4;4;3;5;2;9;2;8;2;11;8;4;0;4;2;0;2;0;1;2;1;6;1;0
+              firstWeek: 2021-03-21Z
+              stars: 39
+              license: Other
+              description: null
+              latest_commit_date: '2021-12-13T01:31:37Z'
+              latest_commit_link: /opnfv/vineperf/commit/2fcc501a8cf9f5a7dbcedf48946e225dfc485ff8
+              contributors_count: 132
+              contributors_link: https://github.com/opnfv/vineperf/graphs/contributors
+            repos:
+              - url: https://github.com/opnfv/vineperf
+                stars: 0
+              - url: https://github.com/opnfv/functest
+                stars: 21
+              - url: https://github.com/opnfv/barometer
+                stars: 9
+              - url: https://github.com/opnfv/functest-kubernetes
+                stars: 5
+              - url: https://github.com/opnfv/functest-xtesting
+                stars: 2
+              - url: https://github.com/opnfv/cirv-sdv
+                stars: 2
+              - url: https://github.com/opnfv/kuberef
+                stars: 0
+            github_start_commit_data:
+              start_commit_link: /opnfv/vineperf/commit/8565c80b58ac6a1f5952514b2b2b1e16ea8ae000
+              start_date: '2015-01-11T16:11:11Z'
+            image_data:
+              fileName: anuket.svg
+              hash: bFZ3IHemg6nJ0BKTAtxYVxPLYKiu9/TB8FEXwxsEiPY=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: EMCO
+            homepage_url: https://project-emco.io/
+            logo: EMCO.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/the-edge-multi-cluster-orchestrator-emco
+            extra:
+              description: |
+                A universal control plane to securely connect and deploy workloads
+                across public clouds, private clouds and edge locations.
+            crunchbase_data:
+              name: Edge Multi-Cluster Orchestrator (EMCO)
+              description: A universal control plane to securely connect and deploy workloads across public clouds, private clouds and edge locations
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://project-emco.io
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/lf-networking
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries: []
+            image_data:
+              fileName: emco.svg
+              hash: 56NERmI9O3WULOGgAeB30PNFsQeFqwKph1xgIcCVg+I=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: FD.io
+            homepage_url: https://fd.io/
+            logo: logo_fdio.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/fd-io
+            repo_url: https://github.com/FDio/archived-deb_dpdk
+            description: |
+              Open Source high-performance IO services framework for dynamic computing environments.
+            crunchbase_data:
+              name: FD.io
+              description: Open Source high-performance IO services framework for dynamic computing environments.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://fd.io/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://www.twitter.com/fdioproject
+              linkedin: https://www.linkedin.com/company/fd.io/
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/lf-networking
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Information Technology
+                - Software
+            github_data:
+              languages:
+                - name: C
+                  value: 80738040
+                  color: '#555555'
+                - name: Python
+                  value: 20460998
+                  color: '#3572A5'
+                - name: HTML
+                  value: 16539111
+                  color: '#e34c26'
+                - name: C++
+                  value: 8408997
+                  color: '#f34b7d'
+                - name: Java
+                  value: 6337178
+                  color: '#b07219'
+                - name: RobotFramework
+                  value: 4481765
+                - name: Makefile
+                  value: 912746
+                  color: '#427819'
+                - name: Shell
+                  value: 854284
+                  color: '#89e051'
+                - name: Go
+                  value: 618688
+                  color: '#00ADD8'
+                - name: CMake
+                  value: 522473
+                - name: JavaScript
+                  value: 288578
+                  color: '#f1e05a'
+                - name: HCL
+                  value: 231562
+                - name: Emacs Lisp
+                  value: 217173
+                  color: '#c065db'
+                - name: Lua
+                  value: 160025
+                  color: '#000080'
+                - name: Vim script
+                  value: 107589
+                  color: '#199f4b'
+                - name: Objective-C
+                  value: 104247
+                  color: '#438eff'
+                - name: CSS
+                  value: 104055
+                  color: '#563d7c'
+                - name: M4
+                  value: 99894
+                - name: Assembly
+                  value: 34833
+                  color: '#6E4C13'
+                - name: Groovy
+                  value: 33251
+                  color: '#e69f56'
+                - name: Ruby
+                  value: 30916
+                  color: '#701516'
+                - name: Jinja
+                  value: 27857
+                - name: XS
+                  value: 21306
+                - name: Puppet
+                  value: 15690
+                  color: '#302B6D'
+                - name: Dockerfile
+                  value: 12536
+                  color: '#384d54'
+                - name: Perl
+                  value: 6694
+                  color: '#0298c3'
+                - name: XSLT
+                  value: 5400
+                  color: '#EB8CEB'
+                - name: Roff
+                  value: 5284
+                  color: '#ecdebe'
+                - name: Sass
+                  value: 3543
+                - name: Yacc
+                  value: 3034
+                  color: '#4B6C4B'
+                - name: Starlark
+                  value: 2089
+                - name: Procfile
+                  value: 21
+              contributions: >-
+                55;58;35;37;79;32;44;52;48;40;47;40;49;40;21;42;34;60;66;52;59;59;67;55;80;44;41;53;23;29;23;8;38;48;49;47;41;41;52;35;41;50;53;56;52;48;35;26;27;21;21;28
+              firstWeek: 2021-05-30Z
+              stars: 1137
+              license: Other
+              description: null
+              latest_commit_date: '2019-03-20T14:53:31Z'
+              latest_commit_link: /FDio/archived-deb_dpdk/commit/7a2e6cf9d72252a95b0d5f4d8e4750271305fd1c
+              contributors_count: 341
+              contributors_link: https://github.com/FDio/archived-deb_dpdk/graphs/contributors
+            repos:
+              - url: https://github.com/FDio/archived-deb_dpdk
+                stars: 1
+              - url: https://github.com/FDio/vpp
+                stars: 753
+              - url: https://github.com/FDio/tldk
+                stars: 116
+              - url: https://github.com/FDio/govpp
+                stars: 98
+              - url: https://github.com/FDio/hicn
+                stars: 42
+              - url: https://github.com/FDio/cicn
+                stars: 23
+              - url: https://github.com/FDio/vsap
+                stars: 21
+              - url: https://github.com/FDio/csit
+                stars: 20
+              - url: https://github.com/FDio/archived-sweetcomb
+                stars: 15
+              - url: https://github.com/FDio/hc2vpp
+                stars: 13
+              - url: https://github.com/FDio/archived-honeycomb
+                stars: 11
+              - url: https://github.com/FDio/archived-trex
+                stars: 7
+              - url: https://github.com/FDio/archived-nsh_sfc
+                stars: 4
+              - url: https://github.com/FDio/ci-management
+                stars: 4
+              - url: https://github.com/FDio/archived-odp4vpp
+                stars: 3
+              - url: https://github.com/FDio/site
+                stars: 3
+              - url: https://github.com/FDio/archived-rpm_dpdk
+                stars: 2
+              - url: https://github.com/FDio/archived-dmm
+                stars: 1
+              - url: https://github.com/FDio/archived-jvpp
+                stars: 0
+              - url: https://github.com/FDio/archived-pma_tools
+                stars: 0
+              - url: https://github.com/FDio/archived-puppet-fdio
+                stars: 0
+            github_start_commit_data:
+              start_commit_link: /FDio/archived-trex/commit/8b52a31ed2c299b759f330c4f976b9c70f5765f4
+              start_date: '2015-06-24T11:03:29Z'
+            image_data:
+              fileName: fd-io.svg
+              hash: 45hEiNfR4kyfMx7sMS4nfha9vi+KZx3WyaNadPiR5Kg=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: ODIM
+            homepage_url: https://odim.io/
+            logo: odim-color-1.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/odim-cb86
+            repo_url: https://github.com/ODIM-Project/BMCSimulator
+            description: |
+              Open Distributed Infrastructure Manager. Multi-site, multi-vendor physical
+              infrastructure lifecycle management.
+            crunchbase_data:
+              name: Open Distributed Infrastructure Management
+              description: Open Distributed Infrastructure Manager. Multi-site, multi-vendor physical infrastructure lifecycle management.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://odim.io
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/lf-networking
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries: []
+            github_data:
+              languages:
+                - name: Go
+                  value: 4070713
+                  color: '#00ADD8'
+                - name: Kotlin
+                  value: 1468463
+                  color: '#F18E33'
+                - name: Shell
+                  value: 219906
+                  color: '#89e051'
+                - name: Python
+                  value: 187464
+                  color: '#3572A5'
+                - name: Smarty
+                  value: 54550
+                - name: Jinja
+                  value: 6342
+                - name: Mustache
+                  value: 5283
+                - name: Makefile
+                  value: 4972
+                  color: '#427819'
+                - name: Groovy
+                  value: 3851
+                  color: '#e69f56'
+                - name: Smalltalk
+                  value: 1400
+                  color: '#596706'
+                - name: Dockerfile
+                  value: 713
+                  color: '#384d54'
+              contributions: 1;1;1;13;17;4;16;7;17;5;13;5;26;13;4;8;8;5;14;5;10;29;31;30;10;27;29;20;30;24;26;0;44;42;33;60;113;92;114;53;10;0;0;0;1;0;3;0;25;1;1;2
+              firstWeek: 2021-05-30Z
+              stars: 29
+              license: Apache License 2.0
+              description: >-
+                BMC simulator source code that is used to compile REST server as a standalone image to mimic BMC HW interface behavour for testing. BMC
+                simulator exposes DMTF Redfish API compliant with OPAF profile.
+              latest_commit_date: '2022-01-14T13:42:02Z'
+              latest_commit_link: /ODIM-Project/BMCSimulator/commit/7e8a3030ca83c040678f8edf76def588b2b01cca
+              contributors_count: 26
+              contributors_link: https://github.com/ODIM-Project/BMCSimulator/graphs/contributors
+            repos:
+              - url: https://github.com/ODIM-Project/BMCSimulator
+                stars: 6
+              - url: https://github.com/ODIM-Project/ODIM
+                stars: 23
+              - url: https://github.com/ODIM-Project/PluginCiscoACI
+                stars: 0
+            github_start_commit_data:
+              start_commit_link: /ODIM-Project/ODIM/commit/6fa216919a3446a760f0795ff97f2964ddcb970b
+              start_date: '2020-06-29T16:48:57Z'
+            image_data:
+              fileName: odim.svg
+              hash: jTjbcp7GPy771hfO5p0oWasUxo5e2uzA1pgFikfaDjQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: ONAP
+            allow_duplicate_repo: true
+            homepage_url: https://www.onap.org/
+            logo: onap_logo.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/onap
+            repo_url: https://github.com/onap/aaf-authz
+            description: |
+              A comprehensive platform for orchestration, management, and automation
+              of network and edge computing services.
+            crunchbase_data:
+              name: ONAP
+              description: A comprehensive platform for orchestration, management, and automation of network and edge computing services.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.onap.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/lf-networking
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries: []
+            github_data:
+              languages:
+                - name: Java
+                  value: 5788430
+                  color: '#b07219'
+                - name: Shell
+                  value: 139122
+                  color: '#89e051'
+                - name: JavaScript
+                  value: 14962
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 11489
+                  color: '#563d7c'
+                - name: HTML
+                  value: 2360
+                  color: '#e34c26'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2021-05-30Z
+              stars: 1
+              license: Other
+              description: Mirror of https://gerrit.onap.org/r/#/admin/projects/aaf/authz
+              latest_commit_date: '2021-04-27T18:20:44Z'
+              latest_commit_link: /onap/archived-aaf-authz/commit/5836e4a53d87b1792486aa6b0b1ddb2e71d91bb9
+              contributors_count: 66
+              contributors_link: https://github.com/onap/aaf-authz/graphs/contributors
+            repos:
+              - url: https://github.com/onap/aaf-authz
+                stars: 1
+            github_start_commit_data:
+              start_commit_link: /onap/archived-aaf-authz/commit/f691a8b8dfc9eea4c6b3bfa45ea60f07ad347e69
+              start_date: '2017-07-12T17:55:10Z'
+            image_data:
+              fileName: onap.svg
+              hash: WNsu4QYlSKNG/Rf6KSwvyTm0cOpEvJUl4AB8B5/gQTY=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Opendaylight
+            homepage_url: https://www.opendaylight.org/
+            logo: opendaylight_logo.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/opendaylight
+            repo_url: https://github.com/opendaylight/aaa
+            description: |
+              Open source SDN Controller with largest ecosystem and deployment footprint.
+            crunchbase_data:
+              name: OpenDaylight
+              description: Open source SDN Controller with largest ecosystem and deployment footprint.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.opendaylight.org/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/OpenDaylightSDN
+              linkedin: https://www.linkedin.com/company/3614476
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/lf-networking
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Computer
+                - Open Source
+                - Virtualization
+            github_data:
+              languages:
+                - name: Java
+                  value: 140195701
+                  color: '#b07219'
+                - name: C++
+                  value: 24587516
+                  color: '#f34b7d'
+                - name: Python
+                  value: 8987262
+                  color: '#3572A5'
+                - name: C
+                  value: 8244912
+                  color: '#555555'
+                - name: RobotFramework
+                  value: 5041109
+                - name: JavaScript
+                  value: 3968080
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 1390605
+                  color: '#e34c26'
+                - name: Shell
+                  value: 936816
+                  color: '#89e051'
+                - name: CSS
+                  value: 668963
+                  color: '#563d7c'
+                - name: Groovy
+                  value: 610310
+                  color: '#e69f56'
+                - name: C#
+                  value: 583603
+                  color: '#178600'
+                - name: Xtend
+                  value: 560546
+                - name: Makefile
+                  value: 339885
+                  color: '#427819'
+                - name: Perl
+                  value: 289472
+                  color: '#0298c3'
+                - name: M4
+                  value: 142099
+                - name: Ruby
+                  value: 126515
+                  color: '#701516'
+                - name: GAP
+                  value: 119834
+                - name: Go
+                  value: 97815
+                  color: '#00ADD8'
+                - name: Less
+                  value: 89627
+                - name: Puppet
+                  value: 42229
+                  color: '#302B6D'
+                - name: Objective-C
+                  value: 31632
+                  color: '#438eff'
+                - name: Dockerfile
+                  value: 17677
+                  color: '#384d54'
+                - name: ANTLR
+                  value: 16520
+                  color: '#9DC3FF'
+                - name: P4
+                  value: 15984
+                  color: '#7055b5'
+                - name: Lua
+                  value: 14393
+                  color: '#000080'
+                - name: Thrift
+                  value: 14043
+                - name: PowerShell
+                  value: 12004
+                  color: '#012456'
+                - name: XS
+                  value: 10617
+                - name: Batchfile
+                  value: 9001
+                  color: '#C1F12E'
+                - name: Awk
+                  value: 8947
+                - name: Assembly
+                  value: 4863
+                  color: '#6E4C13'
+                - name: Smarty
+                  value: 2723
+                - name: SQLPL
+                  value: 1336
+                - name: XSLT
+                  value: 698
+                  color: '#EB8CEB'
+              contributions: >-
+                49;31;35;43;89;100;57;32;74;13;37;55;48;74;37;56;64;112;77;78;80;86;82;68;98;60;75;47;40;66;17;3;28;36;57;43;38;64;77;33;51;91;54;92;58;94;82;99;91;63;58;47
+              firstWeek: 2021-05-30Z
+              stars: 1322
+              license: Unknown License
+              description: Mirror of the OpenDaylight aaa gerrit project
+              latest_commit_date: '2022-05-03T08:53:06Z'
+              latest_commit_link: /opendaylight/aaa/commit/c88ca1e763e79b2aecebecaed2a734a96183f469
+              contributors_count: 523
+              contributors_link: https://github.com/opendaylight/aaa/graphs/contributors
+            repos:
+              - url: https://github.com/opendaylight/aaa
+                stars: 26
+              - url: https://github.com/opendaylight/controller
+                stars: 379
+              - url: https://github.com/opendaylight/yangtools
+                stars: 90
+              - url: https://github.com/opendaylight/netconf
+                stars: 68
+              - url: https://github.com/opendaylight/openflowplugin
+                stars: 57
+              - url: https://github.com/opendaylight/ovsdb
+                stars: 47
+              - url: https://github.com/opendaylight/docs
+                stars: 46
+              - url: https://github.com/opendaylight/sfc
+                stars: 45
+              - url: https://github.com/opendaylight/bgpcep
+                stars: 36
+              - url: https://github.com/opendaylight/mdsal
+                stars: 28
+              - url: https://github.com/opendaylight/integration-test
+                stars: 26
+              - url: https://github.com/opendaylight/l2switch
+                stars: 25
+              - url: https://github.com/opendaylight/odlparent
+                stars: 21
+              - url: https://github.com/opendaylight/next
+                stars: 20
+              - url: https://github.com/opendaylight/archived-integration
+                stars: 19
+              - url: https://github.com/opendaylight/coretutorials
+                stars: 19
+              - url: https://github.com/opendaylight/dlux
+                stars: 16
+              - url: https://github.com/opendaylight/neutron
+                stars: 16
+              - url: https://github.com/opendaylight/opflex
+                stars: 15
+              - url: https://github.com/opendaylight/genius
+                stars: 14
+              - url: https://github.com/opendaylight/netvirt
+                stars: 14
+              - url: https://github.com/opendaylight/integration-packaging
+                stars: 12
+              - url: https://github.com/opendaylight/openflowjava
+                stars: 12
+              - url: https://github.com/opendaylight/usc
+                stars: 12
+              - url: https://github.com/opendaylight/groupbasedpolicy
+                stars: 11
+              - url: https://github.com/opendaylight/tsdr
+                stars: 11
+              - url: https://github.com/opendaylight/nic
+                stars: 10
+              - url: https://github.com/opendaylight/releng-builder
+                stars: 10
+              - url: https://github.com/opendaylight/vtn
+                stars: 10
+              - url: https://github.com/opendaylight/archived-defense4all
+                stars: 9
+              - url: https://github.com/opendaylight/vpnservice
+                stars: 9
+              - url: https://github.com/opendaylight/alto
+                stars: 8
+              - url: https://github.com/opendaylight/capwap
+                stars: 8
+              - url: https://github.com/opendaylight/releng-autorelease
+                stars: 8
+              - url: https://github.com/opendaylight/snmp4sdn
+                stars: 8
+              - url: https://github.com/opendaylight/coe
+                stars: 7
+              - url: https://github.com/opendaylight/integration-distribution
+                stars: 7
+              - url: https://github.com/opendaylight/iotdm
+                stars: 7
+              - url: https://github.com/opendaylight/sxp
+                stars: 7
+              - url: https://github.com/opendaylight/snmp
+                stars: 6
+              - url: https://github.com/opendaylight/transportpce
+                stars: 6
+              - url: https://github.com/opendaylight/infrautils
+                stars: 5
+              - url: https://github.com/opendaylight/integration-packaging-ansible-opendaylight
+                stars: 5
+              - url: https://github.com/opendaylight/lispflowmapping
+                stars: 5
+              - url: https://github.com/opendaylight/nemo
+                stars: 5
+              - url: https://github.com/opendaylight/alt-datastores
+                stars: 4
+              - url: https://github.com/opendaylight/archived-net-virt-platform
+                stars: 4
+              - url: https://github.com/opendaylight/archived-opendove
+                stars: 4
+              - url: https://github.com/opendaylight/archived-tcpmd5
+                stars: 4
+              - url: https://github.com/opendaylight/didm
+                stars: 4
+              - url: https://github.com/opendaylight/faas
+                stars: 4
+              - url: https://github.com/opendaylight/packetcable
+                stars: 4
+              - url: https://github.com/opendaylight/reservation
+                stars: 4
+              - url: https://github.com/opendaylight/archived-discovery
+                stars: 3
+              - url: https://github.com/opendaylight/archived-toolkit
+                stars: 3
+              - url: https://github.com/opendaylight/fpc
+                stars: 3
+              - url: https://github.com/opendaylight/lacp
+                stars: 3
+              - url: https://github.com/opendaylight/messaging4transport
+                stars: 3
+              - url: https://github.com/opendaylight/of-config
+                stars: 3
+              - url: https://github.com/opendaylight/persistence
+                stars: 3
+              - url: https://github.com/opendaylight/sdninterfaceapp
+                stars: 3
+              - url: https://github.com/opendaylight/snbi
+                stars: 3
+              - url: https://github.com/opendaylight/topoprocessing
+                stars: 3
+              - url: https://github.com/opendaylight/unimgr
+                stars: 3
+              - url: https://github.com/opendaylight/archived-plugin2oc
+                stars: 2
+              - url: https://github.com/opendaylight/dluxapps
+                stars: 2
+              - url: https://github.com/opendaylight/netide
+                stars: 2
+              - url: https://github.com/opendaylight/p4plugin
+                stars: 2
+              - url: https://github.com/opendaylight/plastic
+                stars: 2
+              - url: https://github.com/opendaylight/serviceutils
+                stars: 2
+              - url: https://github.com/opendaylight/ttp
+                stars: 2
+              - url: https://github.com/opendaylight/archetypes
+                stars: 1
+              - url: https://github.com/opendaylight/archived-affinity
+                stars: 1
+              - url: https://github.com/opendaylight/archived-armoury
+                stars: 1
+              - url: https://github.com/opendaylight/atrium
+                stars: 1
+              - url: https://github.com/opendaylight/bier
+                stars: 1
+              - url: https://github.com/opendaylight/centinel
+                stars: 1
+              - url: https://github.com/opendaylight/daexim
+                stars: 1
+              - url: https://github.com/opendaylight/detnet
+                stars: 1
+              - url: https://github.com/opendaylight/federation
+                stars: 1
+              - url: https://github.com/opendaylight/integration-packaging-puppet-opendaylight
+                stars: 1
+              - url: https://github.com/opendaylight/natapp
+                stars: 1
+              - url: https://github.com/opendaylight/odlsaf
+                stars: 1
+              - url: https://github.com/opendaylight/odltools
+                stars: 1
+              - url: https://github.com/opendaylight/spectrometer
+                stars: 1
+              - url: https://github.com/opendaylight/systemmetrics
+                stars: 1
+              - url: https://github.com/opendaylight/telemetry
+                stars: 1
+              - url: https://github.com/opendaylight/usecplugin
+                stars: 1
+              - url: https://github.com/opendaylight/yangide
+                stars: 1
+              - url: https://github.com/opendaylight/ansible
+                stars: 0
+              - url: https://github.com/opendaylight/cardinal
+                stars: 0
+              - url: https://github.com/opendaylight/eman
+                stars: 0
+              - url: https://github.com/opendaylight/gnt
+                stars: 0
+              - url: https://github.com/opendaylight/honeycomb-vbd
+                stars: 0
+              - url: https://github.com/opendaylight/jsonrpc
+                stars: 0
+              - url: https://github.com/opendaylight/ocpplugin
+                stars: 0
+              - url: https://github.com/opendaylight/odlguice
+                stars: 0
+              - url: https://github.com/opendaylight/odlmicro
+                stars: 0
+              - url: https://github.com/opendaylight/ofextensions-circuitsw
+                stars: 0
+              - url: https://github.com/opendaylight/ovil
+                stars: 0
+              - url: https://github.com/opendaylight/yang-push
+                stars: 0
+            github_start_commit_data:
+              start_commit_link: /opendaylight/controller/commit/7576b38152b393793b1c9ec3df0ff86685f95236
+              start_date: '2013-03-22T22:32:00Z'
+            image_data:
+              fileName: opendaylight.svg
+              hash: iqY4b/vvQwUODgTRPZSQY6D8JSEm1vlaPJyYF+Ipeow=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Tungsten Fabric
+            homepage_url: https://tungsten.io/
+            logo: tungstenfabric-stacked-color.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/tungsten-fabric
+            repo_url: https://github.com/tungstenfabric/ci-management
+            description: |
+              A software-defined network & security fabric built for rapid deployment at scale.
+            crunchbase_data:
+              name: Tungsten Fabric
+              description: A software-defined network & security fabric built for rapid deployment at scale
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://tungsten.io/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/tungstenfabric
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/lf-networking
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Technology
+            github_data:
+              languages:
+                - name: Python
+                  value: 36152673
+                  color: '#3572A5'
+                - name: C++
+                  value: 28174056
+                  color: '#f34b7d'
+                - name: JavaScript
+                  value: 17991113
+                  color: '#f1e05a'
+                - name: Java
+                  value: 8926147
+                  color: '#b07219'
+                - name: C
+                  value: 4914727
+                  color: '#555555'
+                - name: HTML
+                  value: 3648496
+                  color: '#e34c26'
+                - name: Tcl
+                  value: 2798632
+                  color: '#e4cc98'
+                - name: Shell
+                  value: 1439992
+                  color: '#89e051'
+                - name: Go
+                  value: 1234567
+                  color: '#00ADD8'
+                - name: SCSS
+                  value: 883757
+                - name: Jinja
+                  value: 724823
+                - name: Kotlin
+                  value: 495480
+                  color: '#F18E33'
+                - name: Groovy
+                  value: 317356
+                  color: '#e69f56'
+                - name: GDB
+                  value: 189025
+                - name: Lua
+                  value: 183628
+                  color: '#000080'
+                - name: XSLT
+                  value: 135317
+                  color: '#EB8CEB'
+                - name: CSS
+                  value: 131784
+                  color: '#563d7c'
+                - name: Smarty
+                  value: 84725
+                - name: Dockerfile
+                  value: 61154
+                  color: '#384d54'
+                - name: Makefile
+                  value: 53812
+                  color: '#427819'
+                - name: Yacc
+                  value: 40823
+                  color: '#4B6C4B'
+                - name: Puppet
+                  value: 34517
+                  color: '#302B6D'
+                - name: Perl
+                  value: 32982
+                  color: '#0298c3'
+                - name: FreeMarker
+                  value: 32247
+                  color: '#0050b2'
+                - name: Lex
+                  value: 15749
+                  color: '#DBCA00'
+                - name: Ruby
+                  value: 7784
+                  color: '#701516'
+                - name: LLVM
+                  value: 2937
+                  color: '#185619'
+                - name: SWIG
+                  value: 60
+              contributions: >-
+                89;84;76;65;82;61;46;58;46;43;55;24;24;26;47;29;31;16;17;40;32;43;33;68;81;65;58;35;39;36;27;19;28;34;14;12;17;19;28;39;28;20;20;63;31;17;17;27;20;15;15;3
+              firstWeek: 2021-05-30Z
+              stars: 187
+              license: Unknown License
+              description: null
+              latest_commit_date: '2022-03-02T18:01:20Z'
+              latest_commit_link: /tungstenfabric/ci-management/commit/d144bca786135a7cbb9690edbea9519758519367
+              contributors_count: 189
+              contributors_link: https://github.com/tungstenfabric/ci-management/graphs/contributors
+            repos:
+              - url: https://github.com/tungstenfabric/ci-management
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-vrouter
+                stars: 37
+              - url: https://github.com/tungstenfabric/tf-controller
+                stars: 36
+              - url: https://github.com/tungstenfabric/opencontrails-docs
+                stars: 14
+              - url: https://github.com/tungstenfabric/tf-devstack
+                stars: 14
+              - url: https://github.com/tungstenfabric/website
+                stars: 13
+              - url: https://github.com/tungstenfabric/tf-ansible-deployer
+                stars: 12
+              - url: https://github.com/tungstenfabric/tf-dev-env
+                stars: 8
+              - url: https://github.com/tungstenfabric/tf-container-builder
+                stars: 4
+              - url: https://github.com/tungstenfabric/tf-packages
+                stars: 4
+              - url: https://github.com/tungstenfabric/tf-specs
+                stars: 4
+              - url: https://github.com/tungstenfabric/tf-api-client
+                stars: 3
+              - url: https://github.com/tungstenfabric/tf-neutron-plugin
+                stars: 3
+              - url: https://github.com/tungstenfabric/tf-operator
+                stars: 3
+              - url: https://github.com/tungstenfabric/tf-test
+                stars: 3
+              - url: https://github.com/tungstenfabric/tf-vijava
+                stars: 3
+              - url: https://github.com/tungstenfabric/docs
+                stars: 2
+              - url: https://github.com/tungstenfabric/tf-analytics
+                stars: 2
+              - url: https://github.com/tungstenfabric/tf-common
+                stars: 2
+              - url: https://github.com/tungstenfabric/tf-dev-test
+                stars: 2
+              - url: https://github.com/tungstenfabric/tf-tripleo-heat-templates
+                stars: 2
+              - url: https://github.com/tungstenfabric/tf-charms
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-deployers-containers
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-heat-plugin
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-helm-deployer
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-java-api
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-jenkins
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-kolla-ansible
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-openlab-ci
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-openshift
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-third-party-cache
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-transitional-contrail-docs
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-vcenter-fabric-manager
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-vcenter-manager
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-vnc
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-web-core
+                stars: 1
+              - url: https://github.com/tungstenfabric/tungsten-tempest
+                stars: 1
+              - url: https://github.com/tungstenfabric/docs-backup
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-build
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-deployment-test
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-dpdk
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-fabric-utils
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-nova-vif-driver
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-openshift-ansible
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-third-party
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-third-party-packages
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-tripleo-puppet
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-vcenter-plugin
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-vro-plugin
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-vrouter-java-api
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-web-controller
+                stars: 0
+              - url: https://github.com/tungstenfabric/tf-webui-third-party
+                stars: 0
+              - url: https://github.com/tungstenfabric/tungsten-test-runner
+                stars: 0
+            github_start_commit_data:
+              start_commit_link: /tungstenfabric/opencontrails-docs/commit/2280b25c2d79812781b7922af097aa37da9e049a
+              start_date: '2017-07-14T06:51:13Z'
+            image_data:
+              fileName: tungsten-fabric.svg
+              hash: sjEc6/UG2/GNxq3ZhxLKK2I+xIUei8HO3g5RZtZCf+Y=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: XG Vela
+            homepage_url: https://xgvela.org/
+            logo: xGVela_Logo_FNL_color-horizontal.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/xgvela
+            repo_url: https://github.com/XGVela/XGVela
+            description: |
+              An open source cloud native PaaS for applications and
+              telco network functions to enable new services.
+            crunchbase_data:
+              name: XGVela
+              description: An open source cloud native PaaS for applications and telco network functions to enable new services.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://xgvela.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/lf-networking
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries: []
+            github_data:
+              languages:
+                - name: Go
+                  value: 988427
+                  color: '#00ADD8'
+                - name: Java
+                  value: 983321
+                  color: '#b07219'
+                - name: Smarty
+                  value: 392765
+                - name: Shell
+                  value: 92623
+                  color: '#89e051'
+                - name: Dockerfile
+                  value: 5890
+                  color: '#384d54'
+                - name: C
+                  value: 3850
+                  color: '#555555'
+                - name: HTML
+                  value: 1082
+                  color: '#e34c26'
+              contributions: 0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2021-05-30Z
+              stars: 28
+              license: Unknown License
+              description: null
+              latest_commit_date: '2021-11-25T04:33:17Z'
+              latest_commit_link: /XGVela/XGVela/commit/5086f5db758f232d4dad9a1c31e571f30de29f6e
+              contributors_count: 10
+              contributors_link: https://github.com/XGVela/XGVela/graphs/contributors
+            repos:
+              - url: https://github.com/XGVela/XGVela
+                stars: 26
+              - url: https://github.com/XGVela/cmaas
+                stars: 1
+              - url: https://github.com/XGVela/vesgw
+                stars: 1
+              - url: https://github.com/XGVela/cim
+                stars: 0
+              - url: https://github.com/XGVela/cnf-packaging
+                stars: 0
+              - url: https://github.com/XGVela/fmaas
+                stars: 0
+              - url: https://github.com/XGVela/service-init
+                stars: 0
+              - url: https://github.com/XGVela/tmaas
+                stars: 0
+              - url: https://github.com/XGVela/tmaas-gw
+                stars: 0
+              - url: https://github.com/XGVela/xgvela-builder
+                stars: 0
+            github_start_commit_data:
+              start_commit_link: /XGVela/XGVela/commit/3b80c7e42895762024ebd00714cf3a138d178dba
+              start_date: '2020-01-17T02:33:13Z'
+            image_data:
+              fileName: xg-vela.svg
+              hash: sDEGR2c4KNOC+Ddjqvu0Fxwu2jl11wIdZZ7HYccU8uk=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: L3AF
+            homepage_url: https://l3af.io/
+            logo: L3AF_logo.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/l3af
+            description: |
+              L3AF is an eBPF based platform enabling network functions a service.
+            crunchbase_data:
+              name: L3AF
+              description: L3AF is an eBPF based platform enabling network functions a service.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://www,l3af.io
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/lf-networking
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries: []
+            image_data:
+              fileName: l3-af.svg
+              hash: 5sxtuiyGl4MASUN8dOAJL6/x28QfVW6XEQJN0dopYzU=
+            best_practice_data:
+              badge: false
+              percentage: null
+  - category:
+    name: Other Linux Foundation Hosted Networking Projects
+    subcategories:
+      - subcategory:
+        name: Other Linux Foundation Hosted Networking Projects
+        items:
+          - item:
+            name: DANOS
+            homepage_url: https://www.danosproject.org/
+            logo: danos-2-01.svg
+            crunchbase: https://www.crunchbase.com/organization/danos
+            hideProjectTag: true
+            crunchbase_data:
+              name: DANOS
+              description: The Disaggregated Network Operating System (DANOS) project enables community collaboration across a unified network operating system.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.danosproject.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/danosproject
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries: []
+            image_data:
+              fileName: danos.svg
+              hash: CKEDiqCDW7c1dNfODytyHRPQiQch2vm2HUu0Qyf/yRo=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: DENT
+            homepage_url: https://dent.dev/
+            logo: dent-01.svg
+            crunchbase: https://www.crunchbase.com/organization/dent-cdd1
+            hideProjectTag: true
+            crunchbase_data:
+              name: DENT
+              description: Dent will utilizes the Linux Kernel, Switchdev, and other Linux based projects as the basis for building a new standardized network OS.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://dent.dev
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries: []
+            image_data:
+              fileName: dent.svg
+              hash: PLI12K1NJCKuNBIt/cLFyzqf2FywPgFUWdAzLqW0FLo=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: DPDK
+            homepage_url: https://www.dpdk.org/
+            logo: dpdk-01.svg
+            crunchbase: https://www.crunchbase.com/organization/dpdk
+            hideProjectTag: true
+            crunchbase_data:
+              name: DPDK
+              description: A Linux Foundation Project, developed by hundreds of contributors, supported by strong leading members, and used in a growing ecosystem.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: http://dpdk.org/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/dpdkproject
+              linkedin: https://www.linkedin.com/company/dpdk-project/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Communities
+                - Non Profit
+                - Software
+            image_data:
+              fileName: dpdk.svg
+              hash: GZtpwCrYl8gJWAlqrwn4/OKDAC4tBwAE2UAOMKbNEQU=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: FRRouting Project
+            homepage_url: https://frrouting.org/
+            logo: frr-2-01.svg
+            crunchbase: https://www.crunchbase.com/organization/frrouting
+            hideProjectTag: true
+            crunchbase_data:
+              name: Frrouting
+              description: FRRouting (FRR) is a free and open source Internet routing protocol suite for Linux and Unix platforms.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://frrouting.org/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries: []
+            image_data:
+              fileName: fr-routing-project.svg
+              hash: PF7YEUdSRMDwr1t/T867ECudtZxiGChOBNDbpl2WdDk=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Magma
+            homepage_url: https://www.magmacore.org/
+            logo: magma-01.svg
+            crunchbase: https://www.crunchbase.com/organization/magma-fund
+            hideProjectTag: true
+            crunchbase_data:
+              name: Magma Fund
+              description: Magma connects the world to a faster network by providing operators an open, flexible, and extendable mobile core network solution.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.magmacore.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries: []
+            image_data:
+              fileName: magma.svg
+              hash: 1lHkyDFfdYMB8NcizOEc1rYsS92Lf2OQKhHUXAu1a/8=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Open 19
+            homepage_url: https://www.open19.org/
+            logo: open19-2-01.svg
+            crunchbase: https://www.crunchbase.com/organization/open19-foundation
+            hideProjectTag: true
+            crunchbase_data:
+              name: Open19 Foundation
+              description: A community working to enable common optimized data centers and edge solutions through efficiency and flexibility.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: null
+              city: Beaverton
+              region: Oregon
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Communities
+                - Information Technology
+            image_data:
+              fileName: open-19.svg
+              hash: UOk/5NK6jdAw9V0mp1K/mRJw9gFaAKYXQAI9OZRyfuQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Open vSwitch
+            homepage_url: https://www.openvswitch.org/
+            logo: openswitch-color.svg
+            crunchbase: https://www.crunchbase.com/organization/open-vswitch
+            hideProjectTag: true
+            crunchbase_data:
+              name: Open vSwitch
+              description: Open vSwitch is a multilayer virtual switch licensed under the open source Apache 2.0 license.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://openvswitch.org/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Developer Tools
+            image_data:
+              fileName: open-v-switch.svg
+              hash: b4l0U3nrD3xAyoHHvlaWo3zfbfYkVWH2Pi2TmAL+ph4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: US GOV OPS
+            homepage_url: https://usgovops.org/
+            logo: usgovops-color-1.svg
+            crunchbase: https://www.crunchbase.com/organization/us-gov-ops
+            hideProjectTag: true
+            crunchbase_data:
+              name: US GOV OPS
+              description: US GOV OPS allows US Government projects, their ecosystem, and open community to participate in accelerating innovation and security.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://usgovops.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries: []
+            image_data:
+              fileName: us-gov-ops.svg
+              hash: 5tc/rUFH4awviyQLpjt3FGw2lo1Cxtz2uxV1MEV1CLQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: O-RAN Software Community
+            homepage_url: https://oran-osc.github.io/
+            logo: oran-ocu.svg
+            organization:
+              name: O-RAN Software Community
+            hideProjectTag: true
+            crunchbase_data:
+              name: O-RAN Software Community
+              parents: []
+            image_data:
+              fileName: o-ran-software-community.svg
+              hash: BcL6XenwxqeXPM4O1GypcCIBmjPIEPI1WC3JgLXl5/Q=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Camara
+            homepage_url: http://camaraproject.org/
+            logo: Camara.svg
+            crunchbase: https://www.crunchbase.com/organization/camara-project
+            hideProjectTag: true
+            description: |
+              4G/5G network capabilities exposed through APIs provide a large benefit for customers.
+            crunchbase_data:
+              name: Camara Project
+              description: 4G/5G network capabilities exposed through APIs provide a large benefit for customers
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://github.com/camaraproject
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries: []
+            image_data:
+              fileName: camara.svg
+              hash: i6PF49zelSgZbjeGdbzWvZ/9+JwfV5d4eTQ9si5XjHM=
+            best_practice_data:
+              badge: false
+              percentage: null
+  - category:
+    name: Linux Foundation Sister Communities
+    subcategories:
+      - subcategory:
+        name: Linux Foundation Sister Communities
+        items:
+          - item:
+            name: Cloud Native
+            homepage_url: https://www.cncf.io/
+            logo: cncf-distribution.svg
+            twitter: https://twitter.com/CloudNativeFdn
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            hideProjectTag: true
+            crunchbase_data:
+              name: Cloud Native Computing Foundation (CNCF)
+              description: CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.cncf.io
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/CloudNativeFdn
+              linkedin: https://www.linkedin.com/company/cloud-native-computing-foundation
+              acquisitions:
+                - date: '2016-03-10'
+                  acquiree: Kubernetes
+                - date: '2017-02-06'
+                  acquiree: RethinkDB
+                  price: 25000
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              funding: 3000000
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Non Profit
+                - Open Source
+                - Software
+              kind: funding
+            image_data:
+              fileName: cloud-native.svg
+              hash: Ta6VL6vulb9NL9GGTwJdc1rJpXd1MZPNu1ik9RkQrAE=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Hyperledger
+            homepage_url: https://www.hyperledger.org/
+            logo: hyperledger-color.svg
+            twitter: https://twitter.com/Hyperledger
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            hideProjectTag: true
+            crunchbase_data:
+              name: Hyperledger
+              description: Hyperledger is an open source collaborative effort created to advance cross-industry blockchain technologies.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: http://www.hyperledger.org/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/Hyperledger
+              linkedin: https://www.linkedin.com/company/hyperledger-project/
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Blockchain
+                - Linux
+                - Open Source
+            image_data:
+              fileName: hyperledger.svg
+              hash: v2kOqP2/YYp8dL58jAI/lpByJb7XgNLeB0RJjkpUXro=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: LF AI Data
+            homepage_url: https://lfaidata.foundation/
+            logo: LFAI_DATA_horizontal-color.svg
+            twitter: https://twitter.com/LFAIDataFdn
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            hideProjectTag: true
+            crunchbase_data:
+              name: LF AI & Data Foundation
+              description: LF AI & Data Foundation supports open source innovation in artificial intelligence and data.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://lfaidata.foundation/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LFAIDataFdn
+              linkedin: https://www.linkedin.com/company/lfai
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Artificial Intelligence
+                - Machine Learning
+                - Software
+            image_data:
+              fileName: lf-ai-data.svg
+              hash: JNpaQ+D56avZ7XOiVHsAJZqNdTqw34pg4AorfzMTfJQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: LF Edge
+            homepage_url: https://www.lfedge.org/
+            logo: lf-edge.svg
+            twitter: https://twitter.com/lf_edge
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
+            hideProjectTag: true
+            crunchbase_data:
+              name: LF Edge
+              description: LF Edge is builds an open source framework for the edge.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://www.lfedge.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/lf_edge
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Open Source
+            image_data:
+              fileName: lf-edge.svg
+              hash: PM/b/Jhgid+/6Bj5QPPHXilcBTf0L00UXlw29Dad1sQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+  - category:
+    name: Standards Developing Organizations (SDOs)
+    subcategories:
+      - subcategory:
+        name: Standards Developing Organizations (SDOs)
+        items:
+          - item:
+            name: 3GPP
+            homepage_url: https://www.3gpp.org/
+            logo: 3gpp_logo.svg
+            twitter: https://twitter.com/3GPPLive
+            crunchbase: https://www.crunchbase.com/organization/3gpp
+            hideProjectTag: true
+            hideLicense: true
+            crunchbase_data:
+              name: 3GPP
+              description: The 3rd Generation Partnership Project (3GPP) unites [Seven] telecommunications standard development organizations.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: http://www.3gpp.org/
+              city: Sophia Antipolis
+              region: Provence-Alpes-Cote d'Azur
+              country: France
+              twitter: https://twitter.com/3GPPLive/
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Internet
+                - Telecommunications
+            image_data:
+              fileName: 3-gpp.svg
+              hash: PpmbQYcTXnx+TT0jpSoNspUTNuh21VuwrtJrHivcsyY=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: ETSI
+            homepage_url: https://www.etsi.org/
+            logo: etsi-01.svg
+            twitter: https://twitter.com/ETSI_STANDARDS
+            crunchbase: https://www.crunchbase.com/organization/etsi
+            hideProjectTag: true
+            hideLicense: true
+            crunchbase_data:
+              name: ETSI
+              description: ETSI is a non-profit organization that produces globally-applicable standards for information and communications technologies.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: http://www.etsi.org
+              city: Sophia Antipolis
+              region: Provence-Alpes-Cote d'Azur
+              country: France
+              twitter: http://twitter.com/ETSI_STANDARDS
+              linkedin: https://www.linkedin.com/company/etsi
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Information Technology
+                - Telecommunications
+            image_data:
+              fileName: etsi.svg
+              hash: 1d/1zUSfUvLLqqo7AUeDTgTc1jmw7mWWHWx3pxZdMwI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: GSMA
+            homepage_url: https://www.gsma.com/
+            logo: GSMA.svg
+            twitter: https://twitter.com/gsma
+            crunchbase: https://www.crunchbase.com/organization/gsma
+            hideProjectTag: true
+            hideLicense: true
+            crunchbase_data:
+              name: GSMA
+              description: The GSMA is a trade group that represents network operators using GSM technology for their networks.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: https://www.gsma.com/
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: http://twitter.com/gsma
+              linkedin: https://www.linkedin.com/company/gsma
+              acquisitions: []
+              parents: []
+              funding: 45744553
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Internet
+                - Mobile
+                - Social Media
+              kind: funding
+            image_data:
+              fileName: gsma.svg
+              hash: RRhdxwLke9hgcQFR/ObafYcRFbyTcN1vpHKKQQnqMfg=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: IEEE
+            homepage_url: https://www.ieee.org/
+            logo: IEEE_logo.svg
+            twitter: https://twitter.com/ieeesa
+            crunchbase: https://www.crunchbase.com/organization/ieee-standards-association
+            hideProjectTag: true
+            hideLicense: true
+            crunchbase_data:
+              name: IEEE Standards Association
+              description: IEEE Standards Association is a leading consensus building organization that nurtures, develops and advances global technologies.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: https://standards.ieee.org/
+              city: Piscataway
+              region: New Jersey
+              country: United States
+              twitter: https://twitter.com/ieeesa
+              linkedin: https://www.linkedin.com/company-beta/2596931/
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/ieee
+              funding: 1200000
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Association
+              kind: funding
+            image_data:
+              fileName: ieee.svg
+              hash: wWRYSylZxQnTawi9DIQE3BgXimQl0uDSAruZQJPm/4I=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: IETF
+            homepage_url: https://www.ietf.org/
+            logo: ietf-2-01.svg
+            twitter: https://twitter.com/ietf
+            crunchbase: https://www.crunchbase.com/organization/ietf
+            hideProjectTag: true
+            hideLicense: true
+            crunchbase_data:
+              name: Internet Engineering Task Force (IETF)
+              description: IETF is a large open international community of network designers, operators, vendors, and researchers.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: https://www.ietf.org
+              city: Fremont
+              region: California
+              country: United States
+              twitter: https://twitter.com/ietf
+              linkedin: https://www.linkedin.com/company/internet-engineering-task-force/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Communities
+                - Event Management
+                - Events
+                - Professional Services
+            image_data:
+              fileName: ietf.svg
+              hash: Uzrs2NGK/s0dUbzppROaho1cJHP7bwa5aeGf/MBaXio=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: ITU
+            homepage_url: https://www.itu.int/en/Pages/default.aspx
+            logo: ITU.svg
+            crunchbase: https://www.crunchbase.com/organization/international-telecommunication-union
+            hideProjectTag: true
+            hideLicense: true
+            crunchbase_data:
+              name: International Telecommunication Union
+              description: Committed to connecting the world
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: http://www.itu.int/en/
+              city: Geneva
+              region: Geneve
+              country: Switzerland
+              twitter: http://twitter.com/ITU
+              linkedin: https://www.linkedin.com/company-beta/439511/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Communications Infrastructure
+                - Information and Communications Technology (ICT)
+                - Politics
+            image_data:
+              fileName: itu.svg
+              hash: bPxmKOc4WLfCZPnQ2Z+aQhQ98Dmf43FUqdzHgKQNF4Q=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: MEF
+            homepage_url: https://www.mef.net/
+            logo: MEF-2-01.svg
+            twitter: https://twitter.com/mef_forum
+            crunchbase: https://www.crunchbase.com/organization/mef
+            hideProjectTag: true
+            hideLicense: true
+            crunchbase_data:
+              name: MEF
+              description: The MEF is a nonprofit international industry consortium, dedicated to worldwide adoption of Carrier Ethernet networks and services.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: https://www.mef.net/
+              city: Los Angeles
+              region: California
+              country: United States
+              twitter: https://www.twitter.com/mef_forum
+              linkedin: https://www.linkedin.com/company/mef-forum/about/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Association
+                - Telecommunications
+            image_data:
+              fileName: mef.svg
+              hash: L/pVXAGbkLsnmH3TqvNhSviaGZDFpE9tqEIywjmvojo=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: NIST
+            homepage_url: https://www.nist.gov/
+            logo: nist-2-01.svg
+            twitter: https://twitter.com/NIST
+            crunchbase: https://www.crunchbase.com/organization/nist
+            hideProjectTag: true
+            hideLicense: true
+            crunchbase_data:
+              name: NIST
+              description: NIST is the federal technology agency that works with industry to develop and apply technology, measurements, and standards.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.nist.gov/
+              city: Gaithersburg
+              region: Maryland
+              country: United States
+              twitter: https://twitter.com/NIST
+              linkedin: https://www.linkedin.com/company/nist
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Association
+                - Education
+                - Industrial
+                - Test and Measurement
+            image_data:
+              fileName: nist.svg
+              hash: Dx1cf6DP1bWS2A/uQDPMAe2q5J92TaSXr6sZI9ywezI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: OIF
+            homepage_url: https://www.oiforum.com/
+            logo: OIF_logo.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            hideProjectTag: true
+            hideLicense: true
+            crunchbase_data:
+              name: Linux Networking Foundation
+              description: LF Networking is the center of gravity for global carrier and enterprise networking success
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: https://www.linkedin.com/company/lf-networking
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: oif.svg
+              hash: XkAcCwg96KghHlziPIAgS3fpzvH1pqMWvEIlljwuRG4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: TM Forum
+            homepage_url: https://www.tmforum.org/
+            logo: tmf-logo-2-01.svg
+            twitter: https://twitter.com/tmforumorg
+            crunchbase: https://www.crunchbase.com/organization/tmforum
+            hideProjectTag: true
+            hideLicense: true
+            crunchbase_data:
+              name: TMForum
+              description: TM Forum is a global trade association that connects enterprises, service providers, and suppliers in the digital ecosystem.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: http://www.tmforum.org/
+              city: Morristown
+              region: New Jersey
+              country: United States
+              twitter: https://twitter.com/tmforumorg
+              linkedin: https://www.linkedin.com/company/tm-forum
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cyber Security
+                - Information Technology
+                - Non Profit
+                - Security
+            image_data:
+              fileName: tm-forum.svg
+              hash: DSMdOu+7/vqOyT+V9fSRknUC3KAIan5co87rEatNbAQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+  - category:
+    name: LFN Archived/Maintained Projects
+    subcategories:
+      - subcategory:
+        name: LFN Archived/Maintained Projects
+        items:
+          - item:
+            name: Openswitch
+            homepage_url: https://www.openswitch.net/
+            logo: openswitch-color.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            crunchbase_data:
+              name: Linux Networking Foundation
+              description: LF Networking is the center of gravity for global carrier and enterprise networking success
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfnetworking.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: https://www.linkedin.com/company/lf-networking
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Network Hardware
+                - Network Security
+                - Open Source
+                - Telecommunications
+            image_data:
+              fileName: openswitch.svg
+              hash: b4l0U3nrD3xAyoHHvlaWo3zfbfYkVWH2Pi2TmAL+ph4=
+            best_practice_data:
+              badge: false
+              percentage: null
+  - category:
     name: LF Networking Member Roster
     subcategories:
       - subcategory:
@@ -3107,62 +5102,6 @@ landscape:
         name: Gold
         items:
           - item:
-            name: Advanced Micro Devices (AMD)
-            homepage_url: https://amd.com/
-            logo: advanced_micro_devices_amd.svg
-            twitter: https://twitter.com/AMD
-            crunchbase: https://www.crunchbase.com/organization/amd
-            crunchbase_data:
-              name: AMD
-              description: Advanced Micro Devices (AMD) is a semiconductor company that designs and develops graphics units, processors, and media solutions.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.amd.com
-              city: Santa Clara
-              region: California
-              country: United States
-              twitter: https://twitter.com/amd
-              linkedin: https://www.linkedin.com/company/amd
-              acquisitions:
-                - date: '2002-02-06'
-                  acquiree: Alchemy Semiconductor
-                - date: '2006-07-24'
-                  acquiree: ATI Technologies
-                  price: 5400000000
-                - date: '2012-02-29'
-                  acquiree: SeaMicro
-                  price: 334000000
-                - date: '2016-06-29'
-                  acquiree: HiAlgo
-                - date: '2017-04-10'
-                  acquiree: Nitero
-                - date: '2020-10-27'
-                  acquiree: Xilinx
-                  price: 35000000000
-              parents: []
-              ticker: AMD
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Hardware
-                - Semiconductor
-                - Software
-                - Video Games
-                - Virtualization
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 102294970368
-              effective_ticker: AMD
-            image_data:
-              fileName: advanced-micro-devices-amd.svg
-              hash: 2Za4zJY0wFoO5LflFP238qc7drUBfIwmuqMPxhAaABo=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:11:10.000Z
-          - item:
             name: Bell Canada
             homepage_url: https://bell.net/
             logo: bell_canada.svg
@@ -3193,587 +5132,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-17T14:33:27.000Z
-          - item:
-            name: Microsoft Corporation
-            homepage_url: https://microsoft.com/
-            logo: microsoft_corporation.svg
-            twitter: https://twitter.com/Microsoft
-            crunchbase: https://www.crunchbase.com/organization/microsoft
-            crunchbase_data:
-              name: Microsoft
-              description: Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.microsoft.com
-              city: Redmond
-              region: Washington
-              country: United States
-              twitter: http://twitter.com/Microsoft
-              linkedin: https://www.linkedin.com/company/microsoft
-              acquisitions:
-                - date: '1987-07-30'
-                  acquiree: Forethought
-                  price: 14000000
-                - date: '1991-03-08'
-                  acquiree: Consumers Software
-                - date: '1992-03-25'
-                  acquiree: Fox Software
-                - date: '1994-02-15'
-                  acquiree: SoftImage
-                - date: '1994-09-27'
-                  acquiree: Altamira Software
-                - date: '1994-11-01'
-                  acquiree: NextBase
-                - date: '1994-11-16'
-                  acquiree: One Tree Software Ltd
-                - date: '1995-02-23'
-                  acquiree: RenderMorphics
-                - date: '1995-07-10'
-                  acquiree: Network Managers
-                - date: '1995-10-16'
-                  acquiree: Blue Ribbon SoundWorks
-                - date: '1995-11-06'
-                  acquiree: Netwise
-                - date: '1995-12-12'
-                  acquiree: Bruce Artwick Organization
-                - date: '1996-01-16'
-                  acquiree: Vermeer Technologies
-                - date: '1996-03-12'
-                  acquiree: Colusa Software
-                - date: '1996-04-15'
-                  acquiree: EXOS
-                - date: '1996-04-23'
-                  acquiree: Aspect Software Inc
-                - date: '1996-06-11'
-                  acquiree: eShop
-                - date: '1996-06-17'
-                  acquiree: Electric Gravity
-                - date: '1996-12-10'
-                  acquiree: NetCarta
-                - date: '1997-03-03'
-                  acquiree: Interse
-                - date: '1997-04-06'
-                  acquiree: WebTV Networks
-                - date: '1997-05-07'
-                  acquiree: Dimension X
-                - date: '1997-06-13'
-                  acquiree: Cooper & Peters
-                - date: '1997-06-30'
-                  acquiree: LinkAge Software
-                - date: '1997-08-05'
-                  acquiree: VXtreme
-                - date: '1997-12-31'
-                  acquiree: Hotmail
-                - date: '1997-12-31'
-                  acquiree: Windows Live Hotmail
-                - date: '1998-04-09'
-                  acquiree: Firefly Network
-                - date: '1998-04-28'
-                  acquiree: MESA Group
-                - date: '1998-06-23'
-                  acquiree: Merchant Planet
-                - date: '1998-08-25'
-                  acquiree: Valence Research
-                - date: '1998-08-25'
-                  acquiree: Valence Technology
-                - date: '1998-11-05'
-                  acquiree: linkexchange
-                - date: '1999-01-08'
-                  acquiree: FASA Interactive
-                - date: '1999-03-04'
-                  acquiree: CompareNet
-                - date: '1999-03-28'
-                  acquiree: Numinous Technologies
-                - date: '1999-04-26'
-                  acquiree: Jump Networks
-                - date: '1999-06-07'
-                  acquiree: ShadowFactor Software
-                - date: '1999-06-14'
-                  acquiree: OmniBrowse
-                - date: '1999-07-01'
-                  acquiree: Sendit
-                - date: '1999-07-07'
-                  acquiree: Zoomit
-                - date: '1999-07-21'
-                  acquiree: STNC
-                - date: '1999-07-28'
-                  acquiree: Intrinsa
-                  price: 58900000
-                - date: '1999-09-15'
-                  acquiree: Visio Corporation
-                - date: '1999-09-17'
-                  acquiree: Softway Systems
-                - date: '1999-10-29'
-                  acquiree: Entropic
-                - date: '1999-11-01'
-                  acquiree: Entropic Research Laboratories
-                - date: '2000-02-29'
-                  acquiree: Peach Networks
-                - date: '2000-06-19'
-                  acquiree: Bungie
-                - date: '2000-07-12'
-                  acquiree: NetGames
-                - date: '2000-09-13'
-                  acquiree: MongoMusic
-                  price: 65000000
-                - date: '2000-09-18'
-                  acquiree: Pacific Microsonics
-                - date: '2000-12-05'
-                  acquiree: Digital Anvil
-                - date: '2000-12-21'
-                  acquiree: Great Plains Software
-                - date: '2001-04-30'
-                  acquiree: NCompass Labs
-                - date: '2001-09-13'
-                  acquiree: XDegrees
-                - date: '2002-05-07'
-                  acquiree: Navision
-                  price: 1450000000
-                - date: '2002-09-24'
-                  acquiree: Rare
-                  price: 337000000
-                - date: '2002-10-22'
-                  acquiree: Vicinity Corporation
-                  price: 96000000
-                - date: '2003-02-19'
-                  acquiree: Connectix
-                - date: '2003-03-04'
-                  acquiree: Pelican Security
-                  price: 1000000
-                - date: '2003-04-30'
-                  acquiree: PlaceWare
-                - date: '2003-06-10'
-                  acquiree: RAV Antivirus
-                - date: '2004-04-26'
-                  acquiree: ActiveViews
-                - date: '2004-07-17'
-                  acquiree: Lookout Software
-                - date: '2004-12-16'
-                  acquiree: GIANT Company Software
-                - date: '2005-02-08'
-                  acquiree: Sybari
-                - date: '2005-03-10'
-                  acquiree: Groove Networks
-                - date: '2005-05-11'
-                  acquiree: MessageCast
-                - date: '2005-07-20'
-                  acquiree: Frontbridge Technologies
-                - date: '2005-08-30'
-                  acquiree: Teleo
-                - date: '2005-09-19'
-                  acquiree: Alacris
-                - date: '2005-10-06'
-                  acquiree: Unveil Technologies
-                - date: '2005-11-02'
-                  acquiree: Media-Streams.com
-                - date: '2005-11-03'
-                  acquiree: FolderShare
-                - date: '2005-11-17'
-                  acquiree: 5th Finger
-                - date: '2006-01-28'
-                  acquiree: SeaDragon Software
-                - date: '2006-02-13'
-                  acquiree: Motion Bridge
-                - date: '2006-03-07'
-                  acquiree: Apptimum
-                - date: '2006-03-07'
-                  acquiree: Onfolio
-                - date: '2006-04-03'
-                  acquiree: ProClarity
-                - date: '2006-04-06'
-                  acquiree: Lionhead Studios
-                - date: '2006-04-26'
-                  acquiree: AssetMetrix Corporation
-                - date: '2006-05-01'
-                  acquiree: Massive
-                  price: 200000000
-                - date: '2006-05-04'
-                  acquiree: DeepMetrix
-                - date: '2006-05-04'
-                  acquiree: Vexcel
-                - date: '2006-05-18'
-                  acquiree: Whale Communications
-                  price: 75000000
-                - date: '2006-06-27'
-                  acquiree: iView Multimedia
-                - date: '2006-07-17'
-                  acquiree: Softricity
-                - date: '2006-07-18'
-                  acquiree: Winternals
-                - date: '2006-07-26'
-                  acquiree: Azyxxi
-                - date: '2006-09-26'
-                  acquiree: Gteko
-                - date: '2006-10-02'
-                  acquiree: DesktopStandard
-                - date: '2006-10-12'
-                  acquiree: Colloquis
-                - date: '2007-02-26'
-                  acquiree: Medstory
-                - date: '2007-03-14'
-                  acquiree: Tellme
-                  price: 800000000
-                - date: '2007-03-14'
-                  acquiree: Tellme
-                  price: 800000000
-                - date: '2007-03-28'
-                  acquiree: devBiz Business Solutions
-                - date: '2007-05-03'
-                  acquiree: Screen Tonic
-                - date: '2007-05-18'
-                  acquiree: aQuantive
-                  price: 6400000000
-                - date: '2007-06-05'
-                  acquiree: Engyro
-                - date: '2007-06-07'
-                  acquiree: Stratature
-                - date: '2007-07-26'
-                  acquiree: AdECN
-                - date: '2007-08-29'
-                  acquiree: Parlano
-                - date: '2007-10-29'
-                  acquiree: Global Care Solutions
-                - date: '2007-11-15'
-                  acquiree: Musiwave
-                  price: 46000000
-                - date: '2007-11-30'
-                  acquiree: WebFives
-                - date: '2007-12-12'
-                  acquiree: MultiMap
-                - date: '2008-01-08'
-                  acquiree: Fast Search & Transfer
-                - date: '2008-01-21'
-                  acquiree: Calista Technologies
-                - date: '2008-02-07'
-                  acquiree: Caligari Corporation
-                - date: '2008-02-11'
-                  acquiree: Danger
-                  price: 500000000
-                - date: '2008-02-27'
-                  acquiree: YaData
-                - date: '2008-03-08'
-                  acquiree: Credentica
-                - date: '2008-03-12'
-                  acquiree: Kidaro
-                  price: 90000000
-                - date: '2008-03-14'
-                  acquiree: 90 Degree Software
-                - date: '2008-03-14'
-                  acquiree: Rapt
-                - date: '2008-03-20'
-                  acquiree: Komoku
-                - date: '2008-04-09'
-                  acquiree: Farecast
-                  price: 115000000
-                - date: '2008-06-18'
-                  acquiree: Navic Networks
-                - date: '2008-06-18'
-                  acquiree: Navic Systems
-                - date: '2008-06-26'
-                  acquiree: MobiComp
-                - date: '2008-07-01'
-                  acquiree: Powerset
-                  price: 100000000
-                - date: '2008-07-14'
-                  acquiree: Zoomix
-                - date: '2008-07-25'
-                  acquiree: DATAllegro
-                - date: '2008-08-29'
-                  acquiree: Greenfield Online
-                  price: 486000000
-                - date: '2008-08-31'
-                  acquiree: Ciao
-                - date: '2009-05-07'
-                  acquiree: BigPark
-                - date: '2009-06-01'
-                  acquiree: Rosetta Biosoftware
-                - date: '2009-06-28'
-                  acquiree: ClickStream Technologies
-                - date: '2009-09-22'
-                  acquiree: Interactive Supercomputing
-                - date: '2009-12-10'
-                  acquiree: Sentillion
-                - date: '2009-12-11'
-                  acquiree: Opalis Software
-                - date: '2010-10-06'
-                  acquiree: AVIcode
-                - date: '2010-10-29'
-                  acquiree: Canesta
-                - date: '2011-05-10'
-                  acquiree: Skype
-                - date: '2011-06-08'
-                  acquiree: Prodiance Corporation
-                - date: '2011-10-12'
-                  acquiree: Twisted Pixel Games
-                - date: '2011-11-23'
-                  acquiree: VideoSurf
-                  price: 100000000
-                - date: '2012-06-25'
-                  acquiree: Yammer
-                  price: 1200000000
-                - date: '2012-07-09'
-                  acquiree: Perceptive Pixel
-                - date: '2012-10-04'
-                  acquiree: PhoneFactor
-                - date: '2012-10-16'
-                  acquiree: StorSimple
-                - date: '2012-10-17'
-                  acquiree: MarketingPilot
-                - date: '2012-12-28'
-                  acquiree: R2 Studios
-                - date: '2013-01-02'
-                  acquiree: id8 Group R2 Studios
-                - date: '2013-02-04'
-                  acquiree: Pando Networks
-                - date: '2013-03-04'
-                  acquiree: MetricsHub
-                - date: '2013-03-19'
-                  acquiree: Netbreeze
-                - date: '2013-06-03'
-                  acquiree: InRelease
-                - date: '2013-09-03'
-                  acquiree: Nokia - Devices & Services Business
-                  price: 7166381241
-                - date: '2013-10-04'
-                  acquiree: Apiphany
-                - date: '2014-01-06'
-                  acquiree: Parature
-                  price: 100000000
-                - date: '2014-04-30'
-                  acquiree: GreenButton
-                - date: '2014-05-28'
-                  acquiree: Capptain
-                - date: '2014-07-03'
-                  acquiree: SyntaxTree
-                - date: '2014-07-11'
-                  acquiree: InMage Systems
-                - date: '2014-09-15'
-                  acquiree: Mojang Studios
-                  price: 2500000000
-                - date: '2014-10-08'
-                  acquiree: Equivio
-                  price: 200000000
-                - date: '2014-11-13'
-                  acquiree: Aorato
-                  price: 200000000
-                - date: '2014-12-01'
-                  acquiree: Acompli
-                  price: 200000000
-                - date: '2014-12-11'
-                  acquiree: Bit Stadium GmbH
-                - date: '2014-12-11'
-                  acquiree: HockeyApp
-                - date: '2015-01-23'
-                  acquiree: Revolution Analytics
-                - date: '2015-02-04'
-                  acquiree: Sunrise
-                  price: 100000000
-                - date: '2015-02-12'
-                  acquiree: N-Trig
-                - date: '2015-03-26'
-                  acquiree: LiveLoop
-                - date: '2015-04-14'
-                  acquiree: Datazen Software
-                - date: '2015-06-02'
-                  acquiree: Wunderlist
-                  price: 150000000
-                - date: '2015-06-10'
-                  acquiree: BlueStripe
-                - date: '2015-07-16'
-                  acquiree: FieldOne Systems
-                - date: '2015-07-19'
-                  acquiree: Adallom
-                  price: 320000000
-                - date: '2015-08-03'
-                  acquiree: FantasySalesTeam
-                - date: '2015-09-10'
-                  acquiree: Double Labs
-                - date: '2015-09-11'
-                  acquiree: VoloMetrix
-                  price: 250000000
-                - date: '2015-09-14'
-                  acquiree: Echo Locker
-                - date: '2015-09-30'
-                  acquiree: Adxstudio
-                - date: '2015-10-02'
-                  acquiree: Havok
-                - date: '2015-11-05'
-                  acquiree: Mobile Data Labs
-                - date: '2015-11-09'
-                  acquiree: Secure Islands Technologies
-                  price: 77500000
-                - date: '2015-12-18'
-                  acquiree: Metanautix
-                - date: '2015-12-21'
-                  acquiree: Talko
-                - date: '2016-01-13'
-                  acquiree: Event Zero
-                - date: '2016-01-19'
-                  acquiree: MinecraftEdu
-                - date: '2016-02-02'
-                  acquiree: SwiftKey
-                  price: 250000000
-                - date: '2016-02-09'
-                  acquiree: Groove (dba Zikera)
-                - date: '2016-02-24'
-                  acquiree: Xamarin
-                - date: '2016-05-03'
-                  acquiree: Solair
-                - date: '2016-06-13'
-                  acquiree: LinkedIn
-                  price: 26200000000
-                - date: '2016-06-16'
-                  acquiree: Wand Labs
-                - date: '2016-06-28'
-                  acquiree: Code Connect
-                - date: '2016-08-11'
-                  acquiree: Mixer
-                - date: '2016-08-22'
-                  acquiree: Genee
-                - date: '2017-01-13'
-                  acquiree: Maluuba
-                - date: '2017-01-17'
-                  acquiree: Donya Labs
-                - date: '2017-04-01'
-                  acquiree: Open Build Service
-                - date: '2017-04-10'
-                  acquiree: Deis.com
-                - date: '2017-04-18'
-                  acquiree: Intentional Software
-                - date: '2017-05-24'
-                  acquiree: Hexadite
-                  price: 100000000
-                - date: '2017-06-28'
-                  acquiree: Cloudyn
-                  price: 60000000
-                - date: '2017-08-15'
-                  acquiree: Cycle Computing
-                - date: '2017-10-04'
-                  acquiree: AltspaceVR
-                - date: '2017-11-07'
-                  acquiree: Swing Technologies
-                - date: '2018-01-03'
-                  acquiree: Avere Systems
-                - date: '2018-01-29'
-                  acquiree: PlayFab
-                - date: '2018-02-13'
-                  acquiree: Chalkup
-                - date: '2018-05-20'
-                  acquiree: Semantic Machines
-                - date: '2018-06-03'
-                  acquiree: GitHub
-                  price: 7500000000
-                - date: '2018-06-10'
-                  acquiree: Compulsion Games
-                - date: '2018-06-10'
-                  acquiree: Ninja Theory
-                - date: '2018-06-10'
-                  acquiree: Playground Games
-                - date: '2018-06-10'
-                  acquiree: Undead Labs
-                - date: '2018-06-18'
-                  acquiree: FlipGrid
-                - date: '2018-06-20'
-                  acquiree: Bonsai
-                - date: '2018-09-13'
-                  acquiree: Lobe
-                - date: '2018-11-10'
-                  acquiree: Obsidian Entertainment
-                - date: '2018-11-10'
-                  acquiree: inXile Entertainment
-                - date: '2018-11-14'
-                  acquiree: XOXCO
-                - date: '2018-11-19'
-                  acquiree: FSLogix
-                - date: '2019-01-24'
-                  acquiree: Citus Data
-                - date: '2019-02-04'
-                  acquiree: DataSense
-                - date: '2019-04-18'
-                  acquiree: Express Logic
-                - date: '2019-07-29'
-                  acquiree: BlueTalon
-                - date: '2019-08-05'
-                  acquiree: PromoteIQ
-                - date: '2019-08-19'
-                  acquiree: jClarity
-                - date: '2019-09-04'
-                  acquiree: Movere
-                - date: '2019-10-21'
-                  acquiree: Mover
-                - date: '2020-03-26'
-                  acquiree: Affirmed Networks
-                  price: 1350000000
-                - date: '2020-05-05'
-                  acquiree: CyberX
-                  price: 165000000
-                - date: '2020-05-14'
-                  acquiree: Metaswitch Networks
-                - date: '2020-05-19'
-                  acquiree: Softomotive
-                - date: '2020-06-18'
-                  acquiree: ADRM Software
-                - date: '2020-07-08'
-                  acquiree: Orions Systems
-                - date: '2020-09-21'
-                  acquiree: ZeniMax
-                  price: 7500000000
-                - date: '2020-12-02'
-                  acquiree: Smash.gg
-                - date: '2021-03-16'
-                  acquiree: The Marsden Group
-                - date: '2021-04-12'
-                  acquiree: Nuance Communications
-                  price: 19700000000
-                - date: '2021-04-29'
-                  acquiree: Kinvolk
-                - date: '2021-06-02'
-                  acquiree: ReFirm Labs
-                - date: '2021-07-11'
-                  acquiree: RiskIQ
-                  price: 500000000
-                - date: '2021-07-21'
-                  acquiree: CloudKnox Security
-                - date: '2021-07-28'
-                  acquiree: Suplari
-                - date: '2021-08-10'
-                  acquiree: Peer5
-                - date: '2021-09-07'
-                  acquiree: Clipchamp
-                - date: '2021-09-10'
-                  acquiree: TakeLessons
-                - date: '2021-10-07'
-                  acquiree: Ally.io
-                  price: 76000000
-                - date: '2021-10-22'
-                  acquiree: Clear Software
-                - date: '2021-10-29'
-                  acquiree: Two Hat Security
-                - date: '2021-12-21'
-                  acquiree: Xandr
-                - date: '2022-01-18'
-                  acquiree: Activision Blizzard
-                  price: 68700000000
-              parents: []
-              ticker: MSFT
-              funding: 1000000
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - Developer Tools
-                - Enterprise Software
-                - Operating Systems
-                - Software
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 2141031104512
-              effective_ticker: MSFT
-            image_data:
-              fileName: microsoft-corporation.svg
-              hash: 8fFf3tCTHX+5TsBQWT3+hZi81xYUBqdd3pZCFAf3LtQ=
-            best_practice_data:
-              badge: false
-              percentage: null
       - subcategory:
         name: Silver
         items:
@@ -3860,6 +5218,62 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-16T19:49:20.000Z
+          - item:
+            name: Advanced Micro Devices (AMD)
+            homepage_url: https://amd.com/
+            logo: advanced_micro_devices_amd.svg
+            twitter: https://twitter.com/AMD
+            crunchbase: https://www.crunchbase.com/organization/amd
+            crunchbase_data:
+              name: AMD
+              description: Advanced Micro Devices (AMD) is a semiconductor company that designs and develops graphics units, processors, and media solutions.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.amd.com
+              city: Santa Clara
+              region: California
+              country: United States
+              twitter: https://twitter.com/amd
+              linkedin: https://www.linkedin.com/company/amd
+              acquisitions:
+                - date: '2002-02-06'
+                  acquiree: Alchemy Semiconductor
+                - date: '2006-07-24'
+                  acquiree: ATI Technologies
+                  price: 5400000000
+                - date: '2012-02-29'
+                  acquiree: SeaMicro
+                  price: 334000000
+                - date: '2016-06-29'
+                  acquiree: HiAlgo
+                - date: '2017-04-10'
+                  acquiree: Nitero
+                - date: '2020-10-27'
+                  acquiree: Xilinx
+                  price: 35000000000
+              parents: []
+              ticker: AMD
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Hardware
+                - Semiconductor
+                - Software
+                - Video Games
+                - Virtualization
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 102294970368
+              effective_ticker: AMD
+            image_data:
+              fileName: advanced-micro-devices-amd.svg
+              hash: 2Za4zJY0wFoO5LflFP238qc7drUBfIwmuqMPxhAaABo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T15:11:10.000Z
           - item:
             name: Adva Optical Networking SE
             homepage_url: https://advaoptical.com/
@@ -4704,7 +6118,7 @@ landscape:
             name: Globo
             homepage_url: https://globo.com/
             logo: globo.svg
-            twitter: https://twitter.com/globonoticias
+            twitter: https://twitter.com/globocom
             crunchbase: https://www.crunchbase.com/organization/organiza-es-globo
             crunchbase_data:
               name: Globo.com
@@ -4731,8 +6145,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2008-11-06T19:58:30.000Z
           - item:
             name: Hewlett Packard Enterprise Development LP
             homepage_url: https://hpe.com/
@@ -5365,7 +6777,7 @@ landscape:
             name: NTT DATA Spain, S.L.U.
             homepage_url: https://everis.com/
             logo: ntt_data_spain_slu.svg
-            twitter: https://twitter.com/NTTDATAServices
+            twitter: https://twitter.com/NTTDATA
             crunchbase: https://www.crunchbase.com/organization/ntt-data
             crunchbase_data:
               name: NTT Data
@@ -5729,41 +7141,50 @@ landscape:
             name: Sprint Corporation
             homepage_url: https://sprint.com/
             logo: sprint_corporation.svg
-            twitter: https://twitter.com/SprintGreenNews
-            crunchbase: https://www.crunchbase.com/organization/sprint-nextel
+            twitter: https://twitter.com/TMobile
+            crunchbase: https://www.crunchbase.com/organization/t-mobile
+            stock_ticker: null
             crunchbase_data:
-              name: Sprint
-              description: Sprint Nextel offers a comprehensive range of wireless and wireline communications services to consumers, businesses, and government users.
+              name: T-Mobile
+              description: T-Mobile is redefining the way consumers and businesses buy wireless services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://sprint.com
-              city: Overland Park
-              region: Kansas
+              homepage: https://www.t-mobile.com/
+              city: Bellevue
+              region: Washington
               country: United States
-              twitter: http://twitter.com/sprint
-              linkedin: https://www.linkedin.com/company/sprint
+              twitter: http://twitter.com/TMobile
+              linkedin: https://www.linkedin.com/company/t-mobile
               acquisitions:
-                - date: '2005-08-15'
-                  acquiree: Nextel Communications
-                  price: 35000000000
-                - date: '2009-07-28'
-                  acquiree: Virgin Mobile USA
-                - date: '2009-10-19'
-                  acquiree: iPCS
-                - date: '2012-12-17'
-                  acquiree: Clearwire
-                  price: 2200000000
-                - date: '2013-05-20'
-                  acquiree: Handmark
-                - date: '2013-05-20'
-                  acquiree: OneLouder
-              parents: []
-              stockExchange: nyse
+                - date: '2007-09-17'
+                  acquiree: Suncom Wireless Holdings
+                  price: 2400000000
+                - date: '2013-05-01'
+                  acquiree: MetroPCS Communications Inc
+                  price: 1500000000
+                - date: '2017-12-13'
+                  acquiree: Layer3 TV
+                - date: '2018-01-02'
+                  acquiree: UPC Austria
+                  price: 2291685764
+                - date: '2019-07-26'
+                  acquiree: Sprint
+                  price: 26000000000
+                - date: '2019-07-31'
+                  acquiree: PushSpring
+                - date: '2022-01-10'
+                  acquiree: Octopus Interactive Inc.
+              parents:
+                - https://www.crunchbase.com/organization/deutsche-telekom
+              ticker: TMUS.SW
+              funding: 1570224359
+              stockExchange: swx
               company_type: For Profit
               industries:
                 - Mobile
                 - Telecommunications
                 - Wireless
+              kind: funding
             image_data:
               fileName: sprint-corporation.svg
               hash: tHl8MWebm4XimZGRhek/u6HYexoBx2I/mUu/QuFmy4k=
@@ -6445,24 +7866,25 @@ landscape:
             homepage_url: https://cpqd.com.br/
             logo: cpqd.svg
             twitter: https://twitter.com/cpqd
-            crunchbase: https://www.crunchbase.com/organization/cpqd/timeline
+            crunchbase: https://www.crunchbase.com/organization/cpqd
             crunchbase_data:
-              name: Timeline
-              description: The news is the short tail of a very long string of events.Timeline weaves those events into rich, compelling stories.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://timeline.com/
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://twitter.com/timeline_now
-              linkedin: null
+              name: CPQD
+              description: 'A technology organization present in every step of the journey towards innovation: from the idea to its implementation.'
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://www.cpqd.com.br/en/
+              city: Campina
+              region: Sao Paulo
+              country: Brazil
+              twitter: https://twitter.com/cpqd
+              linkedin: https://www.linkedin.com/company/cpqd/
               acquisitions: []
               parents: []
               stockExchange: null
               company_type: For Profit
               industries:
-                - Social Media
+                - Blockchain
+                - Internet of Things
             image_data:
               fileName: cpqd.svg
               hash: eRLObqjGKMXvyJzs9uVVS30lQzzwGcbO2i9r5+x422s=
@@ -6476,31 +7898,29 @@ landscape:
             homepage_url: https://gradiant.org/
             logo: gradiant.svg
             twitter: https://twitter.com/Gradiant
-            crunchbase: https://www.crunchbase.com/organization/gradiant/press
+            crunchbase: https://www.crunchbase.com/organization/gradiant
             crunchbase_data:
-              name: Press
-              description: Press allows smartphone users to create multimedia slide shows by using photos, recorded sounds and texts.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: http://pressla.bs
-              city: Brooklyn
-              region: New York
-              country: United States
-              twitter: http://twitter.com/press_app
-              linkedin: null
+              name: Gradiant
+              description: Innovation provider of technologies and knowledge transfer helping companies since 2008
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: https://www.gradiant.org/?lang=en
+              city: Pontevedra
+              region: Galicia
+              country: Spain
+              twitter: https://www.twitter.com/gradiant
+              linkedin: https://www.linkedin.com/company/gradiant
               acquisitions: []
               parents: []
-              funding: 70000
+              funding: 0
               stockExchange: null
               company_type: For Profit
               industries:
-                - Collaboration
-                - Enterprise Software
-                - Messaging
-                - Presentations
-                - Publishing
+                - CRM
+                - Consulting
+                - Information Technology
+                - Legal
                 - Software
-              kind: funding
             image_data:
               fileName: gradiant.svg
               hash: OSoAjCy0OK/94YDx19E6Gy6/yOTjrePb0lO1iVQmiC4=
@@ -8678,8 +10098,8 @@ landscape:
                 - name: HTML
                   value: 2360
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-03-21Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2021-05-30Z
               stars: 1
               license: Other
               description: Mirror of https://gerrit.onap.org/r/#/admin/projects/aaf/authz
