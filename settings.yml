@@ -1,4 +1,3 @@
----
 global:
   # name of the landscape
   name: LFN Landscape
@@ -52,17 +51,55 @@ relation:
   values:
     - id: hosted
       label: TAC Projects
-      # children to identify maturity levels ( incubation, active, etc ). If there aren't multiple levels, then just complete like below.
-      ### Should I add all prois under the children tag - each with a sep "- id:" line??? I think this is showing examples of sep types of projects???
       children:
-        - id: tacprojects
-          label: TAC Projects
-          prefix: TAC
-          tag: TAC Project
+        - id: lfn
+          label: LFN
+          prefix: LFN
+          tag: LFN
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: TAC Projects
+          big_picture_label: LFN
           big_picture_color: rgb(24,54,114)
+        - id: incubation
+          label: LFN Incubation
+          prefix: LFN
+          tag: LFN Incubation
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: LFN Incubation
+          big_picture_color: rgb(24,54,114)
+        - id: archived
+          label: LFN Archived
+          prefix: LFN
+          tag: LFN Archived
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: LFN Archived
+          big_picture_color: rgb(24,54,114)
+    - id: lfedge
+      label: LF Edge
+      prefix: LF Edge
+      tag: LF Edge
+      color: '#3570af'
+      big_picture_order: 1
+      big_picture_label: LF Edge
+      big_picture_color: rgb(24,54,114)
+    - id: cncf
+      label: CNCF
+      prefix: CNCF
+      tag: CNCF
+      color: '#3570af'
+      big_picture_order: 1
+      big_picture_label: CNCF
+      big_picture_color: rgb(24,54,114)
+    - id: foundation
+      label: Linux Foundation
+      prefix: LFN
+      tag: Linux Foundation
+      color: '#3570af'
+      big_picture_order: 1
+      big_picture_label: Linux Foundation
+      big_picture_color: rgb(24,54,114)
     - id: company
       label: LF Networking Members
       tag: Company
@@ -254,6 +291,43 @@ big_picture:
             right: 10
             top: 10
             title: LFN Logo
+  super-blueprint:
+    tab_index: 3
+    url: super-blueprint
+    name: 5G Super Blueprint
+    title: 5G Super Blueprint
+    fullscreen_header: See the members interactive display at <yet to be defined>
+    elements:
+      - type: HorizontalCategory
+        category: Cloud/Core
+        rows: 2
+        width: 750
+        height: 150
+        top: 160
+        left: 0
+        color: '#c5c4c2'
+        fit_width: false
+        is_large: false
+      - type: HorizontalCategory
+        category: Service Provider Edge
+        rows: 2
+        width: 350
+        height: 140
+        top: 0
+        left: 0
+        color: '#c5c4c2'
+        fit_width: false
+        is_large: false
+      - type: HorizontalCategory
+        category: User Edge
+        rows: 2
+        width: 350
+        height: 140
+        top: 0
+        left: 400
+        color: '#c5c4c2'
+        fit_width: false
+        is_large: false
 # test to make sure the build worked. Identify one landscape item that you know will always be there, preferably towards the top of the rendering
 test:
   header: Linux Foundation Networking Landscape
