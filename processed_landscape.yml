@@ -452,35 +452,715 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 5788430
+                  value: 170796483
                   color: '#b07219'
-                - name: Shell
-                  value: 139122
-                  color: '#89e051'
                 - name: JavaScript
-                  value: 14962
+                  value: 30400040
                   color: '#f1e05a'
-                - name: CSS
-                  value: 11489
-                  color: '#563d7c'
+                - name: Python
+                  value: 17704176
+                  color: '#3572A5'
+                - name: TypeScript
+                  value: 11005654
+                  color: '#2b7489'
+                - name: Groovy
+                  value: 5916433
+                  color: '#e69f56'
+                - name: Shell
+                  value: 5873943
+                  color: '#89e051'
                 - name: HTML
-                  value: 2360
+                  value: 5661450
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+                - name: Kotlin
+                  value: 4327800
+                  color: '#F18E33'
+                - name: CSS
+                  value: 3398761
+                  color: '#563d7c'
+                - name: C
+                  value: 2909276
+                  color: '#555555'
+                - name: Go
+                  value: 2234547
+                  color: '#00ADD8'
+                - name: RobotFramework
+                  value: 1878573
+                - name: SCSS
+                  value: 1124882
+                - name: Less
+                  value: 957611
+                - name: C++
+                  value: 444426
+                  color: '#f34b7d'
+                - name: Smarty
+                  value: 398782
+                - name: FreeMarker
+                  value: 340874
+                  color: '#0050b2'
+                - name: Dockerfile
+                  value: 336806
+                  color: '#384d54'
+                - name: Makefile
+                  value: 261700
+                  color: '#427819'
+                - name: Jinja
+                  value: 261670
+                - name: Erlang
+                  value: 181038
+                  color: '#B83998'
+                - name: Gherkin
+                  value: 175864
+                  color: '#5B2063'
+                - name: Scala
+                  value: 172010
+                  color: '#c22d40'
+                - name: PLSQL
+                  value: 133772
+                  color: '#dad8d8'
+                - name: Clojure
+                  value: 129754
+                  color: '#db5855'
+                - name: Ruby
+                  value: 114810
+                  color: '#701516'
+                - name: Lua
+                  value: 79579
+                  color: '#000080'
+                - name: Mustache
+                  value: 73780
+                - name: HCL
+                  value: 47464
+                - name: Batchfile
+                  value: 40015
+                  color: '#C1F12E'
+                - name: XSLT
+                  value: 11978
+                  color: '#EB8CEB'
+                - name: Handlebars
+                  value: 11514
+                - name: PLpgSQL
+                  value: 10382
+                - name: ANTLR
+                  value: 10327
+                  color: '#9DC3FF'
+                - name: Perl
+                  value: 6410
+                  color: '#0298c3'
+                - name: CMake
+                  value: 4687
+                - name: PowerShell
+                  value: 3532
+                  color: '#012456'
+                - name: D
+                  value: 2796
+                  color: '#ba595e'
+                - name: Roff
+                  value: 2381
+                  color: '#ecdebe'
+                - name: Awk
+                  value: 1842
+                - name: MATLAB
+                  value: 1840
+                  color: '#e16737'
+                - name: PHP
+                  value: 1236
+                  color: '#4F5D95'
+                - name: SaltStack
+                  value: 886
+                  color: '#646464'
+                - name: Fluent
+                  value: 457
+              contributions: >-
+                78;102;151;187;135;120;131;159;142;165;129;101;191;197;198;244;225;151;134;153;216;185;119;95;120;62;137;113;92;100;19;26;87;58;119;114;91;100;85;151;141;189;171;224;157;166;161;123;152;120;60;54
               firstWeek: 2021-05-30Z
-              stars: 1
+              stars: 517
               license: Other
               description: Mirror of https://gerrit.onap.org/r/#/admin/projects/aaf/authz
               latest_commit_date: '2021-04-27T18:20:44Z'
               latest_commit_link: /onap/archived-aaf-authz/commit/5836e4a53d87b1792486aa6b0b1ddb2e71d91bb9
-              contributors_count: 66
+              contributors_count: 486
               contributors_link: https://github.com/onap/aaf-authz/graphs/contributors
             repos:
               - url: https://github.com/onap/aaf-authz
                 stars: 1
+              - url: https://github.com/onap/oom
+                stars: 29
+              - url: https://github.com/onap/multicloud-k8s
+                stars: 27
+              - url: https://github.com/onap/so
+                stars: 15
+              - url: https://github.com/onap/ccsdk-cds
+                stars: 14
+              - url: https://github.com/onap/sdc
+                stars: 12
+              - url: https://github.com/onap/doc
+                stars: 10
+              - url: https://github.com/onap/integration
+                stars: 9
+              - url: https://github.com/onap/vid
+                stars: 6
+              - url: https://github.com/onap/ci-management
+                stars: 5
+              - url: https://github.com/onap/cli
+                stars: 5
+              - url: https://github.com/onap/logging-analytics
+                stars: 5
+              - url: https://github.com/onap/policy-apex-pdp
+                stars: 5
+              - url: https://github.com/onap/aai-aai-common
+                stars: 4
+              - url: https://github.com/onap/integration-csit
+                stars: 4
+              - url: https://github.com/onap/msb-apigateway
+                stars: 4
+              - url: https://github.com/onap/multicloud-openstack
+                stars: 4
+              - url: https://github.com/onap/policy-drools-pdp
+                stars: 4
+              - url: https://github.com/onap/policy-models
+                stars: 4
+              - url: https://github.com/onap/testsuite
+                stars: 4
+              - url: https://github.com/onap/vfc-nfvo-lcm
+                stars: 4
+              - url: https://github.com/onap/vnfrqts-requirements
+                stars: 4
+              - url: https://github.com/onap/aai-graphadmin
+                stars: 3
+              - url: https://github.com/onap/aai-traversal
+                stars: 3
+              - url: https://github.com/onap/cps
+                stars: 3
+              - url: https://github.com/onap/dcaegen2
+                stars: 3
+              - url: https://github.com/onap/dcaegen2-analytics-tca-gen2
+                stars: 3
+              - url: https://github.com/onap/dcaegen2-collectors-ves
+                stars: 3
+              - url: https://github.com/onap/dcaegen2-utils
+                stars: 3
+              - url: https://github.com/onap/dmaap-datarouter
+                stars: 3
+              - url: https://github.com/onap/externalapi-nbi
+                stars: 3
+              - url: https://github.com/onap/optf-has
+                stars: 3
+              - url: https://github.com/onap/policy-distribution
+                stars: 3
+              - url: https://github.com/onap/policy-drools-applications
+                stars: 3
+              - url: https://github.com/onap/policy-parent
+                stars: 3
+              - url: https://github.com/onap/portal
+                stars: 3
+              - url: https://github.com/onap/vfc-nfvo-driver-vnfm-gvnfm
+                stars: 3
+              - url: https://github.com/onap/vfc-nfvo-driver-vnfm-svnfm
+                stars: 3
+              - url: https://github.com/onap/vnfsdk-pkgtools
+                stars: 3
+              - url: https://github.com/onap/aai-gizmo
+                stars: 2
+              - url: https://github.com/onap/ccsdk-apps
+                stars: 2
+              - url: https://github.com/onap/ccsdk-distribution
+                stars: 2
+              - url: https://github.com/onap/ccsdk-parent
+                stars: 2
+              - url: https://github.com/onap/clamp
+                stars: 2
+              - url: https://github.com/onap/cps-cps-temporal
+                stars: 2
+              - url: https://github.com/onap/cps-ncmp-dmi-plugin
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-analytics-tca
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-collectors-datafile
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-collectors-restconf
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-platform-blueprints
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-platform-deployment-handler
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-platform-plugins
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-platform-policy-handler
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-services-prh
+                stars: 2
+              - url: https://github.com/onap/multicloud-framework
+                stars: 2
+              - url: https://github.com/onap/oom-offline-installer
+                stars: 2
+              - url: https://github.com/onap/oom-registrator
+                stars: 2
+              - url: https://github.com/onap/oparent
+                stars: 2
+              - url: https://github.com/onap/optf-osdf
+                stars: 2
+              - url: https://github.com/onap/policy-api
+                stars: 2
+              - url: https://github.com/onap/policy-common
+                stars: 2
+              - url: https://github.com/onap/policy-core
+                stars: 2
+              - url: https://github.com/onap/policy-docker
+                stars: 2
+              - url: https://github.com/onap/policy-gui
+                stars: 2
+              - url: https://github.com/onap/policy-oom
+                stars: 2
+              - url: https://github.com/onap/policy-pap
+                stars: 2
+              - url: https://github.com/onap/policy-pdp
+                stars: 2
+              - url: https://github.com/onap/policy-xacml-pdp
+                stars: 2
+              - url: https://github.com/onap/portal-sdk
+                stars: 2
+              - url: https://github.com/onap/sdc-sdc-workflow-designer
+                stars: 2
+              - url: https://github.com/onap/sdnc-apps
+                stars: 2
+              - url: https://github.com/onap/sdnc-features
+                stars: 2
+              - url: https://github.com/onap/sdnc-plugins
+                stars: 2
+              - url: https://github.com/onap/testsuite-python-testing-utils
+                stars: 2
+              - url: https://github.com/onap/usecase-ui
+                stars: 2
+              - url: https://github.com/onap/vfc-gvnfm-vnflcm
+                stars: 2
+              - url: https://github.com/onap/vnfsdk-refrepo
+                stars: 2
+              - url: https://github.com/onap/vnfsdk-validation
+                stars: 2
+              - url: https://github.com/onap/vvp-validation-scripts
+                stars: 2
+              - url: https://github.com/onap/aaf-cadi
+                stars: 1
+              - url: https://github.com/onap/aaf-certservice
+                stars: 1
+              - url: https://github.com/onap/aaf-oom
+                stars: 1
+              - url: https://github.com/onap/aai-babel
+                stars: 1
+              - url: https://github.com/onap/aai-cacher
+                stars: 1
+              - url: https://github.com/onap/aai-chameleon
+                stars: 1
+              - url: https://github.com/onap/aai-champ
+                stars: 1
+              - url: https://github.com/onap/aai-eis
+                stars: 1
+              - url: https://github.com/onap/aai-enricher
+                stars: 1
+              - url: https://github.com/onap/aai-event-client
+                stars: 1
+              - url: https://github.com/onap/aai-gallifrey
+                stars: 1
+              - url: https://github.com/onap/aai-gap
+                stars: 1
+              - url: https://github.com/onap/aai-graphgraph
+                stars: 1
+              - url: https://github.com/onap/aai-logging-service
+                stars: 1
+              - url: https://github.com/onap/aai-model-loader
+                stars: 1
+              - url: https://github.com/onap/aai-oom
+                stars: 1
+              - url: https://github.com/onap/aai-resources
+                stars: 1
+              - url: https://github.com/onap/aai-rest-client
+                stars: 1
+              - url: https://github.com/onap/aai-router-core
+                stars: 1
+              - url: https://github.com/onap/aai-schema-service
+                stars: 1
+              - url: https://github.com/onap/aai-sparky-be
+                stars: 1
+              - url: https://github.com/onap/aai-sparky-fe
+                stars: 1
+              - url: https://github.com/onap/aai-spike
+                stars: 1
+              - url: https://github.com/onap/aai-tabular-data-service
+                stars: 1
+              - url: https://github.com/onap/aai-test-config
+                stars: 1
+              - url: https://github.com/onap/aai-validation
+                stars: 1
+              - url: https://github.com/onap/appc
+                stars: 1
+              - url: https://github.com/onap/appc-oom
+                stars: 1
+              - url: https://github.com/onap/ccsdk-dashboard
+                stars: 1
+              - url: https://github.com/onap/ccsdk-features
+                stars: 1
+              - url: https://github.com/onap/ccsdk-oran
+                stars: 1
+              - url: https://github.com/onap/ccsdk-platform-blueprints
+                stars: 1
+              - url: https://github.com/onap/ccsdk-platform-nbapi
+                stars: 1
+              - url: https://github.com/onap/ccsdk-platform-plugins
+                stars: 1
+              - url: https://github.com/onap/ccsdk-sli
+                stars: 1
+              - url: https://github.com/onap/ccsdk-storage-esaas
+                stars: 1
+              - url: https://github.com/onap/ccsdk-storage-pgaas
+                stars: 1
+              - url: https://github.com/onap/ccsdk-utils
+                stars: 1
+              - url: https://github.com/onap/clamp-dashboard
+                stars: 1
+              - url: https://github.com/onap/clamp-oom
+                stars: 1
+              - url: https://github.com/onap/clamp-ui
+                stars: 1
+              - url: https://github.com/onap/cli-oom
+                stars: 1
+              - url: https://github.com/onap/cps-cps-tbdmt
+                stars: 1
+              - url: https://github.com/onap/dcae-apod-cdap
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-analytics-flink
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-analytics-pnda
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-collectors
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-collectors-hv-ves
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-collectors-snmptrap
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-deployments
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-oom
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform-cdapbroker
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform-cli
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform-configbinding
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform-inventory-api
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform-servicechange-handler
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform-ves-openapi-manager
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-services
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-services-heartbeat
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-services-mapper
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-services-pm-mapper
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-services-sdk
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-services-son-handler
+                stars: 1
+              - url: https://github.com/onap/dmaap-buscontroller
+                stars: 1
+              - url: https://github.com/onap/dmaap-kafka11aaf
+                stars: 1
+              - url: https://github.com/onap/dmaap-messagerouter-dmaapclient
+                stars: 1
+              - url: https://github.com/onap/dmaap-messagerouter-messageservice
+                stars: 1
+              - url: https://github.com/onap/dmaap-messagerouter-mirroragent
+                stars: 1
+              - url: https://github.com/onap/dmaap-messagerouter-msgrtr
+                stars: 1
+              - url: https://github.com/onap/dmaap-oom
+                stars: 1
+              - url: https://github.com/onap/dmaap-zookeeper
+                stars: 1
+              - url: https://github.com/onap/doc-tools
+                stars: 1
+              - url: https://github.com/onap/esr-oom
+                stars: 1
+              - url: https://github.com/onap/holmes-common
+                stars: 1
+              - url: https://github.com/onap/holmes-engine-management
+                stars: 1
+              - url: https://github.com/onap/holmes-rule-management
+                stars: 1
+              - url: https://github.com/onap/integration-benchmark
+                stars: 1
+              - url: https://github.com/onap/integration-devtool
+                stars: 1
+              - url: https://github.com/onap/integration-ieft-actn-tools
+                stars: 1
+              - url: https://github.com/onap/integration-ietf-actn-tools
+                stars: 1
+              - url: https://github.com/onap/integration-seccom
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-5G-core-nf-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-A1-policy-enforcement-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-core-nssmf-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-dc-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-masspnf-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-nf-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-nf-simulator-avcn-manager
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-nf-simulator-netconf-server
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-nf-simulator-pm-https-server
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-nf-simulator-ves-client
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-pnf-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-ran-nssmf-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-ran-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-terraform
+                stars: 1
+              - url: https://github.com/onap/integration-terragrunt
+                stars: 1
+              - url: https://github.com/onap/integration-usecases-A1-policy-enforcement
+                stars: 1
+              - url: https://github.com/onap/integration-usecases-A1-policy-enforcement-r-apps
+                stars: 1
+              - url: https://github.com/onap/integration-usecases-mdons
+                stars: 1
+              - url: https://github.com/onap/integration-xtesting
+                stars: 1
+              - url: https://github.com/onap/logging-analytics-pomba
+                stars: 1
+              - url: https://github.com/onap/logging-analytics-pomba-pomba-aai-context-builder
+                stars: 1
+              - url: https://github.com/onap/logging-analytics-pomba-pomba-audit-common
+                stars: 1
+              - url: https://github.com/onap/logging-analytics-pomba-pomba-context-aggregator
+                stars: 1
+              - url: https://github.com/onap/logging-analytics-pomba-pomba-network-discovery-context-builder
+                stars: 1
+              - url: https://github.com/onap/logging-analytics-pomba-pomba-sdc-context-builder
+                stars: 1
+              - url: https://github.com/onap/logging-analytics-pomba-pomba-sdnc-context-builder
+                stars: 1
+              - url: https://github.com/onap/modeling-etsicatalog
+                stars: 1
+              - url: https://github.com/onap/modeling-genericparser
+                stars: 1
+              - url: https://github.com/onap/modeling-modelspec
+                stars: 1
+              - url: https://github.com/onap/modeling-toscaparsers
+                stars: 1
+              - url: https://github.com/onap/msb-discovery
+                stars: 1
+              - url: https://github.com/onap/msb-java-sdk
+                stars: 1
+              - url: https://github.com/onap/msb-oom
+                stars: 1
+              - url: https://github.com/onap/msb-service-mesh
+                stars: 1
+              - url: https://github.com/onap/msb-swagger-sdk
+                stars: 1
+              - url: https://github.com/onap/multicloud-oom
+                stars: 1
+              - url: https://github.com/onap/multicloud-openstack-vmware
+                stars: 1
+              - url: https://github.com/onap/multicloud-openstack-windriver
+                stars: 1
+              - url: https://github.com/onap/music-distributed-kv-store
+                stars: 1
+              - url: https://github.com/onap/nbi-oom
+                stars: 1
+              - url: https://github.com/onap/oof-oom
+                stars: 1
+              - url: https://github.com/onap/oom-consul
+                stars: 1
+              - url: https://github.com/onap/oom-platform-cert-manager
+                stars: 1
+              - url: https://github.com/onap/oom-platform-cert-service
+                stars: 1
+              - url: https://github.com/onap/oom-platform-keycloak
+                stars: 1
+              - url: https://github.com/onap/oom-readiness
+                stars: 1
+              - url: https://github.com/onap/oom-utils
+                stars: 1
+              - url: https://github.com/onap/oparent-cia
+                stars: 1
+              - url: https://github.com/onap/osa
+                stars: 1
+              - url: https://github.com/onap/pnda-oom
+                stars: 1
+              - url: https://github.com/onap/policy-clamp
+                stars: 1
+              - url: https://github.com/onap/pomba-oom
+                stars: 1
+              - url: https://github.com/onap/portal-oom
+                stars: 1
+              - url: https://github.com/onap/robot-oom
+                stars: 1
+              - url: https://github.com/onap/sandbox-2
+                stars: 1
+              - url: https://github.com/onap/sdc-jtosca
+                stars: 1
+              - url: https://github.com/onap/sdc-onap-ui-angular
+                stars: 1
+              - url: https://github.com/onap/sdc-onap-ui-common
+                stars: 1
+              - url: https://github.com/onap/sdc-sdc-be-common
+                stars: 1
+              - url: https://github.com/onap/sdc-sdc-distribution-client
+                stars: 1
+              - url: https://github.com/onap/sdc-sdc-docker-base
+                stars: 1
+              - url: https://github.com/onap/sdc-sdc-helm-validator
+                stars: 1
+              - url: https://github.com/onap/sdc-sdc-pubsub
+                stars: 1
+              - url: https://github.com/onap/sdc-sdc-titan-cassandra
+                stars: 1
+              - url: https://github.com/onap/sdc-sdc-tosca
+                stars: 1
+              - url: https://github.com/onap/sdnc-northbound
+                stars: 1
+              - url: https://github.com/onap/sdnc-oom
+                stars: 1
+              - url: https://github.com/onap/sniro-emulator-oom
+                stars: 1
+              - url: https://github.com/onap/so-adapters-so-cnf-adapter
+                stars: 1
+              - url: https://github.com/onap/so-adapters-so-etsi-sol003-adapter
+                stars: 1
+              - url: https://github.com/onap/so-adapters-so-etsi-sol005-adapter
+                stars: 1
+              - url: https://github.com/onap/so-adapters-so-nssmf-adapter
+                stars: 1
+              - url: https://github.com/onap/so-adapters-so-oof-adapter
+                stars: 1
+              - url: https://github.com/onap/so-chef-repo
+                stars: 1
+              - url: https://github.com/onap/so-docker-config
+                stars: 1
+              - url: https://github.com/onap/so-libs
+                stars: 1
+              - url: https://github.com/onap/so-oom
+                stars: 1
+              - url: https://github.com/onap/so-so-admin-cockpit
+                stars: 1
+              - url: https://github.com/onap/so-so-config
+                stars: 1
+              - url: https://github.com/onap/so-so-etsi-nfvo
+                stars: 1
+              - url: https://github.com/onap/test-oom
+                stars: 1
+              - url: https://github.com/onap/testsuite-cds
+                stars: 1
+              - url: https://github.com/onap/testsuite-cds-mock-odl
+                stars: 1
+              - url: https://github.com/onap/testsuite-cds-mock-server
+                stars: 1
+              - url: https://github.com/onap/testsuite-cds-mock-ssh
+                stars: 1
+              - url: https://github.com/onap/testsuite-heatbridge
+                stars: 1
+              - url: https://github.com/onap/testsuite-oom
+                stars: 1
+              - url: https://github.com/onap/testsuite-properties
+                stars: 1
+              - url: https://github.com/onap/testsuite-pythonsdk-tests
+                stars: 1
+              - url: https://github.com/onap/testsuite-robot-utils
+                stars: 1
+              - url: https://github.com/onap/ui
+                stars: 1
+              - url: https://github.com/onap/ui-dmaapbc
+                stars: 1
+              - url: https://github.com/onap/university
+                stars: 1
+              - url: https://github.com/onap/usecase-ui-nlp
+                stars: 1
+              - url: https://github.com/onap/usecase-ui-server
+                stars: 1
+              - url: https://github.com/onap/uui-oom
+                stars: 1
+              - url: https://github.com/onap/vfc-gvnfm-vnfmgr
+                stars: 1
+              - url: https://github.com/onap/vfc-gvnfm-vnfres
+                stars: 1
+              - url: https://github.com/onap/vfc-nfvo-db
+                stars: 1
+              - url: https://github.com/onap/vfc-oom
+                stars: 1
+              - url: https://github.com/onap/vid-oom
+                stars: 1
+              - url: https://github.com/onap/vnfrqts-epics
+                stars: 1
+              - url: https://github.com/onap/vnfrqts-guidelines
+                stars: 1
+              - url: https://github.com/onap/vnfrqts-testcases
+                stars: 1
+              - url: https://github.com/onap/vnfrqts-usecases
+                stars: 1
+              - url: https://github.com/onap/vnfsdk-compliance
+                stars: 1
+              - url: https://github.com/onap/vnfsdk-dovetail-integration
+                stars: 1
+              - url: https://github.com/onap/vnfsdk-functest
+                stars: 1
+              - url: https://github.com/onap/vnfsdk-lctest
+                stars: 1
+              - url: https://github.com/onap/vnfsdk-model
+                stars: 1
+              - url: https://github.com/onap/vnfsdk-oom
+                stars: 1
+              - url: https://github.com/onap/vnfsdk-ves-agent
+                stars: 1
+              - url: https://github.com/onap/vvp-ansible-ice-bootstrap
+                stars: 1
+              - url: https://github.com/onap/vvp-cms
+                stars: 1
+              - url: https://github.com/onap/vvp-devkit
+                stars: 1
+              - url: https://github.com/onap/vvp-documentation
+                stars: 1
+              - url: https://github.com/onap/vvp-engagementmgr
+                stars: 1
+              - url: https://github.com/onap/vvp-gitlab
+                stars: 1
+              - url: https://github.com/onap/vvp-image-scanner
+                stars: 1
+              - url: https://github.com/onap/vvp-jenkins
+                stars: 1
+              - url: https://github.com/onap/vvp-oom
+                stars: 1
+              - url: https://github.com/onap/vvp-portal
+                stars: 1
+              - url: https://github.com/onap/vvp-postgresql
+                stars: 1
+              - url: https://github.com/onap/vvp-regression-tests
+                stars: 1
+              - url: https://github.com/onap/vvp-test-engine
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-analytics
+                stars: 0
+              - url: https://github.com/onap/integration-data-provider
+                stars: 0
             github_start_commit_data:
-              start_commit_link: /onap/archived-aaf-authz/commit/f691a8b8dfc9eea4c6b3bfa45ea60f07ad347e69
-              start_date: '2017-07-12T17:55:10Z'
+              start_commit_link: /onap/msb-apigateway/commit/29c0018a50104f18b34277cc01720c0b3e401212
+              start_date: '2016-08-08T16:34:38Z'
             image_data:
               fileName: onap.svg
               hash: WNsu4QYlSKNG/Rf6KSwvyTm0cOpEvJUl4AB8B5/gQTY=
