@@ -1314,14 +1314,14 @@ landscape:
         name: 5G Network Functions/Apps
         items:
           - item:
-            name: A10 Networks
+            name: A10 Networks (5G cloud)
             allow_duplicate_repo: true
             homepage_url: https://a10networks.com/
             logo: a10_networks.svg
             twitter: https://twitter.com/A10Networks
             crunchbase: https://www.crunchbase.com/organization/a10-networks
           - item:
-            name: Kaloom Inc.
+            name: Kaloom Inc. (5G)
             allow_duplicate_repo: true
             homepage_url: https://kaloom.com/
             logo: kaloom_inc.svg
@@ -1422,7 +1422,7 @@ landscape:
             twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
           - item:
-            name: UNH InterOperability Lab
+            name: UNH InterOperability Lab (5G)
             allow_duplicate_repo: true
             homepage_url: https://iol.unh.edu/
             logo: unh_interoperability_lab.svg
@@ -1446,7 +1446,7 @@ landscape:
             twitter: https://twitter.com/A10Networks
             crunchbase: https://www.crunchbase.com/organization/a10-networks
           - item:
-            name: Aarna Networks
+            name: Aarna Networks (5G)
             allow_duplicate_repo: true
             homepage_url: https://aarnanetworks.com/
             logo: aarna_networks.svg
