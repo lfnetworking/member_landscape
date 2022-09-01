@@ -857,6 +857,12 @@ landscape:
             twitter: https://twitter.com/tech_mahindra
             crunchbase: https://www.crunchbase.com/organization/tech-mahindra
           - item:
+            name: TELUS Corporation
+            homepage_url: https://telus.com/
+            logo: telus_corporation.svg
+            twitter: https://twitter.com/TELUS
+            crunchbase: https://www.crunchbase.com/organization/telus
+          - item:
             name: Verizon Corporate Services
             homepage_url: https://verizon.com/
             logo: verizon_corporate_services.svg
