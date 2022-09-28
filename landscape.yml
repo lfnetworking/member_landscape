@@ -68,7 +68,7 @@ landscape:
             description: "Open Distributed Infrastructure Manager. Multi-site, multi-vendor physical\ninfrastructure lifecycle management.\n"
             additional_repos:
               - repo_url: https://github.com/ODIM-Project/ODIM
-              - repo_url: https://github.com/ODIM-Project/PluginCiscoACI
+              - repo_url: https://github.com/ODIM-Project/PluginCiscoACI   
           - item:
             name: ONAP
             allow_duplicate_repo: true
@@ -629,6 +629,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/camara-project
             hideProjectTag: true
             description: "4G/5G network capabilities exposed through APIs provide a large benefit for customers.\n"
+          - item:
+            name: SONiC
+            logo: sonic.svg
+            homepage_url: https://sonicfoundation.dev
+            crunchbase: https://www.crunchbase.com/organization/sonic
+            hideProjectTag: true
   - category:
     name: Linux Foundation Sister Communities
     subcategories:
