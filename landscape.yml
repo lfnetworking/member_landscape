@@ -30,6 +30,9 @@ landscape:
             extra:
               description: "A universal control plane to securely connect and deploy workloads\nacross public clouds, private clouds and edge locations.\n"
           - item:
+            name: My New Project
+            homepage_url: https://example.org/
+          - item:
             name: FD.io
             homepage_url: https://fd.io/
             logo: logo_fdio.svg
