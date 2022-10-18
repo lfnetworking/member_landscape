@@ -597,6 +597,12 @@ landscape:
             logo: magma-01.svg
             crunchbase: https://www.crunchbase.com/organization/magma-fund
             hideProjectTag: true
+            - item:
+            name: Nephio
+            homepage_url: https://nephio.org
+            logo: https://lf-master-project-logos-prod.s3.us-east-2.amazonaws.com/ena.svg
+            crunchbase: https://www.crunchbase.com/organization/nephio
+            hideProjectTag: true
           - item:
             name: Open 19
             homepage_url: https://www.open19.org/
@@ -608,6 +614,12 @@ landscape:
             homepage_url: https://www.openvswitch.org/
             logo: openswitch-color.svg
             crunchbase: https://www.crunchbase.com/organization/open-vswitch
+            hideProjectTag: true
+            - item:
+            name: SONiC
+            homepage_url: https://sonic-net.github.io/SONiC/
+            logo: https://lf-master-project-logos-prod.s3.us-east-2.amazonaws.com/sonicfund.svg
+            crunchbase: https://www.crunchbase.com/organization/sonic-4384
             hideProjectTag: true
           - item:
             name: US GOV OPS
