@@ -615,7 +615,7 @@ landscape:
             logo: openswitch-color.svg
             crunchbase: https://www.crunchbase.com/organization/open-vswitch
             hideProjectTag: true
-            - item:
+          - item:
             name: SONiC
             homepage_url: https://sonic-net.github.io/SONiC/
             logo: sonicfund.svg
