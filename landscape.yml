@@ -618,7 +618,7 @@ landscape:
             - item:
             name: SONiC
             homepage_url: https://sonic-net.github.io/SONiC/
-            logo: https://lf-master-project-logos-prod.s3.us-east-2.amazonaws.com/sonicfund.svg
+            logo: sonicfund.svg
             crunchbase: https://www.crunchbase.com/organization/sonic-4384
             hideProjectTag: true
           - item:
