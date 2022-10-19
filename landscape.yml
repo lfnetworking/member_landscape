@@ -597,10 +597,10 @@ landscape:
             logo: magma-01.svg
             crunchbase: https://www.crunchbase.com/organization/magma-fund
             hideProjectTag: true
-            - item:
+          - item:
             name: Nephio
             homepage_url: https://nephio.org
-            logo: https://lf-master-project-logos-prod.s3.us-east-2.amazonaws.com/ena.svg
+            logo: Nephio_logo_colorblack_horizontal.svg
             crunchbase: https://www.crunchbase.com/organization/nephio
             hideProjectTag: true
           - item:
