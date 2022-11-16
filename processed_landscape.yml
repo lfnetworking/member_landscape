@@ -1,3 +1,4 @@
+# THIS FILE IS GENERATED AUTOMATICALLY!
 landscape:
   - category:
     name: LF Networking Projects
@@ -451,28 +452,28 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 172214166
+                  value: 172564878
                   color: '#b07219'
                 - name: JavaScript
-                  value: 31377830
+                  value: 31166031
                   color: '#f1e05a'
                 - name: Python
-                  value: 17786137
+                  value: 17681105
                   color: '#3572A5'
                 - name: TypeScript
-                  value: 11076397
+                  value: 11173714
                   color: '#2b7489'
                 - name: Groovy
-                  value: 6057011
+                  value: 6087063
                   color: '#e69f56'
                 - name: Shell
-                  value: 5874215
+                  value: 5835102
                   color: '#89e051'
                 - name: HTML
-                  value: 5671853
+                  value: 5693089
                   color: '#e34c26'
                 - name: Kotlin
-                  value: 4377655
+                  value: 4459675
                   color: '#F18E33'
                 - name: CSS
                   value: 3495038
@@ -481,30 +482,30 @@ landscape:
                   value: 2909276
                   color: '#555555'
                 - name: Go
-                  value: 2167972
+                  value: 2234547
                   color: '#00ADD8'
                 - name: RobotFramework
-                  value: 1884450
+                  value: 1887939
                 - name: SCSS
                   value: 1346744
                 - name: Less
-                  value: 962662
+                  value: 974303
                 - name: C++
                   value: 444426
                   color: '#f34b7d'
                 - name: Smarty
-                  value: 401182
+                  value: 401837
                 - name: Dockerfile
-                  value: 388246
+                  value: 393916
                   color: '#384d54'
                 - name: FreeMarker
                   value: 326215
                   color: '#0050b2'
                 - name: Makefile
-                  value: 270213
+                  value: 268683
                   color: '#427819'
                 - name: Jinja
-                  value: 261670
+                  value: 262376
                 - name: Erlang
                   value: 181038
                   color: '#B83998'
@@ -514,16 +515,16 @@ landscape:
                 - name: Scala
                   value: 172010
                   color: '#c22d40'
+                - name: Velocity Template Language
+                  value: 135140
                 - name: PLSQL
                   value: 133772
                   color: '#dad8d8'
                 - name: Clojure
                   value: 129754
                   color: '#db5855'
-                - name: Velocity Template Language
-                  value: 127520
                 - name: Ruby
-                  value: 114810
+                  value: 115002
                   color: '#701516'
                 - name: Lua
                   value: 79579
@@ -556,7 +557,7 @@ landscape:
                   value: 3532
                   color: '#012456'
                 - name: D
-                  value: 2796
+                  value: 3068
                   color: '#ba595e'
                 - name: Roff
                   value: 2381
@@ -573,20 +574,20 @@ landscape:
                   value: 886
                   color: '#646464'
               contributions: >-
-                211;193;291;153;139;124;253;172;150;92;113;79;133;129;83;116;27;10;83;77;105;119;96;97;126;118;159;208;157;232;177;159;200;105;177;113;76;64;59;86;45;37;51;74;52;79;46;63;46;72;80;42
-              firstWeek: 2021-09-05Z
-              stars: 518
+                84;105;76;147;112;108;58;18;55;90;57;140;107;91;131;108;149;167;213;211;180;141;228;92;167;121;117;80;64;65;66;47;42;61;68;69;58;48;60;74;77;78;130;96;104;94;205;79;55;112;191;63
+              firstWeek: 2021-11-07Z
+              stars: 523
               license: Other
               description: Mirror of https://gerrit.onap.org/r/#/admin/projects/aaf/authz
               latest_commit_date: '2021-04-27T18:20:44Z'
               latest_commit_link: /onap/archived-aaf-authz/commit/5836e4a53d87b1792486aa6b0b1ddb2e71d91bb9
-              contributors_count: 490
+              contributors_count: 494
               contributors_link: https://github.com/onap/aaf-authz/graphs/contributors
             repos:
               - url: https://github.com/onap/aaf-authz
                 stars: 1
               - url: https://github.com/onap/oom
-                stars: 30
+                stars: 31
               - url: https://github.com/onap/multicloud-k8s
                 stars: 29
               - url: https://github.com/onap/so
@@ -599,27 +600,31 @@ landscape:
                 stars: 9
               - url: https://github.com/onap/integration
                 stars: 9
+              - url: https://github.com/onap/policy-apex-pdp
+                stars: 6
               - url: https://github.com/onap/vid
                 stars: 6
               - url: https://github.com/onap/ci-management
                 stars: 5
               - url: https://github.com/onap/cli
                 stars: 5
-              - url: https://github.com/onap/logging-analytics
+              - url: https://github.com/onap/testsuite
                 stars: 5
-              - url: https://github.com/onap/policy-apex-pdp
-                stars: 5
+              - url: https://github.com/onap/dcaegen2
+                stars: 4
               - url: https://github.com/onap/integration-csit
                 stars: 4
               - url: https://github.com/onap/msb-apigateway
                 stars: 4
               - url: https://github.com/onap/multicloud-openstack
                 stars: 4
+              - url: https://github.com/onap/policy-drools-applications
+                stars: 4
               - url: https://github.com/onap/policy-drools-pdp
                 stars: 4
               - url: https://github.com/onap/policy-models
                 stars: 4
-              - url: https://github.com/onap/testsuite
+              - url: https://github.com/onap/policy-parent
                 stars: 4
               - url: https://github.com/onap/vfc-nfvo-lcm
                 stars: 4
@@ -630,8 +635,6 @@ landscape:
               - url: https://github.com/onap/aai-graphadmin
                 stars: 3
               - url: https://github.com/onap/cps
-                stars: 3
-              - url: https://github.com/onap/dcaegen2
                 stars: 3
               - url: https://github.com/onap/dcaegen2-analytics-tca-gen2
                 stars: 3
@@ -646,10 +649,6 @@ landscape:
               - url: https://github.com/onap/optf-has
                 stars: 3
               - url: https://github.com/onap/policy-distribution
-                stars: 3
-              - url: https://github.com/onap/policy-drools-applications
-                stars: 3
-              - url: https://github.com/onap/policy-parent
                 stars: 3
               - url: https://github.com/onap/portal
                 stars: 3
@@ -693,11 +692,17 @@ landscape:
                 stars: 2
               - url: https://github.com/onap/dcaegen2-services-prh
                 stars: 2
+              - url: https://github.com/onap/integration-simulators-A1-policy-enforcement-simulator
+                stars: 2
               - url: https://github.com/onap/integration-simulators-nf-simulator
+                stars: 2
+              - url: https://github.com/onap/integration-simulators-nf-simulator-netconf-server
                 stars: 2
               - url: https://github.com/onap/multicloud-framework
                 stars: 2
               - url: https://github.com/onap/oom-offline-installer
+                stars: 2
+              - url: https://github.com/onap/oom-platform-cert-service
                 stars: 2
               - url: https://github.com/onap/oom-registrator
                 stars: 2
@@ -909,8 +914,6 @@ landscape:
                 stars: 1
               - url: https://github.com/onap/integration-simulators-5G-core-nf-simulator
                 stars: 1
-              - url: https://github.com/onap/integration-simulators-A1-policy-enforcement-simulator
-                stars: 1
               - url: https://github.com/onap/integration-simulators-core-nssmf-simulator
                 stars: 1
               - url: https://github.com/onap/integration-simulators-dc-simulator
@@ -918,8 +921,6 @@ landscape:
               - url: https://github.com/onap/integration-simulators-masspnf-simulator
                 stars: 1
               - url: https://github.com/onap/integration-simulators-nf-simulator-avcn-manager
-                stars: 1
-              - url: https://github.com/onap/integration-simulators-nf-simulator-netconf-server
                 stars: 1
               - url: https://github.com/onap/integration-simulators-nf-simulator-pm-https-server
                 stars: 1
@@ -981,6 +982,8 @@ landscape:
                 stars: 1
               - url: https://github.com/onap/multicloud-openstack-windriver
                 stars: 1
+              - url: https://github.com/onap/music-distributed-kv-store
+                stars: 1
               - url: https://github.com/onap/nbi-oom
                 stars: 1
               - url: https://github.com/onap/oof-oom
@@ -988,8 +991,6 @@ landscape:
               - url: https://github.com/onap/oom-consul
                 stars: 1
               - url: https://github.com/onap/oom-platform-cert-manager
-                stars: 1
-              - url: https://github.com/onap/oom-platform-cert-service
                 stars: 1
               - url: https://github.com/onap/oom-platform-keycloak
                 stars: 1
@@ -2018,6 +2019,34 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Nephio
+            homepage_url: https://nephio.org
+            logo: Nephio_logo_colorblack_horizontal.svg
+            crunchbase: https://www.crunchbase.com/organization/nephio
+            hideProjectTag: true
+            crunchbase_data:
+              name: Nephio
+              description: Nephio’s goal is to deliver carrier-grade, simple, open, Kubernetes-based cloud native intent automation and common automation templates..
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://nephio.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: nephio.svg
+              hash: T9M145S4hm9JKn93v62H1Wcs0C9sGGFTo94nhL0afCg=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Open 19
             homepage_url: https://www.open19.org/
             logo: open19-2-01.svg
@@ -2074,6 +2103,34 @@ landscape:
             image_data:
               fileName: open-v-switch.svg
               hash: b4l0U3nrD3xAyoHHvlaWo3zfbfYkVWH2Pi2TmAL+ph4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: SONiC
+            homepage_url: https://sonic-net.github.io/SONiC/
+            logo: sonicfund.svg
+            crunchbase: https://www.crunchbase.com/organization/sonic-4384
+            hideProjectTag: true
+            crunchbase_data:
+              name: SONiC
+              description: SONiC is an open source network operating system based on Linux that runs on switches from multiple vendors and ASICs.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://sonic-net.github.io/SONiC/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: so-ni-c.svg
+              hash: CYaqR/mDVZUxqlM47aBcBOQK6yb4vUUwIUeYGcmlvLo=
             best_practice_data:
               badge: false
               percentage: null
@@ -2799,7 +2856,6 @@ landscape:
             homepage_url: https://chinamobileltd.com/
             logo: china_mobile_communication_company_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/china-mobile
-            stock_ticker: 0941.HK
             crunchbase_data:
               name: China Mobile
               description: China Mobile is an investment holdings company that provides mobile telecommunications and related services in Mainland China and Hong Kong.
@@ -4347,7 +4403,6 @@ landscape:
           - item:
             name: Intel Corporation
             homepage_url: https://intel.com/
-            allow_duplicate_repo: true
             logo: intel_corporation.svg
             twitter: https://twitter.com/intel
             crunchbase: https://www.crunchbase.com/organization/intel
@@ -5438,7 +5493,6 @@ landscape:
               latest_tweet_date: 2021-06-17T15:20:24.000Z
           - item:
             name: Red Hat, Inc.
-            allow_duplicate_repo: true
             homepage_url: https://redhat.com/
             logo: red_hat_inc.svg
             twitter: https://twitter.com/RedHat
@@ -5617,6 +5671,81 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-17T12:40:12.000Z
+          - item:
+            name: TELUS Corporation
+            homepage_url: https://telus.com/
+            logo: telus_corporation.svg
+            twitter: https://twitter.com/TELUS
+            crunchbase: https://www.crunchbase.com/organization/telus
+            crunchbase_data:
+              name: TELUS
+              description: Second largest Canadian telecommunications company. Provides wireless phone service, high speed Internet, IPTV, home phone, long distance,
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.telus.com
+              city: Vancouver
+              region: British Columbia
+              country: Canada
+              twitter: http://twitter.com/telus
+              linkedin: https://www.linkedin.com/company/telus
+              acquisitions:
+                - date: '2006-04-10'
+                  acquiree: Assurent Secure Technologies
+                - date: '2008-01-30'
+                  acquiree: Fastvibe Corp.
+                - date: '2012-02-02'
+                  acquiree: Wolf Medical Systems Corp.
+                - date: '2012-10-10'
+                  acquiree: Kinlogix
+                - date: '2013-05-16'
+                  acquiree: mobilicity
+                - date: '2013-10-23'
+                  acquiree: Public Mobile
+                - date: '2016-07-14'
+                  acquiree: NIghtingale - Canadian Assets
+                  price: 14000000
+                - date: '2018-08-20'
+                  acquiree: Medisys Health Group
+                  price: 146000000
+                - date: '2019-10-01'
+                  acquiree: ADT
+                  price: 529568855
+                - date: '2019-12-04'
+                  acquiree: Competence Call Center
+                  price: 1300000000
+                - date: '2019-12-19'
+                  acquiree: Decisive Farming
+                - date: '2020-07-02'
+                  acquiree: Mobile Klinik
+                - date: '2020-08-27'
+                  acquiree: Price’s Alarms
+                - date: '2021-11-09'
+                  acquiree: Blacksmith Applications
+                  price: 275000000
+                - date: '2022-02-10'
+                  acquiree: Fully Managed
+                - date: '2022-06-16'
+                  acquiree: LifeWorks
+                  price: 1775252974
+              parents: []
+              ticker: TU
+              funding: 31000000
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Internet
+                - Mobile
+                - Wireless
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 29739407360
+              effective_ticker: TU
+            image_data:
+              fileName: telus-corporation.svg
+              hash: y+Gw8RhaC4YqHp7SSAmP9Z953owAzQ6i3YcwI+cE0/Q=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Verizon Corporate Services
             homepage_url: https://verizon.com/
@@ -5816,7 +5945,6 @@ landscape:
         items:
           - item:
             name: A10 Networks
-            allow_duplicate_repo: true
             homepage_url: https://a10networks.com/
             logo: a10_networks.svg
             twitter: https://twitter.com/A10Networks
@@ -5861,7 +5989,6 @@ landscape:
               latest_tweet_date: 2021-06-17T15:09:00.000Z
           - item:
             name: Aarna Networks
-            allow_duplicate_repo: true
             homepage_url: https://aarnanetworks.com/
             logo: aarna_networks.svg
             twitter: https://twitter.com/aarnanetworks
@@ -6528,9 +6655,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2017-01-16T06:34:23.000Z
           - item:
-            name: Ciena Corporation
+            name: Ciena Canada, ULC
             homepage_url: https://ciena.com/
-            logo: ciena_corporation.svg
+            logo: ciena_canada_ulc.svg
             twitter: https://twitter.com/Ciena
             crunchbase: https://www.crunchbase.com/organization/ciena
             crunchbase_data:
@@ -6590,7 +6717,7 @@ landscape:
               market_cap: 8945532928
               effective_ticker: CIEN
             image_data:
-              fileName: ciena-corporation.svg
+              fileName: ciena-canada-ulc.svg
               hash: 91hKgFgCUDI71cJk0/kjQ3ET2VFRwk3R81i9nqZ7qB4=
             best_practice_data:
               badge: false
@@ -6709,6 +6836,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-06-17T13:48:02.000Z
           - item:
+            name: Firecell
+            homepage_url: https://firecell.io/
+            logo: firecell.svg
+            organization:
+              name: Firecell
+            crunchbase_data:
+              name: Firecell
+              parents: []
+            image_data:
+              fileName: firecell.svg
+              hash: 6eGbKMxCZ9anv+M+n+fc6jMJUKH457R6ErJTdzy4zfA=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Fujitsu Limited
             homepage_url: https://fujitsu.com/
             logo: fujitsu_limited.svg
@@ -6793,6 +6935,41 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-17T13:42:01.000Z
+          - item:
+            name: GenXcomm Inc
+            homepage_url: https://genxcomm.com/
+            logo: genxcomm_inc.svg
+            twitter: https://twitter.com/GXC_io
+            crunchbase: https://www.crunchbase.com/organization/genxcomm
+            crunchbase_data:
+              name: GenXComm
+              description: GenXComm enables true full duplex for next generation communications infrastructure.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.genxcomm.com/
+              city: Austin
+              region: Texas
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company-beta/10378127/
+              acquisitions: []
+              parents: []
+              funding: 30246945
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Services
+                - Information Technology
+                - Software
+                - Telecommunications
+                - Wireless
+              kind: funding
+            image_data:
+              fileName: gen-xcomm-inc.svg
+              hash: /SZJzvxBw0FekbmIG8Lh6ZHP3FmEbsxSChCq4JKUheU=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Globo
             homepage_url: https://globo.com/
@@ -6907,7 +7084,6 @@ landscape:
               percentage: null
           - item:
             name: Kaloom Inc.
-            allow_duplicate_repo: true
             homepage_url: https://kaloom.com/
             logo: kaloom_inc.svg
             twitter: https://twitter.com/Kaloom_Inc
@@ -6995,7 +7171,7 @@ landscape:
               effective_ticker: 9433.T
             image_data:
               fileName: kddi-corporation.svg
-              hash: 0rGrtzIhiD4O3MCzxRhFJypFxuyqqrgEsHO2lUBIpkQ=
+              hash: gMs7VS7Whyj4vGJOpQGj3rUH86PLT85Lc+9xlxUfSjY=
             best_practice_data:
               badge: false
               percentage: null
@@ -7713,6 +7889,7 @@ landscape:
             name: Sempre.ai
             homepage_url: https://sempre.ai/
             logo: sempreai.svg
+            twitter: https://twitter.com/sempre_usa
             crunchbase: https://www.crunchbase.com/organization/sempre
             crunchbase_data:
               name: SEMPRE
@@ -8125,7 +8302,6 @@ landscape:
               latest_tweet_date: 2021-06-11T17:00:01.000Z
           - item:
             name: Turnium Technology Group Inc
-            allow_duplicate_repo: true
             homepage_url: https://ttgi.io/
             logo: turnium_technology_group_inc.svg
             crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
@@ -8361,7 +8537,6 @@ landscape:
               latest_tweet_date: 2019-10-16T02:49:37.000Z
           - item:
             name: Wavelabs
-            allow_duplicate_repo: true
             homepage_url: https://wavelabs.ai/
             logo: wavelabs.svg
             twitter: https://twitter.com/WavelabsTech
@@ -8857,7 +9032,6 @@ landscape:
               percentage: null
           - item:
             name: UNH InterOperability Lab
-            allow_duplicate_repo: true
             homepage_url: https://iol.unh.edu/
             logo: unh_interoperability_lab.svg
             twitter: https://twitter.com/UofNH
@@ -8964,7 +9138,7 @@ landscape:
         name: 5G Network Functions/Apps
         items:
           - item:
-            name: A10 Networks
+            name: A10 Networks (5G cloud)
             allow_duplicate_repo: true
             homepage_url: https://a10networks.com/
             logo: a10_networks.svg
@@ -9001,7 +9175,7 @@ landscape:
               market_cap: 846050368
               effective_ticker: ATEN
             image_data:
-              fileName: a10-networks.svg
+              fileName: a10-networks-5-g-cloud.svg
               hash: yNoK7a9hxQp/DGMN0Kki0U57Tr6wm5s10nI9BOKhXjw=
             best_practice_data:
               badge: false
@@ -9009,7 +9183,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-06-17T15:09:00.000Z
           - item:
-            name: Kaloom Inc.
+            name: Kaloom Inc. (5G)
             allow_duplicate_repo: true
             homepage_url: https://kaloom.com/
             logo: kaloom_inc.svg
@@ -9038,7 +9212,7 @@ landscape:
                 - Software
               kind: funding
             image_data:
-              fileName: kaloom-inc.svg
+              fileName: kaloom-inc-5-g.svg
               hash: 90o6GA4zMQK7mtknJZsigzZzhNyrgWeoWeUsFRsY4tk=
             best_practice_data:
               badge: false
@@ -10406,7 +10580,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-06-17T15:30:13.000Z
           - item:
-            name: UNH InterOperability Lab
+            name: UNH InterOperability Lab (5G)
             allow_duplicate_repo: true
             homepage_url: https://iol.unh.edu/
             logo: unh_interoperability_lab.svg
@@ -10434,7 +10608,7 @@ landscape:
                 - Virtual Reality
               kind: funding
             image_data:
-              fileName: unh-inter-operability-lab.svg
+              fileName: unh-inter-operability-lab-5-g.svg
               hash: 3ZdPKqZsLq7ZlfmO91npi2xKBh7fFVwdf/BUVHF5S3I=
             best_practice_data:
               badge: false
@@ -10527,7 +10701,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-06-17T15:09:00.000Z
           - item:
-            name: Aarna Networks
+            name: Aarna Networks (5G)
             allow_duplicate_repo: true
             homepage_url: https://aarnanetworks.com/
             logo: aarna_networks.svg
@@ -10557,7 +10731,7 @@ landscape:
                 - Telecommunications
               kind: funding
             image_data:
-              fileName: aarna-networks.svg
+              fileName: aarna-networks-5-g.svg
               hash: ccTjiQ2BqYa3xEMqu9yd0bGdlF8Dm7+xGm29XTYSSH8=
             best_practice_data:
               badge: false
@@ -10778,7 +10952,7 @@ landscape:
                   value: 2360
                   color: '#e34c26'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-09-05Z
+              firstWeek: 2021-11-07Z
               stars: 1
               license: Other
               description: Mirror of https://gerrit.onap.org/r/#/admin/projects/aaf/authz
