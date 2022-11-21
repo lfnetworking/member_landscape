@@ -11,6 +11,7 @@ jobs:
     permissions:
       issues: read
       pull-requests: write
+      contents: write
     steps:
       - name: Automerge Pull Request if possible
         uses: "pascalgn/automerge-action@v0.15.5"
