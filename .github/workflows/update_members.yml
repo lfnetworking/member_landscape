@@ -12,6 +12,7 @@ jobs:
     permissions:
       issues: read
       pull-requests: write
+      contents: write
     steps:
       - name: Checkout Landscape
         uses: actions/checkout@v3
