@@ -13,9 +13,7 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/anuket
             repo_url: https://github.com/opnfv/vineperf
-            description: |
-              A common model, standardized reference infrastructure
-              specifications, and conformance and performance frameworks for VNFs & CNFs.
+            description: "A common model, standardized reference infrastructure\nspecifications, and conformance and performance frameworks for VNFs & CNFs.\n"
             additional_repos:
               - repo_url: https://github.com/opnfv/kuberef
               - repo_url: https://github.com/opnfv/functest
@@ -30,9 +28,7 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/the-edge-multi-cluster-orchestrator-emco
             extra:
-              description: |
-                A universal control plane to securely connect and deploy workloads
-                across public clouds, private clouds and edge locations.
+              description: "A universal control plane to securely connect and deploy workloads\nacross public clouds, private clouds and edge locations.\n"
           - item:
             name: FD.io
             homepage_url: https://fd.io/
@@ -40,8 +36,7 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/fd-io
             repo_url: https://github.com/FDio/archived-deb_dpdk
-            description: |
-              Open Source high-performance IO services framework for dynamic computing environments.
+            description: "Open Source high-performance IO services framework for dynamic computing environments.\n"
             additional_repos:
               - repo_url: https://github.com/FDio/archived-dmm
               - repo_url: https://github.com/FDio/archived-honeycomb
@@ -70,9 +65,7 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/odim-cb86
             repo_url: https://github.com/ODIM-Project/BMCSimulator
-            description: |
-              Open Distributed Infrastructure Manager. Multi-site, multi-vendor physical
-              infrastructure lifecycle management.
+            description: "Open Distributed Infrastructure Manager. Multi-site, multi-vendor physical\ninfrastructure lifecycle management.\n"
             additional_repos:
               - repo_url: https://github.com/ODIM-Project/ODIM
               - repo_url: https://github.com/ODIM-Project/PluginCiscoACI
@@ -84,9 +77,7 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/onap
             repo_url: https://github.com/onap/aaf-authz
-            description: |
-              A comprehensive platform for orchestration, management, and automation
-              of network and edge computing services.
+            description: "A comprehensive platform for orchestration, management, and automation\nof network and edge computing services.\n"
             additional_repos:
               - repo_url: https://github.com/onap/aaf-cadi
               - repo_url: https://github.com/onap/aaf-certservice
@@ -483,8 +474,7 @@ landscape:
               - repo_url: https://github.com/opendaylight/yang-push
               - repo_url: https://github.com/opendaylight/yangide
               - repo_url: https://github.com/opendaylight/yangtools
-            description: |
-              Open source SDN Controller with largest ecosystem and deployment footprint.
+            description: "Open source SDN Controller with largest ecosystem and deployment footprint.\n"
           - item:
             name: Tungsten Fabric
             homepage_url: https://tungsten.io/
@@ -545,8 +535,7 @@ landscape:
               - repo_url: https://github.com/tungstenfabric/tungsten-tempest
               - repo_url: https://github.com/tungstenfabric/tungsten-test-runner
               - repo_url: https://github.com/tungstenfabric/website
-            description: |
-              A software-defined network & security fabric built for rapid deployment at scale.
+            description: "A software-defined network & security fabric built for rapid deployment at scale.\n"
           - item:
             name: XG Vela
             homepage_url: https://xgvela.org/
@@ -564,17 +553,14 @@ landscape:
               - repo_url: https://github.com/XGVela/tmaas-gw
               - repo_url: https://github.com/XGVela/vesgw
               - repo_url: https://github.com/XGVela/xgvela-builder
-            description: |
-              An open source cloud native PaaS for applications and
-              telco network functions to enable new services.
+            description: "An open source cloud native PaaS for applications and\ntelco network functions to enable new services.\n"
           - item:
             name: L3AF
             homepage_url: https://l3af.io/
             logo: L3AF_logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/l3af
-            description: |
-              L3AF is an eBPF based platform enabling network functions a service.
+            description: "L3AF is an eBPF based platform enabling network functions a service.\n"
   - category:
     name: Other Linux Foundation Hosted Networking Projects
     subcategories:
@@ -654,8 +640,7 @@ landscape:
             logo: Camara.svg
             crunchbase: https://www.crunchbase.com/organization/camara-project
             hideProjectTag: true
-            description: |
-              4G/5G network capabilities exposed through APIs provide a large benefit for customers.
+            description: "4G/5G network capabilities exposed through APIs provide a large benefit for customers.\n"
   - category:
     name: Linux Foundation Sister Communities
     subcategories:
@@ -809,7 +794,7 @@ landscape:
             logo: china_telecommunications_corporation.svg
             twitter: https://twitter.com/chinateleglobal
             crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
@@ -1109,7 +1094,7 @@ landscape:
             name: Netris, INC.
             homepage_url: https://netris.ai/
             logo: netris_inc.svg
-            twitter: https://twitter.com/netrisai
+            twitter: https://twitter.com/netris_io
             crunchbase: https://www.crunchbase.com/organization/netris
           - item:
             name: NTT DATA Spain, S.L.U.
@@ -1165,14 +1150,14 @@ landscape:
             logo: sprint_corporation.svg
             twitter: https://twitter.com/TMobile
             crunchbase: https://www.crunchbase.com/organization/t-mobile
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: Sterlite Technologies Limited
             homepage_url: https://stl.tech/
             logo: sterlite_technologies_limited.svg
             twitter: https://twitter.com/STL_Tech
             crunchbase: https://www.crunchbase.com/organization/sterlite-technologies-ltd-
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: Swisscom
             homepage_url: https://swisscom.com/
@@ -1206,6 +1191,7 @@ landscape:
             name: Turnium Technology Group Inc
             homepage_url: https://ttgi.io/
             logo: turnium_technology_group_inc.svg
+            twitter: https://twitter.com/TTGI_io
             crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
           - item:
             name: ULAK HABERLESME A.S.
@@ -1375,9 +1361,7 @@ landscape:
             logo: meta.svg
             twitter: https://twitter.com/meta
             crunchbase: https://www.crunchbase.com/organization/facebook
-            description: |
-              Meta is a social technology company that enables
-              people to connect, find communities, and grow businesses.
+            description: "Meta is a social technology company that enables\npeople to connect, find communities, and grow businesses.\n"
           - item:
             name: Turnium Technology Group Inc (5G)
             allow_duplicate_repo: true
@@ -1428,9 +1412,7 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             repo_url: https://github.com/opnfv/vineperf
-            description: |
-              A common model, standardized reference infrastructure
-              specifications, and conformance and performance frameworks for VNFs & CNFs.
+            description: "A common model, standardized reference infrastructure\nspecifications, and conformance and performance frameworks for VNFs & CNFs.\n"
             additional_repos:
               - repo_url: https://github.com/opnfv/kuberef
               - repo_url: https://github.com/opnfv/functest
@@ -1512,9 +1494,7 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             extra:
-              description: |
-                A universal control plane to securely connect and deploy workloads
-                across public clouds, private clouds and edge locations.
+              description: "A universal control plane to securely connect and deploy workloads\nacross public clouds, private clouds and edge locations.\n"
           - item:
             name: ONAP (5G)
             allow_duplicate_repo: true
@@ -1524,9 +1504,7 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             repo_url: https://github.com/onap/aaf-authz
-            description: |
-              A comprehensive platform for orchestration, management, and automation
-              of network and edge computing services.
+            description: "A comprehensive platform for orchestration, management, and automation\nof network and edge computing services.\n"
           - item:
             name: CapGemini Engineering
             homepage_url: https://www.capgemini.com/
@@ -1558,8 +1536,7 @@ landscape:
             logo: zededa.svg
             twitter: https://twitter.com/ZEDEDAEdge
             crunchbase: https://www.crunchbase.com/organization/zededa
-            description: |
-              ZEDEDA is a provider of distributed edge orchestration and virtualization software.
+            description: "ZEDEDA is a provider of distributed edge orchestration and virtualization software.\n"
           - item:
             name: EdgeXFoundry
             allow_duplicate_repo: true
@@ -1655,10 +1632,9 @@ landscape:
             homepage_url: https://techhub.hpe.com/eginfolib/servers/docs/Telco/Blueprints/infocenter/index.html
             logo: university_of_surrey.svg
             extra:
-              description: |
-                HPE Telco Blueprints
+              description: "HPE Telco Blueprints\n"
               version: '2019.12'
-              sut_sw_version: null
+              sut_sw_version:
               sut_hw_version: DL360
           - item:
             name: Nokia Edge Cloud NFVI
@@ -1666,38 +1642,23 @@ landscape:
             homepage_url: https://networks.nokia.com/solutions/edge-cloud
             logo: university_of_surrey.svg
             extra:
-              description: |
-                Nokia Edge Cloud NFVI consist of Nokia AirFrame Open
-                Edge hardware and Nokia AirFrame Cloud
-                Infrastructure for Real-time applications (NCIR).
-                NCIR is low latency NFVI for edge data centers and
-                runs VM and container workloads. Nokia AirFrame Open
-                Edge, is x86 based solution with single Intel
-                processor in 3U high chassis including 5 servers.
+              description: "Nokia Edge Cloud NFVI consist of Nokia AirFrame Open\nEdge hardware and Nokia AirFrame Cloud\nInfrastructure for Real-time applications\
+                \ (NCIR).\nNCIR is low latency NFVI for edge data centers and\nruns VM and container workloads. Nokia AirFrame Open\nEdge, is x86 based solution with\
+                \ single Intel\nprocessor in 3U high chassis including 5 servers.\n"
               verson: '2018.09'
               sut_sw_version: NCI_R19-3
-              sut_hw_version: null
+              sut_hw_version:
           - item:
             name: Lenovo Select Solution for NFVI with Wind River Titanium Cloud
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.lenovo.com/us/en/data-center/solutions/NFV-Solutions-for-CSPs/p/csp-solutions
             logo: university_of_surrey.svg
             extra:
-              description: |
-                Lenovo Select Solution for NFVI with Wind River
-                Titanium Cloud consists of Lenovo validated
-                configurations of ThinkSystem SR630 and SR650
-                servers as part of Intel® Select Solution for NFVI
-                combined with Wind River Titanium Cloud
-                application-ready software platform. These solutions
-                are optimized for packet processing, encryption and
-                compression based workloads to help accelerate
-                CoSPs’ migration to NFV. Lenovo XClarity
-                Administrator provides the physical infrastructure
-                management. Key benefits of deploying a Lenovo
-                Select Solution for NFVI include simplified
-                evaluation, rapid deployment and workload-optimized
-                performance.
+              description: "Lenovo Select Solution for NFVI with Wind River\nTitanium Cloud consists of Lenovo validated\nconfigurations of ThinkSystem SR630 and\
+                \ SR650\nservers as part of Intel® Select Solution for NFVI\ncombined with Wind River Titanium Cloud\napplication-ready software platform. These solutions\n\
+                are optimized for packet processing, encryption and\ncompression based workloads to help accelerate\nCoSPs’ migration to NFV. Lenovo XClarity\nAdministrator\
+                \ provides the physical infrastructure\nmanagement. Key benefits of deploying a Lenovo\nSelect Solution for NFVI include simplified\nevaluation, rapid\
+                \ deployment and workload-optimized\nperformance.\n"
               version: 2018.09
               sut_sw_version: R5
               sut_hw_version: R1
@@ -1710,24 +1671,21 @@ landscape:
             homepage_url: https://www.affirmednetworks.com
             logo: university_of_surrey.svg
             extra:
-              description: |
-                The CSM runs the tasks needed for call control, IP
-                routing and providing advanced services.
+              description: "The CSM runs the tasks needed for call control, IP\nrouting and providing advanced services.\n"
               model_language: HEAT
               checksum: 372393d689d1cfa52877d7fb77ed54642589edf2e818a3bb8b65f0567f7d507a
               product_version: 9
               version: '2019.12'
-              verification_date: 2020-05-19T00:00:00.000Z
+              verification_date: 2020-05-19 00:00:00
           - item:
             name: Cinar
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.ulakhaberlesme.com.tr/index.php/en/
             logo: university_of_surrey.svg
             extra:
-              description: |
-                5G CN NRF and NSSF VNF
+              description: "5G CN NRF and NSSF VNF\n"
               model_language: HEAT
               checksum: 669a5ae0a71ec99aaaa022b71d25fc36a1ab2c6c6aaaafc752ceb303e4cf0741
               product_version: 0.4.11
               version: '2019.12'
-              verification_date: 2020-03-17T00:00:00.000Z
+              verification_date: 2020-03-17 00:00:00
