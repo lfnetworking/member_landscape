@@ -38,10 +38,13 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 2124753
+                  value: 2130622
                   color: '#3572A5'
+                - name: C
+                  value: 278748
+                  color: '#555555'
                 - name: Shell
-                  value: 214514
+                  value: 227190
                   color: '#89e051'
                 - name: HTML
                   value: 177498
@@ -51,21 +54,18 @@ landscape:
                   color: '#DA5B0B'
                 - name: Jinja
                   value: 68558
+                - name: Dockerfile
+                  value: 62151
+                  color: '#384d54'
                 - name: Gherkin
                   value: 60768
                   color: '#5B2063'
-                - name: Dockerfile
-                  value: 60452
-                  color: '#384d54'
                 - name: Makefile
-                  value: 52347
+                  value: 53326
                   color: '#427819'
                 - name: Go
                   value: 44259
                   color: '#00ADD8'
-                - name: C
-                  value: 42730
-                  color: '#555555'
                 - name: Ruby
                   value: 36512
                   color: '#701516'
@@ -81,19 +81,21 @@ landscape:
                 - name: Lua
                   value: 2306
                   color: '#000080'
+                - name: Zimpl
+                  value: 1494
                 - name: Roff
-                  value: 314
+                  value: 323
                   color: '#ecdebe'
                 - name: RobotFramework
                   value: 58
-              contributions: 20;2;13;5;8;7;11;16;12;19;12;12;6;8;14;14;3;2;1;6;18;4;8;9;1;5;2;1;4;4;3;5;2;9;2;8;2;11;8;4;0;4;2;0;2;0;1;2;1;6;1;0
-              firstWeek: 2021-03-21Z
+              contributions: 2;0;2;0;1;2;1;7;4;0;0;0;0;2;1;3;7;0;10;1;0;3;0;0;1;1;0;0;0;1;0;0;0;0;1;0;0;1;8;1;8;9;1;4;0;0;0;2;1;2;0;1
+              firstWeek: 2022-01-09Z
               stars: 39
               license: Other
               description: null
-              latest_commit_date: '2021-12-13T01:31:37Z'
-              latest_commit_link: /opnfv/vineperf/commit/2fcc501a8cf9f5a7dbcedf48946e225dfc485ff8
-              contributors_count: 132
+              latest_commit_date: '2023-01-03T12:55:46Z'
+              latest_commit_link: /opnfv/vineperf/commit/e0b5af5ab0a36bb63c880b9137dd02e26e4c94cc
+              contributors_count: 130
               contributors_link: https://github.com/opnfv/vineperf/graphs/contributors
             repos:
               - url: https://github.com/opnfv/vineperf
@@ -146,7 +148,8 @@ landscape:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
               company_type: Non Profit
-              industries: []
+              industries:
+                - Software
             image_data:
               fileName: emco.svg
               hash: 56NERmI9O3WULOGgAeB30PNFsQeFqwKph1xgIcCVg+I=
@@ -185,47 +188,48 @@ landscape:
             github_data:
               languages:
                 - name: C
-                  value: 80738040
+                  value: 81186989
                   color: '#555555'
                 - name: Python
-                  value: 20460998
+                  value: 20972477
                   color: '#3572A5'
                 - name: HTML
-                  value: 16539111
+                  value: 16538858
                   color: '#e34c26'
                 - name: C++
-                  value: 8408997
+                  value: 8378116
                   color: '#f34b7d'
                 - name: Java
                   value: 6337178
                   color: '#b07219'
                 - name: RobotFramework
-                  value: 4481765
+                  value: 4551478
                 - name: Makefile
-                  value: 912746
+                  value: 918832
                   color: '#427819'
                 - name: Shell
-                  value: 854284
+                  value: 877703
                   color: '#89e051'
                 - name: Go
-                  value: 618688
+                  value: 691182
                   color: '#00ADD8'
                 - name: CMake
-                  value: 522473
+                  value: 525087
                 - name: JavaScript
                   value: 288578
                   color: '#f1e05a'
-                - name: HCL
-                  value: 231562
+                - name: SCSS
+                  value: 282580
                 - name: Emacs Lisp
                   value: 217173
                   color: '#c065db'
+                - name: HCL
+                  value: 201639
                 - name: Lua
                   value: 160025
                   color: '#000080'
-                - name: Vim script
+                - name: Vim Script
                   value: 107589
-                  color: '#199f4b'
                 - name: Objective-C
                   value: 104247
                   color: '#438eff'
@@ -244,18 +248,18 @@ landscape:
                   value: 30916
                   color: '#701516'
                 - name: Jinja
-                  value: 27857
+                  value: 27811
                 - name: XS
                   value: 21306
                 - name: Puppet
                   value: 15690
                   color: '#302B6D'
-                - name: Dockerfile
-                  value: 12536
-                  color: '#384d54'
                 - name: Perl
-                  value: 6694
+                  value: 13263
                   color: '#0298c3'
+                - name: Dockerfile
+                  value: 12482
+                  color: '#384d54'
                 - name: XSLT
                   value: 5400
                   color: '#EB8CEB'
@@ -267,37 +271,35 @@ landscape:
                 - name: Yacc
                   value: 3034
                   color: '#4B6C4B'
-                - name: Starlark
-                  value: 2089
                 - name: Procfile
                   value: 21
               contributions: >-
-                55;58;35;37;79;32;44;52;48;40;47;40;49;40;21;42;34;60;66;52;59;59;67;55;80;44;41;53;23;29;23;8;38;48;49;47;41;41;52;35;41;50;53;56;52;48;35;26;27;21;21;28
-              firstWeek: 2021-05-30Z
-              stars: 1137
-              license: Other
+                50;51;41;48;41;44;48;35;54;52;52;64;51;39;25;40;19;31;41;38;30;27;26;20;39;20;33;25;20;18;50;69;47;39;23;43;64;35;47;30;63;30;19;38;28;16;20;24;12;9;2;3
+              firstWeek: 2022-01-09Z
+              stars: 1306
+              license: GNU General Public License v2.0
               description: null
               latest_commit_date: '2019-03-20T14:53:31Z'
               latest_commit_link: /FDio/archived-deb_dpdk/commit/7a2e6cf9d72252a95b0d5f4d8e4750271305fd1c
-              contributors_count: 341
+              contributors_count: 356
               contributors_link: https://github.com/FDio/archived-deb_dpdk/graphs/contributors
             repos:
               - url: https://github.com/FDio/archived-deb_dpdk
                 stars: 1
               - url: https://github.com/FDio/vpp
-                stars: 753
+                stars: 874
               - url: https://github.com/FDio/tldk
-                stars: 116
+                stars: 125
               - url: https://github.com/FDio/govpp
-                stars: 98
+                stars: 121
               - url: https://github.com/FDio/hicn
-                stars: 42
-              - url: https://github.com/FDio/cicn
-                stars: 23
-              - url: https://github.com/FDio/vsap
-                stars: 21
+                stars: 45
               - url: https://github.com/FDio/csit
-                stars: 20
+                stars: 25
+              - url: https://github.com/FDio/vsap
+                stars: 25
+              - url: https://github.com/FDio/cicn
+                stars: 24
               - url: https://github.com/FDio/archived-sweetcomb
                 stars: 15
               - url: https://github.com/FDio/hc2vpp
@@ -307,17 +309,17 @@ landscape:
               - url: https://github.com/FDio/archived-trex
                 stars: 7
               - url: https://github.com/FDio/archived-nsh_sfc
-                stars: 4
+                stars: 5
               - url: https://github.com/FDio/ci-management
-                stars: 4
+                stars: 5
               - url: https://github.com/FDio/archived-odp4vpp
                 stars: 3
               - url: https://github.com/FDio/site
                 stars: 3
+              - url: https://github.com/FDio/archived-dmm
+                stars: 2
               - url: https://github.com/FDio/archived-rpm_dpdk
                 stars: 2
-              - url: https://github.com/FDio/archived-dmm
-                stars: 1
               - url: https://github.com/FDio/archived-jvpp
                 stars: 0
               - url: https://github.com/FDio/archived-pma_tools
@@ -364,25 +366,25 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 4070713
+                  value: 4795233
                   color: '#00ADD8'
                 - name: Kotlin
                   value: 1468463
                   color: '#F18E33'
                 - name: Shell
-                  value: 219906
+                  value: 235233
                   color: '#89e051'
                 - name: Python
-                  value: 187464
+                  value: 195386
                   color: '#3572A5'
                 - name: Smarty
-                  value: 54550
+                  value: 56342
                 - name: Jinja
-                  value: 6342
+                  value: 6662
                 - name: Mustache
                   value: 5283
                 - name: Makefile
-                  value: 4972
+                  value: 4985
                   color: '#427819'
                 - name: Groovy
                   value: 3851
@@ -393,22 +395,22 @@ landscape:
                 - name: Dockerfile
                   value: 713
                   color: '#384d54'
-              contributions: 1;1;1;13;17;4;16;7;17;5;13;5;26;13;4;8;8;5;14;5;10;29;31;30;10;27;29;20;30;24;26;0;44;42;33;60;113;92;114;53;10;0;0;0;1;0;3;0;25;1;1;2
-              firstWeek: 2021-05-30Z
-              stars: 29
+              contributions: 45;33;49;122;85;120;94;62;52;70;55;64;21;26;20;48;20;55;84;59;60;100;89;29;28;140;51;25;72;73;57;81;30;21;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0
+              firstWeek: 2022-01-09Z
+              stars: 35
               license: Apache License 2.0
               description: >-
                 BMC simulator source code that is used to compile REST server as a standalone image to mimic BMC HW interface behavour for testing. BMC
                 simulator exposes DMTF Redfish API compliant with OPAF profile.
               latest_commit_date: '2022-01-14T13:42:02Z'
               latest_commit_link: /ODIM-Project/BMCSimulator/commit/7e8a3030ca83c040678f8edf76def588b2b01cca
-              contributors_count: 26
+              contributors_count: 34
               contributors_link: https://github.com/ODIM-Project/BMCSimulator/graphs/contributors
             repos:
               - url: https://github.com/ODIM-Project/BMCSimulator
                 stars: 6
               - url: https://github.com/ODIM-Project/ODIM
-                stars: 23
+                stars: 29
               - url: https://github.com/ODIM-Project/PluginCiscoACI
                 stars: 0
             github_start_commit_data:
@@ -452,35 +454,713 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 5788430
+                  value: 166052517
                   color: '#b07219'
-                - name: Shell
-                  value: 139122
-                  color: '#89e051'
                 - name: JavaScript
-                  value: 14962
+                  value: 30333374
                   color: '#f1e05a'
-                - name: CSS
-                  value: 11489
-                  color: '#563d7c'
+                - name: Python
+                  value: 17793240
+                  color: '#3572A5'
+                - name: TypeScript
+                  value: 7647583
+                  color: '#2b7489'
+                - name: Groovy
+                  value: 6147161
+                  color: '#e69f56'
+                - name: Shell
+                  value: 5860981
+                  color: '#89e051'
                 - name: HTML
-                  value: 2360
+                  value: 5408064
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+                - name: Kotlin
+                  value: 4265293
+                  color: '#F18E33'
+                - name: CSS
+                  value: 3383203
+                  color: '#563d7c'
+                - name: C
+                  value: 2909276
+                  color: '#555555'
+                - name: Go
+                  value: 2234547
+                  color: '#00ADD8'
+                - name: RobotFramework
+                  value: 1887611
+                - name: SCSS
+                  value: 1242164
+                - name: Less
+                  value: 978496
+                - name: C++
+                  value: 444426
+                  color: '#f34b7d'
+                - name: Smarty
+                  value: 405205
+                - name: Dockerfile
+                  value: 389805
+                  color: '#384d54'
+                - name: FreeMarker
+                  value: 326215
+                  color: '#0050b2'
+                - name: Jinja
+                  value: 271637
+                - name: Makefile
+                  value: 267361
+                  color: '#427819'
+                - name: Erlang
+                  value: 181038
+                  color: '#B83998'
+                - name: Gherkin
+                  value: 175864
+                  color: '#5B2063'
+                - name: Scala
+                  value: 172010
+                  color: '#c22d40'
+                - name: PLSQL
+                  value: 133772
+                  color: '#dad8d8'
+                - name: Clojure
+                  value: 129754
+                  color: '#db5855'
+                - name: Velocity Template Language
+                  value: 128140
+                - name: Ruby
+                  value: 115172
+                  color: '#701516'
+                - name: Lua
+                  value: 79579
+                  color: '#000080'
+                - name: Mustache
+                  value: 73780
+                - name: HCL
+                  value: 47464
+                - name: Batchfile
+                  value: 40015
+                  color: '#C1F12E'
+                - name: Fluent
+                  value: 15116
+                - name: XSLT
+                  value: 11978
+                  color: '#EB8CEB'
+                - name: Handlebars
+                  value: 11514
+                - name: PLpgSQL
+                  value: 10382
+                - name: ANTLR
+                  value: 10346
+                  color: '#9DC3FF'
+                - name: Perl
+                  value: 6410
+                  color: '#0298c3'
+                - name: CMake
+                  value: 4687
+                - name: PowerShell
+                  value: 3532
+                  color: '#012456'
+                - name: D
+                  value: 3068
+                  color: '#ba595e'
+                - name: Roff
+                  value: 2381
+                  color: '#ecdebe'
+                - name: Awk
+                  value: 1842
+                - name: MATLAB
+                  value: 1840
+                  color: '#e16737'
+                - name: PHP
+                  value: 1236
+                  color: '#4F5D95'
+                - name: SaltStack
+                  value: 886
+                  color: '#646464'
+              contributions: >-
+                90;80;138;91;92;137;100;170;172;195;232;168;146;232;76;196;107;99;67;59;82;51;39;50;65;68;67;59;46;66;74;84;64;147;92;101;137;180;55;70;143;191;56;124;105;66;78;80;123;47;13;23
               firstWeek: 2022-01-09Z
-              stars: 1
+              stars: 521
               license: Other
               description: Mirror of https://gerrit.onap.org/r/#/admin/projects/aaf/authz
               latest_commit_date: '2021-04-27T18:20:44Z'
               latest_commit_link: /onap/archived-aaf-authz/commit/5836e4a53d87b1792486aa6b0b1ddb2e71d91bb9
-              contributors_count: 66
+              contributors_count: 496
               contributors_link: https://github.com/onap/aaf-authz/graphs/contributors
             repos:
               - url: https://github.com/onap/aaf-authz
                 stars: 1
+              - url: https://github.com/onap/oom
+                stars: 31
+              - url: https://github.com/onap/multicloud-k8s
+                stars: 30
+              - url: https://github.com/onap/sdc
+                stars: 15
+              - url: https://github.com/onap/so
+                stars: 15
+              - url: https://github.com/onap/ccsdk-cds
+                stars: 14
+              - url: https://github.com/onap/doc
+                stars: 9
+              - url: https://github.com/onap/integration
+                stars: 9
+              - url: https://github.com/onap/policy-apex-pdp
+                stars: 6
+              - url: https://github.com/onap/ci-management
+                stars: 5
+              - url: https://github.com/onap/logging-analytics
+                stars: 5
+              - url: https://github.com/onap/testsuite
+                stars: 5
+              - url: https://github.com/onap/cli
+                stars: 4
+              - url: https://github.com/onap/integration-csit
+                stars: 4
+              - url: https://github.com/onap/msb-apigateway
+                stars: 4
+              - url: https://github.com/onap/multicloud-openstack
+                stars: 4
+              - url: https://github.com/onap/policy-models
+                stars: 4
+              - url: https://github.com/onap/policy-parent
+                stars: 4
+              - url: https://github.com/onap/vfc-nfvo-lcm
+                stars: 4
+              - url: https://github.com/onap/vnfrqts-requirements
+                stars: 4
+              - url: https://github.com/onap/aai-aai-common
+                stars: 3
+              - url: https://github.com/onap/aai-graphadmin
+                stars: 3
+              - url: https://github.com/onap/cps
+                stars: 3
+              - url: https://github.com/onap/dcaegen2
+                stars: 3
+              - url: https://github.com/onap/dcaegen2-analytics-tca-gen2
+                stars: 3
+              - url: https://github.com/onap/dcaegen2-collectors-ves
+                stars: 3
+              - url: https://github.com/onap/dcaegen2-utils
+                stars: 3
+              - url: https://github.com/onap/dmaap-datarouter
+                stars: 3
+              - url: https://github.com/onap/externalapi-nbi
+                stars: 3
+              - url: https://github.com/onap/optf-has
+                stars: 3
+              - url: https://github.com/onap/optf-osdf
+                stars: 3
+              - url: https://github.com/onap/policy-clamp
+                stars: 3
+              - url: https://github.com/onap/policy-distribution
+                stars: 3
+              - url: https://github.com/onap/policy-drools-applications
+                stars: 3
+              - url: https://github.com/onap/policy-drools-pdp
+                stars: 3
+              - url: https://github.com/onap/portal
+                stars: 3
+              - url: https://github.com/onap/vfc-nfvo-driver-vnfm-gvnfm
+                stars: 3
+              - url: https://github.com/onap/vfc-nfvo-driver-vnfm-svnfm
+                stars: 3
+              - url: https://github.com/onap/vnfsdk-pkgtools
+                stars: 3
+              - url: https://github.com/onap/aai-gizmo
+                stars: 2
+              - url: https://github.com/onap/aai-traversal
+                stars: 2
+              - url: https://github.com/onap/ccsdk-apps
+                stars: 2
+              - url: https://github.com/onap/ccsdk-distribution
+                stars: 2
+              - url: https://github.com/onap/ccsdk-oran
+                stars: 2
+              - url: https://github.com/onap/ccsdk-parent
+                stars: 2
+              - url: https://github.com/onap/clamp
+                stars: 2
+              - url: https://github.com/onap/cps-cps-temporal
+                stars: 2
+              - url: https://github.com/onap/cps-ncmp-dmi-plugin
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-analytics-tca
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-collectors-datafile
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-collectors-restconf
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-platform-blueprints
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-platform-deployment-handler
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-platform-plugins
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-platform-policy-handler
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-services-prh
+                stars: 2
+              - url: https://github.com/onap/integration-simulators-nf-simulator
+                stars: 2
+              - url: https://github.com/onap/multicloud-framework
+                stars: 2
+              - url: https://github.com/onap/oom-offline-installer
+                stars: 2
+              - url: https://github.com/onap/oom-platform-cert-service
+                stars: 2
+              - url: https://github.com/onap/oom-registrator
+                stars: 2
+              - url: https://github.com/onap/oparent
+                stars: 2
+              - url: https://github.com/onap/policy-api
+                stars: 2
+              - url: https://github.com/onap/policy-common
+                stars: 2
+              - url: https://github.com/onap/policy-core
+                stars: 2
+              - url: https://github.com/onap/policy-gui
+                stars: 2
+              - url: https://github.com/onap/policy-oom
+                stars: 2
+              - url: https://github.com/onap/policy-pap
+                stars: 2
+              - url: https://github.com/onap/policy-pdp
+                stars: 2
+              - url: https://github.com/onap/policy-xacml-pdp
+                stars: 2
+              - url: https://github.com/onap/portal-sdk
+                stars: 2
+              - url: https://github.com/onap/sdc-sdc-workflow-designer
+                stars: 2
+              - url: https://github.com/onap/sdnc-apps
+                stars: 2
+              - url: https://github.com/onap/sdnc-features
+                stars: 2
+              - url: https://github.com/onap/sdnc-plugins
+                stars: 2
+              - url: https://github.com/onap/testsuite-python-testing-utils
+                stars: 2
+              - url: https://github.com/onap/usecase-ui
+                stars: 2
+              - url: https://github.com/onap/vfc-gvnfm-vnflcm
+                stars: 2
+              - url: https://github.com/onap/vnfsdk-refrepo
+                stars: 2
+              - url: https://github.com/onap/vnfsdk-validation
+                stars: 2
+              - url: https://github.com/onap/vvp-validation-scripts
+                stars: 2
+              - url: https://github.com/onap/aaf-cadi
+                stars: 1
+              - url: https://github.com/onap/aaf-certservice
+                stars: 1
+              - url: https://github.com/onap/aaf-oom
+                stars: 1
+              - url: https://github.com/onap/aai-babel
+                stars: 1
+              - url: https://github.com/onap/aai-cacher
+                stars: 1
+              - url: https://github.com/onap/aai-chameleon
+                stars: 1
+              - url: https://github.com/onap/aai-champ
+                stars: 1
+              - url: https://github.com/onap/aai-eis
+                stars: 1
+              - url: https://github.com/onap/aai-enricher
+                stars: 1
+              - url: https://github.com/onap/aai-event-client
+                stars: 1
+              - url: https://github.com/onap/aai-gallifrey
+                stars: 1
+              - url: https://github.com/onap/aai-gap
+                stars: 1
+              - url: https://github.com/onap/aai-graphgraph
+                stars: 1
+              - url: https://github.com/onap/aai-logging-service
+                stars: 1
+              - url: https://github.com/onap/aai-model-loader
+                stars: 1
+              - url: https://github.com/onap/aai-oom
+                stars: 1
+              - url: https://github.com/onap/aai-resources
+                stars: 1
+              - url: https://github.com/onap/aai-rest-client
+                stars: 1
+              - url: https://github.com/onap/aai-router-core
+                stars: 1
+              - url: https://github.com/onap/aai-schema-service
+                stars: 1
+              - url: https://github.com/onap/aai-sparky-be
+                stars: 1
+              - url: https://github.com/onap/aai-sparky-fe
+                stars: 1
+              - url: https://github.com/onap/aai-spike
+                stars: 1
+              - url: https://github.com/onap/aai-tabular-data-service
+                stars: 1
+              - url: https://github.com/onap/aai-test-config
+                stars: 1
+              - url: https://github.com/onap/aai-validation
+                stars: 1
+              - url: https://github.com/onap/appc
+                stars: 1
+              - url: https://github.com/onap/appc-oom
+                stars: 1
+              - url: https://github.com/onap/ccsdk-dashboard
+                stars: 1
+              - url: https://github.com/onap/ccsdk-features
+                stars: 1
+              - url: https://github.com/onap/ccsdk-platform-blueprints
+                stars: 1
+              - url: https://github.com/onap/ccsdk-platform-nbapi
+                stars: 1
+              - url: https://github.com/onap/ccsdk-platform-plugins
+                stars: 1
+              - url: https://github.com/onap/ccsdk-sli
+                stars: 1
+              - url: https://github.com/onap/ccsdk-storage-esaas
+                stars: 1
+              - url: https://github.com/onap/ccsdk-storage-pgaas
+                stars: 1
+              - url: https://github.com/onap/ccsdk-utils
+                stars: 1
+              - url: https://github.com/onap/clamp-dashboard
+                stars: 1
+              - url: https://github.com/onap/clamp-oom
+                stars: 1
+              - url: https://github.com/onap/clamp-ui
+                stars: 1
+              - url: https://github.com/onap/cli-oom
+                stars: 1
+              - url: https://github.com/onap/cps-cps-tbdmt
+                stars: 1
+              - url: https://github.com/onap/dcae-apod-cdap
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-analytics-flink
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-analytics-pnda
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-collectors
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-collectors-hv-ves
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-collectors-snmptrap
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-deployments
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-oom
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform-cdapbroker
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform-cli
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform-configbinding
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform-inventory-api
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform-servicechange-handler
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform-ves-openapi-manager
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-services
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-services-heartbeat
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-services-mapper
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-services-pm-mapper
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-services-sdk
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-services-son-handler
+                stars: 1
+              - url: https://github.com/onap/dmaap-buscontroller
+                stars: 1
+              - url: https://github.com/onap/dmaap-kafka11aaf
+                stars: 1
+              - url: https://github.com/onap/dmaap-messagerouter-dmaapclient
+                stars: 1
+              - url: https://github.com/onap/dmaap-messagerouter-messageservice
+                stars: 1
+              - url: https://github.com/onap/dmaap-messagerouter-mirroragent
+                stars: 1
+              - url: https://github.com/onap/dmaap-messagerouter-msgrtr
+                stars: 1
+              - url: https://github.com/onap/dmaap-oom
+                stars: 1
+              - url: https://github.com/onap/dmaap-zookeeper
+                stars: 1
+              - url: https://github.com/onap/doc-tools
+                stars: 1
+              - url: https://github.com/onap/esr-oom
+                stars: 1
+              - url: https://github.com/onap/holmes-common
+                stars: 1
+              - url: https://github.com/onap/holmes-engine-management
+                stars: 1
+              - url: https://github.com/onap/holmes-rule-management
+                stars: 1
+              - url: https://github.com/onap/integration-benchmark
+                stars: 1
+              - url: https://github.com/onap/integration-devtool
+                stars: 1
+              - url: https://github.com/onap/integration-ieft-actn-tools
+                stars: 1
+              - url: https://github.com/onap/integration-ietf-actn-tools
+                stars: 1
+              - url: https://github.com/onap/integration-seccom
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-5G-core-nf-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-A1-policy-enforcement-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-core-nssmf-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-dc-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-masspnf-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-nf-simulator-avcn-manager
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-nf-simulator-netconf-server
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-nf-simulator-pm-https-server
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-nf-simulator-ves-client
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-pnf-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-ran-nssmf-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-simulators-ran-simulator
+                stars: 1
+              - url: https://github.com/onap/integration-terraform
+                stars: 1
+              - url: https://github.com/onap/integration-terragrunt
+                stars: 1
+              - url: https://github.com/onap/integration-usecases-A1-policy-enforcement
+                stars: 1
+              - url: https://github.com/onap/integration-usecases-A1-policy-enforcement-r-apps
+                stars: 1
+              - url: https://github.com/onap/integration-usecases-mdons
+                stars: 1
+              - url: https://github.com/onap/integration-xtesting
+                stars: 1
+              - url: https://github.com/onap/logging-analytics-pomba
+                stars: 1
+              - url: https://github.com/onap/logging-analytics-pomba-pomba-aai-context-builder
+                stars: 1
+              - url: https://github.com/onap/logging-analytics-pomba-pomba-audit-common
+                stars: 1
+              - url: https://github.com/onap/logging-analytics-pomba-pomba-context-aggregator
+                stars: 1
+              - url: https://github.com/onap/logging-analytics-pomba-pomba-network-discovery-context-builder
+                stars: 1
+              - url: https://github.com/onap/logging-analytics-pomba-pomba-sdc-context-builder
+                stars: 1
+              - url: https://github.com/onap/logging-analytics-pomba-pomba-sdnc-context-builder
+                stars: 1
+              - url: https://github.com/onap/modeling-etsicatalog
+                stars: 1
+              - url: https://github.com/onap/modeling-genericparser
+                stars: 1
+              - url: https://github.com/onap/modeling-modelspec
+                stars: 1
+              - url: https://github.com/onap/modeling-toscaparsers
+                stars: 1
+              - url: https://github.com/onap/msb-discovery
+                stars: 1
+              - url: https://github.com/onap/msb-java-sdk
+                stars: 1
+              - url: https://github.com/onap/msb-oom
+                stars: 1
+              - url: https://github.com/onap/msb-service-mesh
+                stars: 1
+              - url: https://github.com/onap/msb-swagger-sdk
+                stars: 1
+              - url: https://github.com/onap/multicloud-oom
+                stars: 1
+              - url: https://github.com/onap/multicloud-openstack-vmware
+                stars: 1
+              - url: https://github.com/onap/multicloud-openstack-windriver
+                stars: 1
+              - url: https://github.com/onap/music-distributed-kv-store
+                stars: 1
+              - url: https://github.com/onap/nbi-oom
+                stars: 1
+              - url: https://github.com/onap/oof-oom
+                stars: 1
+              - url: https://github.com/onap/oom-consul
+                stars: 1
+              - url: https://github.com/onap/oom-platform-cert-manager
+                stars: 1
+              - url: https://github.com/onap/oom-platform-keycloak
+                stars: 1
+              - url: https://github.com/onap/oom-readiness
+                stars: 1
+              - url: https://github.com/onap/oom-utils
+                stars: 1
+              - url: https://github.com/onap/oparent-cia
+                stars: 1
+              - url: https://github.com/onap/osa
+                stars: 1
+              - url: https://github.com/onap/pnda-oom
+                stars: 1
+              - url: https://github.com/onap/policy-docker
+                stars: 1
+              - url: https://github.com/onap/pomba-oom
+                stars: 1
+              - url: https://github.com/onap/portal-oom
+                stars: 1
+              - url: https://github.com/onap/robot-oom
+                stars: 1
+              - url: https://github.com/onap/sandbox-2
+                stars: 1
+              - url: https://github.com/onap/sdc-jtosca
+                stars: 1
+              - url: https://github.com/onap/sdc-onap-ui-angular
+                stars: 1
+              - url: https://github.com/onap/sdc-onap-ui-common
+                stars: 1
+              - url: https://github.com/onap/sdc-sdc-be-common
+                stars: 1
+              - url: https://github.com/onap/sdc-sdc-distribution-client
+                stars: 1
+              - url: https://github.com/onap/sdc-sdc-docker-base
+                stars: 1
+              - url: https://github.com/onap/sdc-sdc-helm-validator
+                stars: 1
+              - url: https://github.com/onap/sdc-sdc-pubsub
+                stars: 1
+              - url: https://github.com/onap/sdc-sdc-titan-cassandra
+                stars: 1
+              - url: https://github.com/onap/sdc-sdc-tosca
+                stars: 1
+              - url: https://github.com/onap/sdnc-northbound
+                stars: 1
+              - url: https://github.com/onap/sdnc-oom
+                stars: 1
+              - url: https://github.com/onap/sniro-emulator-oom
+                stars: 1
+              - url: https://github.com/onap/so-adapters-so-cnf-adapter
+                stars: 1
+              - url: https://github.com/onap/so-adapters-so-etsi-sol003-adapter
+                stars: 1
+              - url: https://github.com/onap/so-adapters-so-etsi-sol005-adapter
+                stars: 1
+              - url: https://github.com/onap/so-adapters-so-nssmf-adapter
+                stars: 1
+              - url: https://github.com/onap/so-adapters-so-oof-adapter
+                stars: 1
+              - url: https://github.com/onap/so-chef-repo
+                stars: 1
+              - url: https://github.com/onap/so-docker-config
+                stars: 1
+              - url: https://github.com/onap/so-libs
+                stars: 1
+              - url: https://github.com/onap/so-oom
+                stars: 1
+              - url: https://github.com/onap/so-so-admin-cockpit
+                stars: 1
+              - url: https://github.com/onap/so-so-config
+                stars: 1
+              - url: https://github.com/onap/so-so-etsi-nfvo
+                stars: 1
+              - url: https://github.com/onap/test-oom
+                stars: 1
+              - url: https://github.com/onap/testsuite-cds
+                stars: 1
+              - url: https://github.com/onap/testsuite-cds-mock-odl
+                stars: 1
+              - url: https://github.com/onap/testsuite-cds-mock-server
+                stars: 1
+              - url: https://github.com/onap/testsuite-cds-mock-ssh
+                stars: 1
+              - url: https://github.com/onap/testsuite-heatbridge
+                stars: 1
+              - url: https://github.com/onap/testsuite-properties
+                stars: 1
+              - url: https://github.com/onap/testsuite-pythonsdk-tests
+                stars: 1
+              - url: https://github.com/onap/testsuite-robot-utils
+                stars: 1
+              - url: https://github.com/onap/ui
+                stars: 1
+              - url: https://github.com/onap/ui-dmaapbc
+                stars: 1
+              - url: https://github.com/onap/university
+                stars: 1
+              - url: https://github.com/onap/usecase-ui-nlp
+                stars: 1
+              - url: https://github.com/onap/usecase-ui-server
+                stars: 1
+              - url: https://github.com/onap/uui-oom
+                stars: 1
+              - url: https://github.com/onap/vfc-gvnfm-vnfmgr
+                stars: 1
+              - url: https://github.com/onap/vfc-gvnfm-vnfres
+                stars: 1
+              - url: https://github.com/onap/vfc-nfvo-db
+                stars: 1
+              - url: https://github.com/onap/vfc-oom
+                stars: 1
+              - url: https://github.com/onap/vid-oom
+                stars: 1
+              - url: https://github.com/onap/vnfrqts-epics
+                stars: 1
+              - url: https://github.com/onap/vnfrqts-guidelines
+                stars: 1
+              - url: https://github.com/onap/vnfrqts-testcases
+                stars: 1
+              - url: https://github.com/onap/vnfrqts-usecases
+                stars: 1
+              - url: https://github.com/onap/vnfsdk-compliance
+                stars: 1
+              - url: https://github.com/onap/vnfsdk-dovetail-integration
+                stars: 1
+              - url: https://github.com/onap/vnfsdk-functest
+                stars: 1
+              - url: https://github.com/onap/vnfsdk-lctest
+                stars: 1
+              - url: https://github.com/onap/vnfsdk-model
+                stars: 1
+              - url: https://github.com/onap/vnfsdk-oom
+                stars: 1
+              - url: https://github.com/onap/vnfsdk-ves-agent
+                stars: 1
+              - url: https://github.com/onap/vvp-ansible-ice-bootstrap
+                stars: 1
+              - url: https://github.com/onap/vvp-cms
+                stars: 1
+              - url: https://github.com/onap/vvp-devkit
+                stars: 1
+              - url: https://github.com/onap/vvp-documentation
+                stars: 1
+              - url: https://github.com/onap/vvp-engagementmgr
+                stars: 1
+              - url: https://github.com/onap/vvp-gitlab
+                stars: 1
+              - url: https://github.com/onap/vvp-image-scanner
+                stars: 1
+              - url: https://github.com/onap/vvp-jenkins
+                stars: 1
+              - url: https://github.com/onap/vvp-oom
+                stars: 1
+              - url: https://github.com/onap/vvp-portal
+                stars: 1
+              - url: https://github.com/onap/vvp-postgresql
+                stars: 1
+              - url: https://github.com/onap/vvp-regression-tests
+                stars: 1
+              - url: https://github.com/onap/vvp-test-engine
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-analytics
+                stars: 0
+              - url: https://github.com/onap/integration-data-provider
+                stars: 0
             github_start_commit_data:
-              start_commit_link: /onap/archived-aaf-authz/commit/f691a8b8dfc9eea4c6b3bfa45ea60f07ad347e69
-              start_date: '2017-07-12T17:55:10Z'
+              start_commit_link: /onap/msb-apigateway/commit/29c0018a50104f18b34277cc01720c0b3e401212
+              start_date: '2016-08-08T16:34:38Z'
             image_data:
               fileName: onap.svg
               hash: WNsu4QYlSKNG/Rf6KSwvyTm0cOpEvJUl4AB8B5/gQTY=
@@ -520,27 +1200,27 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 140195701
+                  value: 140538237
                   color: '#b07219'
                 - name: C++
                   value: 24587516
                   color: '#f34b7d'
                 - name: Python
-                  value: 8987262
+                  value: 9182766
                   color: '#3572A5'
                 - name: C
                   value: 8244912
                   color: '#555555'
                 - name: RobotFramework
-                  value: 5041109
+                  value: 5281929
                 - name: JavaScript
                   value: 3968080
                   color: '#f1e05a'
                 - name: HTML
-                  value: 1390605
+                  value: 1390181
                   color: '#e34c26'
                 - name: Shell
-                  value: 936816
+                  value: 870268
                   color: '#89e051'
                 - name: CSS
                   value: 668963
@@ -552,7 +1232,7 @@ landscape:
                   value: 583603
                   color: '#178600'
                 - name: Xtend
-                  value: 560546
+                  value: 567072
                 - name: Makefile
                   value: 339885
                   color: '#427819'
@@ -577,12 +1257,12 @@ landscape:
                 - name: Objective-C
                   value: 31632
                   color: '#438eff'
+                - name: ANTLR
+                  value: 18058
+                  color: '#9DC3FF'
                 - name: Dockerfile
                   value: 17677
                   color: '#384d54'
-                - name: ANTLR
-                  value: 16520
-                  color: '#9DC3FF'
                 - name: P4
                   value: 15984
                   color: '#7055b5'
@@ -612,40 +1292,40 @@ landscape:
                   value: 698
                   color: '#EB8CEB'
               contributions: >-
-                49;31;35;43;89;100;57;32;74;13;37;55;48;74;37;56;64;112;77;78;80;86;82;68;98;60;75;47;40;66;17;3;28;36;57;43;38;64;77;33;51;91;54;92;58;94;82;99;91;63;58;47
-              firstWeek: 2021-05-30Z
-              stars: 1322
+                42;54;37;44;58;77;38;48;57;81;83;66;91;112;68;130;69;49;71;40;99;80;29;18;26;100;39;8;20;50;99;74;54;17;29;65;43;52;48;39;78;49;80;95;39;54;79;60;30;23;26;44
+              firstWeek: 2022-01-09Z
+              stars: 1372
               license: Unknown License
               description: Mirror of the OpenDaylight aaa gerrit project
-              latest_commit_date: '2022-05-03T08:53:06Z'
-              latest_commit_link: /opendaylight/aaa/commit/c88ca1e763e79b2aecebecaed2a734a96183f469
-              contributors_count: 523
+              latest_commit_date: '2022-12-18T19:32:51Z'
+              latest_commit_link: /opendaylight/aaa/commit/99d8ba98ba45f1beed955da669589194bcd246e5
+              contributors_count: 525
               contributors_link: https://github.com/opendaylight/aaa/graphs/contributors
             repos:
               - url: https://github.com/opendaylight/aaa
-                stars: 26
+                stars: 27
               - url: https://github.com/opendaylight/controller
-                stars: 379
+                stars: 399
               - url: https://github.com/opendaylight/yangtools
-                stars: 90
+                stars: 95
               - url: https://github.com/opendaylight/netconf
-                stars: 68
+                stars: 72
               - url: https://github.com/opendaylight/openflowplugin
-                stars: 57
+                stars: 59
               - url: https://github.com/opendaylight/ovsdb
-                stars: 47
+                stars: 48
               - url: https://github.com/opendaylight/docs
-                stars: 46
+                stars: 47
               - url: https://github.com/opendaylight/sfc
-                stars: 45
+                stars: 46
               - url: https://github.com/opendaylight/bgpcep
                 stars: 36
               - url: https://github.com/opendaylight/mdsal
-                stars: 28
+                stars: 29
               - url: https://github.com/opendaylight/integration-test
                 stars: 26
               - url: https://github.com/opendaylight/l2switch
-                stars: 25
+                stars: 26
               - url: https://github.com/opendaylight/odlparent
                 stars: 21
               - url: https://github.com/opendaylight/next
@@ -655,14 +1335,14 @@ landscape:
               - url: https://github.com/opendaylight/coretutorials
                 stars: 19
               - url: https://github.com/opendaylight/dlux
-                stars: 16
+                stars: 18
               - url: https://github.com/opendaylight/neutron
-                stars: 16
+                stars: 17
+              - url: https://github.com/opendaylight/netvirt
+                stars: 15
               - url: https://github.com/opendaylight/opflex
                 stars: 15
               - url: https://github.com/opendaylight/genius
-                stars: 14
-              - url: https://github.com/opendaylight/netvirt
                 stars: 14
               - url: https://github.com/opendaylight/integration-packaging
                 stars: 12
@@ -672,16 +1352,18 @@ landscape:
                 stars: 12
               - url: https://github.com/opendaylight/groupbasedpolicy
                 stars: 11
-              - url: https://github.com/opendaylight/tsdr
+              - url: https://github.com/opendaylight/releng-builder
                 stars: 11
+              - url: https://github.com/opendaylight/archived-defense4all
+                stars: 10
               - url: https://github.com/opendaylight/nic
                 stars: 10
-              - url: https://github.com/opendaylight/releng-builder
+              - url: https://github.com/opendaylight/transportpce
+                stars: 10
+              - url: https://github.com/opendaylight/tsdr
                 stars: 10
               - url: https://github.com/opendaylight/vtn
                 stars: 10
-              - url: https://github.com/opendaylight/archived-defense4all
-                stars: 9
               - url: https://github.com/opendaylight/vpnservice
                 stars: 9
               - url: https://github.com/opendaylight/alto
@@ -700,15 +1382,13 @@ landscape:
                 stars: 7
               - url: https://github.com/opendaylight/sxp
                 stars: 7
+              - url: https://github.com/opendaylight/infrautils
+                stars: 6
+              - url: https://github.com/opendaylight/lispflowmapping
+                stars: 6
               - url: https://github.com/opendaylight/snmp
                 stars: 6
-              - url: https://github.com/opendaylight/transportpce
-                stars: 6
-              - url: https://github.com/opendaylight/infrautils
-                stars: 5
               - url: https://github.com/opendaylight/integration-packaging-ansible-opendaylight
-                stars: 5
-              - url: https://github.com/opendaylight/lispflowmapping
                 stars: 5
               - url: https://github.com/opendaylight/nemo
                 stars: 5
@@ -762,6 +1442,8 @@ landscape:
                 stars: 2
               - url: https://github.com/opendaylight/serviceutils
                 stars: 2
+              - url: https://github.com/opendaylight/telemetry
+                stars: 2
               - url: https://github.com/opendaylight/ttp
                 stars: 2
               - url: https://github.com/opendaylight/archetypes
@@ -786,6 +1468,8 @@ landscape:
                 stars: 1
               - url: https://github.com/opendaylight/natapp
                 stars: 1
+              - url: https://github.com/opendaylight/odlmicro
+                stars: 1
               - url: https://github.com/opendaylight/odlsaf
                 stars: 1
               - url: https://github.com/opendaylight/odltools
@@ -793,8 +1477,6 @@ landscape:
               - url: https://github.com/opendaylight/spectrometer
                 stars: 1
               - url: https://github.com/opendaylight/systemmetrics
-                stars: 1
-              - url: https://github.com/opendaylight/telemetry
                 stars: 1
               - url: https://github.com/opendaylight/usecplugin
                 stars: 1
@@ -815,8 +1497,6 @@ landscape:
               - url: https://github.com/opendaylight/ocpplugin
                 stars: 0
               - url: https://github.com/opendaylight/odlguice
-                stars: 0
-              - url: https://github.com/opendaylight/odlmicro
                 stars: 0
               - url: https://github.com/opendaylight/ofextensions-circuitsw
                 stars: 0
@@ -864,19 +1544,19 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 36152673
+                  value: 36268816
                   color: '#3572A5'
                 - name: C++
-                  value: 28174056
+                  value: 28232594
                   color: '#f34b7d'
                 - name: JavaScript
-                  value: 17991113
+                  value: 17991916
                   color: '#f1e05a'
                 - name: Java
                   value: 8926147
                   color: '#b07219'
                 - name: C
-                  value: 4914727
+                  value: 4940535
                   color: '#555555'
                 - name: HTML
                   value: 3648496
@@ -885,20 +1565,20 @@ landscape:
                   value: 2798632
                   color: '#e4cc98'
                 - name: Shell
-                  value: 1439992
+                  value: 1498788
                   color: '#89e051'
                 - name: Go
-                  value: 1234567
+                  value: 1250788
                   color: '#00ADD8'
                 - name: SCSS
                   value: 883757
                 - name: Jinja
-                  value: 724823
+                  value: 730580
                 - name: Kotlin
                   value: 495480
                   color: '#F18E33'
                 - name: Groovy
-                  value: 317356
+                  value: 317019
                   color: '#e69f56'
                 - name: GDB
                   value: 189025
@@ -914,10 +1594,10 @@ landscape:
                 - name: Smarty
                   value: 84725
                 - name: Dockerfile
-                  value: 61154
+                  value: 61247
                   color: '#384d54'
                 - name: Makefile
-                  value: 53812
+                  value: 53811
                   color: '#427819'
                 - name: Yacc
                   value: 40823
@@ -943,45 +1623,47 @@ landscape:
                 - name: SWIG
                   value: 60
               contributions: >-
-                89;84;76;65;82;61;46;58;46;43;55;24;24;26;47;29;31;16;17;40;32;43;33;68;81;65;58;35;39;36;27;19;28;34;14;12;17;19;28;39;28;20;20;63;31;17;17;27;20;15;15;3
-              firstWeek: 2021-05-30Z
-              stars: 187
+                37;16;16;15;19;20;40;27;29;19;27;63;23;18;22;23;17;17;5;14;13;15;11;23;17;13;13;10;16;14;11;4;13;19;55;26;27;53;12;20;9;11;17;13;22;2;4;3;0;2;2;2
+              firstWeek: 2022-01-09Z
+              stars: 226
               license: Unknown License
               description: null
-              latest_commit_date: '2022-03-02T18:01:20Z'
-              latest_commit_link: /tungstenfabric/ci-management/commit/d144bca786135a7cbb9690edbea9519758519367
-              contributors_count: 189
+              latest_commit_date: '2022-11-02T13:37:00Z'
+              latest_commit_link: /tungstenfabric/ci-management/commit/db668d5e90feea2390182a79fc6314443fa96070
+              contributors_count: 214
               contributors_link: https://github.com/tungstenfabric/ci-management/graphs/contributors
             repos:
               - url: https://github.com/tungstenfabric/ci-management
                 stars: 0
-              - url: https://github.com/tungstenfabric/tf-vrouter
-                stars: 37
               - url: https://github.com/tungstenfabric/tf-controller
-                stars: 36
-              - url: https://github.com/tungstenfabric/opencontrails-docs
-                stars: 14
+                stars: 50
+              - url: https://github.com/tungstenfabric/tf-vrouter
+                stars: 44
+              - url: https://github.com/tungstenfabric/tf-ansible-deployer
+                stars: 16
               - url: https://github.com/tungstenfabric/tf-devstack
-                stars: 14
+                stars: 15
+              - url: https://github.com/tungstenfabric/opencontrails-docs
+                stars: 13
               - url: https://github.com/tungstenfabric/website
                 stars: 13
-              - url: https://github.com/tungstenfabric/tf-ansible-deployer
-                stars: 12
               - url: https://github.com/tungstenfabric/tf-dev-env
-                stars: 8
+                stars: 10
+              - url: https://github.com/tungstenfabric/tf-test
+                stars: 6
               - url: https://github.com/tungstenfabric/tf-container-builder
+                stars: 5
+              - url: https://github.com/tungstenfabric/tf-operator
+                stars: 5
+              - url: https://github.com/tungstenfabric/tf-specs
+                stars: 5
+              - url: https://github.com/tungstenfabric/tf-api-client
+                stars: 4
+              - url: https://github.com/tungstenfabric/tf-neutron-plugin
                 stars: 4
               - url: https://github.com/tungstenfabric/tf-packages
                 stars: 4
-              - url: https://github.com/tungstenfabric/tf-specs
-                stars: 4
-              - url: https://github.com/tungstenfabric/tf-api-client
-                stars: 3
-              - url: https://github.com/tungstenfabric/tf-neutron-plugin
-                stars: 3
-              - url: https://github.com/tungstenfabric/tf-operator
-                stars: 3
-              - url: https://github.com/tungstenfabric/tf-test
+              - url: https://github.com/tungstenfabric/tf-common
                 stars: 3
               - url: https://github.com/tungstenfabric/tf-vijava
                 stars: 3
@@ -989,15 +1671,15 @@ landscape:
                 stars: 2
               - url: https://github.com/tungstenfabric/tf-analytics
                 stars: 2
-              - url: https://github.com/tungstenfabric/tf-common
+              - url: https://github.com/tungstenfabric/tf-charms
                 stars: 2
               - url: https://github.com/tungstenfabric/tf-dev-test
                 stars: 2
               - url: https://github.com/tungstenfabric/tf-tripleo-heat-templates
                 stars: 2
-              - url: https://github.com/tungstenfabric/tf-charms
-                stars: 1
               - url: https://github.com/tungstenfabric/tf-deployers-containers
+                stars: 1
+              - url: https://github.com/tungstenfabric/tf-deployment-test
                 stars: 1
               - url: https://github.com/tungstenfabric/tf-heat-plugin
                 stars: 1
@@ -1030,8 +1712,6 @@ landscape:
               - url: https://github.com/tungstenfabric/docs-backup
                 stars: 0
               - url: https://github.com/tungstenfabric/tf-build
-                stars: 0
-              - url: https://github.com/tungstenfabric/tf-deployment-test
                 stars: 0
               - url: https://github.com/tungstenfabric/tf-dpdk
                 stars: 0
@@ -1095,17 +1775,18 @@ landscape:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
               company_type: Non Profit
-              industries: []
+              industries:
+                - SaaS
             github_data:
               languages:
                 - name: Go
                   value: 988427
                   color: '#00ADD8'
                 - name: Java
-                  value: 983321
+                  value: 966105
                   color: '#b07219'
                 - name: Smarty
-                  value: 392765
+                  value: 392125
                 - name: Shell
                   value: 92623
                   color: '#89e051'
@@ -1118,14 +1799,14 @@ landscape:
                 - name: HTML
                   value: 1082
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-05-30Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;0;0;0;0;0;0;0
+              firstWeek: 2022-01-09Z
               stars: 28
               license: Unknown License
               description: null
               latest_commit_date: '2021-11-25T04:33:17Z'
               latest_commit_link: /XGVela/XGVela/commit/5086f5db758f232d4dad9a1c31e571f30de29f6e
-              contributors_count: 10
+              contributors_count: 11
               contributors_link: https://github.com/XGVela/XGVela/graphs/contributors
             repos:
               - url: https://github.com/XGVela/XGVela
@@ -2089,7 +2770,7 @@ landscape:
                 - date: '2006-03-05'
                   acquiree: BellSouth
                 - date: '2006-09-12'
-                  acquiree: USInternetworking, Inc.
+                  acquiree: USInternetworking
                   price: 300000000
                 - date: '2006-12-01'
                   acquiree: inFreeDA
@@ -2125,7 +2806,7 @@ landscape:
                   acquiree: Alltel
                   price: 780000000
                 - date: '2014-11-07'
-                  acquiree: Iusacell
+                  acquiree: Iusacell compañía
                   price: 2500000000
                 - date: '2015-01-27'
                   acquiree: Nextel Mexico
@@ -2138,7 +2819,7 @@ landscape:
                 - date: '2016-05-16'
                   acquiree: QuickPlay Media
                 - date: '2016-10-22'
-                  acquiree: Time Warner
+                  acquiree: WarnerMedia
                   price: 85400000000
                 - date: '2016-11-21'
                   acquiree: INVIDI Technologies
@@ -2161,7 +2842,7 @@ landscape:
                 - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 208296525824
+              market_cap: 139190321152
               effective_ticker: T
             image_data:
               fileName: at-t-services-inc.svg
@@ -2169,8 +2850,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:37:50.000Z
           - item:
             name: China Mobile Communication Company Ltd
             homepage_url: https://chinamobileltd.com/
@@ -2193,9 +2872,13 @@ landscape:
                   price: 284000000
                 - date: '2008-05-25'
                   acquiree: China Tietong
+                - date: '2022-06-21'
+                  acquiree: Venustech
+                  price: 620000000
               parents: []
-              ticker: CHL
-              stockExchange: nyse
+              ticker: 600941.SS
+              funding: 3815535353
+              stockExchange: sse
               company_type: For Profit
               industries:
                 - Mobile
@@ -2203,8 +2886,8 @@ landscape:
                 - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 125267341497
-              effective_ticker: 0941.HK
+              market_cap: 150343188145
+              effective_ticker: 600941.SS
             image_data:
               fileName: china-mobile-communication-company-ltd.svg
               hash: SPaiqc71r8jfOW0K59FgsKpfPgaSBjm8gm+zQ7ujlLY=
@@ -2221,13 +2904,13 @@ landscape:
             crunchbase_data:
               name: China Telecom
               description: China Telecom as China's major basic telecom operators, is implementing the transformation and upgrading strategy.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 10001
+              num_employees_max: 1000000
               homepage: https://www.chinatelecomglobal.com/
               city: Beijing
               region: Beijing
               country: China
-              twitter: https://www.twitter.com/chinatelecom1
+              twitter: https://twitter.com/chinateleglobal
               linkedin: https://www.linkedin.com/company/china-telecom-global/
               acquisitions: []
               parents: []
@@ -2241,18 +2924,12 @@ landscape:
                 - Mobile
                 - Telecommunications
                 - Unified Communications
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 24287792262
-              effective_ticker: 0728.HK
             image_data:
               fileName: china-telecommunications-corporation.svg
               hash: SRMffABRgMOJ8fUjOVNfwOoKaUkGEAs7NnD+DMA0rPw=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-14T01:27:18.000Z
           - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
@@ -2361,10 +3038,10 @@ landscape:
                   price: 125000000
                 - date: '1999-04-13'
                   acquiree: GeoTel Communications
-                  price: 200000000
+                  price: 2000000000
                 - date: '1999-04-13'
                   acquiree: GeoTel Communications
-                  price: 2000000000
+                  price: 200000000
                 - date: '1999-04-28'
                   acquiree: Amteva Technologies
                   price: 170000000
@@ -2604,7 +3281,7 @@ landscape:
                 - date: '2007-03-13'
                   acquiree: NeoPath Networks
                 - date: '2007-03-15'
-                  acquiree: WebEx
+                  acquiree: Webex
                   price: 3200000000
                 - date: '2007-03-28'
                   acquiree: Spans Logic
@@ -2758,7 +3435,7 @@ landscape:
                 - date: '2015-05-29'
                   acquiree: Tropo
                 - date: '2015-06-12'
-                  acquiree: Piston Cloud Computing, Inc.
+                  acquiree: Piston Cloud Computing
                 - date: '2015-06-30'
                   acquiree: OpenDNS
                   price: 635000000
@@ -2829,7 +3506,7 @@ landscape:
                   acquiree: Duo Security
                   price: 2350000000
                 - date: '2018-11-21'
-                  acquiree: Ensoft Ltd.
+                  acquiree: Ensoft
                 - date: '2018-12-18'
                   acquiree: Luxtera
                   price: 660000000
@@ -2875,6 +3552,13 @@ landscape:
                   acquiree: Socio
                 - date: '2021-05-14'
                   acquiree: Kenna Security
+                - date: '2021-06-30'
+                  acquiree: Involvio
+                - date: '2021-08-13'
+                  acquiree: Epsagon
+                  price: 500000000
+                - date: '2021-10-25'
+                  acquiree: Replex
               parents: []
               ticker: CSCO
               funding: 2500000
@@ -2884,9 +3568,11 @@ landscape:
                 - Communications Infrastructure
                 - Enterprise Software
                 - Hardware
+                - SaaS
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 225101496320
+              market_cap: 198503399424
               effective_ticker: CSCO
             image_data:
               fileName: cisco-systems-inc.svg
@@ -2906,8 +3592,8 @@ landscape:
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.telekom.com
-              city: Bonn
-              region: Nordrhein-Westfalen
+              city: Munich
+              region: Bayern
               country: Germany
               twitter: http://twitter.com/deutschetelekom
               linkedin: https://www.linkedin.com/company/telekom
@@ -2944,7 +3630,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 100233608199
+              market_cap: 104683566325
               effective_ticker: DTE.DE
             image_data:
               fileName: deutsche-telekom-ag.svg
@@ -2952,8 +3638,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:00:28.000Z
           - item:
             name: Ericsson
             homepage_url: https://ericsson.com/
@@ -2965,12 +3649,12 @@ landscape:
               description: Ericsson is a technology company that provides and operates telecommunications networks, television and video systems, and related services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: https://www.ericsson.com/en
+              homepage: https://www.ericsson.com
               city: Stockholm
               region: Stockholms Lan
               country: Sweden
               twitter: https://twitter.com/ericsson
-              linkedin: https://www.linkedin.com/company/1060
+              linkedin: https://www.linkedin.com/company/ericsson
               acquisitions:
                 - date: '1998-09-10'
                   acquiree: Advanced Computer Communications
@@ -3058,6 +3742,9 @@ landscape:
                 - date: '2020-09-17'
                   acquiree: Cradlepoint
                   price: 1100000000
+                - date: '2021-11-22'
+                  acquiree: Vonage
+                  price: 6200000000
               parents:
                 - https://www.crunchbase.com/organization/investor-ab
               ticker: ERIC
@@ -3071,7 +3758,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 43226476544
+              market_cap: 20629356544
               effective_ticker: ERIC
             image_data:
               fileName: ericsson.svg
@@ -3079,8 +3766,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T14:46:07.000Z
           - item:
             name: Google LLC
             homepage_url: https://google.com/
@@ -3092,7 +3777,7 @@ landscape:
               description: Google is a multinational corporation that specializes in Internet-related services and products.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.google.com/
+              homepage: https://www.google.com
               city: Mountain View
               region: California
               country: United States
@@ -3121,7 +3806,7 @@ landscape:
                 - date: '2004-09-10'
                   acquiree: ZipDash
                 - date: '2004-10-09'
-                  acquiree: Where2
+                  acquiree: Where 2 Technologies
                 - date: '2004-10-27'
                   acquiree: Keyhole Inc.
                 - date: '2005-01-01'
@@ -3133,6 +3818,8 @@ landscape:
                 - date: '2005-08-16'
                   acquiree: Android
                   price: 50000000
+                - date: '2005-09-15'
+                  acquiree: Transformic
                 - date: '2005-11-09'
                   acquiree: Skia
                 - date: '2005-11-17'
@@ -3176,7 +3863,7 @@ landscape:
                 - date: '2007-04-19'
                   acquiree: Marratech
                 - date: '2007-05-23'
-                  acquiree: Kosiso - store
+                  acquiree: FeedBurner
                   price: 100000000
                 - date: '2007-05-29'
                   acquiree: GreenBorder
@@ -3256,11 +3943,9 @@ landscape:
                   acquiree: Invite Media
                   price: 81000000
                 - date: '2010-07-16'
-                  acquiree: Metaweb Technologies
+                  acquiree: Freebase
                 - date: '2010-07-16'
-                  acquiree: john kenneth rosel
-                - date: '2010-08-04'
-                  acquiree: Instantiations
+                  acquiree: Metaweb Technologies
                 - date: '2010-08-06'
                   acquiree: Slide
                   price: 182000000
@@ -3291,7 +3976,7 @@ landscape:
                 - date: '2011-01-12'
                   acquiree: eBook Technologies
                 - date: '2011-01-25'
-                  acquiree: fflick
+                  acquiree: Fflick
                 - date: '2011-03-01'
                   acquiree: zynamics
                 - date: '2011-03-07'
@@ -3352,7 +4037,7 @@ landscape:
                 - date: '2012-04-02'
                   acquiree: TxVia
                 - date: '2012-05-22'
-                  acquiree: Motorola Mobility
+                  acquiree: Motorola Mobility (a Lenovo Company)
                   price: 12500000000
                 - date: '2012-06-01'
                   acquiree: KikScore
@@ -3595,6 +4280,8 @@ landscape:
                 - date: '2018-02-15'
                   acquiree: Xively
                   price: 50000000
+                - date: '2018-03-10'
+                  acquiree: Banter
                 - date: '2018-03-27'
                   acquiree: Tenor Inc
                 - date: '2018-05-09'
@@ -3639,20 +4326,43 @@ landscape:
                   acquiree: Dysonics
                 - date: '2021-05-07'
                   acquiree: Provino Technologies
+                - date: '2021-11-17'
+                  acquiree: Tempow
+                - date: '2022-01-04'
+                  acquiree: Siemplify
+                  price: 500000000
+                - date: '2022-03-08'
+                  acquiree: Mandiant
+                  price: 5400000000
+                - date: '2022-03-17'
+                  acquiree: Raxium
+                  price: 1000000000
+                - date: '2022-09-20'
+                  acquiree: BreezoMeter
+                - date: '2022-09-20'
+                  acquiree: Phiar Technologies
+                - date: '2022-10-11'
+                  acquiree: BrightBytes
+                - date: '2022-10-26'
+                  acquiree: Sound Life Sciences
+                - date: '2022-10-28'
+                  acquiree: Alter
+                  price: 100000000
               parents:
                 - https://www.crunchbase.com/organization/alphabet
               ticker: GOOG
-              funding: 36100000
+              funding: 26101000
               stockExchange: nasdaq
               company_type: For Profit
               industries:
+                - Advertising
                 - Collaboration
                 - Enterprise Software
                 - Information Technology
                 - Search Engine
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1669034934272
+              market_cap: 1137087741952
               effective_ticker: GOOG
             image_data:
               fileName: google-llc.svg
@@ -3660,8 +4370,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:37:48.000Z
           - item:
             name: Huawei Technologies Co., Ltd
             homepage_url: https://huawei.com/
@@ -3671,8 +4379,8 @@ landscape:
             crunchbase_data:
               name: Huawei Technologies
               description: Huawei Technologies provides infrastructure application software and devices with wireline, wireless, and IP technologies.
-              num_employees_min: 5001
-              num_employees_max: 10000
+              num_employees_min: 10001
+              num_employees_max: 1000000
               homepage: http://huawei.com
               city: Shenzhen
               region: Guangdong
@@ -3702,14 +4410,12 @@ landscape:
                 - date: '2019-06-04'
                   acquiree: Vocord
               parents: []
+              funding: 0
               stockExchange: null
               company_type: For Profit
               industries:
                 - Information and Communications Technology (ICT)
-                - Mobile
-                - Security
                 - Software
-                - Telecommunications
                 - Web Hosting
                 - Wireless
             image_data:
@@ -3718,8 +4424,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T14:00:01.000Z
           - item:
             name: Intel Corporation
             homepage_url: https://intel.com/
@@ -3828,7 +4532,7 @@ landscape:
                 - date: '2008-10-14'
                   acquiree: NetEffect Corp
                 - date: '2008-10-15'
-                  acquiree: Net Effect Systems
+                  acquiree: NetEffect
                   price: 8000000
                 - date: '2009-02-01'
                   acquiree: Swiftfoot Graphics AB
@@ -3889,7 +4593,7 @@ landscape:
                   acquiree: Indisys
                   price: 26000000
                 - date: '2013-09-30'
-                  acquiree: Sensory Networks
+                  acquiree: Sensory Network
                 - date: '2013-11-08'
                   acquiree: Kno
                 - date: '2013-11-20'
@@ -3943,7 +4647,7 @@ landscape:
                 - date: '2016-11-03'
                   acquiree: VOKE
                 - date: '2017-03-13'
-                  acquiree: Mobileye, an Intel Company
+                  acquiree: Mobileye
                   price: 15300000000
                 - date: '2018-07-12'
                   acquiree: eASIC
@@ -3972,6 +4676,24 @@ landscape:
                   acquiree: SigOpt
                 - date: '2020-11-04'
                   acquiree: cnvrg.io
+                - date: '2021-11-09'
+                  acquiree: RemoteMyApp
+                - date: '2021-12-07'
+                  acquiree: Screenovate
+                  price: 100000000
+                - date: '2022-02-15'
+                  acquiree: Tower Semiconductor
+                  price: 5400000000
+                - date: '2022-02-23'
+                  acquiree: Linutronix
+                - date: '2022-03-31'
+                  acquiree: Granulate
+                - date: '2022-04-12'
+                  acquiree: Ananki
+                - date: '2022-05-03'
+                  acquiree: Siru Innovations
+                - date: '2022-06-01'
+                  acquiree: Codeplay Software
               parents: []
               ticker: INTC
               funding: 12510000
@@ -3979,13 +4701,17 @@ landscape:
               company_type: For Profit
               industries:
                 - Artificial Intelligence
+                - Computer
+                - GPU
+                - Hardware
                 - Information Technology
                 - Manufacturing
                 - Product Design
+                - Semiconductor
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 232871460864
+              market_cap: 118568706048
               effective_ticker: INTC
             image_data:
               fileName: intel-corporation.svg
@@ -3993,8 +4719,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T23:37:49.000Z
           - item:
             name: International Business Machines Corporation
             homepage_url: https://ibm.com/
@@ -4116,6 +4840,8 @@ landscape:
                   acquiree: Ascential Software
                 - date: '2005-05-10'
                   acquiree: Gluecode Software
+                - date: '2005-06-15'
+                  acquiree: Healthlink
                 - date: '2005-06-23'
                   acquiree: Meiosys
                 - date: '2005-07-27'
@@ -4264,7 +4990,7 @@ landscape:
                 - date: '2011-04-14'
                   acquiree: TRIRIGA
                 - date: '2011-08-31'
-                  acquiree: i2
+                  acquiree: i2 Group
                 - date: '2011-09-01'
                   acquiree: Algorithmics
                   price: 380200000
@@ -4342,7 +5068,7 @@ landscape:
                 - date: '2015-05-04'
                   acquiree: Phytel
                 - date: '2015-06-03'
-                  acquiree: Blue Box
+                  acquiree: The Blue Box
                 - date: '2015-07-23'
                   acquiree: Compose
                 - date: '2015-08-06'
@@ -4406,6 +5132,8 @@ landscape:
                   price: 34000000000
                 - date: '2019-01-14'
                   acquiree: T-Systems - Mainframe Services business
+                - date: '2019-06-01'
+                  acquiree: Red Hat
                 - date: '2020-06-15'
                   acquiree: Spanugo
                 - date: '2020-07-08'
@@ -4431,6 +5159,31 @@ landscape:
                   acquiree: Waeg
                 - date: '2021-05-25'
                   acquiree: Catalogic ECX
+                - date: '2021-07-08'
+                  acquiree: BoxBoat Technologies
+                - date: '2021-07-15'
+                  acquiree: Bluetab
+                - date: '2021-10-28'
+                  acquiree: McD Tech Labs
+                - date: '2021-11-02'
+                  acquiree: ReaQta
+                - date: '2021-11-30'
+                  acquiree: SXiQ
+                - date: '2022-01-11'
+                  acquiree: Envizi
+                - date: '2022-02-01'
+                  acquiree: Sentaca
+                - date: '2022-02-15'
+                  acquiree: Neudesic
+                - date: '2022-06-14'
+                  acquiree: Randori
+                - date: '2022-07-06'
+                  acquiree: Databand
+                  price: 150000000
+                - date: '2022-09-22'
+                  acquiree: Dialexa
+                - date: '2022-12-07'
+                  acquiree: Octo
               parents: []
               ticker: IBM
               stockExchange: nyse
@@ -4442,7 +5195,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 132057341952
+              market_cap: 128801177600
               effective_ticker: IBM
             image_data:
               fileName: international-business-machines-corporation.svg
@@ -4450,8 +5203,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:42:03.000Z
           - item:
             name: Juniper Networks, Inc.
             homepage_url: https://juniper.net/
@@ -4460,7 +5211,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/juniper-networks
             crunchbase_data:
               name: Juniper Networks
-              description: Juniper Networks is a news network that designs, develops, and sells products and services, along with network infrastructure.
+              description: Juniper Networks is a networking company that markets and develops networking products for enterprise companies.
               num_employees_min: 5001
               num_employees_max: 10000
               homepage: http://www.juniper.net
@@ -4547,6 +5298,8 @@ landscape:
                   acquiree: SISRA
                 - date: '2020-12-07'
                   acquiree: Apstra
+                - date: '2022-02-14'
+                  acquiree: WiteSand
               parents: []
               ticker: JNPR
               funding: 38677847
@@ -4554,11 +5307,12 @@ landscape:
               company_type: For Profit
               industries:
                 - Communication Hardware
+                - Information Technology
                 - Infrastructure
                 - Security
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 9216049152
+              market_cap: 10369564672
               effective_ticker: JNPR
             image_data:
               fileName: juniper-networks-inc.svg
@@ -4566,8 +5320,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:20:05.000Z
           - item:
             name: Nokia Corporation
             homepage_url: https://nokia.com/
@@ -4719,7 +5471,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 29693521920
+              market_cap: 27435798528
               effective_ticker: NOK
             image_data:
               fileName: nokia-corporation.svg
@@ -4727,8 +5479,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T14:30:39.000Z
           - item:
             name: Orange SA
             homepage_url: https://orange.com/
@@ -4793,6 +5543,9 @@ landscape:
                   acquiree: Suma Móvil
                 - date: '2020-01-29'
                   acquiree: Bucharest City App
+                - date: '2022-07-23'
+                  acquiree: MASMOVIL
+                  price: 11132172592
               parents: []
               ticker: ORA.PA
               funding: 774445082
@@ -4801,7 +5554,7 @@ landscape:
               industries: []
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 31688064694
+              market_cap: 27988755634
               effective_ticker: ORA.PA
             image_data:
               fileName: orange-sa.svg
@@ -4809,8 +5562,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:20:24.000Z
           - item:
             name: Red Hat, Inc.
             homepage_url: https://redhat.com/
@@ -4820,8 +5571,8 @@ landscape:
             crunchbase_data:
               name: Red Hat
               description: Red Hat is a multinational software company engaged in providing open-source software products to the enterprise community.
-              num_employees_min: 5001
-              num_employees_max: 10000
+              num_employees_min: 10001
+              num_employees_max: 1000000
               homepage: http://www.redhat.com
               city: Raleigh
               region: North Carolina
@@ -4885,18 +5636,22 @@ landscape:
                   acquiree: NooBaa
                 - date: '2021-01-07'
                   acquiree: StackRox
+                  price: 400000000
               parents:
                 - https://www.crunchbase.com/organization/ibm
               ticker: IBM
+              funding: 0
               stockExchange: nyse
               company_type: For Profit
               industries:
+                - Enterprise Software
                 - Linux
                 - Open Source
+                - Operating Systems
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 132057341952
+              market_cap: 128801177600
               effective_ticker: IBM
             image_data:
               fileName: red-hat-inc.svg
@@ -4904,8 +5659,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:30:13.000Z
           - item:
             name: Tech Mahindra Limited
             homepage_url: https://techmahindra.com/
@@ -4976,6 +5729,27 @@ landscape:
                 - date: '2021-04-27'
                   acquiree: Eventus Solutions Group
                   price: 44000000
+                - date: '2021-06-28'
+                  acquiree: BrainScale
+                  price: 28800000
+                - date: '2021-10-25'
+                  acquiree: Lodestone
+                  price: 105000000
+                - date: '2021-10-25'
+                  acquiree: We Make Websites
+                  price: 12937964
+                - date: '2021-12-03'
+                  acquiree: Activus Connect
+                  price: 62000000
+                - date: '2021-12-31'
+                  acquiree: Allyis
+                  price: 125000000
+                - date: '2022-01-17'
+                  acquiree: Com Tec Co
+                  price: 376536526
+                - date: '2022-03-12'
+                  acquiree: Thirdware Solution
+                  price: 42000000
               parents: []
               stockExchange: null
               company_type: For Profit
@@ -4989,8 +5763,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T12:40:12.000Z
           - item:
             name: TELUS Corporation
             homepage_url: https://telus.com/
@@ -5058,7 +5830,7 @@ landscape:
                 - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 29739407360
+              market_cap: 28976097280
               effective_ticker: TU
             image_data:
               fileName: telus-corporation.svg
@@ -5093,7 +5865,7 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/verizon-communications
               ticker: VZ
-              funding: 30079814466
+              funding: 30103192466
               stockExchange: null
               company_type: For Profit
               industries:
@@ -5102,7 +5874,7 @@ landscape:
                 - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 234431463424
+              market_cap: 177190404096
               effective_ticker: VZ
             image_data:
               fileName: verizon-corporate-services.svg
@@ -5110,8 +5882,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:29:25.000Z
           - item:
             name: Walmart Inc.
             homepage_url: https://walmart.com/
@@ -5179,7 +5949,7 @@ landscape:
                 - Retail Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 386444492800
+              market_cap: 395836293120
               effective_ticker: WMT
             image_data:
               fileName: walmart-inc.svg
@@ -5187,8 +5957,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T14:27:23.000Z
           - item:
             name: ZTE Corporation
             homepage_url: https://zte.com.cn/
@@ -5216,7 +5984,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 21845201208
+              market_cap: 16907758402
               effective_ticker: 000063.SZ
             image_data:
               fileName: zte-corporation.svg
@@ -5224,8 +5992,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T11:43:39.000Z
       - subcategory:
         name: Gold
         items:
@@ -5258,8 +6024,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T14:33:27.000Z
       - subcategory:
         name: Silver
         items:
@@ -5297,7 +6061,7 @@ landscape:
                 - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 846050368
+              market_cap: 1165616640
               effective_ticker: ATEN
             image_data:
               fileName: a10-networks.svg
@@ -5305,8 +6069,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:09:00.000Z
           - item:
             name: Aarna Networks
             homepage_url: https://aarnanetworks.com/
@@ -5315,7 +6077,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/aarna-networks
             crunchbase_data:
               name: Aarna Networks
-              description: Aarna Networks build 5G and edge computing application automation software
+              description: Aarna Networks develops an orchestration, management, and automation platform for private 5G networks and computing applications.
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://www.aarnanetworks.com/
@@ -5326,7 +6088,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/aarna-networks-inc.
               acquisitions: []
               parents: []
-              funding: 650000
+              funding: 3516000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -5342,8 +6104,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T19:49:20.000Z
           - item:
             name: Advanced Micro Devices (AMD)
             homepage_url: https://amd.com/
@@ -5377,20 +6137,23 @@ landscape:
                 - date: '2020-10-27'
                   acquiree: Xilinx
                   price: 35000000000
+                - date: '2022-04-04'
+                  acquiree: AMD Pensando
+                  price: 1900000000
               parents: []
               ticker: AMD
               stockExchange: nasdaq
               company_type: For Profit
               industries:
                 - Cloud Computing
+                - Computer
+                - Embedded Systems
+                - GPU
                 - Hardware
                 - Semiconductor
-                - Software
-                - Video Games
-                - Virtualization
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 102294970368
+              market_cap: 103126540288
               effective_ticker: AMD
             image_data:
               fileName: advanced-micro-devices-amd.svg
@@ -5398,8 +6161,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:11:10.000Z
           - item:
             name: Adva Optical Networking SE
             homepage_url: https://advaoptical.com/
@@ -5407,11 +6168,11 @@ landscape:
             twitter: https://twitter.com/ADVAOpticalNews
             crunchbase: https://www.crunchbase.com/organization/adva-optical-networking
             crunchbase_data:
-              name: ADVA Optical Networking
+              name: ADVA Optical Networking SE
               description: ADVA Optical Networking is a global provider of intelligent telecommunications infrastructure solutions.
               num_employees_min: 1001
               num_employees_max: 5000
-              homepage: http://www.advaoptical.com
+              homepage: https://www.adva.com
               city: Martinsried
               region: Bayern
               country: Germany
@@ -5441,7 +6202,8 @@ landscape:
                   price: 69000000
               parents:
                 - https://www.crunchbase.com/organization/swatch-group
-              ticker: ADVOF
+              ticker: UHR.SW
+              funding: 3000000
               stockExchange: otcqb
               company_type: For Profit
               industries:
@@ -5451,16 +6213,14 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 716043200
-              effective_ticker: ADVOF
+              market_cap: 15411537363
+              effective_ticker: UHR.SW
             image_data:
               fileName: adva-optical-networking-se.svg
               hash: N+8bBqGGx16rqeunw86xkmAz6ngyiIO1OcSv+vqUG2s=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T20:48:05.000Z
           - item:
             name: Amantya Technologies, Inc
             homepage_url: https://amantyatech.com/
@@ -5469,14 +6229,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/amantya-technologies
             crunchbase_data:
               name: Amantya Technologies
-              description: Amantya Technologies is a Boutique Product Engineering Company, focussed on 5G, IoT, AI, ML, Cloud, Full-Stack solutions
+              description: Amantya Technologies is a leading USA-based product engineering and system integration company with operations in the USA, India and Canada.
               num_employees_min: 251
               num_employees_max: 500
               homepage: https://amantyatech.com/
-              city: Wilmington
-              region: Delaware
+              city: Chicago
+              region: Illinois
               country: United States
-              twitter: null
+              twitter: https://twitter.com/Amantyatech
               linkedin: https://www.linkedin.com/company/amantyatech
               acquisitions:
                 - date: '2020-12-01'
@@ -5485,6 +6245,7 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
+                - Artificial Intelligence
                 - Information Technology
                 - Telecommunications
             image_data:
@@ -5493,8 +6254,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T10:54:49.000Z
           - item:
             name: Amdocs Limited
             homepage_url: https://amdocs.com/
@@ -5570,8 +6329,12 @@ landscape:
                 - date: '2021-05-12'
                   acquiree: Sourced Group
                   price: 75000000
+                - date: '2022-05-24'
+                  acquiree: MYCOM OSI
+                  price: 188000000
               parents: []
               ticker: DOX
+              funding: 0
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -5583,7 +6346,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 10177853440
+              market_cap: 11095832576
               effective_ticker: DOX
             image_data:
               fileName: amdocs-limited.svg
@@ -5591,8 +6354,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T09:52:49.000Z
           - item:
             name: AQSACOM
             homepage_url: https://aqsacom.com/
@@ -5648,7 +6409,9 @@ landscape:
                 - date: '2020-01-23'
                   acquiree: Big Switch Networks
                 - date: '2020-09-28'
-                  acquiree: Awake Security
+                  acquiree: Arista NDR
+                - date: '2022-08-01'
+                  acquiree: Pluribus Networks
               parents: []
               ticker: ANET
               funding: 7400092
@@ -5662,7 +6425,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 28454293504
+              market_cap: 34555883520
               effective_ticker: ANET
             image_data:
               fileName: arista-networks-inc.svg
@@ -5670,8 +6433,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T21:11:13.000Z
           - item:
             name: Arm Limited
             homepage_url: https://arm.com/
@@ -5716,7 +6477,7 @@ landscape:
                 - date: '2015-10-19'
                   acquiree: Carbon Design Systems
                 - date: '2016-05-18'
-                  acquiree: Apical Ltd.
+                  acquiree: Apical
                   price: 350000000
                 - date: '2016-12-16'
                   acquiree: Allinea Software
@@ -5728,9 +6489,6 @@ landscape:
                   acquiree: Simulity
                 - date: '2018-06-12'
                   acquiree: Stream Technologies
-                - date: '2018-07-29'
-                  acquiree: Treasure Data
-                  price: 600000000
                 - date: '2020-06-23'
                   acquiree: Falanx Microsystems
               parents: []
@@ -5765,7 +6523,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/atos
               acquisitions:
                 - date: '2002-06-05'
-                  acquiree: KPMG Consulting
+                  acquiree: KPMG INDIA
                 - date: '2004-01-29'
                   acquiree: SchlumbergerSema
                 - date: '2005-01-19'
@@ -5781,6 +6539,8 @@ landscape:
                   acquiree: Atos Consulting
                 - date: '2014-06-11'
                   acquiree: Cambridge Technology Partners
+                - date: '2015-10-01'
+                  acquiree: AMG.net S.A.
                 - date: '2015-11-03'
                   acquiree: Unify
                   price: 372704851
@@ -5857,7 +6617,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2863218944
+              market_cap: 1336883328
               effective_ticker: AEXAF
             image_data:
               fileName: atos-france.svg
@@ -5894,8 +6654,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T20:48:59.000Z
           - item:
             name: Canonical Group Limited
             homepage_url: https://canonical.com/
@@ -5912,7 +6670,7 @@ landscape:
               region: England
               country: United Kingdom
               twitter: http://twitter.com/Canonical
-              linkedin: https://www.linkedin.com/company/canonical-ltd-/
+              linkedin: https://www.linkedin.com/company/canonical-ltd-
               acquisitions: []
               parents: []
               funding: 12800000
@@ -5931,8 +6689,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-14T19:35:34.000Z
           - item:
             name: China Unicom
             homepage_url: https://chinaunicom.com/
@@ -5964,7 +6720,7 @@ landscape:
                 - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 21738436639
+              market_cap: 23212511874
               effective_ticker: 600050.SS
             image_data:
               fileName: china-unicom.svg
@@ -5972,8 +6728,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2017-01-16T06:34:23.000Z
           - item:
             name: Ciena Canada, ULC
             homepage_url: https://ciena.com/
@@ -5996,6 +6750,9 @@ landscape:
                   acquiree: Astracom
                 - date: '1999-03-01'
                   acquiree: Lightera
+                - date: '2000-12-20'
+                  acquiree: Cyras Systems
+                  price: 2600000000
                 - date: '2002-06-21'
                   acquiree: ONI Systems
                   price: 1200000000
@@ -6023,8 +6780,15 @@ landscape:
                   acquiree: DonRiver
                 - date: '2019-10-03'
                   acquiree: Centina Systems
+                - date: '2021-09-02'
+                  acquiree: Vyatta
+                - date: '2022-11-22'
+                  acquiree: Benu Networks
+                - date: '2022-11-22'
+                  acquiree: Tibit Communications
               parents: []
               ticker: CIEN
+              funding: 0
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -6034,7 +6798,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 8945532928
+              market_cap: 7631499264
               effective_ticker: CIEN
             image_data:
               fileName: ciena-canada-ulc.svg
@@ -6042,8 +6806,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T12:44:01.000Z
           - item:
             name: CloudOps Inc.
             homepage_url: https://cloudops.com/
@@ -6070,14 +6832,13 @@ landscape:
                 - Cloud Computing
                 - Cloud Management
                 - Information Technology
+                - Software
             image_data:
               fileName: cloud-ops-inc.svg
               hash: uyHps9C6a0JbeIy2GWUhS8bqba/b/J7M4EM5YrMMsi8=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T14:02:10.000Z
           - item:
             name: Equinix, Inc.
             homepage_url: https://equinix.com/
@@ -6100,6 +6861,9 @@ landscape:
                   acquiree: IXEurope
                 - date: '2008-02-06'
                   acquiree: Virtu Secure Webservices
+                - date: '2009-10-21'
+                  acquiree: Switch & Data
+                  price: 689000000
                 - date: '2009-10-21'
                   acquiree: Switch and Data
                   price: 689000000
@@ -6131,6 +6895,9 @@ landscape:
                 - date: '2020-08-11'
                   acquiree: GPX India
                   price: 161000000
+                - date: '2021-12-07'
+                  acquiree: MainOne
+                  price: 320000000
               parents: []
               ticker: EQIX
               funding: 1443500126
@@ -6145,7 +6912,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 72918040576
+              market_cap: 62365126656
               effective_ticker: EQIX
             image_data:
               fileName: equinix-inc.svg
@@ -6153,8 +6920,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T13:48:02.000Z
           - item:
             name: Firecell
             homepage_url: https://firecell.io/
@@ -6178,7 +6943,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/fujitsu
             crunchbase_data:
               name: Fujitsu
-              description: Fujitsu provides information technology and communications solutions.
+              description: Fujitsu is a information & communications technology equipment and services firm providing IT & IT infrastructure and other services.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.fujitsu.com
@@ -6229,23 +6994,22 @@ landscape:
                   acquiree: TrueNet Communications
                 - date: '2016-08-01'
                   acquiree: Symfoni ESM
+                - date: '2022-09-19'
+                  acquiree: InPhySec
               parents: []
               ticker: 6702.T
               stockExchange: tyo
               company_type: For Profit
               industries:
-                - Business Development
                 - Cloud Computing
                 - Cloud Infrastructure
-                - Consulting
-                - EdTech
                 - Enterprise Software
                 - IT Infrastructure
-                - Information Technology
                 - Information and Communications Technology (ICT)
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 34998300435
+              market_cap: 25641818163
               effective_ticker: 6702.T
             image_data:
               fileName: fujitsu-limited.svg
@@ -6253,8 +7017,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T13:42:01.000Z
           - item:
             name: GenXcomm Inc
             homepage_url: https://genxcomm.com/
@@ -6370,7 +7132,7 @@ landscape:
                 - date: '2020-02-03'
                   acquiree: Scytale.io
                 - date: '2020-07-13'
-                  acquiree: Silver Peak
+                  acquiree: Silver Peak Systems, Inc.
                   price: 925000000
                 - date: '2021-02-23'
                   acquiree: CloudPhysics
@@ -6394,7 +7156,7 @@ landscape:
                 - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 21270292480
+              market_cap: 21931941888
               effective_ticker: HPE
             image_data:
               fileName: hewlett-packard-enterprise-development-lp.svg
@@ -6421,7 +7183,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/kaloom/
               acquisitions: []
               parents: []
-              funding: 32500000
+              funding: 53445242
               stockExchange: null
               company_type: For Profit
               industries:
@@ -6436,8 +7198,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T14:29:59.000Z
           - item:
             name: KDDI Corporation
             homepage_url: https://kddi.com/
@@ -6487,7 +7247,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 72598825530
+              market_cap: 65642940467
               effective_ticker: 9433.T
             image_data:
               fileName: kddi-corporation.svg
@@ -6506,12 +7266,12 @@ landscape:
               description: Keysight Technologies is an electronic measurement company.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.keysight.com
+              homepage: https://www.keysight.com/us/en/home.html
               city: Santa Rosa
               region: California
               country: United States
               twitter: https://twitter.com/Keysight
-              linkedin: https://www.linkedin.com/company/keysight-technologies
+              linkedin: https://www.linkedin.com/company/keysight-technologies/
               acquisitions:
                 - date: '2005-08-01'
                   acquiree: Eagleware-Elanix
@@ -6520,6 +7280,8 @@ landscape:
                   price: 600000000
                 - date: '2015-08-28'
                   acquiree: Electroservices Enterprises
+                - date: '2016-07-30'
+                  acquiree: Signadyne
                 - date: '2017-01-30'
                   acquiree: IXIA
                   price: 1600000000
@@ -6546,7 +7308,7 @@ landscape:
                 - Manufacturing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 26657519616
+              market_cap: 31364220928
               effective_ticker: KEYS
             image_data:
               fileName: keysight-technologies-inc.svg
@@ -6570,23 +7332,23 @@ landscape:
               region: Hamburg
               country: Germany
               twitter: https://www.twitter.com/kubermatic
-              linkedin: https://www.linkedin.com/company/kubermatic/
+              linkedin: https://www.linkedin.com/company/kubermatic
               acquisitions: []
               parents: []
+              funding: 8300000
               stockExchange: null
               company_type: For Profit
               industries:
                 - Enterprise
                 - SaaS
                 - Software
+              kind: funding
             image_data:
               fileName: kubermatic-gmb-h.svg
               hash: LV9c0rsSHxCRY9NYBRP42vO4sfSXyWx9Erd24whxCOc=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T12:02:02.000Z
           - item:
             name: LinkedIn Corporation
             homepage_url: https://linkedin.com/
@@ -6658,9 +7420,16 @@ landscape:
                   acquiree: Drawbridge
                 - date: '2020-04-23'
                   acquiree: UpCounsel
+                - date: '2021-08-02'
+                  acquiree: Jumprope
+                - date: '2022-02-28'
+                  acquiree: Oribi
+                - date: '2022-03-29'
+                  acquiree: Paddle HR
+                - date: '2022-06-28'
+                  acquiree: EduBrite Systems
               parents:
                 - https://www.crunchbase.com/organization/microsoft
-                - https://www.crunchbase.com/organization/smartender
               ticker: MSFT
               funding: 154800000
               stockExchange: nyse
@@ -6672,7 +7441,7 @@ landscape:
                 - Social Recruiting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1960091189248
+              market_cap: 1676733972480
               effective_ticker: MSFT
             image_data:
               fileName: linked-in-corporation.svg
@@ -6680,8 +7449,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T22:47:49.000Z
           - item:
             name: MATRIXX Software
             homepage_url: https://matrixx.com/
@@ -6701,7 +7468,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/matrixx-software-inc-/
               acquisitions: []
               parents: []
-              funding: 78600000
+              funding: 128600000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -6718,8 +7485,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T14:05:15.000Z
           - item:
             name: Mavenir Systems, Inc.
             homepage_url: https://mavenir.com/
@@ -6728,9 +7493,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/mavenir
             crunchbase_data:
               name: Mavenir
-              description: Mavenir is an end-to-end network software provider, redefining network transformation and economics for CSPs.
-              num_employees_min: 1001
-              num_employees_max: 5000
+              description: Mavenir engages in accelerating software network transformation for communications service providers and enterprises.
+              num_employees_min: 5001
+              num_employees_max: 10000
               homepage: http://www.mavenir.com
               city: Richardson
               region: Texas
@@ -6752,8 +7517,10 @@ landscape:
                   acquiree: Argyle Data
                 - date: '2020-09-28'
                   acquiree: ip.access
+                - date: '2021-08-25'
+                  acquiree: TeleStax, Inc.
               parents: []
-              funding: 604600000
+              funding: 854600000
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -6768,8 +7535,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T00:55:43.000Z
           - item:
             name: Mirantis, Inc.
             homepage_url: https://mirantis.com/
@@ -6796,14 +7561,16 @@ landscape:
                   acquiree: Kontena
                 - date: '2020-08-13'
                   acquiree: Lens
+                - date: '2022-07-26'
+                  acquiree: amazee.io
               parents: []
               funding: 220000000
               stockExchange: null
               company_type: For Profit
               industries:
-                - Big Data
                 - Cloud Computing
                 - Enterprise Software
+                - IT Infrastructure
                 - IaaS
                 - Open Source
                 - Software
@@ -6814,8 +7581,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T21:52:02.000Z
           - item:
             name: NEC Corporation
             homepage_url: https://nec.com/
@@ -6824,7 +7589,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/nec
             crunchbase_data:
               name: NEC Corporation
-              description: NEC Corporation is a leader in the integration of IT and network technologies that benefit businesses and people around the world.
+              description: NEC Corporation integrates IT and network technologies that benefit businesses and people around the world.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.nec.com
@@ -6854,6 +7619,10 @@ landscape:
                 - date: '2020-10-05'
                   acquiree: Avaloq
                   price: 2200000000
+                - date: '2022-01-28'
+                  acquiree: Blue Danube Systems
+                - date: '2022-07-01'
+                  acquiree: Aspire Technology
               parents: []
               ticker: 6701.T
               funding: 560000000
@@ -6866,7 +7635,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 13780233457
+              market_cap: 9216622886
               effective_ticker: 6701.T
             image_data:
               fileName: nec-corporation.svg
@@ -6874,8 +7643,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T07:10:32.000Z
           - item:
             name: Netgate
             homepage_url: https://netgate.com/
@@ -6885,8 +7652,8 @@ landscape:
             crunchbase_data:
               name: Netgate
               description: Netgate is focused on delivering secure high-performance network connectivity for everyone through security and privacy.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: http://www.netgate.com
               city: Austin
               region: Texas
@@ -6903,14 +7670,13 @@ landscape:
                 - Cyber Security
                 - Network Security
                 - Open Source
+                - Software
             image_data:
               fileName: netgate.svg
               hash: 6cf7X682QZ67EGVb2+5TxzYIcFJZ7RZ6Hw9BDVEH8Wc=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-15T16:15:01.000Z
           - item:
             name: Netris, INC.
             homepage_url: https://netris.ai/
@@ -6919,7 +7685,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/netris
             crunchbase_data:
               name: Netris
-              description: Software for operating physical networks automatically, providing a cloud-like experience.
+              description: VPC Networking software for on-premises, edge, and bare metal.
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://www.netris.ai/
@@ -6946,8 +7712,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-15T18:30:45.000Z
           - item:
             name: NTT DATA Spain, S.L.U.
             homepage_url: https://everis.com/
@@ -7000,7 +7764,7 @@ landscape:
                 - date: '2018-10-29'
                   acquiree: Sierra Systems Group Inc.
                 - date: '2018-11-27'
-                  acquiree: Atom Technologies
+                  acquiree: NTT DATA Payment Services
                 - date: '2019-12-03'
                   acquiree: Flux7
                 - date: '2019-12-18'
@@ -7013,6 +7777,12 @@ landscape:
                   acquiree: My Supply Chain Group
                 - date: '2021-12-22'
                   acquiree: Chainalytics
+                - date: '2022-06-01'
+                  acquiree: Postlight
+                - date: '2022-09-19'
+                  acquiree: Apisero
+                - date: '2022-09-27'
+                  acquiree: Umvel
               parents:
                 - https://www.crunchbase.com/organization/nippon-telegraph-and-telephone-corporation
               ticker: 9613.T
@@ -7024,7 +7794,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 25123446833
+              market_cap: 20240595043
               effective_ticker: 9613.T
             image_data:
               fileName: ntt-data-spain-s-l-u.svg
@@ -7063,8 +7833,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T12:12:12.000Z
           - item:
             name: RADTONICS
             homepage_url: https://radtonics.com/
@@ -7096,10 +7864,10 @@ landscape:
               region: Maharashtra
               country: India
               twitter: https://www.twitter.com/reliancejio
-              linkedin: https://www.linkedin.com/company/10173825
+              linkedin: https://www.linkedin.com/company/jio
               acquisitions:
                 - date: '2019-03-29'
-                  acquiree: Haptik
+                  acquiree: Jio Haptik
                   price: 100000000
               parents:
                 - https://www.crunchbase.com/organization/reliance-industries
@@ -7109,12 +7877,15 @@ landscape:
               company_type: For Profit
               industries:
                 - Apps
+                - Consumer Electronics
+                - Electronics
                 - Information Services
+                - Information Technology
                 - Internet
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 201989645902
+              market_cap: 208625203496
               effective_ticker: RELIANCE.NS
             image_data:
               fileName: reliance-jio-infocomm-limited.svg
@@ -7122,8 +7893,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T06:31:31.000Z
           - item:
             name: Ribbon Communications Operating Company, Inc.
             homepage_url: https://ribboncommunications.com/
@@ -7151,13 +7920,14 @@ landscape:
                   price: 463000000
               parents: []
               ticker: RBBN
+              funding: 52000000
               stockExchange: nasdaq
               company_type: For Profit
               industries:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1203251584
+              market_cap: 480831776
               effective_ticker: RBBN
             image_data:
               fileName: ribbon-communications-operating-company-inc.svg
@@ -7165,8 +7935,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:02:26.000Z
           - item:
             name: Robin Systems, Inc
             homepage_url: https://robin.io/
@@ -7176,8 +7944,8 @@ landscape:
             crunchbase_data:
               name: Robin.io
               description: Robin.io runs stateful applications on Kubernetes, even complex Big Data, Databases, AI/ML, and Custom Apps.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: https://www.robin.io
               city: San Jose
               region: California
@@ -7186,7 +7954,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/robin4k8s
               acquisitions: []
               parents: []
-              funding: 46000000
+              funding: 84000000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -7203,8 +7971,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T15:22:32.000Z
           - item:
             name: Sempre.ai
             homepage_url: https://sempre.ai/
@@ -7222,7 +7988,9 @@ landscape:
               country: United States
               twitter: null
               linkedin: https://www.linkedin.com/company/76880108/admin/
-              acquisitions: []
+              acquisitions:
+                - date: '2022-06-15'
+                  acquiree: NewSpace Networks
               parents: []
               funding: 20000000
               stockExchange: null
@@ -7303,7 +8071,7 @@ landscape:
                 - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2045461132
+              market_cap: 2045566344
               effective_ticker: SPT.L
             image_data:
               fileName: spirent-communications-inc.svg
@@ -7311,8 +8079,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T11:07:01.000Z
           - item:
             name: Sprint Corporation
             homepage_url: https://sprint.com/
@@ -7326,8 +8092,8 @@ landscape:
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.t-mobile.com/
-              city: Bellevue
-              region: Washington
+              city: Burbank
+              region: California
               country: United States
               twitter: http://twitter.com/TMobile
               linkedin: https://www.linkedin.com/company/t-mobile
@@ -7375,15 +8141,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/sterlite-technologies-ltd-
             stock_ticker: null
             crunchbase_data:
-              name: Sterlite Technologies
-              description: Sterlite Technologies is an Indian manufacturer of optical fibers, telecommunication cables and power transmission conductors.
+              name: STL
+              description: STL is an Indian manufacturer of optical fibers, telecommunication cables and power transmission conductors.
               num_employees_min: 1001
               num_employees_max: 5000
               homepage: https://www.stl.tech/
               city: Pune
               region: Maharashtra
               country: India
-              twitter: null
+              twitter: https://twitter.com/STL_tech
               linkedin: https://in.linkedin.com/company/sterlite-technologies-ltd.
               acquisitions:
                 - date: '2015-09-23'
@@ -7394,12 +8160,18 @@ landscape:
                   price: 55241476
                 - date: '2019-09-25'
                   acquiree: Impact Data Solutions
+                - date: '2021-07-22'
+                  acquiree: Clearcomm Group
+                  price: 21347833
               parents: []
               ticker: STRTECH.NS
               stockExchange: nse
               company_type: For Profit
               industries:
+                - Internet
                 - Manufacturing
+                - Optical Communication
+                - Telecommunications
             image_data:
               fileName: sterlite-technologies-limited.svg
               hash: 9DC8Qmgru5fIgR/9Di7L9qKnVu7wgrpnGDQmzqi4Baw=
@@ -7422,7 +8194,7 @@ landscape:
               region: Bern
               country: Switzerland
               twitter: https://twitter.com/swisscom_de
-              linkedin: https://www.linkedin.com/company-beta/2715
+              linkedin: https://www.linkedin.com/company/swisscom
               acquisitions:
                 - date: '2004-09-24'
                   acquiree: CT Cinetrade
@@ -7461,8 +8233,11 @@ landscape:
                   acquiree: United Security Providers
                 - date: '2021-02-09'
                   acquiree: webtiser
+                - date: '2022-01-05'
+                  acquiree: Innovative Web Group
               parents: []
               ticker: SCMN.SW
+              funding: 0
               stockExchange: swx
               company_type: For Profit
               industries:
@@ -7470,7 +8245,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 29977212195
+              market_cap: 29484367780
               effective_ticker: SCMN.SW
             image_data:
               fileName: swisscom.svg
@@ -7478,8 +8253,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:39:02.000Z
           - item:
             name: Tata Communications Limited
             homepage_url: https://tatacommunications.com/
@@ -7515,7 +8288,7 @@ landscape:
                 - Internet
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 4886274092
+              market_cap: 4596542103
               effective_ticker: TATACOMM.NS
             image_data:
               fileName: tata-communications-limited.svg
@@ -7523,8 +8296,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T11:00:14.000Z
           - item:
             name: Telaverge Communications
             homepage_url: https://telavergecommunications.com/
@@ -7550,12 +8321,12 @@ landscape:
               description: Telecom Italia offers technological infrastructure/platforms for voice and data to be converted to advanced telecom, ICT and media services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.telecomitalia.com/tit/en.html
+              homepage: https://www.gruppotim.it
               city: Milan
               region: Lombardia
               country: Italy
-              twitter: https://twitter.com/TIM_Official
-              linkedin: https://www.linkedin.com/company/telecom-italia
+              twitter: https://twitter.com/timnewsroom
+              linkedin: https://www.linkedin.com/company/tim/
               acquisitions:
                 - date: '2005-04-06'
                   acquiree: Liberty Surf Group
@@ -7565,7 +8336,7 @@ landscape:
                 - date: '2016-01-01'
                   acquiree: Olivetti
                 - date: '2016-10-28'
-                  acquiree: Noverca S.r.L
+                  acquiree: Noverca
                 - date: '2020-05-27'
                   acquiree: Noovle
               parents: []
@@ -7573,7 +8344,10 @@ landscape:
               stockExchange: nyse
               company_type: For Profit
               industries:
+                - Information Services
+                - Information Technology
                 - Internet
+                - Retail
                 - Telecommunications
                 - Web Hosting
               kind: funding
@@ -7583,8 +8357,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T13:00:02.000Z
           - item:
             name: Turk Telekomünikasyon A.S.
             homepage_url: https://turktelekom.com.tr/
@@ -7618,8 +8390,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-11T17:00:01.000Z
           - item:
             name: Turnium Technology Group Inc
             homepage_url: https://ttgi.io/
@@ -7683,7 +8453,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/vmware
             crunchbase_data:
               name: VMware
-              description: VMware is a software company providing cloud and virtualization services that powers complex digital infrastructure.
+              description: VMware is a provider of multi-cloud services for all apps, enabling digital innovation with enterprise control.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.vmware.com
@@ -7765,6 +8535,8 @@ landscape:
                   acquiree: CloudVelox
                 - date: '2018-03-28'
                   acquiree: E8 Security
+                - date: '2018-05-01'
+                  acquiree: Bracket Computing
                 - date: '2018-08-27'
                   acquiree: CloudHealth Technologies
                 - date: '2018-11-06'
@@ -7775,7 +8547,7 @@ landscape:
                 - date: '2019-05-15'
                   acquiree: Bitnami
                 - date: '2019-06-14'
-                  acquiree: Avi Networks
+                  acquiree: Avni Networks
                 - date: '2019-07-18'
                   acquiree: Bitfusion.io
                 - date: '2019-07-25'
@@ -7815,7 +8587,7 @@ landscape:
                 - Information Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 65692569600
+              market_cap: 53663363072
               effective_ticker: VMW
             image_data:
               fileName: v-mware-inc.svg
@@ -7823,8 +8595,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:00:25.000Z
           - item:
             name: VoerEir AB
             homepage_url: https://voereir.com/
@@ -7853,8 +8623,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-10-16T02:49:37.000Z
           - item:
             name: Wavelabs
             homepage_url: https://wavelabs.ai/
@@ -7901,7 +8669,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/wind-river
             crunchbase_data:
               name: Wind River
-              description: Wind River enables companies to develop, run and manage device software faster and more reliably at a lower cost.
+              description: Wind River is a technology company that develops, runs, and manages device software.
               num_employees_min: 1001
               num_employees_max: 5000
               homepage: http://www.windriver.com
@@ -7925,14 +8693,15 @@ landscape:
                   acquiree: Arynga
                 - date: '2020-01-16'
                   acquiree: Star Lab Corp.
+                - date: '2021-09-20'
+                  acquiree: Particle Design
               parents: []
+              funding: 0
               stockExchange: null
               company_type: For Profit
               industries:
                 - Developer Tools
                 - Hardware
-                - Linux
-                - Mobile
                 - Operating Systems
                 - Project Management
                 - Software
@@ -7942,8 +8711,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T14:23:29.000Z
       - subcategory:
         name: Associate
         items:
@@ -7998,6 +8765,7 @@ landscape:
               industries:
                 - Information Technology
                 - Internet
+                - Software
                 - Telecommunications
             image_data:
               fileName: cengn.svg
@@ -8005,8 +8773,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:00:26.000Z
           - item:
             name: China Academy of Information and Communications Technology (CAICT)
             homepage_url: https://caict.ac.cn/
@@ -8065,8 +8831,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-04-01T21:30:45.000Z
           - item:
             name: GRADIANT
             homepage_url: https://gradiant.org/
@@ -8079,7 +8843,7 @@ landscape:
               num_employees_min: 51
               num_employees_max: 100
               homepage: https://www.gradiant.org/?lang=en
-              city: Pontevedra
+              city: Vigo
               region: Galicia
               country: Spain
               twitter: https://www.twitter.com/gradiant
@@ -8153,6 +8917,7 @@ landscape:
               industries:
                 - Information Technology
                 - Information and Communications Technology (ICT)
+                - Software
             image_data:
               fileName: institute-for-information-industry.svg
               hash: j0VchfIolj9XxdrAtjU1MCCmO3px0YCoxRCdHGm6tM8=
@@ -8189,8 +8954,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-09T14:00:05.000Z
           - item:
             name: Okinawa Open Laboratory
             homepage_url: https://okinawaopenlabs.org/
@@ -8199,21 +8962,28 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/open-network-lab
             crunchbase_data:
               name: Open Network Lab
-              description: Open Network Lab is a seed accelerator providing Japanese startups with mentorship and funding from overseas.
+              description: Open Network Lab is a seed accelerator providing startups with mentorship and funding from overseas.
               num_employees_min: null
               num_employees_max: null
               homepage: http://www.onlab.jp
               city: Tokyo
               region: Tokyo
               country: Japan
-              twitter: http://twitter.com/on_lab
+              twitter: null
               linkedin: null
               acquisitions: []
-              parents: []
+              parents:
+                - https://www.crunchbase.com/organization/dg-incubation
+                - https://www.crunchbase.com/organization/digital-ga
+              ticker: 4819.T
               stockExchange: null
               company_type: ''
               industries:
                 - Finance
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 1542901453
+              effective_ticker: 4819.T
             image_data:
               fileName: okinawa-open-laboratory.svg
               hash: 6euTSvUnPK7G88qjW+5GMPidyKbMJAyJ6a9IHlmu5EM=
@@ -8244,11 +9014,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/open-networking-foundation
             crunchbase_data:
               name: Open Networking Foundation
-              description: A  non-profit, operator led consortium driving transformation of mobile and  broadband network infrastructure and business models.
+              description: Open Networking Foundation is a driving transformation of mobile and broadband network infrastructure and business models.
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://www.opennetworking.org/
-              city: Menlo Park
+              city: Palo Alto
               region: California
               country: United States
               twitter: https://twitter.com/ONF_SDN
@@ -8258,15 +9028,15 @@ landscape:
               stockExchange: null
               company_type: Non Profit
               industries:
+                - Cloud Computing
                 - Non Profit
+                - Telecommunications
             image_data:
               fileName: open-networking-foundation.svg
               hash: uAsoSI73ZT+Af5RMQ0A2lpHIljYs0a9uuZx3OsfpKo0=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T22:37:49.000Z
           - item:
             name: Penn State
             homepage_url: https://psu.edu/
@@ -8276,8 +9046,8 @@ landscape:
             crunchbase_data:
               name: Penn State University
               description: The Pennsylvania State University is a public, state-related research university with campuses and facilities throughout Pennsylvania.
-              num_employees_min: null
-              num_employees_max: null
+              num_employees_min: 10001
+              num_employees_max: 1000000
               homepage: http://www.psu.edu/
               city: University Park
               region: Pennsylvania
@@ -8300,8 +9070,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:13:45.000Z
           - item:
             name: SDNLAB
             homepage_url: https://sdnlab.com/
@@ -8370,11 +9138,15 @@ landscape:
               acquisitions: []
               parents:
                 - https://www.crunchbase.com/organization/university-of-new-hampshire
-              funding: 958152
+              funding: 2758152
               stockExchange: null
               company_type: For Profit
               industries:
+                - Automotive
+                - Computer
+                - Consulting
                 - Information Technology
+                - Network Security
                 - Virtual Reality
               kind: funding
             image_data:
@@ -8383,8 +9155,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T13:44:03.000Z
           - item:
             name: University of New Hampshire
             homepage_url: https://unh.edu/
@@ -8394,8 +9164,8 @@ landscape:
             crunchbase_data:
               name: University of New Hampshire
               description: University of New Hampshire is a school.
-              num_employees_min: null
-              num_employees_max: null
+              num_employees_min: 1001
+              num_employees_max: 5000
               homepage: http://www.unh.edu/
               city: Durham
               region: New Hampshire
@@ -8404,7 +9174,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/university-of-new-hampshire
               acquisitions: []
               parents: []
-              funding: 958152
+              funding: 2758152
               stockExchange: null
               company_type: ''
               industries:
@@ -8417,8 +9187,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T13:44:03.000Z
           - item:
             name: University of Surrey
             homepage_url: https://surrey.ac.uk/
@@ -8428,8 +9196,8 @@ landscape:
             crunchbase_data:
               name: University of Surrey
               description: The University of Surrey is located on a beautiful, leafy campus in Guildford.
-              num_employees_min: null
-              num_employees_max: null
+              num_employees_min: 1001
+              num_employees_max: 5000
               homepage: http://www.surrey.ac.uk
               city: Guildford
               region: Surrey
@@ -8438,6 +9206,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/university-of-surrey
               acquisitions: []
               parents: []
+              funding: 0
               stockExchange: null
               company_type: ''
               industries:
@@ -8449,8 +9218,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T13:30:06.000Z
   - category:
     name: Cloud/Core
     subcategories:
@@ -8492,7 +9259,7 @@ landscape:
                 - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 846050368
+              market_cap: 1165616640
               effective_ticker: ATEN
             image_data:
               fileName: a10-networks-5-g-cloud.svg
@@ -8500,8 +9267,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:09:00.000Z
           - item:
             name: Kaloom Inc. (5G)
             allow_duplicate_repo: true
@@ -8522,7 +9287,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/kaloom/
               acquisitions: []
               parents: []
-              funding: 32500000
+              funding: 53445242
               stockExchange: null
               company_type: For Profit
               industries:
@@ -8537,8 +9302,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T14:29:59.000Z
           - item:
             name: Intel Corporation (5G)
             allow_duplicate_repo: true
@@ -8648,7 +9411,7 @@ landscape:
                 - date: '2008-10-14'
                   acquiree: NetEffect Corp
                 - date: '2008-10-15'
-                  acquiree: Net Effect Systems
+                  acquiree: NetEffect
                   price: 8000000
                 - date: '2009-02-01'
                   acquiree: Swiftfoot Graphics AB
@@ -8709,7 +9472,7 @@ landscape:
                   acquiree: Indisys
                   price: 26000000
                 - date: '2013-09-30'
-                  acquiree: Sensory Networks
+                  acquiree: Sensory Network
                 - date: '2013-11-08'
                   acquiree: Kno
                 - date: '2013-11-20'
@@ -8763,7 +9526,7 @@ landscape:
                 - date: '2016-11-03'
                   acquiree: VOKE
                 - date: '2017-03-13'
-                  acquiree: Mobileye, an Intel Company
+                  acquiree: Mobileye
                   price: 15300000000
                 - date: '2018-07-12'
                   acquiree: eASIC
@@ -8792,6 +9555,24 @@ landscape:
                   acquiree: SigOpt
                 - date: '2020-11-04'
                   acquiree: cnvrg.io
+                - date: '2021-11-09'
+                  acquiree: RemoteMyApp
+                - date: '2021-12-07'
+                  acquiree: Screenovate
+                  price: 100000000
+                - date: '2022-02-15'
+                  acquiree: Tower Semiconductor
+                  price: 5400000000
+                - date: '2022-02-23'
+                  acquiree: Linutronix
+                - date: '2022-03-31'
+                  acquiree: Granulate
+                - date: '2022-04-12'
+                  acquiree: Ananki
+                - date: '2022-05-03'
+                  acquiree: Siru Innovations
+                - date: '2022-06-01'
+                  acquiree: Codeplay Software
               parents: []
               ticker: INTC
               funding: 12510000
@@ -8799,13 +9580,17 @@ landscape:
               company_type: For Profit
               industries:
                 - Artificial Intelligence
+                - Computer
+                - GPU
+                - Hardware
                 - Information Technology
                 - Manufacturing
                 - Product Design
+                - Semiconductor
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 232871460864
+              market_cap: 118568706048
               effective_ticker: INTC
             image_data:
               fileName: intel-corporation-5-g.svg
@@ -8813,8 +9598,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T23:37:49.000Z
           - item:
             name: Meta (5G)
             allow_duplicate_repo: true
@@ -8835,7 +9618,7 @@ landscape:
               region: California
               country: United States
               twitter: https://twitter.com/Meta
-              linkedin: https://www.linkedin.com/company/meta/
+              linkedin: https://www.linkedin.com/company/meta
               acquisitions:
                 - date: '2007-07-01'
                   acquiree: Parakey
@@ -9041,9 +9824,21 @@ landscape:
                   acquiree: Within (VR/AR)
                 - date: '2021-12-21'
                   acquiree: ImagineOptix
+                - date: '2022-04-14'
+                  acquiree: presize.ai
+                - date: '2022-09-02'
+                  acquiree: Lofelt
+                - date: '2022-10-11'
+                  acquiree: Armature Studio
+                - date: '2022-10-11'
+                  acquiree: Camouflaj
+                - date: '2022-10-11'
+                  acquiree: Twisted Pixel Games
+                - date: '2022-12-31'
+                  acquiree: Luxexcel
               parents: []
-              ticker: FB
-              funding: 16122817488
+              ticker: META
+              funding: 26122817488
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -9053,8 +9848,8 @@ landscape:
                 - Virtual Reality
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 531349929984
-              effective_ticker: FB
+              market_cap: 340938457088
+              effective_ticker: META
             image_data:
               fileName: meta-5-g.svg
               hash: bL+0ciQVVML7W77Bhq7k0JGsbo1+Dlodsdfz9zneuNU=
@@ -9227,10 +10022,10 @@ landscape:
                 - date: '2018-10-09'
                   acquiree: DOING
                 - date: '2019-06-24'
-                  acquiree: Altran
+                  acquiree: Altran India Pvt. Ltd
                   price: 4103733257
                 - date: '2019-06-24'
-                  acquiree: Altran India Pvt. Ltd
+                  acquiree: Capgemini Engineering
                   price: 4103733257
                 - date: '2020-03-26'
                   acquiree: WhiteSky Labs
@@ -9239,6 +10034,10 @@ landscape:
                   price: 69535004
                 - date: '2021-05-10'
                   acquiree: Multibook - SAP services business
+                - date: '2021-06-24'
+                  acquiree: Cambridge Consultants
+                - date: '2021-06-24'
+                  acquiree: Frog
                 - date: '2021-07-05'
                   acquiree: Acclimation
                 - date: '2021-07-19'
@@ -9246,6 +10045,18 @@ landscape:
                   price: 172400000
                 - date: '2021-09-14'
                   acquiree: VariQ
+                - date: '2022-05-15'
+                  acquiree: Chappuis Halder & Co.
+                - date: '2022-06-01'
+                  acquiree: Rufus Leonard
+                - date: '2022-09-08'
+                  acquiree: Knowledge Expert
+                - date: '2022-09-09'
+                  acquiree: Aodigy
+                - date: '2022-10-10'
+                  acquiree: Quorsus
+                - date: '2022-10-28'
+                  acquiree: Quantmetry
               parents: []
               ticker: CAP.PA
               stockExchange: epa
@@ -9258,7 +10069,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 37598272424
+              market_cap: 30009019507
               effective_ticker: CAP.PA
             image_data:
               fileName: cap-gemini-engineering-5-g.svg
@@ -9409,10 +10220,13 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 2124753
+                  value: 2130622
                   color: '#3572A5'
+                - name: C
+                  value: 278748
+                  color: '#555555'
                 - name: Shell
-                  value: 214514
+                  value: 227190
                   color: '#89e051'
                 - name: HTML
                   value: 177498
@@ -9422,21 +10236,18 @@ landscape:
                   color: '#DA5B0B'
                 - name: Jinja
                   value: 68558
+                - name: Dockerfile
+                  value: 62151
+                  color: '#384d54'
                 - name: Gherkin
                   value: 60768
                   color: '#5B2063'
-                - name: Dockerfile
-                  value: 60452
-                  color: '#384d54'
                 - name: Makefile
-                  value: 52347
+                  value: 53326
                   color: '#427819'
                 - name: Go
                   value: 44259
                   color: '#00ADD8'
-                - name: C
-                  value: 42730
-                  color: '#555555'
                 - name: Ruby
                   value: 36512
                   color: '#701516'
@@ -9452,19 +10263,21 @@ landscape:
                 - name: Lua
                   value: 2306
                   color: '#000080'
+                - name: Zimpl
+                  value: 1494
                 - name: Roff
-                  value: 314
+                  value: 323
                   color: '#ecdebe'
                 - name: RobotFramework
                   value: 58
-              contributions: 20;2;13;5;8;7;11;16;12;19;12;12;6;8;14;14;3;2;1;6;18;4;8;9;1;5;2;1;4;4;3;5;2;9;2;8;2;11;8;4;0;4;2;0;2;0;1;2;1;6;1;0
-              firstWeek: 2021-03-21Z
+              contributions: 2;0;2;0;1;2;1;7;4;0;0;0;0;2;1;3;7;0;10;1;0;3;0;0;1;1;0;0;0;1;0;0;0;0;1;0;0;1;8;1;8;9;1;4;0;0;0;2;1;2;0;1
+              firstWeek: 2022-01-09Z
               stars: 39
               license: Other
               description: null
-              latest_commit_date: '2021-12-13T01:31:37Z'
-              latest_commit_link: /opnfv/vineperf/commit/2fcc501a8cf9f5a7dbcedf48946e225dfc485ff8
-              contributors_count: 132
+              latest_commit_date: '2023-01-03T12:55:46Z'
+              latest_commit_link: /opnfv/vineperf/commit/e0b5af5ab0a36bb63c880b9137dd02e26e4c94cc
+              contributors_count: 130
               contributors_link: https://github.com/opnfv/vineperf/graphs/contributors
             repos:
               - url: https://github.com/opnfv/vineperf
@@ -9599,7 +10412,7 @@ landscape:
                 - date: '2008-10-14'
                   acquiree: NetEffect Corp
                 - date: '2008-10-15'
-                  acquiree: Net Effect Systems
+                  acquiree: NetEffect
                   price: 8000000
                 - date: '2009-02-01'
                   acquiree: Swiftfoot Graphics AB
@@ -9660,7 +10473,7 @@ landscape:
                   acquiree: Indisys
                   price: 26000000
                 - date: '2013-09-30'
-                  acquiree: Sensory Networks
+                  acquiree: Sensory Network
                 - date: '2013-11-08'
                   acquiree: Kno
                 - date: '2013-11-20'
@@ -9714,7 +10527,7 @@ landscape:
                 - date: '2016-11-03'
                   acquiree: VOKE
                 - date: '2017-03-13'
-                  acquiree: Mobileye, an Intel Company
+                  acquiree: Mobileye
                   price: 15300000000
                 - date: '2018-07-12'
                   acquiree: eASIC
@@ -9743,6 +10556,24 @@ landscape:
                   acquiree: SigOpt
                 - date: '2020-11-04'
                   acquiree: cnvrg.io
+                - date: '2021-11-09'
+                  acquiree: RemoteMyApp
+                - date: '2021-12-07'
+                  acquiree: Screenovate
+                  price: 100000000
+                - date: '2022-02-15'
+                  acquiree: Tower Semiconductor
+                  price: 5400000000
+                - date: '2022-02-23'
+                  acquiree: Linutronix
+                - date: '2022-03-31'
+                  acquiree: Granulate
+                - date: '2022-04-12'
+                  acquiree: Ananki
+                - date: '2022-05-03'
+                  acquiree: Siru Innovations
+                - date: '2022-06-01'
+                  acquiree: Codeplay Software
               parents: []
               ticker: INTC
               funding: 12510000
@@ -9750,13 +10581,17 @@ landscape:
               company_type: For Profit
               industries:
                 - Artificial Intelligence
+                - Computer
+                - GPU
+                - Hardware
                 - Information Technology
                 - Manufacturing
                 - Product Design
+                - Semiconductor
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 232871460864
+              market_cap: 118568706048
               effective_ticker: INTC
             image_data:
               fileName: intel-corporation-5-g.svg
@@ -9764,8 +10599,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T23:37:49.000Z
           - item:
             name: Kaloom Inc. (5G)
             allow_duplicate_repo: true
@@ -9786,7 +10619,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/kaloom/
               acquisitions: []
               parents: []
-              funding: 32500000
+              funding: 53445242
               stockExchange: null
               company_type: For Profit
               industries:
@@ -9801,8 +10634,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T14:29:59.000Z
           - item:
             name: Red Hat, Inc. (5G)
             allow_duplicate_repo: true
@@ -9813,8 +10644,8 @@ landscape:
             crunchbase_data:
               name: Red Hat
               description: Red Hat is a multinational software company engaged in providing open-source software products to the enterprise community.
-              num_employees_min: 5001
-              num_employees_max: 10000
+              num_employees_min: 10001
+              num_employees_max: 1000000
               homepage: http://www.redhat.com
               city: Raleigh
               region: North Carolina
@@ -9878,18 +10709,22 @@ landscape:
                   acquiree: NooBaa
                 - date: '2021-01-07'
                   acquiree: StackRox
+                  price: 400000000
               parents:
                 - https://www.crunchbase.com/organization/ibm
               ticker: IBM
+              funding: 0
               stockExchange: nyse
               company_type: For Profit
               industries:
+                - Enterprise Software
                 - Linux
                 - Open Source
+                - Operating Systems
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 132057341952
+              market_cap: 128801177600
               effective_ticker: IBM
             image_data:
               fileName: red-hat-inc-5-g.svg
@@ -9897,8 +10732,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:30:13.000Z
           - item:
             name: UNH InterOperability Lab (5G)
             allow_duplicate_repo: true
@@ -9920,11 +10753,15 @@ landscape:
               acquisitions: []
               parents:
                 - https://www.crunchbase.com/organization/university-of-new-hampshire
-              funding: 958152
+              funding: 2758152
               stockExchange: null
               company_type: For Profit
               industries:
+                - Automotive
+                - Computer
+                - Consulting
                 - Information Technology
+                - Network Security
                 - Virtual Reality
               kind: funding
             image_data:
@@ -9933,8 +10770,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T13:44:03.000Z
           - item:
             name: K8s
             homepage_url: https://kubernetes.io/
@@ -10010,7 +10845,7 @@ landscape:
                 - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 846050368
+              market_cap: 1165616640
               effective_ticker: ATEN
             image_data:
               fileName: a10-networks-5-g.svg
@@ -10018,8 +10853,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:09:00.000Z
           - item:
             name: Aarna Networks (5G)
             allow_duplicate_repo: true
@@ -10029,7 +10862,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/aarna-networks
             crunchbase_data:
               name: Aarna Networks
-              description: Aarna Networks build 5G and edge computing application automation software
+              description: Aarna Networks develops an orchestration, management, and automation platform for private 5G networks and computing applications.
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://www.aarnanetworks.com/
@@ -10040,7 +10873,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/aarna-networks-inc.
               acquisitions: []
               parents: []
-              funding: 650000
+              funding: 3516000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -10056,8 +10889,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T19:49:20.000Z
           - item:
             name: Red Hat, Inc. (5G)
             allow_duplicate_repo: true
@@ -10068,8 +10899,8 @@ landscape:
             crunchbase_data:
               name: Red Hat
               description: Red Hat is a multinational software company engaged in providing open-source software products to the enterprise community.
-              num_employees_min: 5001
-              num_employees_max: 10000
+              num_employees_min: 10001
+              num_employees_max: 1000000
               homepage: http://www.redhat.com
               city: Raleigh
               region: North Carolina
@@ -10133,18 +10964,22 @@ landscape:
                   acquiree: NooBaa
                 - date: '2021-01-07'
                   acquiree: StackRox
+                  price: 400000000
               parents:
                 - https://www.crunchbase.com/organization/ibm
               ticker: IBM
+              funding: 0
               stockExchange: nyse
               company_type: For Profit
               industries:
+                - Enterprise Software
                 - Linux
                 - Open Source
+                - Operating Systems
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 132057341952
+              market_cap: 128801177600
               effective_ticker: IBM
             image_data:
               fileName: red-hat-inc-5-g.svg
@@ -10152,8 +10987,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-17T15:30:13.000Z
           - item:
             name: Turnium Technology Group Inc (5G)
             allow_duplicate_repo: true
@@ -10391,10 +11224,10 @@ landscape:
                 - date: '2018-10-09'
                   acquiree: DOING
                 - date: '2019-06-24'
-                  acquiree: Altran
+                  acquiree: Altran India Pvt. Ltd
                   price: 4103733257
                 - date: '2019-06-24'
-                  acquiree: Altran India Pvt. Ltd
+                  acquiree: Capgemini Engineering
                   price: 4103733257
                 - date: '2020-03-26'
                   acquiree: WhiteSky Labs
@@ -10403,6 +11236,10 @@ landscape:
                   price: 69535004
                 - date: '2021-05-10'
                   acquiree: Multibook - SAP services business
+                - date: '2021-06-24'
+                  acquiree: Cambridge Consultants
+                - date: '2021-06-24'
+                  acquiree: Frog
                 - date: '2021-07-05'
                   acquiree: Acclimation
                 - date: '2021-07-19'
@@ -10410,6 +11247,18 @@ landscape:
                   price: 172400000
                 - date: '2021-09-14'
                   acquiree: VariQ
+                - date: '2022-05-15'
+                  acquiree: Chappuis Halder & Co.
+                - date: '2022-06-01'
+                  acquiree: Rufus Leonard
+                - date: '2022-09-08'
+                  acquiree: Knowledge Expert
+                - date: '2022-09-09'
+                  acquiree: Aodigy
+                - date: '2022-10-10'
+                  acquiree: Quorsus
+                - date: '2022-10-28'
+                  acquiree: Quantmetry
               parents: []
               ticker: CAP.PA
               stockExchange: epa
@@ -10422,7 +11271,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 37598272424
+              market_cap: 30009019507
               effective_ticker: CAP.PA
             image_data:
               fileName: cap-gemini-engineering.svg
@@ -10516,17 +11365,17 @@ landscape:
             crunchbase_data:
               name: ZEDEDA
               description: ZEDEDA is a provider of distributed edge orchestration and virtualization software.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: https://www.zededa.com/
               city: San Jose
               region: California
               country: United States
               twitter: https://twitter.com/ZEDEDAEdge
-              linkedin: https://www.linkedin.com/company/zededa/
+              linkedin: https://www.linkedin.com/company/zededaedge/
               acquisitions: []
               parents: []
-              funding: 31484000
+              funding: 57484000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -10875,7 +11724,7 @@ landscape:
                 - date: '2008-10-14'
                   acquiree: NetEffect Corp
                 - date: '2008-10-15'
-                  acquiree: Net Effect Systems
+                  acquiree: NetEffect
                   price: 8000000
                 - date: '2009-02-01'
                   acquiree: Swiftfoot Graphics AB
@@ -10936,7 +11785,7 @@ landscape:
                   acquiree: Indisys
                   price: 26000000
                 - date: '2013-09-30'
-                  acquiree: Sensory Networks
+                  acquiree: Sensory Network
                 - date: '2013-11-08'
                   acquiree: Kno
                 - date: '2013-11-20'
@@ -10990,7 +11839,7 @@ landscape:
                 - date: '2016-11-03'
                   acquiree: VOKE
                 - date: '2017-03-13'
-                  acquiree: Mobileye, an Intel Company
+                  acquiree: Mobileye
                   price: 15300000000
                 - date: '2018-07-12'
                   acquiree: eASIC
@@ -11019,6 +11868,24 @@ landscape:
                   acquiree: SigOpt
                 - date: '2020-11-04'
                   acquiree: cnvrg.io
+                - date: '2021-11-09'
+                  acquiree: RemoteMyApp
+                - date: '2021-12-07'
+                  acquiree: Screenovate
+                  price: 100000000
+                - date: '2022-02-15'
+                  acquiree: Tower Semiconductor
+                  price: 5400000000
+                - date: '2022-02-23'
+                  acquiree: Linutronix
+                - date: '2022-03-31'
+                  acquiree: Granulate
+                - date: '2022-04-12'
+                  acquiree: Ananki
+                - date: '2022-05-03'
+                  acquiree: Siru Innovations
+                - date: '2022-06-01'
+                  acquiree: Codeplay Software
               parents: []
               ticker: INTC
               funding: 12510000
@@ -11026,13 +11893,17 @@ landscape:
               company_type: For Profit
               industries:
                 - Artificial Intelligence
+                - Computer
+                - GPU
+                - Hardware
                 - Information Technology
                 - Manufacturing
                 - Product Design
+                - Semiconductor
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 232871460864
+              market_cap: 118568706048
               effective_ticker: INTC
             image_data:
               fileName: intel-corporation-5-g.svg
@@ -11040,8 +11911,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T23:37:49.000Z
           - item:
             name: Kaloom Inc. (5G)
             allow_duplicate_repo: true
@@ -11062,7 +11931,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/kaloom/
               acquisitions: []
               parents: []
-              funding: 32500000
+              funding: 53445242
               stockExchange: null
               company_type: For Profit
               industries:
@@ -11077,8 +11946,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-16T14:29:59.000Z
           - item:
             name: GenxComm (5G Edge)
             homepage_url: https://www.genxcomm.com/
