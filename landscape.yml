@@ -610,12 +610,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/open19-foundation
             hideProjectTag: true
           - item:
-            name: Open vSwitch
-            homepage_url: https://www.openvswitch.org/
-            logo: openswitch-color.svg
-            crunchbase: https://www.crunchbase.com/organization/open-vswitch
-            hideProjectTag: true
-          - item:
             name: SONiC
             homepage_url: https://sonic-net.github.io/SONiC/
             logo: sonicfund.svg
