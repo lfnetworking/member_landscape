@@ -1134,12 +1134,6 @@ landscape:
             twitter: https://twitter.com/sempre_usa
             crunchbase: https://www.crunchbase.com/organization/sempre
           - item:
-            name: Solutions by STC
-            homepage_url: https://solutions.com.sa/
-            logo: solutions_by_stc.svg
-            twitter: https://twitter.com/solutions_bystc
-            crunchbase: https://www.crunchbase.com/organization/stc-solutions
-          - item:
             name: Sprint Corporation
             homepage_url: https://sprint.com/
             logo: sprint_corporation.svg
