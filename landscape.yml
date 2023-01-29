@@ -944,7 +944,7 @@ landscape:
             name: Arm Limited
             homepage_url: https://arm.com/
             logo: arm_limited.svg
-            twitter: https://twitter.com/Arm
+            twitter: https://twitter.com/ArmCommunity
             crunchbase: https://www.crunchbase.com/organization/arm
           - item:
             name: Atos France
@@ -1087,7 +1087,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/netgate
           - item:
             name: Netris, INC.
-            homepage_url: https://netris.ai/
+            homepage_url: https://www.netris.io/
             logo: netris_inc.svg
             twitter: https://twitter.com/netris_io
             crunchbase: https://www.crunchbase.com/organization/netris
@@ -1133,12 +1133,6 @@ landscape:
             logo: sempreai.svg
             twitter: https://twitter.com/sempre_usa
             crunchbase: https://www.crunchbase.com/organization/sempre
-          - item:
-            name: Solutions by STC
-            homepage_url: https://solutions.com.sa/
-            logo: solutions_by_stc.svg
-            twitter: https://twitter.com/solutions_bystc
-            crunchbase: https://www.crunchbase.com/organization/stc-solutions
           - item:
             name: Sprint Corporation
             homepage_url: https://sprint.com/
