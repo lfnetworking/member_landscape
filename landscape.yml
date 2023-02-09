@@ -956,12 +956,6 @@ landscape:
             twitter: https://twitter.com/ArmCommunity
             crunchbase: https://www.crunchbase.com/organization/arm
           - item:
-            name: Atos France
-            homepage_url: https://atos.net/
-            logo: atos_france.svg
-            twitter: https://twitter.com/Atos
-            crunchbase: https://www.crunchbase.com/organization/atos
-          - item:
             name: Cable Television Laboratories Inc.
             homepage_url: https://cablelabs.com/
             logo: cable_television_laboratories_inc.svg
