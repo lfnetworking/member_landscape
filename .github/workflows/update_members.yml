@@ -9,10 +9,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      issues: read
-      pull-requests: write
-      contents: write
     steps:
       - name: Checkout Landscape
         uses: actions/checkout@v3
@@ -43,7 +39,7 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
           branch-suffix: timestamp
           path: ./landscape
           title: Update members
