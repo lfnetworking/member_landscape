@@ -926,12 +926,6 @@ landscape:
             twitter: https://twitter.com/ADVAOpticalNews
             crunchbase: https://www.crunchbase.com/organization/adva-optical-networking
           - item:
-            name: Amantya Technologies, Inc
-            homepage_url: https://amantyatech.com/
-            logo: amantya_technologies_inc.svg
-            twitter: https://twitter.com/Amantyatech
-            crunchbase: https://www.crunchbase.com/organization/amantya-technologies
-          - item:
             name: Amdocs Limited
             homepage_url: https://amdocs.com/
             logo: amdocs_limited.svg
@@ -995,7 +989,7 @@ landscape:
             name: Firecell
             homepage_url: https://firecell.io/
             logo: firecell.svg
-            twitter: https://twitter.com/Firecell5g
+            twitter: https://twitter.com/firecellP5G
             organization:
               name: Firecell
           - item:
