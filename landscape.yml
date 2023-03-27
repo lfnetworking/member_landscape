@@ -841,12 +841,6 @@ landscape:
             twitter: https://twitter.com/Infosys
             crunchbase: https://www.crunchbase.com/organization/infosys
           - item:
-            name: International Business Machines Corporation
-            homepage_url: https://ibm.com/
-            logo: international_business_machines_corporation.svg
-            twitter: https://twitter.com/IBM
-            crunchbase: https://www.crunchbase.com/organization/ibm
-          - item:
             name: Nokia Corporation
             homepage_url: https://nokia.com/
             logo: nokia_corporation.svg
@@ -926,12 +920,6 @@ landscape:
             twitter: https://twitter.com/ADVAOpticalNews
             crunchbase: https://www.crunchbase.com/organization/adva-optical-networking
           - item:
-            name: Amantya Technologies, Inc
-            homepage_url: https://amantyatech.com/
-            logo: amantya_technologies_inc.svg
-            twitter: https://twitter.com/Amantyatech
-            crunchbase: https://www.crunchbase.com/organization/amantya-technologies
-          - item:
             name: Amdocs Limited
             homepage_url: https://amdocs.com/
             logo: amdocs_limited.svg
@@ -986,16 +974,16 @@ landscape:
             twitter: https://twitter.com/CloudOps_
             crunchbase: https://www.crunchbase.com/organization/cloudops
           - item:
-            name: Equinix, Inc.
+            name: Equinix Services, Inc.
             homepage_url: https://equinix.com/
-            logo: equinix_inc.svg
+            logo: equinix_services_inc.svg
             twitter: https://twitter.com/Equinix
             crunchbase: https://www.crunchbase.com/organization/equinix
           - item:
             name: Firecell
             homepage_url: https://firecell.io/
             logo: firecell.svg
-            twitter: https://twitter.com/Firecell5g
+            twitter: https://twitter.com/firecellP5G
             organization:
               name: Firecell
           - item:
