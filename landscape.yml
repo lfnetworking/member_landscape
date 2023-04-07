@@ -914,18 +914,6 @@ landscape:
             twitter: https://twitter.com/AMD
             crunchbase: https://www.crunchbase.com/organization/amd
           - item:
-            name: Adva Optical Networking SE
-            homepage_url: https://advaoptical.com/
-            logo: adva_optical_networking_se.svg
-            twitter: https://twitter.com/ADVAOpticalNews
-            crunchbase: https://www.crunchbase.com/organization/adva-optical-networking
-          - item:
-            name: Amdocs Limited
-            homepage_url: https://amdocs.com/
-            logo: amdocs_limited.svg
-            twitter: https://twitter.com/Amdocs
-            crunchbase: https://www.crunchbase.com/organization/amdocs
-          - item:
             name: AQSACOM
             homepage_url: https://aqsacom.com/
             logo: aqsacom.svg
@@ -1002,7 +990,7 @@ landscape:
             name: Globo
             homepage_url: https://globo.com/
             logo: globo.svg
-            twitter: https://twitter.com/globocom
+            twitter: https://twitter.com/globonoticias
             crunchbase: https://www.crunchbase.com/organization/organiza-es-globo
           - item:
             name: HCL Technologies Ltd.
@@ -1155,12 +1143,6 @@ landscape:
             homepage_url: https://telecomitalia.com/
             logo: telecom_italia_mobile_tim_spa.svg
             crunchbase: https://www.crunchbase.com/organization/telecom-italia
-          - item:
-            name: ULAK HABERLESME A.S.
-            homepage_url: https://ulakhaberlesme.com.tr/
-            logo: ulak_haberlesme_as.svg
-            twitter: https://twitter.com/UlakHaberlesme
-            crunchbase: https://www.crunchbase.com/organization/ulak-haberlesme-a-s
           - item:
             name: Wavelabs
             homepage_url: https://wavelabs.ai/
