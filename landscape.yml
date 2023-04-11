@@ -920,12 +920,6 @@ landscape:
             twitter: https://twitter.com/ADVAOpticalNews
             crunchbase: https://www.crunchbase.com/organization/adva-optical-networking
           - item:
-            name: Amdocs Limited
-            homepage_url: https://amdocs.com/
-            logo: amdocs_limited.svg
-            twitter: https://twitter.com/Amdocs
-            crunchbase: https://www.crunchbase.com/organization/amdocs
-          - item:
             name: AQSACOM
             homepage_url: https://aqsacom.com/
             logo: aqsacom.svg
