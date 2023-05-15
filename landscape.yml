@@ -645,7 +645,7 @@ landscape:
           - item:
             name: Camara
             homepage_url: http://camaraproject.org/
-            logo: Camara.svg
+            logo: Camara Logo Color.svg
             crunchbase: https://www.crunchbase.com/organization/camara-project
             hideProjectTag: true
             description: |
