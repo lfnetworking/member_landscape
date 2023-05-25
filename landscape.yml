@@ -993,12 +993,6 @@ landscape:
             twitter: https://twitter.com/globonoticias
             crunchbase: https://www.crunchbase.com/organization/organiza-es-globo
           - item:
-            name: HCL Technologies Ltd.
-            homepage_url: https://hcltech.com/
-            logo: hcl_technologies_ltd.svg
-            twitter: https://twitter.com/hcltech
-            crunchbase: https://www.crunchbase.com/organization/hcl-technologies
-          - item:
             name: Hewlett Packard Enterprise Development LP
             homepage_url: https://hpe.com/
             logo: hewlett_packard_enterprise_development_lp.svg
