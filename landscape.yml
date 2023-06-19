@@ -798,18 +798,18 @@ landscape:
             logo: china_mobile_communication_company_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/china-mobile
           - item:
-            name: China Telecommunications Corporation
-            homepage_url: https://chinatelecom.cn/
-            logo: china_telecommunications_corporation.svg
-            twitter: https://twitter.com/chinateleglobal
-            crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
-            stock_ticker:
-          - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
             logo: cisco_systems_inc.svg
             twitter: https://twitter.com/Cisco
             crunchbase: https://www.crunchbase.com/organization/cisco
+          - item:
+            name: ctbri.com
+            homepage_url: https://chinatelecom.cn/
+            logo: ctbricom.svg
+            twitter: https://twitter.com/chinateleglobal
+            crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
+            stock_ticker:
           - item:
             name: Deutsche Telekom AG
             homepage_url: https://telekom.com/
@@ -896,12 +896,6 @@ landscape:
         name: Silver
         items:
           - item:
-            name: A10 Networks
-            homepage_url: https://a10networks.com/
-            logo: a10_networks.svg
-            twitter: https://twitter.com/A10Networks
-            crunchbase: https://www.crunchbase.com/organization/a10-networks
-          - item:
             name: Aarna Networks
             homepage_url: https://aarnanetworks.com/
             logo: aarna_networks.svg
@@ -931,6 +925,12 @@ landscape:
             logo: arm_limited.svg
             twitter: https://twitter.com/ArmCommunity
             crunchbase: https://www.crunchbase.com/organization/arm
+          - item:
+            name: Aussieb
+            homepage_url: https://matrixx.com/
+            logo: aussieb.svg
+            twitter: https://twitter.com/MATRIXX_SW
+            crunchbase: https://www.crunchbase.com/organization/matrixx-software
           - item:
             name: Cable Television Laboratories Inc.
             homepage_url: https://cablelabs.com/
@@ -1035,12 +1035,6 @@ landscape:
             twitter: https://twitter.com/Kubermatic
             crunchbase: https://www.crunchbase.com/organization/loodse-gmbh
           - item:
-            name: MATRIXX Software
-            homepage_url: https://matrixx.com/
-            logo: matrixx_software.svg
-            twitter: https://twitter.com/MATRIXX_SW
-            crunchbase: https://www.crunchbase.com/organization/matrixx-software
-          - item:
             name: Mavenir Systems, Inc.
             homepage_url: https://mavenir.com/
             logo: mavenir_systems_inc.svg
@@ -1082,6 +1076,12 @@ landscape:
             logo: pantheontech_sro.svg
             twitter: https://twitter.com/Pantheon_Tech
             crunchbase: https://www.crunchbase.com/organization/pantheon-technologies
+          - item:
+            name: pythonicneteng.com
+            homepage_url: https://a10networks.com/
+            logo: pythonicnetengcom.svg
+            twitter: https://twitter.com/A10Networks
+            crunchbase: https://www.crunchbase.com/organization/a10-networks
           - item:
             name: RADTONICS
             homepage_url: https://radtonics.com/
@@ -1192,9 +1192,9 @@ landscape:
             logo: institute_for_information_industry.svg
             crunchbase: https://www.crunchbase.com/organization/institute-for-information-industry-2
           - item:
-            name: MEF Forum
+            name: MEF
             homepage_url: https://mef.net/
-            logo: mef_forum.svg
+            logo: mef.svg
             twitter: https://twitter.com/MEF_Forum
             crunchbase: https://www.crunchbase.com/organization/mef
           - item:
@@ -1204,12 +1204,12 @@ landscape:
             twitter: https://twitter.com/OkinawaOpenLab
             crunchbase: https://www.crunchbase.com/organization/open-network-lab
           - item:
-            name: OpenAirInterface Software Alliance (OSA)
+            name: OpenAirInterface
             homepage_url: https://openairinterface.org/
-            logo: openairinterface_software_alliance_osa.svg
+            logo: openairinterface.svg
             twitter: https://twitter.com/osalliance5g
             organization:
-              name: OpenAirInterface Software Alliance (OSA)
+              name: OpenAirInterface
           - item:
             name: Open Networking Foundation
             homepage_url: https://opennetworking.org/
