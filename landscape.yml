@@ -914,12 +914,6 @@ landscape:
             twitter: https://twitter.com/AMD
             crunchbase: https://www.crunchbase.com/organization/amd
           - item:
-            name: AQSACOM
-            homepage_url: https://aqsacom.com/
-            logo: aqsacom.svg
-            twitter: https://twitter.com/AqsacomGlobal
-            crunchbase: https://www.crunchbase.com/organization/aqsacom
-          - item:
             name: Arista Networks, Inc.
             homepage_url: https://arista.com/
             logo: arista_networks_inc.svg
@@ -1101,12 +1095,6 @@ landscape:
             twitter: https://twitter.com/Robin4K8S
             crunchbase: https://www.crunchbase.com/organization/robin-systems
           - item:
-            name: Sempre.ai
-            homepage_url: https://sempre.ai/
-            logo: sempreai.svg
-            twitter: https://twitter.com/sempre_usa
-            crunchbase: https://www.crunchbase.com/organization/sempre
-          - item:
             name: Sprint Corporation
             homepage_url: https://sprint.com/
             logo: sprint_corporation.svg
@@ -1126,12 +1114,6 @@ landscape:
             logo: tata_communications_limited.svg
             twitter: https://twitter.com/tata_comm
             crunchbase: https://www.crunchbase.com/organization/tata-communications
-          - item:
-            name: Telaverge Communications
-            homepage_url: https://telavergecommunications.com/
-            logo: telaverge_communications.svg
-            organization:
-              name: Telaverge Communications
           - item:
             name: Telecom Italia Mobile (TIM) S.p.A.
             homepage_url: https://telecomitalia.com/
