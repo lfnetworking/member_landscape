@@ -974,6 +974,7 @@ landscape:
             logo: fujitsu_limited.svg
             twitter: https://twitter.com/Fujitsu_Global
             crunchbase: https://www.crunchbase.com/organization/fujitsu
+            stock_ticker:
           - item:
             name: GenXcomm Inc
             homepage_url: https://genxcomm.com/
@@ -1016,12 +1017,6 @@ landscape:
             logo: kddi_corporation.svg
             twitter: https://twitter.com/kddipr
             crunchbase: https://www.crunchbase.com/organization/kddi
-          - item:
-            name: Keysight Technologies Inc.
-            homepage_url: https://keysight.com/
-            logo: keysight_technologies_inc.svg
-            twitter: https://twitter.com/Keysight
-            crunchbase: https://www.crunchbase.com/organization/keysight-technologies
           - item:
             name: Kubermatic GmbH
             homepage_url: https://kubermatic.com/
@@ -1179,6 +1174,11 @@ landscape:
             logo: mef_forum.svg
             twitter: https://twitter.com/MEF_Forum
             crunchbase: https://www.crunchbase.com/organization/mef
+          - item:
+            name: National Institute of Advanced Industrial Science and Technology(AIST)
+            homepage_url: https://aist.go.jp/
+            logo: national_institute_of_advanced_industrial_science_and_technologyaist.svg
+            crunchbase: https://www.crunchbase.com/organization/national-institute-of-advanced-industrial-science-and-technology
           - item:
             name: Okinawa Open Laboratory
             homepage_url: https://okinawaopenlabs.org/
