@@ -840,6 +840,7 @@ landscape:
             logo: infosys_limited.svg
             twitter: https://twitter.com/Infosys
             crunchbase: https://www.crunchbase.com/organization/infosys
+            joined: '2020-11-01'
           - item:
             name: Nokia Corporation
             homepage_url: https://nokia.com/
@@ -853,6 +854,7 @@ landscape:
             logo: red_hat_inc.svg
             twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
+            joined: '2016-01-01'
           - item:
             name: Tech Mahindra Limited
             homepage_url: https://techmahindra.com/
@@ -925,6 +927,7 @@ landscape:
             logo: arm_limited.svg
             twitter: https://twitter.com/ArmCommunity
             crunchbase: https://www.crunchbase.com/organization/arm
+            joined: '2019-02-01'
           - item:
             name: Cable Television Laboratories Inc.
             homepage_url: https://cablelabs.com/
@@ -937,12 +940,14 @@ landscape:
             logo: canonical_group_limited.svg
             twitter: https://twitter.com/Canonical
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
+            joined: '2017-01-01'
           - item:
             name: China Unicom
             homepage_url: https://chinaunicom.com/
             logo: china_unicom.svg
             twitter: https://twitter.com/ChinunicomOS
             crunchbase: https://www.crunchbase.com/organization/china-unicom
+            joined: '2019-09-01'
           - item:
             name: Ciena Canada, ULC
             homepage_url: https://ciena.com/
@@ -955,6 +960,7 @@ landscape:
             logo: cloudops_inc.svg
             twitter: https://twitter.com/CloudOps_
             crunchbase: https://www.crunchbase.com/organization/cloudops
+            joined: '2018-03-01'
           - item:
             name: Equinix Services, Inc.
             homepage_url: https://equinix.com/
@@ -974,6 +980,8 @@ landscape:
             logo: fujitsu_limited.svg
             twitter: https://twitter.com/Fujitsu_Global
             crunchbase: https://www.crunchbase.com/organization/fujitsu
+            stock_ticker:
+            joined: '2016-01-01'
           - item:
             name: GenXcomm Inc
             homepage_url: https://genxcomm.com/
@@ -1004,12 +1012,6 @@ landscape:
             logo: juniper_networks_inc.svg
             twitter: https://twitter.com/JuniperNetworks
             crunchbase: https://www.crunchbase.com/organization/juniper-networks
-          - item:
-            name: Kaloom Inc.
-            homepage_url: https://kaloom.com/
-            logo: kaloom_inc.svg
-            twitter: https://twitter.com/Kaloom_Inc
-            crunchbase: https://www.crunchbase.com/organization/kaloom
           - item:
             name: KDDI Corporation
             homepage_url: https://kddi.com/
@@ -1179,6 +1181,11 @@ landscape:
             logo: mef_forum.svg
             twitter: https://twitter.com/MEF_Forum
             crunchbase: https://www.crunchbase.com/organization/mef
+          - item:
+            name: National Institute of Advanced Industrial Science and Technology(AIST)
+            homepage_url: https://aist.go.jp/
+            logo: national_institute_of_advanced_industrial_science_and_technologyaist.svg
+            crunchbase: https://www.crunchbase.com/organization/national-institute-of-advanced-industrial-science-and-technology
           - item:
             name: Okinawa Open Laboratory
             homepage_url: https://okinawaopenlabs.org/
