@@ -486,67 +486,42 @@ landscape:
             description: |
               Open source SDN Controller with largest ecosystem and deployment footprint.
           - item:
-            name: Tungsten Fabric
-            homepage_url: https://tungsten.io/
-            logo: tungstenfabric-stacked-color.svg
+            name: Nephio
+            homepage_url: https://nephio.org
+            logo: Nephio_logo_colorblack_horizontal.svg
+            crunchbase: https://www.crunchbase.com/organization/nephio
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/tungsten-fabric
-            repo_url: https://github.com/tungstenfabric/ci-management
+            repo_url: https://github.com/nephio-project
             additional_repos:
-              - repo_url: https://github.com/tungstenfabric/docs
-              - repo_url: https://github.com/tungstenfabric/docs-backup
-              - repo_url: https://github.com/tungstenfabric/opencontrails-docs
-              - repo_url: https://github.com/tungstenfabric/tf-analytics
-              - repo_url: https://github.com/tungstenfabric/tf-ansible-deployer
-              - repo_url: https://github.com/tungstenfabric/tf-api-client
-              - repo_url: https://github.com/tungstenfabric/tf-build
-              - repo_url: https://github.com/tungstenfabric/tf-charms
-              - repo_url: https://github.com/tungstenfabric/tf-common
-              - repo_url: https://github.com/tungstenfabric/tf-container-builder
-              - repo_url: https://github.com/tungstenfabric/tf-controller
-              - repo_url: https://github.com/tungstenfabric/tf-deployers-containers
-              - repo_url: https://github.com/tungstenfabric/tf-deployment-test
-              - repo_url: https://github.com/tungstenfabric/tf-dev-env
-              - repo_url: https://github.com/tungstenfabric/tf-dev-test
-              - repo_url: https://github.com/tungstenfabric/tf-devstack
-              - repo_url: https://github.com/tungstenfabric/tf-dpdk
-              - repo_url: https://github.com/tungstenfabric/tf-fabric-utils
-              - repo_url: https://github.com/tungstenfabric/tf-heat-plugin
-              - repo_url: https://github.com/tungstenfabric/tf-helm-deployer
-              - repo_url: https://github.com/tungstenfabric/tf-java-api
-              - repo_url: https://github.com/tungstenfabric/tf-jenkins
-              - repo_url: https://github.com/tungstenfabric/tf-kolla-ansible
-              - repo_url: https://github.com/tungstenfabric/tf-neutron-plugin
-              - repo_url: https://github.com/tungstenfabric/tf-nova-vif-driver
-              - repo_url: https://github.com/tungstenfabric/tf-openlab-ci
-              - repo_url: https://github.com/tungstenfabric/tf-openshift
-              - repo_url: https://github.com/tungstenfabric/tf-openshift-ansible
-              - repo_url: https://github.com/tungstenfabric/tf-operator
-              - repo_url: https://github.com/tungstenfabric/tf-packages
-              - repo_url: https://github.com/tungstenfabric/tf-specs
-              - repo_url: https://github.com/tungstenfabric/tf-test
-              - repo_url: https://github.com/tungstenfabric/tf-third-party
-              - repo_url: https://github.com/tungstenfabric/tf-third-party-cache
-              - repo_url: https://github.com/tungstenfabric/tf-third-party-packages
-              - repo_url: https://github.com/tungstenfabric/tf-transitional-contrail-docs
-              - repo_url: https://github.com/tungstenfabric/tf-tripleo-heat-templates
-              - repo_url: https://github.com/tungstenfabric/tf-tripleo-puppet
-              - repo_url: https://github.com/tungstenfabric/tf-vcenter-fabric-manager
-              - repo_url: https://github.com/tungstenfabric/tf-vcenter-manager
-              - repo_url: https://github.com/tungstenfabric/tf-vcenter-plugin
-              - repo_url: https://github.com/tungstenfabric/tf-vijava
-              - repo_url: https://github.com/tungstenfabric/tf-vnc
-              - repo_url: https://github.com/tungstenfabric/tf-vro-plugin
-              - repo_url: https://github.com/tungstenfabric/tf-vrouter
-              - repo_url: https://github.com/tungstenfabric/tf-vrouter-java-api
-              - repo_url: https://github.com/tungstenfabric/tf-web-controller
-              - repo_url: https://github.com/tungstenfabric/tf-web-core
-              - repo_url: https://github.com/tungstenfabric/tf-webui-third-party
-              - repo_url: https://github.com/tungstenfabric/tungsten-tempest
-              - repo_url: https://github.com/tungstenfabric/tungsten-test-runner
-              - repo_url: https://github.com/tungstenfabric/website
+              - repo_url: https://github.com/nephio-project/nephio
+              - repo_url: https://github.com/nephio-project/test-infra
+              - repo_url: https://github.com/nephio-project/api
+              - repo_url: https://github.com/nephio-project/nephio-example-packages
+              - repo_url: https://github.com/nephio-project/oai
+              - repo_url: https://github.com/nephio-project/free5gc
+              - repo_url: https://github.com/nephio-project/governance
+              - repo_url: https://github.com/nephio-project/nephio-sdk
+              - repo_url: https://github.com/nephio-project/docs
+              - repo_url: https://github.com/nephio-project/catalog
+              - repo_url: https://github.com/nephio-project/nephio-packages
+              - repo_url: https://github.com/nephio-project/one-summit-22-prow-project
+              - repo_url: https://github.com/nephio-project/free5gc-packages
+              - repo_url: https://github.com/nephio-project/kpt-backstage-plugins
+              - repo_url: https://github.com/nephio-project/sig-release
+              - repo_url: https://github.com/nephio-project/edge-status-aggregator
+              - repo_url: https://github.com/nephio-project/sig-release
+              - repo_url: https://github.com/nephio-project/edge-status-aggregator
+              - repo_url: https://github.com/nephio-project/nf-deploy-controller
+              - repo_url: https://github.com/nephio-project/nephio-pocs
+              - repo_url: https://github.com/nephio-project/free5gc-1
+              - repo_url: https://github.com/nephio-project/edge-watcher
+              - repo_url: https://github.com/nephio-project/nephio-functions
+              - repo_url: https://github.com/nephio-project/nephio-controller-poc
+              - repo_url: https://github.com/nephio-project/common-lib
+              - repo_url: https://github.com/nephio-project/nephio-poc
+              - repo_url: https://github.com/nephio-project/sig-network-architecture
             description: |
-              A software-defined network & security fabric built for rapid deployment at scale.
+              The Nephio project is building a Kubernetes-based automation platform for deploying and managing highly distributed, interconnected workloads such as 5G Network Functions, and the underlying infrastructure on which those workloads depend.
           - item:
             name: XG Vela
             homepage_url: https://xgvela.org/
@@ -610,12 +585,6 @@ landscape:
             homepage_url: https://www.magmacore.org/
             logo: magma-01.svg
             crunchbase: https://www.crunchbase.com/organization/magma-fund
-            hideProjectTag: true
-          - item:
-            name: Nephio
-            homepage_url: https://nephio.org
-            logo: Nephio_logo_colorblack_horizontal.svg
-            crunchbase: https://www.crunchbase.com/organization/nephio
             hideProjectTag: true
           - item:
             name: Open 19
