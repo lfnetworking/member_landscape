@@ -491,9 +491,8 @@ landscape:
             logo: Nephio_logo_colorblack_horizontal.svg
             crunchbase: https://www.crunchbase.com/organization/nephio
             twitter: https://twitter.com/LF_Networking
-            repo_url: https://github.com/nephio-project
+            repo_url: https://github.com/nephio-project/nephio
             additional_repos:
-              - repo_url: https://github.com/nephio-project/nephio
               - repo_url: https://github.com/nephio-project/test-infra
               - repo_url: https://github.com/nephio-project/api
               - repo_url: https://github.com/nephio-project/nephio-example-packages
@@ -504,11 +503,10 @@ landscape:
               - repo_url: https://github.com/nephio-project/docs
               - repo_url: https://github.com/nephio-project/catalog
               - repo_url: https://github.com/nephio-project/nephio-packages
-              - repo_url: https://github.com/nephio-project/one-summit-22-prow-project
+              - repo_url: https://github.com/nephio-project/one-summit-22-workshop
+              - repo_url: https://github.com/nephio-project/nephio-test-prow-project
               - repo_url: https://github.com/nephio-project/free5gc-packages
               - repo_url: https://github.com/nephio-project/kpt-backstage-plugins
-              - repo_url: https://github.com/nephio-project/sig-release
-              - repo_url: https://github.com/nephio-project/edge-status-aggregator
               - repo_url: https://github.com/nephio-project/sig-release
               - repo_url: https://github.com/nephio-project/edge-status-aggregator
               - repo_url: https://github.com/nephio-project/nf-deploy-controller
