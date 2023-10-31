@@ -18,23 +18,31 @@ landscape:
               A common model, standardized reference infrastructure
               specifications, and conformance and performance frameworks for VNFs & CNFs.
             crunchbase_data:
-              name: Anuket
-              description: A common model, standardized reference infrastructure specifications, and conformance and performance frameworks for VNFs & CNFs.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://anuket.io
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://twitter.com/LF_Networking
-              linkedin: null
-              acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/lf-networking
-                - https://www.crunchbase.com/organization/linux-foundation
-              stockExchange: null
-              company_type: ''
-              industries: []
+              '0': h
+              '1': t
+              '2': t
+              '3': p
+              '4': s
+              '5': ':'
+              '6': /
+              '7': /
+              '8': g
+              '9': i
+              '10': t
+              '11': h
+              '12': u
+              '13': b
+              '14': .
+              '15': c
+              '16': o
+              '17': m
+              '18': /
+              '19': o
+              '20': p
+              '21': 'n'
+              '22': f
+              '23': v
+              parents: []
             github_data:
               languages:
                 - name: Python
@@ -454,31 +462,31 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 166052517
+                  value: 175186954
                   color: '#b07219'
                 - name: JavaScript
-                  value: 30333374
+                  value: 30628951
                   color: '#f1e05a'
                 - name: Python
-                  value: 17793240
+                  value: 17954566
                   color: '#3572A5'
                 - name: TypeScript
-                  value: 7647583
+                  value: 11492760
                   color: '#2b7489'
+                - name: HTML
+                  value: 6928464
+                  color: '#e34c26'
                 - name: Groovy
-                  value: 6147161
+                  value: 6526705
                   color: '#e69f56'
                 - name: Shell
-                  value: 5860981
+                  value: 5521272
                   color: '#89e051'
-                - name: HTML
-                  value: 5408064
-                  color: '#e34c26'
                 - name: Kotlin
-                  value: 4265293
+                  value: 4471900
                   color: '#F18E33'
                 - name: CSS
-                  value: 3383203
+                  value: 3495038
                   color: '#563d7c'
                 - name: C
                   value: 2909276
@@ -487,26 +495,26 @@ landscape:
                   value: 2234547
                   color: '#00ADD8'
                 - name: RobotFramework
-                  value: 1887611
+                  value: 1896405
                 - name: SCSS
-                  value: 1242164
+                  value: 1346744
                 - name: Less
-                  value: 978496
+                  value: 993304
                 - name: C++
                   value: 444426
                   color: '#f34b7d'
                 - name: Smarty
-                  value: 405205
+                  value: 431638
                 - name: Dockerfile
-                  value: 389805
+                  value: 407721
                   color: '#384d54'
                 - name: FreeMarker
                   value: 326215
                   color: '#0050b2'
                 - name: Jinja
-                  value: 271637
+                  value: 317922
                 - name: Makefile
-                  value: 267361
+                  value: 237348
                   color: '#427819'
                 - name: Erlang
                   value: 181038
@@ -526,15 +534,15 @@ landscape:
                 - name: Velocity Template Language
                   value: 128140
                 - name: Ruby
-                  value: 115172
+                  value: 117917
                   color: '#701516'
+                - name: Mustache
+                  value: 84192
                 - name: Lua
                   value: 79579
                   color: '#000080'
-                - name: Mustache
-                  value: 73780
                 - name: HCL
-                  value: 47464
+                  value: 57684
                 - name: Batchfile
                   value: 40015
                   color: '#C1F12E'
@@ -545,11 +553,11 @@ landscape:
                   color: '#EB8CEB'
                 - name: Handlebars
                   value: 11514
+                - name: ANTLR
+                  value: 10951
+                  color: '#9DC3FF'
                 - name: PLpgSQL
                   value: 10382
-                - name: ANTLR
-                  value: 10346
-                  color: '#9DC3FF'
                 - name: Perl
                   value: 6410
                   color: '#0298c3'
@@ -576,27 +584,27 @@ landscape:
                   value: 886
                   color: '#646464'
               contributions: >-
-                90;80;138;91;92;137;100;170;172;195;232;168;146;232;76;196;107;99;67;59;82;51;39;50;65;68;67;59;46;66;74;84;64;147;92;101;137;180;55;70;143;191;56;124;105;66;78;80;123;47;13;23
-              firstWeek: 2022-01-09Z
-              stars: 521
+                76;127;95;67;67;105;120;35;5;47;34;55;69;117;73;110;85;120;87;84;107;123;62;137;124;96;106;53;33;83;49;43;85;121;77;37;65;56;60;37;25;40;40;38;16;25;46;61;41;46;100;36
+              firstWeek: 2022-11-06Z
+              stars: 555
               license: Other
               description: Mirror of https://gerrit.onap.org/r/#/admin/projects/aaf/authz
               latest_commit_date: '2021-04-27T18:20:44Z'
               latest_commit_link: /onap/archived-aaf-authz/commit/5836e4a53d87b1792486aa6b0b1ddb2e71d91bb9
-              contributors_count: 496
+              contributors_count: 523
               contributors_link: https://github.com/onap/aaf-authz/graphs/contributors
             repos:
               - url: https://github.com/onap/aaf-authz
                 stars: 1
               - url: https://github.com/onap/oom
-                stars: 31
+                stars: 35
               - url: https://github.com/onap/multicloud-k8s
                 stars: 30
-              - url: https://github.com/onap/sdc
-                stars: 15
               - url: https://github.com/onap/so
-                stars: 15
+                stars: 17
               - url: https://github.com/onap/ccsdk-cds
+                stars: 15
+              - url: https://github.com/onap/sdc
                 stars: 14
               - url: https://github.com/onap/doc
                 stars: 9
@@ -604,13 +612,25 @@ landscape:
                 stars: 9
               - url: https://github.com/onap/policy-apex-pdp
                 stars: 6
+              - url: https://github.com/onap/vid
+                stars: 6
               - url: https://github.com/onap/ci-management
+                stars: 5
+              - url: https://github.com/onap/dcaegen2-collectors-ves
                 stars: 5
               - url: https://github.com/onap/logging-analytics
                 stars: 5
+              - url: https://github.com/onap/policy-models
+                stars: 5
               - url: https://github.com/onap/testsuite
                 stars: 5
+              - url: https://github.com/onap/vfc-nfvo-lcm
+                stars: 5
               - url: https://github.com/onap/cli
+                stars: 4
+              - url: https://github.com/onap/cps
+                stars: 4
+              - url: https://github.com/onap/dcaegen2-utils
                 stars: 4
               - url: https://github.com/onap/integration-csit
                 stars: 4
@@ -618,11 +638,11 @@ landscape:
                 stars: 4
               - url: https://github.com/onap/multicloud-openstack
                 stars: 4
-              - url: https://github.com/onap/policy-models
+              - url: https://github.com/onap/optf-has
+                stars: 4
+              - url: https://github.com/onap/policy-clamp
                 stars: 4
               - url: https://github.com/onap/policy-parent
-                stars: 4
-              - url: https://github.com/onap/vfc-nfvo-lcm
                 stars: 4
               - url: https://github.com/onap/vnfrqts-requirements
                 stars: 4
@@ -630,31 +650,29 @@ landscape:
                 stars: 3
               - url: https://github.com/onap/aai-graphadmin
                 stars: 3
-              - url: https://github.com/onap/cps
-                stars: 3
               - url: https://github.com/onap/dcaegen2
-                stars: 3
-              - url: https://github.com/onap/dcaegen2-analytics-tca-gen2
-                stars: 3
-              - url: https://github.com/onap/dcaegen2-collectors-ves
-                stars: 3
-              - url: https://github.com/onap/dcaegen2-utils
                 stars: 3
               - url: https://github.com/onap/dmaap-datarouter
                 stars: 3
               - url: https://github.com/onap/externalapi-nbi
                 stars: 3
-              - url: https://github.com/onap/optf-has
+              - url: https://github.com/onap/oom-offline-installer
+                stars: 3
+              - url: https://github.com/onap/oom-platform-cert-service
                 stars: 3
               - url: https://github.com/onap/optf-osdf
-                stars: 3
-              - url: https://github.com/onap/policy-clamp
                 stars: 3
               - url: https://github.com/onap/policy-distribution
                 stars: 3
               - url: https://github.com/onap/policy-drools-applications
                 stars: 3
               - url: https://github.com/onap/policy-drools-pdp
+                stars: 3
+              - url: https://github.com/onap/policy-gui
+                stars: 3
+              - url: https://github.com/onap/policy-pap
+                stars: 3
+              - url: https://github.com/onap/policy-xacml-pdp
                 stars: 3
               - url: https://github.com/onap/portal
                 stars: 3
@@ -664,6 +682,8 @@ landscape:
                 stars: 3
               - url: https://github.com/onap/vnfsdk-pkgtools
                 stars: 3
+              - url: https://github.com/onap/aai-babel
+                stars: 2
               - url: https://github.com/onap/aai-gizmo
                 stars: 2
               - url: https://github.com/onap/aai-traversal
@@ -678,11 +698,15 @@ landscape:
                 stars: 2
               - url: https://github.com/onap/clamp
                 stars: 2
+              - url: https://github.com/onap/cps-cps-tbdmt
+                stars: 2
               - url: https://github.com/onap/cps-cps-temporal
                 stars: 2
               - url: https://github.com/onap/cps-ncmp-dmi-plugin
                 stars: 2
               - url: https://github.com/onap/dcaegen2-analytics-tca
+                stars: 2
+              - url: https://github.com/onap/dcaegen2-analytics-tca-gen2
                 stars: 2
               - url: https://github.com/onap/dcaegen2-collectors-datafile
                 stars: 2
@@ -698,13 +722,21 @@ landscape:
                 stars: 2
               - url: https://github.com/onap/dcaegen2-services-prh
                 stars: 2
+              - url: https://github.com/onap/dcaegen2-services-sdk
+                stars: 2
+              - url: https://github.com/onap/holmes-engine-management
+                stars: 2
               - url: https://github.com/onap/integration-simulators-nf-simulator
+                stars: 2
+              - url: https://github.com/onap/integration-simulators-nf-simulator-ves-client
+                stars: 2
+              - url: https://github.com/onap/modeling-modelspec
                 stars: 2
               - url: https://github.com/onap/multicloud-framework
                 stars: 2
-              - url: https://github.com/onap/oom-offline-installer
+              - url: https://github.com/onap/music-distributed-kv-store
                 stars: 2
-              - url: https://github.com/onap/oom-platform-cert-service
+              - url: https://github.com/onap/oom-readiness
                 stars: 2
               - url: https://github.com/onap/oom-registrator
                 stars: 2
@@ -716,17 +748,15 @@ landscape:
                 stars: 2
               - url: https://github.com/onap/policy-core
                 stars: 2
-              - url: https://github.com/onap/policy-gui
+              - url: https://github.com/onap/policy-docker
                 stars: 2
               - url: https://github.com/onap/policy-oom
                 stars: 2
-              - url: https://github.com/onap/policy-pap
-                stars: 2
               - url: https://github.com/onap/policy-pdp
                 stars: 2
-              - url: https://github.com/onap/policy-xacml-pdp
-                stars: 2
               - url: https://github.com/onap/portal-sdk
+                stars: 2
+              - url: https://github.com/onap/sdc-sdc-be-common
                 stars: 2
               - url: https://github.com/onap/sdc-sdc-workflow-designer
                 stars: 2
@@ -738,7 +768,11 @@ landscape:
                 stars: 2
               - url: https://github.com/onap/testsuite-python-testing-utils
                 stars: 2
+              - url: https://github.com/onap/testsuite-pythonsdk-tests
+                stars: 2
               - url: https://github.com/onap/usecase-ui
+                stars: 2
+              - url: https://github.com/onap/usecase-ui-nlp
                 stars: 2
               - url: https://github.com/onap/vfc-gvnfm-vnflcm
                 stars: 2
@@ -753,8 +787,6 @@ landscape:
               - url: https://github.com/onap/aaf-certservice
                 stars: 1
               - url: https://github.com/onap/aaf-oom
-                stars: 1
-              - url: https://github.com/onap/aai-babel
                 stars: 1
               - url: https://github.com/onap/aai-cacher
                 stars: 1
@@ -830,8 +862,6 @@ landscape:
                 stars: 1
               - url: https://github.com/onap/cli-oom
                 stars: 1
-              - url: https://github.com/onap/cps-cps-tbdmt
-                stars: 1
               - url: https://github.com/onap/dcae-apod-cdap
                 stars: 1
               - url: https://github.com/onap/dcaegen2-analytics-flink
@@ -845,8 +875,6 @@ landscape:
               - url: https://github.com/onap/dcaegen2-collectors-snmptrap
                 stars: 1
               - url: https://github.com/onap/dcaegen2-deployments
-                stars: 1
-              - url: https://github.com/onap/dcaegen2-oom
                 stars: 1
               - url: https://github.com/onap/dcaegen2-platform
                 stars: 1
@@ -869,8 +897,6 @@ landscape:
               - url: https://github.com/onap/dcaegen2-services-mapper
                 stars: 1
               - url: https://github.com/onap/dcaegen2-services-pm-mapper
-                stars: 1
-              - url: https://github.com/onap/dcaegen2-services-sdk
                 stars: 1
               - url: https://github.com/onap/dcaegen2-services-son-handler
                 stars: 1
@@ -895,8 +921,6 @@ landscape:
               - url: https://github.com/onap/esr-oom
                 stars: 1
               - url: https://github.com/onap/holmes-common
-                stars: 1
-              - url: https://github.com/onap/holmes-engine-management
                 stars: 1
               - url: https://github.com/onap/holmes-rule-management
                 stars: 1
@@ -925,8 +949,6 @@ landscape:
               - url: https://github.com/onap/integration-simulators-nf-simulator-netconf-server
                 stars: 1
               - url: https://github.com/onap/integration-simulators-nf-simulator-pm-https-server
-                stars: 1
-              - url: https://github.com/onap/integration-simulators-nf-simulator-ves-client
                 stars: 1
               - url: https://github.com/onap/integration-simulators-pnf-simulator
                 stars: 1
@@ -964,8 +986,6 @@ landscape:
                 stars: 1
               - url: https://github.com/onap/modeling-genericparser
                 stars: 1
-              - url: https://github.com/onap/modeling-modelspec
-                stars: 1
               - url: https://github.com/onap/modeling-toscaparsers
                 stars: 1
               - url: https://github.com/onap/msb-discovery
@@ -984,10 +1004,6 @@ landscape:
                 stars: 1
               - url: https://github.com/onap/multicloud-openstack-windriver
                 stars: 1
-              - url: https://github.com/onap/music-distributed-kv-store
-                stars: 1
-              - url: https://github.com/onap/nbi-oom
-                stars: 1
               - url: https://github.com/onap/oof-oom
                 stars: 1
               - url: https://github.com/onap/oom-consul
@@ -996,8 +1012,6 @@ landscape:
                 stars: 1
               - url: https://github.com/onap/oom-platform-keycloak
                 stars: 1
-              - url: https://github.com/onap/oom-readiness
-                stars: 1
               - url: https://github.com/onap/oom-utils
                 stars: 1
               - url: https://github.com/onap/oparent-cia
@@ -1005,8 +1019,6 @@ landscape:
               - url: https://github.com/onap/osa
                 stars: 1
               - url: https://github.com/onap/pnda-oom
-                stars: 1
-              - url: https://github.com/onap/policy-docker
                 stars: 1
               - url: https://github.com/onap/pomba-oom
                 stars: 1
@@ -1021,8 +1033,6 @@ landscape:
               - url: https://github.com/onap/sdc-onap-ui-angular
                 stars: 1
               - url: https://github.com/onap/sdc-onap-ui-common
-                stars: 1
-              - url: https://github.com/onap/sdc-sdc-be-common
                 stars: 1
               - url: https://github.com/onap/sdc-sdc-distribution-client
                 stars: 1
@@ -1054,8 +1064,6 @@ landscape:
                 stars: 1
               - url: https://github.com/onap/so-chef-repo
                 stars: 1
-              - url: https://github.com/onap/so-docker-config
-                stars: 1
               - url: https://github.com/onap/so-libs
                 stars: 1
               - url: https://github.com/onap/so-oom
@@ -1078,9 +1086,9 @@ landscape:
                 stars: 1
               - url: https://github.com/onap/testsuite-heatbridge
                 stars: 1
-              - url: https://github.com/onap/testsuite-properties
+              - url: https://github.com/onap/testsuite-oom
                 stars: 1
-              - url: https://github.com/onap/testsuite-pythonsdk-tests
+              - url: https://github.com/onap/testsuite-properties
                 stars: 1
               - url: https://github.com/onap/testsuite-robot-utils
                 stars: 1
@@ -1089,8 +1097,6 @@ landscape:
               - url: https://github.com/onap/ui-dmaapbc
                 stars: 1
               - url: https://github.com/onap/university
-                stars: 1
-              - url: https://github.com/onap/usecase-ui-nlp
                 stars: 1
               - url: https://github.com/onap/usecase-ui-server
                 stars: 1
@@ -1157,6 +1163,8 @@ landscape:
               - url: https://github.com/onap/dcaegen2-analytics
                 stars: 0
               - url: https://github.com/onap/integration-data-provider
+                stars: 0
+              - url: https://github.com/onap/so-docker-config
                 stars: 0
             github_start_commit_data:
               start_commit_link: /onap/msb-apigateway/commit/29c0018a50104f18b34277cc01720c0b3e401212
@@ -1514,240 +1522,136 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Tungsten Fabric
-            homepage_url: https://tungsten.io/
-            logo: tungstenfabric-stacked-color.svg
+            name: Nephio
+            homepage_url: https://nephio.org
+            logo: Nephio_logo_colorblack_horizontal.svg
+            crunchbase: https://www.crunchbase.com/organization/nephio
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/tungsten-fabric
-            repo_url: https://github.com/tungstenfabric/ci-management
-            description: |
-              A software-defined network & security fabric built for rapid deployment at scale.
+            repo_url: https://github.com/nephio-project/nephio
+            description: >
+              The Nephio project is building a Kubernetes-based automation platform for deploying and managing highly distributed, interconnected workloads such
+              as 5G Network Functions, and the underlying infrastructure on which those workloads depend.
             crunchbase_data:
-              name: Tungsten Fabric
-              description: A software-defined network & security fabric built for rapid deployment at scale
+              name: Nephio
+              description: Nephio’s goal is to deliver carrier-grade, simple, open, Kubernetes-based cloud native intent automation and common automation templates..
               num_employees_min: null
               num_employees_max: null
-              homepage: https://tungsten.io/
+              homepage: https://nephio.org
               city: San Francisco
               region: California
               country: United States
-              twitter: https://twitter.com/tungstenfabric
+              twitter: null
               linkedin: null
               acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/lf-networking
-                - https://www.crunchbase.com/organization/linux-foundation
+              parents: []
               stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Technology
+              company_type: ''
+              industries: []
             github_data:
               languages:
-                - name: Python
-                  value: 36268816
-                  color: '#3572A5'
-                - name: C++
-                  value: 28232594
-                  color: '#f34b7d'
-                - name: JavaScript
-                  value: 17991916
-                  color: '#f1e05a'
-                - name: Java
-                  value: 8926147
-                  color: '#b07219'
-                - name: C
-                  value: 4940535
-                  color: '#555555'
-                - name: HTML
-                  value: 3648496
-                  color: '#e34c26'
-                - name: Tcl
-                  value: 2798632
-                  color: '#e4cc98'
-                - name: Shell
-                  value: 1498788
-                  color: '#89e051'
                 - name: Go
-                  value: 1250788
+                  value: 1815324
                   color: '#00ADD8'
-                - name: SCSS
-                  value: 883757
-                - name: Jinja
-                  value: 730580
-                - name: Kotlin
-                  value: 495480
-                  color: '#F18E33'
-                - name: Groovy
-                  value: 317019
-                  color: '#e69f56'
-                - name: GDB
-                  value: 189025
-                - name: Lua
-                  value: 183628
-                  color: '#000080'
-                - name: XSLT
-                  value: 135317
-                  color: '#EB8CEB'
-                - name: CSS
-                  value: 131784
-                  color: '#563d7c'
-                - name: Smarty
-                  value: 84725
-                - name: Dockerfile
-                  value: 61247
-                  color: '#384d54'
+                - name: TypeScript
+                  value: 858862
+                  color: '#2b7489'
                 - name: Makefile
-                  value: 53811
+                  value: 95700
                   color: '#427819'
-                - name: Yacc
-                  value: 40823
-                  color: '#4B6C4B'
-                - name: Puppet
-                  value: 34517
-                  color: '#302B6D'
-                - name: Perl
-                  value: 32982
-                  color: '#0298c3'
-                - name: FreeMarker
-                  value: 32247
-                  color: '#0050b2'
-                - name: Lex
-                  value: 15749
-                  color: '#DBCA00'
-                - name: Ruby
-                  value: 7784
-                  color: '#701516'
-                - name: LLVM
-                  value: 2937
-                  color: '#185619'
-                - name: SWIG
-                  value: 60
-              contributions: >-
-                37;16;16;15;19;20;40;27;29;19;27;63;23;18;22;23;17;17;5;14;13;15;11;23;17;13;13;10;16;14;11;4;13;19;55;26;27;53;12;20;9;11;17;13;22;2;4;3;0;2;2;2
-              firstWeek: 2022-01-09Z
-              stars: 226
-              license: Unknown License
-              description: null
-              latest_commit_date: '2022-11-02T13:37:00Z'
-              latest_commit_link: /tungstenfabric/ci-management/commit/db668d5e90feea2390182a79fc6314443fa96070
-              contributors_count: 214
-              contributors_link: https://github.com/tungstenfabric/ci-management/graphs/contributors
+                - name: Shell
+                  value: 90048
+                  color: '#89e051'
+                - name: Dockerfile
+                  value: 42459
+                  color: '#384d54'
+                - name: Python
+                  value: 29536
+                  color: '#3572A5'
+                - name: HCL
+                  value: 15824
+                - name: Jinja
+                  value: 7598
+                - name: JavaScript
+                  value: 4060
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 3004
+                  color: '#e34c26'
+              contributions: 23;134;173;13;3;7;21;15;11;8;11;6;11;6;5;23;5;3;13;15;25;44;77;112;74;105;45;40;70;47;66;56;122;55;82;67;8;6;4;30;8;7;3;9;4;9;8;8;13;10;9;5
+              firstWeek: 2022-10-30Z
+              stars: 116
+              license: Apache License 2.0
+              description: >-
+                Nephio is a Kubernetes-based automation platform for deploying and managing highly distributed, interconnected workloads such as 5G Network
+                Functions, and the underlying infrastructure on which those workloads depend.
+              latest_commit_date: '2023-10-24T22:54:27Z'
+              latest_commit_link: /nephio-project/nephio/commit/066f0b1b590fbcb03c3928df595e1426cf2cf536
+              release_date: '2023-08-02T19:21:05Z'
+              release_link: https://github.com/nephio-project/nephio/releases
+              contributors_count: 81
+              contributors_link: https://github.com/nephio-project/nephio/graphs/contributors
             repos:
-              - url: https://github.com/tungstenfabric/ci-management
-                stars: 0
-              - url: https://github.com/tungstenfabric/tf-controller
-                stars: 50
-              - url: https://github.com/tungstenfabric/tf-vrouter
-                stars: 44
-              - url: https://github.com/tungstenfabric/tf-ansible-deployer
-                stars: 16
-              - url: https://github.com/tungstenfabric/tf-devstack
+              - url: https://github.com/nephio-project/nephio
+                stars: 38
+              - url: https://github.com/nephio-project/governance
                 stars: 15
-              - url: https://github.com/tungstenfabric/opencontrails-docs
-                stars: 13
-              - url: https://github.com/tungstenfabric/website
-                stars: 13
-              - url: https://github.com/tungstenfabric/tf-dev-env
-                stars: 10
-              - url: https://github.com/tungstenfabric/tf-test
+              - url: https://github.com/nephio-project/nephio-poc
+                stars: 14
+              - url: https://github.com/nephio-project/docs
                 stars: 6
-              - url: https://github.com/tungstenfabric/tf-container-builder
+              - url: https://github.com/nephio-project/nephio-packages
+                stars: 6
+              - url: https://github.com/nephio-project/nephio-controller-poc
+                stars: 6
+              - url: https://github.com/nephio-project/one-summit-22-workshop
                 stars: 5
-              - url: https://github.com/tungstenfabric/tf-operator
+              - url: https://github.com/nephio-project/nephio-pocs
                 stars: 5
-              - url: https://github.com/tungstenfabric/tf-specs
-                stars: 5
-              - url: https://github.com/tungstenfabric/tf-api-client
+              - url: https://github.com/nephio-project/api
                 stars: 4
-              - url: https://github.com/tungstenfabric/tf-neutron-plugin
-                stars: 4
-              - url: https://github.com/tungstenfabric/tf-packages
-                stars: 4
-              - url: https://github.com/tungstenfabric/tf-common
-                stars: 3
-              - url: https://github.com/tungstenfabric/tf-vijava
-                stars: 3
-              - url: https://github.com/tungstenfabric/docs
+              - url: https://github.com/nephio-project/test-infra
                 stars: 2
-              - url: https://github.com/tungstenfabric/tf-analytics
+              - url: https://github.com/nephio-project/nephio-test-prow-project
                 stars: 2
-              - url: https://github.com/tungstenfabric/tf-charms
+              - url: https://github.com/nephio-project/free5gc-packages
                 stars: 2
-              - url: https://github.com/tungstenfabric/tf-dev-test
+              - url: https://github.com/nephio-project/nf-deploy-controller
                 stars: 2
-              - url: https://github.com/tungstenfabric/tf-tripleo-heat-templates
+              - url: https://github.com/nephio-project/edge-watcher
                 stars: 2
-              - url: https://github.com/tungstenfabric/tf-deployers-containers
+              - url: https://github.com/nephio-project/nephio-example-packages
                 stars: 1
-              - url: https://github.com/tungstenfabric/tf-deployment-test
+              - url: https://github.com/nephio-project/free5gc
                 stars: 1
-              - url: https://github.com/tungstenfabric/tf-heat-plugin
+              - url: https://github.com/nephio-project/kpt-backstage-plugins
                 stars: 1
-              - url: https://github.com/tungstenfabric/tf-helm-deployer
+              - url: https://github.com/nephio-project/edge-status-aggregator
                 stars: 1
-              - url: https://github.com/tungstenfabric/tf-java-api
+              - url: https://github.com/nephio-project/nephio-functions
                 stars: 1
-              - url: https://github.com/tungstenfabric/tf-jenkins
+              - url: https://github.com/nephio-project/common-lib
                 stars: 1
-              - url: https://github.com/tungstenfabric/tf-kolla-ansible
+              - url: https://github.com/nephio-project/sig-network-architecture
                 stars: 1
-              - url: https://github.com/tungstenfabric/tf-openlab-ci
-                stars: 1
-              - url: https://github.com/tungstenfabric/tf-openshift
-                stars: 1
-              - url: https://github.com/tungstenfabric/tf-third-party-cache
-                stars: 1
-              - url: https://github.com/tungstenfabric/tf-transitional-contrail-docs
-                stars: 1
-              - url: https://github.com/tungstenfabric/tf-vcenter-fabric-manager
-                stars: 1
-              - url: https://github.com/tungstenfabric/tf-vcenter-manager
-                stars: 1
-              - url: https://github.com/tungstenfabric/tf-vnc
-                stars: 1
-              - url: https://github.com/tungstenfabric/tf-web-core
-                stars: 1
-              - url: https://github.com/tungstenfabric/tungsten-tempest
-                stars: 1
-              - url: https://github.com/tungstenfabric/docs-backup
+              - url: https://github.com/nephio-project/oai
                 stars: 0
-              - url: https://github.com/tungstenfabric/tf-build
+              - url: https://github.com/nephio-project/nephio-sdk
                 stars: 0
-              - url: https://github.com/tungstenfabric/tf-dpdk
+              - url: https://github.com/nephio-project/catalog
                 stars: 0
-              - url: https://github.com/tungstenfabric/tf-fabric-utils
+              - url: https://github.com/nephio-project/sig-release
                 stars: 0
-              - url: https://github.com/tungstenfabric/tf-nova-vif-driver
-                stars: 0
-              - url: https://github.com/tungstenfabric/tf-openshift-ansible
-                stars: 0
-              - url: https://github.com/tungstenfabric/tf-third-party
-                stars: 0
-              - url: https://github.com/tungstenfabric/tf-third-party-packages
-                stars: 0
-              - url: https://github.com/tungstenfabric/tf-tripleo-puppet
-                stars: 0
-              - url: https://github.com/tungstenfabric/tf-vcenter-plugin
-                stars: 0
-              - url: https://github.com/tungstenfabric/tf-vro-plugin
-                stars: 0
-              - url: https://github.com/tungstenfabric/tf-vrouter-java-api
-                stars: 0
-              - url: https://github.com/tungstenfabric/tf-web-controller
-                stars: 0
-              - url: https://github.com/tungstenfabric/tf-webui-third-party
-                stars: 0
-              - url: https://github.com/tungstenfabric/tungsten-test-runner
+              - url: https://github.com/nephio-project/free5gc-1
                 stars: 0
             github_start_commit_data:
-              start_commit_link: /tungstenfabric/opencontrails-docs/commit/2280b25c2d79812781b7922af097aa37da9e049a
-              start_date: '2017-07-14T06:51:13Z'
+              start_commit_link: /nephio-project/kpt-backstage-plugins/commit/8a20f8a036278c05fcafb53e5d7a3f60425affe7
+              start_date: '2022-05-10T18:44:26Z'
             image_data:
-              fileName: tungsten-fabric.svg
-              hash: sjEc6/UG2/GNxq3ZhxLKK2I+xIUei8HO3g5RZtZCf+Y=
+              fileName: nephio.svg
+              hash: T9M145S4hm9JKn93v62H1Wcs0C9sGGFTo94nhL0afCg=
             best_practice_data:
-              badge: false
-              percentage: null
+              badge: 7665
+              percentage: 36
           - item:
             name: XG Vela
             homepage_url: https://xgvela.org/
@@ -2020,34 +1924,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Nephio
-            homepage_url: https://nephio.org
-            logo: Nephio_logo_colorblack_horizontal.svg
-            crunchbase: https://www.crunchbase.com/organization/nephio
-            hideProjectTag: true
-            crunchbase_data:
-              name: Nephio
-              description: Nephio’s goal is to deliver carrier-grade, simple, open, Kubernetes-based cloud native intent automation and common automation templates..
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://nephio.org
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: ''
-              industries: []
-            image_data:
-              fileName: nephio.svg
-              hash: T9M145S4hm9JKn93v62H1Wcs0C9sGGFTo94nhL0afCg=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Open 19
             homepage_url: https://www.open19.org/
             logo: open19-2-01.svg
@@ -2074,36 +1950,6 @@ landscape:
             image_data:
               fileName: open-19.svg
               hash: UOk/5NK6jdAw9V0mp1K/mRJw9gFaAKYXQAI9OZRyfuQ=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Open vSwitch
-            homepage_url: https://www.openvswitch.org/
-            logo: openswitch-color.svg
-            crunchbase: https://www.crunchbase.com/organization/open-vswitch
-            hideProjectTag: true
-            crunchbase_data:
-              name: Open vSwitch
-              description: Open vSwitch is a multilayer virtual switch licensed under the open source Apache 2.0 license.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: http://openvswitch.org/
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Developer Tools
-            image_data:
-              fileName: open-v-switch.svg
-              hash: b4l0U3nrD3xAyoHHvlaWo3zfbfYkVWH2Pi2TmAL+ph4=
             best_practice_data:
               badge: false
               percentage: null
@@ -2182,7 +2028,7 @@ landscape:
           - item:
             name: Camara
             homepage_url: http://camaraproject.org/
-            logo: Camara.svg
+            logo: Camara Logo Color.svg
             crunchbase: https://www.crunchbase.com/organization/camara-project
             hideProjectTag: true
             description: |
@@ -2205,7 +2051,7 @@ landscape:
               industries: []
             image_data:
               fileName: camara.svg
-              hash: i6PF49zelSgZbjeGdbzWvZ/9+JwfV5d4eTQ9si5XjHM=
+              hash: J3ORSUn/27XQdpmgH4xhlnmjiu79bScl39GTpT3fMiU=
             best_practice_data:
               badge: false
               percentage: null
@@ -3634,7 +3480,7 @@ landscape:
               effective_ticker: DTE.DE
             image_data:
               fileName: deutsche-telekom-ag.svg
-              hash: qzk4W75sZDObIxEkbIlP/vD0m04QRNrQLePtvEJZXR0=
+              hash: f/lyjE24JIQLS6aGHkaSeRotcNRlRI4W0O29EY+nHzk=
             best_practice_data:
               badge: false
               percentage: null
@@ -4425,898 +4271,93 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Intel Corporation
-            homepage_url: https://intel.com/
-            logo: intel_corporation.svg
-            twitter: https://twitter.com/intel
-            crunchbase: https://www.crunchbase.com/organization/intel
+            name: Infosys Limited
+            homepage_url: https://infosys.com/
+            logo: infosys_limited.svg
+            twitter: https://twitter.com/Infosys
+            crunchbase: https://www.crunchbase.com/organization/infosys
+            stock_ticker: null
             crunchbase_data:
-              name: Intel
-              description: Intel designs, manufactures, and sells integrated digital technology platforms worldwide.
+              name: Infosys
+              description: Infosys is a provider of consulting, technology, and outsourcing, and next-generation services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.intel.com/
-              city: Santa Clara
-              region: California
-              country: United States
-              twitter: http://twitter.com/intel
-              linkedin: https://www.linkedin.com/company/intel-corporation
+              homepage: http://www.infosys.com
+              city: Bangalore
+              region: Karnataka
+              country: India
+              twitter: http://twitter.com/infosys
+              linkedin: https://www.linkedin.com/company/infosys
               acquisitions:
-                - date: '1997-07-27'
-                  acquiree: Chips and Technologies
-                  price: 420000000
-                - date: '1997-09-25'
-                  acquiree: Dayna Communications
-                - date: '1997-09-30'
-                  acquiree: Corollary
-                - date: '1998-10-26'
-                  acquiree: Shiva Corporation
-                - date: '1998-12-03'
-                  acquiree: iCat
-                - date: '1999-03-04'
-                  acquiree: Level One Communications
-                - date: '1999-07-07'
-                  acquiree: Softcom Microsystems
-                - date: '1999-09-01'
-                  acquiree: NetBoost
-                - date: '1999-09-27'
-                  acquiree: XLNT
-                - date: '1999-10-05'
-                  acquiree: iPivot
-                  price: 500000000
-                - date: '1999-11-15'
-                  acquiree: Parity Software Development
-                - date: '2000-02-04'
-                  acquiree: Ambient Technologies
-                - date: '2000-02-04'
-                  acquiree: Thinkit Technologies
-                - date: '2000-02-24'
-                  acquiree: Voice Technologies
-                - date: '2000-03-15'
-                  acquiree: GIGA
-                  price: 1250000000
-                - date: '2000-03-21'
-                  acquiree: Basis Communications
-                  price: 450000000
-                - date: '2000-04-06'
-                  acquiree: Kuck & Associates
-                - date: '2000-04-10'
-                  acquiree: Picazo Communications
-                - date: '2000-07-04'
-                  acquiree: Ford Microelectronics
-                - date: '2000-08-11'
-                  acquiree: DataKinetics
-                - date: '2000-08-15'
-                  acquiree: Ziatech
-                  price: 240000000
-                - date: '2001-01-15'
-                  acquiree: Xircom
-                  price: 748000000
-                - date: '2001-02-26'
-                  acquiree: VxTel
-                  price: 550000000
-                - date: '2001-03-12'
-                  acquiree: CAD-UL
-                - date: '2001-03-20'
-                  acquiree: ICP vortex Computersysteme
-                - date: '2001-04-24'
-                  acquiree: Cognet
-                - date: '2001-04-24'
-                  acquiree: LightLogic
-                - date: '2002-09-17'
-                  acquiree: Sparkolor Corporation
-                - date: '2003-03-01'
-                  acquiree: Iospan Wireless
-                - date: '2003-06-01'
-                  acquiree: Scale Eight
-                - date: '2003-07-08'
-                  acquiree: West Bay Semiconductor
-                - date: '2003-08-29'
-                  acquiree: Acirro
-                - date: '2003-11-13'
-                  acquiree: Mobilian Corp
-                - date: '2004-03-25'
-                  acquiree: Envara
-                  price: 40000000
-                - date: '2005-02-25'
-                  acquiree: Oplus Technologies
-                  price: 100000000
-                - date: '2005-08-17'
-                  acquiree: Sarvega
-                - date: '2006-02-08'
-                  acquiree: Conformative Systems
-                - date: '2007-09-14'
-                  acquiree: Havok
-                - date: '2008-08-28'
-                  acquiree: Opened Hand
-                - date: '2008-10-14'
-                  acquiree: NetEffect Corp
-                - date: '2008-10-15'
-                  acquiree: NetEffect
-                  price: 8000000
-                - date: '2009-02-01'
-                  acquiree: Swiftfoot Graphics AB
-                - date: '2009-06-04'
-                  acquiree: Wind River
-                  price: 884000000
-                - date: '2009-07-01'
-                  acquiree: Cilk Arts
-                - date: '2009-08-01'
-                  acquiree: Cilk
-                - date: '2009-08-19'
-                  acquiree: RapidMind
-                - date: '2010-02-01'
-                  acquiree: Infineon Technologies
-                  price: 1400000000
-                - date: '2010-08-19'
-                  acquiree: McAfee
-                  price: 7680000000
-                - date: '2010-11-15'
-                  acquiree: CognoVision
-                  price: 25000000
-                - date: '2011-03-14'
-                  acquiree: SySDSoft
-                - date: '2011-03-17'
-                  acquiree: Silicon Hive
-                - date: '2011-04-14'
-                  acquiree: Nordic Edge
-                - date: '2011-05-25'
-                  acquiree: SiPort
-                - date: '2011-07-19'
-                  acquiree: Fulcrum Microsystems
-                - date: '2011-09-13'
-                  acquiree: CoFluent Design
-                - date: '2011-09-29'
-                  acquiree: Telmap
-                - date: '2012-04-17'
-                  acquiree: Olaworks
-                  price: 31000000
-                - date: '2012-07-02'
-                  acquiree: IDesia
-                - date: '2012-07-13'
-                  acquiree: Whamcloud
-                - date: '2012-11-20'
-                  acquiree: ZiiLabs
-                  price: 50000000
-                - date: '2013-04-17'
-                  acquiree: Mashery
-                  price: 180000000
-                - date: '2013-04-28'
-                  acquiree: Aepona
-                  price: 123778078
-                - date: '2013-07-16'
-                  acquiree: Omek Interactive
-                  price: 40000000
-                - date: '2013-07-22'
-                  acquiree: Xtreme Insights
-                - date: '2013-09-13'
-                  acquiree: Indisys
-                  price: 26000000
-                - date: '2013-09-30'
-                  acquiree: Sensory Network
-                - date: '2013-11-08'
-                  acquiree: Kno
-                - date: '2013-11-20'
-                  acquiree: Hacker League
-                - date: '2014-01-28'
-                  acquiree: Appmobi
-                - date: '2014-03-03'
-                  acquiree: BASIS Science
-                  price: 100000000
-                - date: '2014-08-13'
-                  acquiree: LSI - Axxia Networking Business
-                  price: 650000000
-                - date: '2014-12-01'
-                  acquiree: PasswordBox
-                - date: '2015-01-21'
-                  acquiree: Composyt Light Labs
-                - date: '2015-02-02'
-                  acquiree: Lantiq
-                - date: '2015-03-26'
-                  acquiree: Lemoptix
-                - date: '2015-06-01'
-                  acquiree: Altera
-                  price: 16700000000
-                - date: '2015-06-18'
-                  acquiree: Recon Instruments
-                  price: 175000000
-                - date: '2015-08-14'
-                  acquiree: Docea Power
-                - date: '2015-10-26'
-                  acquiree: Saffron Technology
-                - date: '2016-01-04'
-                  acquiree: Ascending Technologies
-                - date: '2016-03-08'
-                  acquiree: Replay Technologies
-                  price: 175000000
-                - date: '2016-04-05'
-                  acquiree: YOGITECH
-                - date: '2016-05-26'
-                  acquiree: Itseez
-                - date: '2016-08-09'
-                  acquiree: Nervana
-                  price: 408000000
-                - date: '2016-09-06'
-                  acquiree: Movidius
-                  price: 400000000
-                - date: '2016-09-09'
-                  acquiree: Soft Machines
-                  price: 250000000
-                - date: '2016-11-01'
-                  acquiree: MAVinci GmbH
-                - date: '2016-11-03'
-                  acquiree: VOKE
-                - date: '2017-03-13'
-                  acquiree: Mobileye
-                  price: 15300000000
-                - date: '2018-07-12'
-                  acquiree: eASIC
-                - date: '2018-08-16'
-                  acquiree: Vertex.AI
-                - date: '2018-09-10'
-                  acquiree: NetSpeed Systems
-                - date: '2019-02-18'
-                  acquiree: Ineda Systems
-                - date: '2019-04-16'
-                  acquiree: Omnitek
-                - date: '2019-06-10'
-                  acquiree: Barefoot Networks
-                - date: '2019-10-16'
-                  acquiree: Smart Edge
-                  price: 27000000
-                - date: '2019-12-16'
-                  acquiree: Habana
-                  price: 2000000000
-                - date: '2020-05-04'
-                  acquiree: Moovit
-                  price: 900000000
-                - date: '2020-05-20'
-                  acquiree: Rivet Networks
-                - date: '2020-10-29'
-                  acquiree: SigOpt
-                - date: '2020-11-04'
-                  acquiree: cnvrg.io
-                - date: '2021-11-09'
-                  acquiree: RemoteMyApp
-                - date: '2021-12-07'
-                  acquiree: Screenovate
-                  price: 100000000
-                - date: '2022-02-15'
-                  acquiree: Tower Semiconductor
-                  price: 5400000000
-                - date: '2022-02-23'
-                  acquiree: Linutronix
-                - date: '2022-03-31'
-                  acquiree: Granulate
-                - date: '2022-04-12'
-                  acquiree: Ananki
-                - date: '2022-05-03'
-                  acquiree: Siru Innovations
-                - date: '2022-06-01'
-                  acquiree: Codeplay Software
-              parents: []
-              ticker: INTC
-              funding: 12510000
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - Artificial Intelligence
-                - Computer
-                - GPU
-                - Hardware
-                - Information Technology
-                - Manufacturing
-                - Product Design
-                - Semiconductor
-                - Software
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 118568706048
-              effective_ticker: INTC
-            image_data:
-              fileName: intel-corporation.svg
-              hash: YWQ80CsgJtAmwbNtK4vUctFfHSoRP0KCwzXdn4lCszE=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: International Business Machines Corporation
-            homepage_url: https://ibm.com/
-            logo: international_business_machines_corporation.svg
-            twitter: https://twitter.com/IBM
-            crunchbase: https://www.crunchbase.com/organization/ibm
-            crunchbase_data:
-              name: IBM
-              description: IBM is an IT technology and consulting firm providing computer hardware, software, infrastructure, and hosting services.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.ibm.com/
-              city: Armonk
-              region: New York
-              country: United States
-              twitter: http://twitter.com/IBM
-              linkedin: https://www.linkedin.com/company/ibm/
-              acquisitions:
-                - date: '1923-01-01'
-                  acquiree: Dehomag
-                - date: '1930-01-01'
-                  acquiree: The Automatic Accounting Scale Company
-                - date: '1932-01-01'
-                  acquiree: National Counting Scale Company
-                - date: '1941-01-01'
-                  acquiree: Munitions Manufacturing Corporation
-                - date: '1964-01-01'
-                  acquiree: Science Research Associates
-                - date: '1974-01-01'
-                  acquiree: Satellite Business Systems
-                - date: '1984-09-26'
-                  acquiree: ROLM Corporation
-                - date: '1994-08-01'
-                  acquiree: Transarc
-                - date: '1995-07-06'
-                  acquiree: Lotus Development Corporation
-                  price: 3500000000
-                - date: '1996-02-01'
-                  acquiree: Tivoli Systems
-                  price: 743000000
-                - date: '1997-03-19'
-                  acquiree: NetObjects
-                - date: '1998-04-30'
-                  acquiree: CommQuest Services
-                  price: 200000000
-                - date: '1999-06-09'
-                  acquiree: Whistle Communications
-                - date: '1999-07-12'
-                  acquiree: Sequent Computer Systems Inc
-                - date: '1999-07-27'
-                  acquiree: Mylex
-                  price: 240000000
-                - date: '1999-09-22'
-                  acquiree: Dascom
-                - date: '2001-06-07'
-                  acquiree: Mainspring
-                - date: '2002-01-14'
-                  acquiree: CrossWorlds Software
-                  price: 129000000
-                - date: '2002-06-25'
-                  acquiree: Metamerge
-                - date: '2002-08-29'
-                  acquiree: TrelliSoft
-                - date: '2002-09-03'
-                  acquiree: Access360
-                - date: '2002-09-12'
-                  acquiree: HOLOSOFX
-                - date: '2002-10-02'
-                  acquiree: PwC Consulting
-                  price: 3500000000
-                - date: '2002-10-07'
-                  acquiree: EADS Matra Datavision
-                - date: '2002-11-04'
-                  acquiree: Tarian Software
-                - date: '2003-02-20'
-                  acquiree: Rational Software
-                - date: '2003-05-14'
-                  acquiree: Think Dynamics
-                - date: '2003-07-15'
-                  acquiree: Presence Online
-                - date: '2003-10-14'
-                  acquiree: CrossAccess
-                - date: '2003-11-13'
-                  acquiree: Productivity Solutions
-                - date: '2003-12-17'
-                  acquiree: Green Pasture Software
-                - date: '2004-03-09'
-                  acquiree: Trigo Technologies
-                - date: '2004-04-07'
-                  acquiree: Daksh Infosoft
-                - date: '2004-04-07'
-                  acquiree: Daksh eServices
-                - date: '2004-06-07'
-                  acquiree: Candle Corporation
-                - date: '2004-07-14'
-                  acquiree: AlphaBlox
-                - date: '2004-07-29'
-                  acquiree: Cyanea Systems
-                - date: '2004-08-17'
-                  acquiree: Maersk Data
-                - date: '2004-08-26'
-                  acquiree: Venetica
-                - date: '2004-10-12'
-                  acquiree: Systemcorp A.L.G.
-                - date: '2004-11-23'
-                  acquiree: Liberty Insurance Services
-                - date: '2004-12-13'
-                  acquiree: KeyMRO
-                - date: '2005-01-07'
-                  acquiree: SRD
-                - date: '2005-01-07'
-                  acquiree: Systems Research & Development
-                - date: '2005-01-25'
-                  acquiree: Corio
-                  price: 182000000
-                - date: '2005-02-02'
-                  acquiree: Equitant
-                - date: '2005-05-02'
-                  acquiree: Ascential Software
-                - date: '2005-05-10'
-                  acquiree: Gluecode Software
-                - date: '2005-06-15'
-                  acquiree: Healthlink
-                - date: '2005-06-23'
-                  acquiree: Meiosys
-                - date: '2005-07-27'
-                  acquiree: Isogon Corporation
-                - date: '2005-08-02'
-                  acquiree: DWL
-                - date: '2005-08-05'
-                  acquiree: PureEdge Solutions
-                - date: '2005-10-18'
-                  acquiree: DataPower Technology
-                - date: '2005-11-01'
-                  acquiree: iPhrase Technologies
-                - date: '2005-11-09'
-                  acquiree: Network Solutions Private Limited
-                - date: '2005-11-16'
-                  acquiree: Collation
-                - date: '2005-12-20'
-                  acquiree: Bowstreet
-                - date: '2005-12-21'
-                  acquiree: Micromuse
-                  price: 865000000
-                - date: '2006-01-25'
-                  acquiree: CIMS Lab
-                - date: '2006-01-27'
-                  acquiree: ARGUS Semiconductor Software
-                - date: '2006-02-08'
-                  acquiree: Viacore
-                - date: '2006-03-16'
-                  acquiree: Language Analysis Systems
-                - date: '2006-05-02'
-                  acquiree: BuildForge
-                - date: '2006-05-08'
-                  acquiree: Unicorn Solutions
-                - date: '2006-05-18'
-                  acquiree: Rembo Technology
-                - date: '2006-08-02'
-                  acquiree: Webify
-                - date: '2006-09-06'
-                  acquiree: Global Value Solutions
-                - date: '2006-09-30'
-                  acquiree: Valchemy
-                - date: '2006-10-05'
-                  acquiree: MRO Software
-                - date: '2006-10-12'
-                  acquiree: FileNet Corporation
-                  price: 1600000000
-                - date: '2006-10-20'
-                  acquiree: Internet Security Systems
-                - date: '2006-11-10'
-                  acquiree: Palisades Technology Partners
-                - date: '2006-12-05'
-                  acquiree: Consul Risk Management International
-                - date: '2007-02-14'
-                  acquiree: Vallent Corporation
-                - date: '2007-03-01'
-                  acquiree: Softek Storage Solutions
-                - date: '2007-04-20'
-                  acquiree: Unicible
-                - date: '2007-06-11'
-                  acquiree: Telelogic
-                  price: 745000000
-                - date: '2007-07-23'
-                  acquiree: Watchfire
-                - date: '2007-08-03'
-                  acquiree: Princeton Softech
-                - date: '2007-08-22'
-                  acquiree: Webdialogs
-                - date: '2007-09-04'
-                  acquiree: DataMirror
-                - date: '2007-10-24'
-                  acquiree: NovusCG
-                - date: '2007-12-06'
-                  acquiree: Arsenal Digital Solutions
-                - date: '2007-12-21'
-                  acquiree: Solid Information Technology
-                - date: '2008-01-02'
-                  acquiree: XIV
-                - date: '2008-01-18'
-                  acquiree: Net Integration Technologies
-                - date: '2008-01-23'
-                  acquiree: AptSoft
-                - date: '2008-01-31'
-                  acquiree: Cognos
-                - date: '2008-03-12'
-                  acquiree: Encentuate
-                - date: '2008-04-10'
-                  acquiree: FilesX
-                - date: '2008-04-22'
-                  acquiree: Diligent
-                - date: '2008-04-29'
-                  acquiree: InfoDyne Corporation
-                - date: '2008-07-02'
-                  acquiree: Platform Solutions
-                - date: '2008-07-28'
-                  acquiree: ILOG
-                - date: '2008-11-18'
-                  acquiree: Transitive
-                - date: '2009-04-16'
-                  acquiree: Outblaze
-                - date: '2009-05-05'
-                  acquiree: Exeros
-                - date: '2009-07-28'
-                  acquiree: Ounce Labs
-                - date: '2009-07-28'
-                  acquiree: SPSS
-                - date: '2009-09-22'
-                  acquiree: RedPill Solutions
-                - date: '2009-11-30'
-                  acquiree: Guardium
-                  price: 225000000
-                - date: '2009-12-16'
-                  acquiree: Lombardi Software
-                - date: '2010-01-20'
-                  acquiree: National Interest Security Company
-                - date: '2010-02-03'
-                  acquiree: Initiate Systems
-                - date: '2010-02-16'
-                  acquiree: Intelliden
-                - date: '2010-05-03'
-                  acquiree: Cast Iron Systems
-                - date: '2010-05-24'
-                  acquiree: Sterling Commerce
-                - date: '2010-06-14'
-                  acquiree: Storwize
-                  price: 140000000
-                - date: '2010-06-15'
-                  acquiree: Coremetrics
-                - date: '2010-07-01'
-                  acquiree: BigFix
-                - date: '2010-08-10'
-                  acquiree: Datacap
-                - date: '2010-08-13'
-                  acquiree: Unica
-                  price: 480000000
-                - date: '2010-09-15'
-                  acquiree: OpenPages
-                - date: '2010-09-20'
-                  acquiree: Netezza
-                  price: 1800000000
-                - date: '2010-09-27'
-                  acquiree: BLADE Network Technologies
-                - date: '2010-10-13'
-                  acquiree: PSS Systems
-                - date: '2010-10-21'
-                  acquiree: Clarity Systems
-                - date: '2011-04-14'
-                  acquiree: TRIRIGA
-                - date: '2011-08-31'
-                  acquiree: i2 Group
-                - date: '2011-09-01'
-                  acquiree: Algorithmics
-                  price: 380200000
-                - date: '2011-10-04'
-                  acquiree: Q1 Labs
-                - date: '2011-10-11'
-                  acquiree: Platform Computing
-                - date: '2011-12-08'
-                  acquiree: DemandTec
-                  price: 440000000
-                - date: '2011-12-15'
-                  acquiree: Emptoris
-                - date: '2011-12-20'
-                  acquiree: Cúram Software
-                - date: '2012-01-04'
-                  acquiree: Green Hat
-                - date: '2012-01-31'
-                  acquiree: Worklight
+                - date: '2003-12-18'
+                  acquiree: Infosys Technologies (Australia) Pty. Ltd.
+                  price: 22900000
+                - date: '2009-11-13'
+                  acquiree: McCamish Systems LLC
+                  price: 58000000
+                - date: '2012-05-05'
+                  acquiree: EdgeVerve
+                  price: 235000000
+                - date: '2012-09-10'
+                  acquiree: Lodestone Holding
+                  price: 349000000
+                - date: '2015-02-16'
+                  acquiree: Panaya
+                  price: 230000000
+                - date: '2015-04-24'
+                  acquiree: Kallidus Technologies
+                  price: 120000000
+                - date: '2015-04-27'
+                  acquiree: Skava
+                  price: 120000000
+                - date: '2015-10-19'
+                  acquiree: Noah Consulting
                   price: 70000000
-                - date: '2012-04-13'
-                  acquiree: Varicent Software
-                - date: '2012-04-25'
-                  acquiree: Vivisimo
-                - date: '2012-05-02'
-                  acquiree: Tealeaf
-                - date: '2012-07-01'
-                  acquiree: Cibecs
-                - date: '2012-08-16'
-                  acquiree: Texas Memory Systems
-                - date: '2012-08-28'
-                  acquiree: Kenexa
-                - date: '2012-09-24'
-                  acquiree: Butterfly Software
-                - date: '2013-02-07'
-                  acquiree: StoredIQ
-                - date: '2013-03-20'
-                  acquiree: Star Analytics
-                - date: '2013-04-22'
-                  acquiree: Urbancode
-                - date: '2013-06-04'
-                  acquiree: SoftLayer
-                  price: 2000000000
-                - date: '2013-07-10'
-                  acquiree: CSL International
-                - date: '2013-08-15'
-                  acquiree: Trusteer
-                - date: '2013-09-19'
-                  acquiree: Daeja Image Systems
-                - date: '2013-10-03'
-                  acquiree: Xtify
-                - date: '2013-10-29'
-                  acquiree: The Now Factory
-                - date: '2013-12-18'
-                  acquiree: Fiberlink
-                  price: 375000000
-                - date: '2013-12-19'
-                  acquiree: Aspera
-                - date: '2014-02-24'
-                  acquiree: Cloudant
-                - date: '2014-02-24'
-                  acquiree: Cloudant
-                - date: '2014-04-10'
-                  acquiree: Silverpop
-                  price: 270000000
-                - date: '2014-05-20'
-                  acquiree: Cognea
-                - date: '2014-07-31'
-                  acquiree: CrossIdeas
-                - date: '2015-03-04'
-                  acquiree: AlchemyAPI
-                - date: '2015-03-27'
-                  acquiree: Blekko
-                - date: '2015-04-16'
-                  acquiree: Explorys
-                - date: '2015-05-04'
-                  acquiree: Phytel
-                - date: '2015-06-03'
-                  acquiree: The Blue Box
-                - date: '2015-07-23'
-                  acquiree: Compose
-                - date: '2015-08-06'
-                  acquiree: Merge Healthcare
-                  price: 1000000000
-                - date: '2015-09-10'
-                  acquiree: StrongLoop
-                - date: '2015-09-28'
-                  acquiree: Meteorix
-                - date: '2015-10-05'
-                  acquiree: Cleversafe
-                  price: 1300000000
-                - date: '2015-10-28'
-                  acquiree: The Weather Company
-                - date: '2015-11-03'
-                  acquiree: Gravitant
-                - date: '2015-12-08'
-                  acquiree: Clearleap
-                - date: '2016-01-15'
-                  acquiree: IRIS Analytics
-                - date: '2016-01-21'
-                  acquiree: Ustream
-                - date: '2016-01-28'
-                  acquiree: Resource/Ammirati
-                - date: '2016-02-02'
-                  acquiree: Aperto
-                - date: '2016-02-03'
-                  acquiree: Ecx.io
-                - date: '2016-02-18'
-                  acquiree: Truven Health Analytics
-                  price: 2600000000
-                - date: '2016-02-29'
-                  acquiree: IBM Resilient
-                - date: '2016-03-17'
-                  acquiree: Optevia
-                - date: '2016-03-30'
-                  acquiree: Bluewolf
-                  price: 200000000
-                - date: '2016-06-01'
-                  acquiree: EZSource
-                - date: '2016-09-29'
-                  acquiree: Promontory Financial Group
-                - date: '2016-10-27'
-                  acquiree: Sanovi Technologies
-                - date: '2016-11-01'
-                  acquiree: Expert Personal Shopper (XPS)
-                - date: '2017-01-23'
-                  acquiree: Agile 3 Solutions
-                - date: '2017-05-02'
-                  acquiree: Verizon - Cloud services
-                - date: '2017-09-24'
-                  acquiree: Cloudigo
-                - date: '2017-10-04'
-                  acquiree: Vivant
-                - date: '2018-05-03'
-                  acquiree: Armanta
-                - date: '2018-06-15'
-                  acquiree: Oniqua Inc.
-                - date: '2018-10-28'
-                  acquiree: Red Hat
-                  price: 34000000000
-                - date: '2019-01-14'
-                  acquiree: T-Systems - Mainframe Services business
-                - date: '2019-06-01'
-                  acquiree: Red Hat
-                - date: '2020-06-15'
-                  acquiree: Spanugo
-                - date: '2020-07-08'
-                  acquiree: WDG Automation
-                - date: '2020-11-16'
-                  acquiree: TruQua
-                - date: '2020-11-18'
-                  acquiree: Instana
-                - date: '2020-12-15'
-                  acquiree: Expertus Technologies
-                - date: '2020-12-21'
-                  acquiree: Nordcloud
-                - date: '2021-01-11'
-                  acquiree: 7Summits
-                - date: '2021-01-14'
-                  acquiree: Taos Mountain
-                - date: '2021-04-15'
-                  acquiree: myInvenio, an IBM Company
-                - date: '2021-04-29'
-                  acquiree: Turbonomic
-                  price: 2000000000
-                - date: '2021-05-18'
-                  acquiree: Waeg
-                - date: '2021-05-25'
-                  acquiree: Catalogic ECX
-                - date: '2021-07-08'
-                  acquiree: BoxBoat Technologies
-                - date: '2021-07-15'
-                  acquiree: Bluetab
-                - date: '2021-10-28'
-                  acquiree: McD Tech Labs
-                - date: '2021-11-02'
-                  acquiree: ReaQta
-                - date: '2021-11-30'
-                  acquiree: SXiQ
-                - date: '2022-01-11'
-                  acquiree: Envizi
-                - date: '2022-02-01'
-                  acquiree: Sentaca
-                - date: '2022-02-15'
-                  acquiree: Neudesic
-                - date: '2022-06-14'
-                  acquiree: Randori
-                - date: '2022-07-06'
-                  acquiree: Databand
-                  price: 150000000
-                - date: '2022-09-22'
-                  acquiree: Dialexa
-                - date: '2022-12-07'
-                  acquiree: Octo
+                - date: '2017-04-18'
+                  acquiree: Skytree
+                - date: '2017-08-03'
+                  acquiree: Brilliant Basics
+                  price: 9857085
+                - date: '2018-04-13'
+                  acquiree: WONGDOODY
+                  price: 75040000
+                - date: '2018-09-14'
+                  acquiree: Fluido
+                - date: '2019-03-28'
+                  acquiree: Stater
+                  price: 143179276
+                - date: '2019-10-09'
+                  acquiree: Eishtec
+                - date: '2020-02-10'
+                  acquiree: Simplus
+                - date: '2020-09-03'
+                  acquiree: Kaleidoscope Innovation and Product Design
+                  price: 42000000
+                - date: '2020-09-14'
+                  acquiree: GuideVision
+                - date: '2020-10-08'
+                  acquiree: Blue Acorn iCi
+                  price: 125000000
+                - date: '2021-01-13'
+                  acquiree: Carter Digital
+                - date: '2021-12-15'
+                  acquiree: Singtel
+                  price: 4392772
+                - date: '2022-07-13'
+                  acquiree: Base Life Science
+                  price: 110377602
               parents: []
-              ticker: IBM
+              ticker: INFY
+              funding: 200000000
               stockExchange: nyse
               company_type: For Profit
               industries:
-                - Business Development
-                - Business Information Systems
-                - CRM
-                - Software
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 128801177600
-              effective_ticker: IBM
-            image_data:
-              fileName: international-business-machines-corporation.svg
-              hash: E3EqK0+0lDbMaYLFdixTASQkDfEwHfQSUjMYvazFtoI=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Juniper Networks, Inc.
-            homepage_url: https://juniper.net/
-            logo: juniper_networks_inc.svg
-            twitter: https://twitter.com/JuniperNetworks
-            crunchbase: https://www.crunchbase.com/organization/juniper-networks
-            crunchbase_data:
-              name: Juniper Networks
-              description: Juniper Networks is a networking company that markets and develops networking products for enterprise companies.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: http://www.juniper.net
-              city: Sunnyvale
-              region: California
-              country: United States
-              twitter: http://twitter.com/JuniperNetworks
-              linkedin: https://www.linkedin.com/company/juniper-networks
-              acquisitions:
-                - date: '1999-11-15'
-                  acquiree: Layer Five
-                  price: 19000000
-                - date: '2000-01-18'
-                  acquiree: Pacific Advantage Ltd.
-                  price: 4000000
-                - date: '2001-12-11'
-                  acquiree: Micro Magic
-                  price: 260000000
-                - date: '2001-12-14'
-                  acquiree: Pacific Broadband Communications
-                  price: 200000000
-                - date: '2002-07-01'
-                  acquiree: Unisphere Networks
-                  price: 740000000
-                - date: '2004-02-10'
-                  acquiree: NetScreen Technologies
-                  price: 3400000000
-                - date: '2005-03-29'
-                  acquiree: Kagoor Networks
-                - date: '2005-05-05'
-                  acquiree: Redline Networks
-                  price: 132000000
-                - date: '2005-07-01'
-                  acquiree: Peribit Networks
-                  price: 337000000
-                - date: '2005-10-25'
-                  acquiree: Acorn Packet Solutions
-                  price: 8700000
-                - date: '2005-11-14'
-                  acquiree: Funk Software
-                  price: 122000000
-                - date: '2010-04-08'
-                  acquiree: Ankeena Networks
-                  price: 100000000
-                - date: '2010-07-27'
-                  acquiree: SMobile Systems
-                  price: 70000000
-                - date: '2010-11-16'
-                  acquiree: Trapeze Networks
-                  price: 152000000
-                - date: '2010-11-18'
-                  acquiree: Blackwave
-                - date: '2010-12-06'
-                  acquiree: Altor Networks
-                - date: '2011-02-21'
-                  acquiree: Brilliant Telecommunications
-                  price: 4500000
-                - date: '2012-02-22'
-                  acquiree: Mykonos Software
-                - date: '2012-12-13'
-                  acquiree: Contrail Systems
-                  price: 176000000
-                - date: '2013-02-08'
-                  acquiree: Webscreen Technology
-                - date: '2013-12-16'
-                  acquiree: WANDL
-                - date: '2016-04-04'
-                  acquiree: BTI Systems
-                - date: '2016-08-02'
-                  acquiree: Aurrion
-                - date: '2016-12-01'
-                  acquiree: AppFormix
-                - date: '2017-08-31'
-                  acquiree: Cyphort
-                - date: '2018-11-29'
-                  acquiree: HTBASE
-                - date: '2019-03-05'
-                  acquiree: Mist Systems
-                  price: 405000000
-                - date: '2020-10-19'
-                  acquiree: 128 Technology
-                  price: 450000000
-                - date: '2020-11-25'
-                  acquiree: SISRA
-                - date: '2020-12-07'
-                  acquiree: Apstra
-                - date: '2022-02-14'
-                  acquiree: WiteSand
-              parents: []
-              ticker: JNPR
-              funding: 38677847
-              stockExchange: nyse
-              company_type: For Profit
-              industries:
-                - Communication Hardware
+                - Consulting
+                - IT Management
+                - Information Services
                 - Information Technology
-                - Infrastructure
-                - Security
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 10369564672
-              effective_ticker: JNPR
-            image_data:
-              fileName: juniper-networks-inc.svg
-              hash: TD/eZspPAo+E0o5DYCc4jWSbldfUrLosK3SlHAzxlqo=
+                - Software
+              kind: funding
             best_practice_data:
               badge: false
               percentage: null
@@ -5475,90 +4516,7 @@ landscape:
               effective_ticker: NOK
             image_data:
               fileName: nokia-corporation.svg
-              hash: O58psGjj8Px6dMMskq7TUAb9+UR8Jvb63wV2RtOhXok=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Orange SA
-            homepage_url: https://orange.com/
-            logo: orange_sa.svg
-            twitter: https://twitter.com/orange
-            crunchbase: https://www.crunchbase.com/organization/orange
-            crunchbase_data:
-              name: Orange
-              description: Orange is a digital operator that offers mobile and internet services in Europe and Africa, and corporate telecommunication services.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.orange.com
-              city: Paris
-              region: Ile-de-France
-              country: France
-              twitter: https://twitter.com/orange
-              linkedin: https://www.linkedin.com/company/orange
-              acquisitions:
-                - date: '2001-07-04'
-                  acquiree: Autocity.com
-                - date: '2002-04-30'
-                  acquiree: S.C. Orange România
-                - date: '2004-06-29'
-                  acquiree: Wanadoo SA
-                - date: '2006-12-05'
-                  acquiree: Network Related Services SA
-                - date: '2009-08-28'
-                  acquiree: Unanimis
-                - date: '2011-10-21'
-                  acquiree: Orange RDC S.A.R.L
-                - date: '2013-02-22'
-                  acquiree: Dailymotion
-                  price: 168000000
-                - date: '2013-09-05'
-                  acquiree: InovenAltenor
-                - date: '2014-09-15'
-                  acquiree: Jazztel
-                  price: 3870000000
-                - date: '2015-03-20'
-                  acquiree: Cloudwatt
-                - date: '2016-01-11'
-                  acquiree: Cellcom Telecommunications
-                - date: '2016-04-15'
-                  acquiree: LEXSI
-                - date: '2016-04-21'
-                  acquiree: OASIS SPRL
-                - date: '2016-04-21'
-                  acquiree: Tigo
-                  price: 160000000
-                - date: '2016-04-22'
-                  acquiree: Groupama Banque
-                - date: '2016-06-29'
-                  acquiree: Sun Communications
-                - date: '2017-05-18'
-                  acquiree: Business & Decision
-                - date: '2019-02-01'
-                  acquiree: SecureData Europe Ltd.
-                - date: '2019-05-07'
-                  acquiree: SecureLink
-                  price: 576263752
-                - date: '2019-11-19'
-                  acquiree: Suma Móvil
-                - date: '2020-01-29'
-                  acquiree: Bucharest City App
-                - date: '2022-07-23'
-                  acquiree: MASMOVIL
-                  price: 11132172592
-              parents: []
-              ticker: ORA.PA
-              funding: 774445082
-              stockExchange: epa
-              company_type: For Profit
-              industries: []
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 27988755634
-              effective_ticker: ORA.PA
-            image_data:
-              fileName: orange-sa.svg
-              hash: 1jNOA6UGxYOGMX1Z4JaXkiXCtMXIuq53LmifRnjmGXc=
+              hash: VfTRS/6q4wBA7H/b3v5XJCBFr56DRkGi23Saajb1Cqk=
             best_practice_data:
               badge: false
               percentage: null
@@ -5655,7 +4613,7 @@ landscape:
               effective_ticker: IBM
             image_data:
               fileName: red-hat-inc.svg
-              hash: DP0xJOzNJFgqbN0RMQSYjY7TWaKh09iHDrR5sH3vk2U=
+              hash: YgiVPws6NHW8nPRghq7ooqbMAwREbnKytDEM6TKgVZE=
             best_practice_data:
               badge: false
               percentage: null
@@ -6162,229 +5120,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Adva Optical Networking SE
-            homepage_url: https://advaoptical.com/
-            logo: adva_optical_networking_se.svg
-            twitter: https://twitter.com/ADVAOpticalNews
-            crunchbase: https://www.crunchbase.com/organization/adva-optical-networking
-            crunchbase_data:
-              name: ADVA Optical Networking SE
-              description: ADVA Optical Networking is a global provider of intelligent telecommunications infrastructure solutions.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: https://www.adva.com
-              city: Martinsried
-              region: Bayern
-              country: Germany
-              twitter: http://twitter.com/ADVAOpticalNews
-              linkedin: https://www.linkedin.com/company/adva-optical-networking
-              acquisitions:
-                - date: '2004-09-17'
-                  acquiree: Metro Packet Systems
-                - date: '2005-10-17'
-                  acquiree: Covaro Networks
-                - date: '2006-06-05'
-                  acquiree: Movaz Networks
-                - date: '2007-06-01'
-                  acquiree: Gryfsoft
-                - date: '2013-01-02'
-                  acquiree: ADVA Optical Networking Israel
-                - date: '2013-02-14'
-                  acquiree: Biran High Tech Advisors
-                - date: '2014-03-11'
-                  acquiree: Oscilloquartz SA
-                - date: '2015-11-27'
-                  acquiree: FiSEC
-                - date: '2016-01-13'
-                  acquiree: Overture Networks
-                - date: '2017-07-02'
-                  acquiree: MRV Communications
-                  price: 69000000
-              parents:
-                - https://www.crunchbase.com/organization/swatch-group
-              ticker: UHR.SW
-              funding: 3000000
-              stockExchange: otcqb
-              company_type: For Profit
-              industries:
-                - Enterprise Software
-                - Hardware
-                - Software
-                - Telecommunications
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 15411537363
-              effective_ticker: UHR.SW
-            image_data:
-              fileName: adva-optical-networking-se.svg
-              hash: N+8bBqGGx16rqeunw86xkmAz6ngyiIO1OcSv+vqUG2s=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Amantya Technologies, Inc
-            homepage_url: https://amantyatech.com/
-            logo: amantya_technologies_inc.svg
-            twitter: https://twitter.com/Amantyatech
-            crunchbase: https://www.crunchbase.com/organization/amantya-technologies
-            crunchbase_data:
-              name: Amantya Technologies
-              description: Amantya Technologies is a leading USA-based product engineering and system integration company with operations in the USA, India and Canada.
-              num_employees_min: 251
-              num_employees_max: 500
-              homepage: https://amantyatech.com/
-              city: Chicago
-              region: Illinois
-              country: United States
-              twitter: https://twitter.com/Amantyatech
-              linkedin: https://www.linkedin.com/company/amantyatech
-              acquisitions:
-                - date: '2020-12-01'
-                  acquiree: Wavenet Solutions
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Artificial Intelligence
-                - Information Technology
-                - Telecommunications
-            image_data:
-              fileName: amantya-technologies-inc.svg
-              hash: 9PWTSHTtJXHv6DsFUWEGCLQMr3C2UyWDnyZBedMpkXI=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Amdocs Limited
-            homepage_url: https://amdocs.com/
-            logo: amdocs_limited.svg
-            twitter: https://twitter.com/Amdocs
-            crunchbase: https://www.crunchbase.com/organization/amdocs
-            crunchbase_data:
-              name: Amdocs
-              description: Amdocs is a developer and provider of customer experience systems for communications, media, and entertainment industries.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.amdocs.com
-              city: Chesterfield
-              region: Missouri
-              country: United States
-              twitter: http://twitter.com/amdocs
-              linkedin: https://www.linkedin.com/company/amdocs
-              acquisitions:
-                - date: '2000-03-01'
-                  acquiree: Solect Technology Group
-                  price: 1150000000
-                - date: '2003-12-22'
-                  acquiree: XACCT Technologies
-                  price: 30000000
-                - date: '2005-07-05'
-                  acquiree: DST Innovis
-                  price: 238000000
-                - date: '2006-04-18'
-                  acquiree: Qpass
-                  price: 275000000
-                - date: '2006-07-18'
-                  acquiree: Cramer Systems
-                  price: 375000000
-                - date: '2008-04-08'
-                  acquiree: Jacobs Rimell Ltd.
-                  price: 45000000
-                - date: '2008-12-31'
-                  acquiree: Changingworlds
-                  price: 60000000
-                - date: '2009-10-27'
-                  acquiree: jNetX
-                - date: '2010-03-23'
-                  acquiree: MX Telecom
-                  price: 104000000
-                - date: '2010-04-23'
-                  acquiree: Streamezzo
-                - date: '2011-06-17'
-                  acquiree: Bridgewater Systems
-                  price: 211000000
-                - date: '2013-06-11'
-                  acquiree: Celcite
-                  price: 129000000
-                - date: '2013-09-03'
-                  acquiree: Actix
-                - date: '2016-01-15'
-                  acquiree: cVidya
-                  price: 30000000
-                - date: '2016-09-14'
-                  acquiree: Brite:Bill
-                - date: '2016-09-14'
-                  acquiree: Pontis
-                - date: '2016-09-14'
-                  acquiree: Vindicia
-                - date: '2018-01-30'
-                  acquiree: Vubiquity
-                  price: 224000000
-                - date: '2019-08-07'
-                  acquiree: Telecom Technology Services
-                  price: 50000000
-                - date: '2020-07-23'
-                  acquiree: Openet
-                  price: 180000000
-                - date: '2021-05-12'
-                  acquiree: Sourced Group
-                  price: 75000000
-                - date: '2022-05-24'
-                  acquiree: MYCOM OSI
-                  price: 188000000
-              parents: []
-              ticker: DOX
-              funding: 0
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - Big Data
-                - CRM
-                - Customer Service
-                - Outsourcing
-                - Software
-                - Telecommunications
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 11095832576
-              effective_ticker: DOX
-            image_data:
-              fileName: amdocs-limited.svg
-              hash: NtI1GFLrmMrLHCLtYD2A1gre5b2jLPpZmrSXN5iHfBU=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: AQSACOM
-            homepage_url: https://aqsacom.com/
-            logo: aqsacom.svg
-            twitter: https://twitter.com/AqsacomGlobal
-            crunchbase: https://www.crunchbase.com/organization/aqsacom
-            crunchbase_data:
-              name: AQSACOM
-              description: AQSACOM provides cyber intelligence software solutions for communications service providers and law enforcement agencies.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: https://aqsacom.com/
-              city: Paris
-              region: Ile-de-France
-              country: France
-              twitter: https://twitter.com/AqsacomGlobal
-              linkedin: https://www.linkedin.com/company/aqsacom/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Law Enforcement
-                - Software
-            image_data:
-              fileName: aqsacom.svg
-              hash: 7WU1mcieBEtIERNI/Z7zn7c+PQ1xaXGAQ2glHQ95sKc=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Arista Networks, Inc.
             homepage_url: https://arista.com/
             logo: arista_networks_inc.svg
@@ -6437,7 +5172,7 @@ landscape:
             name: Arm Limited
             homepage_url: https://arm.com/
             logo: arm_limited.svg
-            twitter: https://twitter.com/Arm
+            twitter: https://twitter.com/ArmCommunity
             crunchbase: https://www.crunchbase.com/organization/arm
             crunchbase_data:
               name: Arm Holdings
@@ -6501,127 +5236,6 @@ landscape:
             image_data:
               fileName: arm-limited.svg
               hash: 6cFaSOdPutT9CLhP42mgBkq/YAgPKaMyaWG4b7YRpEo=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Atos France
-            homepage_url: https://atos.net/
-            logo: atos_france.svg
-            twitter: https://twitter.com/Atos
-            crunchbase: https://www.crunchbase.com/organization/atos
-            crunchbase_data:
-              name: Atos
-              description: Atos provides consulting services and solutions, ranging from supporting strategy development to enterprise solutions and technology.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://atos.net
-              city: Bezons
-              region: Ile-de-France
-              country: France
-              twitter: http://twitter.com/atos
-              linkedin: https://www.linkedin.com/company/atos
-              acquisitions:
-                - date: '2002-06-05'
-                  acquiree: KPMG INDIA
-                - date: '2004-01-29'
-                  acquiree: SchlumbergerSema
-                - date: '2005-01-19'
-                  acquiree: Contrado Technologies
-                - date: '2010-08-26'
-                  acquiree: Venture Infotek Global Private
-                - date: '2012-04-15'
-                  acquiree: blueKiwi software
-                - date: '2014-05-26'
-                  acquiree: BULL
-                  price: 845971742
-                - date: '2014-06-11'
-                  acquiree: Atos Consulting
-                - date: '2014-06-11'
-                  acquiree: Cambridge Technology Partners
-                - date: '2015-10-01'
-                  acquiree: AMG.net S.A.
-                - date: '2015-11-03'
-                  acquiree: Unify
-                  price: 372704851
-                - date: '2016-09-12'
-                  acquiree: Anthelio
-                  price: 275000000
-                - date: '2017-01-02'
-                  acquiree: Engage ESM
-                - date: '2017-01-11'
-                  acquiree: Infopartners OOD
-                - date: '2017-02-17'
-                  acquiree: zData Inc.
-                - date: '2017-10-02'
-                  acquiree: Siemens Convergence Creators
-                - date: '2017-10-04'
-                  acquiree: Conduent - Breakaway Group business
-                - date: '2017-10-04'
-                  acquiree: Pursuit Healthcare Advisors
-                - date: '2017-10-24'
-                  acquiree: Imakumo
-                - date: '2018-04-11'
-                  acquiree: Air-Lynx
-                - date: '2018-07-22'
-                  acquiree: Syntel
-                - date: '2019-10-01'
-                  acquiree: IDnomic
-                - date: '2019-12-18'
-                  acquiree: Maven Wave
-                - date: '2020-04-22'
-                  acquiree: Miner & Kasch Data Science
-                - date: '2020-06-24'
-                  acquiree: Paladion
-                - date: '2020-07-27'
-                  acquiree: EcoAct
-                - date: '2020-10-22'
-                  acquiree: Eagle Creek Software Services
-                - date: '2020-10-22'
-                  acquiree: SEC Consult
-                - date: '2020-12-16'
-                  acquiree: Motiv ICT Security
-                - date: '2021-01-12'
-                  acquiree: In Fidem
-                - date: '2021-02-22'
-                  acquiree: Profit4SF
-                - date: '2021-04-20'
-                  acquiree: Cryptovision
-                - date: '2021-04-20'
-                  acquiree: Ipsotek
-                - date: '2021-04-20'
-                  acquiree: Processia
-                - date: '2021-07-27'
-                  acquiree: Ideal Group
-                - date: '2021-07-27'
-                  acquiree: Nimbix
-                - date: '2021-07-27'
-                  acquiree: Visual BI Solutions
-                - date: '2021-10-20'
-                  acquiree: Datasentics
-                - date: '2021-12-01'
-                  acquiree: AppCentrica
-                - date: '2021-12-07'
-                  acquiree: Cloudreach
-              parents: []
-              ticker: AEXAF
-              stockExchange: otcpink
-              company_type: For Profit
-              industries:
-                - Business Development
-                - Consulting
-                - Enterprise Software
-                - Information Services
-                - Information Technology
-                - Outsourcing
-                - Software
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 1336883328
-              effective_ticker: AEXAF
-            image_data:
-              fileName: atos-france.svg
-              hash: lyfHA0SObHCJcQgG+mQAa2f8x7/tCvWbdyCVJGm6TVM=
             best_practice_data:
               badge: false
               percentage: null
@@ -6840,9 +5454,9 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Equinix, Inc.
+            name: Equinix Services, Inc.
             homepage_url: https://equinix.com/
-            logo: equinix_inc.svg
+            logo: equinix_services_inc.svg
             twitter: https://twitter.com/Equinix
             crunchbase: https://www.crunchbase.com/organization/equinix
             crunchbase_data:
@@ -6915,7 +5529,7 @@ landscape:
               market_cap: 62365126656
               effective_ticker: EQIX
             image_data:
-              fileName: equinix-inc.svg
+              fileName: equinix-services-inc.svg
               hash: mfN59XFl9tD7TMQB3rTr88bj7jx24elvEaZY4qAVNqA=
             best_practice_data:
               badge: false
@@ -6924,6 +5538,7 @@ landscape:
             name: Firecell
             homepage_url: https://firecell.io/
             logo: firecell.svg
+            twitter: https://twitter.com/firecellP5G
             organization:
               name: Firecell
             crunchbase_data:
@@ -7056,7 +5671,7 @@ landscape:
             name: Globo
             homepage_url: https://globo.com/
             logo: globo.svg
-            twitter: https://twitter.com/globocom
+            twitter: https://twitter.com/globonoticias
             crunchbase: https://www.crunchbase.com/organization/organiza-es-globo
             crunchbase_data:
               name: Globo.com
@@ -7161,6 +5776,418 @@ landscape:
             image_data:
               fileName: hewlett-packard-enterprise-development-lp.svg
               hash: +QsscFJKNY1raBHLum9FHnm9Ma2UYbKKeBKKFcXoonE=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Intel Corporation
+            homepage_url: https://intel.com/
+            logo: intel_corporation.svg
+            twitter: https://twitter.com/intel
+            crunchbase: https://www.crunchbase.com/organization/intel
+            crunchbase_data:
+              name: Intel
+              description: Intel designs, manufactures, and sells integrated digital technology platforms worldwide.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.intel.com/
+              city: Santa Clara
+              region: California
+              country: United States
+              twitter: http://twitter.com/intel
+              linkedin: https://www.linkedin.com/company/intel-corporation
+              acquisitions:
+                - date: '1997-07-27'
+                  acquiree: Chips and Technologies
+                  price: 420000000
+                - date: '1997-09-25'
+                  acquiree: Dayna Communications
+                - date: '1997-09-30'
+                  acquiree: Corollary
+                - date: '1998-10-26'
+                  acquiree: Shiva Corporation
+                - date: '1998-12-03'
+                  acquiree: iCat
+                - date: '1999-03-04'
+                  acquiree: Level One Communications
+                - date: '1999-07-07'
+                  acquiree: Softcom Microsystems
+                - date: '1999-09-01'
+                  acquiree: NetBoost
+                - date: '1999-09-27'
+                  acquiree: XLNT
+                - date: '1999-10-05'
+                  acquiree: iPivot
+                  price: 500000000
+                - date: '1999-11-15'
+                  acquiree: Parity Software Development
+                - date: '2000-02-04'
+                  acquiree: Ambient Technologies
+                - date: '2000-02-04'
+                  acquiree: Thinkit Technologies
+                - date: '2000-02-24'
+                  acquiree: Voice Technologies
+                - date: '2000-03-15'
+                  acquiree: GIGA
+                  price: 1250000000
+                - date: '2000-03-21'
+                  acquiree: Basis Communications
+                  price: 450000000
+                - date: '2000-04-06'
+                  acquiree: Kuck & Associates
+                - date: '2000-04-10'
+                  acquiree: Picazo Communications
+                - date: '2000-07-04'
+                  acquiree: Ford Microelectronics
+                - date: '2000-08-11'
+                  acquiree: DataKinetics
+                - date: '2000-08-15'
+                  acquiree: Ziatech
+                  price: 240000000
+                - date: '2001-01-15'
+                  acquiree: Xircom
+                  price: 748000000
+                - date: '2001-02-26'
+                  acquiree: VxTel
+                  price: 550000000
+                - date: '2001-03-12'
+                  acquiree: CAD-UL
+                - date: '2001-03-20'
+                  acquiree: ICP vortex Computersysteme
+                - date: '2001-04-24'
+                  acquiree: Cognet
+                - date: '2001-04-24'
+                  acquiree: LightLogic
+                - date: '2002-09-17'
+                  acquiree: Sparkolor Corporation
+                - date: '2003-03-01'
+                  acquiree: Iospan Wireless
+                - date: '2003-06-01'
+                  acquiree: Scale Eight
+                - date: '2003-07-08'
+                  acquiree: West Bay Semiconductor
+                - date: '2003-08-29'
+                  acquiree: Acirro
+                - date: '2003-11-13'
+                  acquiree: Mobilian Corp
+                - date: '2004-03-25'
+                  acquiree: Envara
+                  price: 40000000
+                - date: '2005-02-25'
+                  acquiree: Oplus Technologies
+                  price: 100000000
+                - date: '2005-08-17'
+                  acquiree: Sarvega
+                - date: '2006-02-08'
+                  acquiree: Conformative Systems
+                - date: '2007-09-14'
+                  acquiree: Havok
+                - date: '2008-08-28'
+                  acquiree: Opened Hand
+                - date: '2008-10-14'
+                  acquiree: NetEffect Corp
+                - date: '2008-10-15'
+                  acquiree: NetEffect
+                  price: 8000000
+                - date: '2009-02-01'
+                  acquiree: Swiftfoot Graphics AB
+                - date: '2009-06-04'
+                  acquiree: Wind River
+                  price: 884000000
+                - date: '2009-07-01'
+                  acquiree: Cilk Arts
+                - date: '2009-08-01'
+                  acquiree: Cilk
+                - date: '2009-08-19'
+                  acquiree: RapidMind
+                - date: '2010-02-01'
+                  acquiree: Infineon Technologies
+                  price: 1400000000
+                - date: '2010-08-19'
+                  acquiree: McAfee
+                  price: 7680000000
+                - date: '2010-11-15'
+                  acquiree: CognoVision
+                  price: 25000000
+                - date: '2011-03-14'
+                  acquiree: SySDSoft
+                - date: '2011-03-17'
+                  acquiree: Silicon Hive
+                - date: '2011-04-14'
+                  acquiree: Nordic Edge
+                - date: '2011-05-25'
+                  acquiree: SiPort
+                - date: '2011-07-19'
+                  acquiree: Fulcrum Microsystems
+                - date: '2011-09-13'
+                  acquiree: CoFluent Design
+                - date: '2011-09-29'
+                  acquiree: Telmap
+                - date: '2012-04-17'
+                  acquiree: Olaworks
+                  price: 31000000
+                - date: '2012-07-02'
+                  acquiree: IDesia
+                - date: '2012-07-13'
+                  acquiree: Whamcloud
+                - date: '2012-11-20'
+                  acquiree: ZiiLabs
+                  price: 50000000
+                - date: '2013-04-17'
+                  acquiree: Mashery
+                  price: 180000000
+                - date: '2013-04-28'
+                  acquiree: Aepona
+                  price: 123778078
+                - date: '2013-07-16'
+                  acquiree: Omek Interactive
+                  price: 40000000
+                - date: '2013-07-22'
+                  acquiree: Xtreme Insights
+                - date: '2013-09-13'
+                  acquiree: Indisys
+                  price: 26000000
+                - date: '2013-09-30'
+                  acquiree: Sensory Network
+                - date: '2013-11-08'
+                  acquiree: Kno
+                - date: '2013-11-20'
+                  acquiree: Hacker League
+                - date: '2014-01-28'
+                  acquiree: Appmobi
+                - date: '2014-03-03'
+                  acquiree: BASIS Science
+                  price: 100000000
+                - date: '2014-08-13'
+                  acquiree: LSI - Axxia Networking Business
+                  price: 650000000
+                - date: '2014-12-01'
+                  acquiree: PasswordBox
+                - date: '2015-01-21'
+                  acquiree: Composyt Light Labs
+                - date: '2015-02-02'
+                  acquiree: Lantiq
+                - date: '2015-03-26'
+                  acquiree: Lemoptix
+                - date: '2015-06-01'
+                  acquiree: Altera
+                  price: 16700000000
+                - date: '2015-06-18'
+                  acquiree: Recon Instruments
+                  price: 175000000
+                - date: '2015-08-14'
+                  acquiree: Docea Power
+                - date: '2015-10-26'
+                  acquiree: Saffron Technology
+                - date: '2016-01-04'
+                  acquiree: Ascending Technologies
+                - date: '2016-03-08'
+                  acquiree: Replay Technologies
+                  price: 175000000
+                - date: '2016-04-05'
+                  acquiree: YOGITECH
+                - date: '2016-05-26'
+                  acquiree: Itseez
+                - date: '2016-08-09'
+                  acquiree: Nervana
+                  price: 408000000
+                - date: '2016-09-06'
+                  acquiree: Movidius
+                  price: 400000000
+                - date: '2016-09-09'
+                  acquiree: Soft Machines
+                  price: 250000000
+                - date: '2016-11-01'
+                  acquiree: MAVinci GmbH
+                - date: '2016-11-03'
+                  acquiree: VOKE
+                - date: '2017-03-13'
+                  acquiree: Mobileye
+                  price: 15300000000
+                - date: '2018-07-12'
+                  acquiree: eASIC
+                - date: '2018-08-16'
+                  acquiree: Vertex.AI
+                - date: '2018-09-10'
+                  acquiree: NetSpeed Systems
+                - date: '2019-02-18'
+                  acquiree: Ineda Systems
+                - date: '2019-04-16'
+                  acquiree: Omnitek
+                - date: '2019-06-10'
+                  acquiree: Barefoot Networks
+                - date: '2019-10-16'
+                  acquiree: Smart Edge
+                  price: 27000000
+                - date: '2019-12-16'
+                  acquiree: Habana
+                  price: 2000000000
+                - date: '2020-05-04'
+                  acquiree: Moovit
+                  price: 900000000
+                - date: '2020-05-20'
+                  acquiree: Rivet Networks
+                - date: '2020-10-29'
+                  acquiree: SigOpt
+                - date: '2020-11-04'
+                  acquiree: cnvrg.io
+                - date: '2021-11-09'
+                  acquiree: RemoteMyApp
+                - date: '2021-12-07'
+                  acquiree: Screenovate
+                  price: 100000000
+                - date: '2022-02-15'
+                  acquiree: Tower Semiconductor
+                  price: 5400000000
+                - date: '2022-02-23'
+                  acquiree: Linutronix
+                - date: '2022-03-31'
+                  acquiree: Granulate
+                - date: '2022-04-12'
+                  acquiree: Ananki
+                - date: '2022-05-03'
+                  acquiree: Siru Innovations
+                - date: '2022-06-01'
+                  acquiree: Codeplay Software
+              parents: []
+              ticker: INTC
+              funding: 12510000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence
+                - Computer
+                - GPU
+                - Hardware
+                - Information Technology
+                - Manufacturing
+                - Product Design
+                - Semiconductor
+                - Software
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 118568706048
+              effective_ticker: INTC
+            image_data:
+              fileName: intel-corporation.svg
+              hash: YWQ80CsgJtAmwbNtK4vUctFfHSoRP0KCwzXdn4lCszE=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Juniper Networks, Inc.
+            homepage_url: https://juniper.net/
+            logo: juniper_networks_inc.svg
+            twitter: https://twitter.com/JuniperNetworks
+            crunchbase: https://www.crunchbase.com/organization/juniper-networks
+            crunchbase_data:
+              name: Juniper Networks
+              description: Juniper Networks is a networking company that markets and develops networking products for enterprise companies.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://www.juniper.net
+              city: Sunnyvale
+              region: California
+              country: United States
+              twitter: http://twitter.com/JuniperNetworks
+              linkedin: https://www.linkedin.com/company/juniper-networks
+              acquisitions:
+                - date: '1999-11-15'
+                  acquiree: Layer Five
+                  price: 19000000
+                - date: '2000-01-18'
+                  acquiree: Pacific Advantage Ltd.
+                  price: 4000000
+                - date: '2001-12-11'
+                  acquiree: Micro Magic
+                  price: 260000000
+                - date: '2001-12-14'
+                  acquiree: Pacific Broadband Communications
+                  price: 200000000
+                - date: '2002-07-01'
+                  acquiree: Unisphere Networks
+                  price: 740000000
+                - date: '2004-02-10'
+                  acquiree: NetScreen Technologies
+                  price: 3400000000
+                - date: '2005-03-29'
+                  acquiree: Kagoor Networks
+                - date: '2005-05-05'
+                  acquiree: Redline Networks
+                  price: 132000000
+                - date: '2005-07-01'
+                  acquiree: Peribit Networks
+                  price: 337000000
+                - date: '2005-10-25'
+                  acquiree: Acorn Packet Solutions
+                  price: 8700000
+                - date: '2005-11-14'
+                  acquiree: Funk Software
+                  price: 122000000
+                - date: '2010-04-08'
+                  acquiree: Ankeena Networks
+                  price: 100000000
+                - date: '2010-07-27'
+                  acquiree: SMobile Systems
+                  price: 70000000
+                - date: '2010-11-16'
+                  acquiree: Trapeze Networks
+                  price: 152000000
+                - date: '2010-11-18'
+                  acquiree: Blackwave
+                - date: '2010-12-06'
+                  acquiree: Altor Networks
+                - date: '2011-02-21'
+                  acquiree: Brilliant Telecommunications
+                  price: 4500000
+                - date: '2012-02-22'
+                  acquiree: Mykonos Software
+                - date: '2012-12-13'
+                  acquiree: Contrail Systems
+                  price: 176000000
+                - date: '2013-02-08'
+                  acquiree: Webscreen Technology
+                - date: '2013-12-16'
+                  acquiree: WANDL
+                - date: '2016-04-04'
+                  acquiree: BTI Systems
+                - date: '2016-08-02'
+                  acquiree: Aurrion
+                - date: '2016-12-01'
+                  acquiree: AppFormix
+                - date: '2017-08-31'
+                  acquiree: Cyphort
+                - date: '2018-11-29'
+                  acquiree: HTBASE
+                - date: '2019-03-05'
+                  acquiree: Mist Systems
+                  price: 405000000
+                - date: '2020-10-19'
+                  acquiree: 128 Technology
+                  price: 450000000
+                - date: '2020-11-25'
+                  acquiree: SISRA
+                - date: '2020-12-07'
+                  acquiree: Apstra
+                - date: '2022-02-14'
+                  acquiree: WiteSand
+              parents: []
+              ticker: JNPR
+              funding: 38677847
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Communication Hardware
+                - Information Technology
+                - Infrastructure
+                - Security
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 10369564672
+              effective_ticker: JNPR
+            image_data:
+              fileName: juniper-networks-inc.svg
+              hash: TD/eZspPAo+E0o5DYCc4jWSbldfUrLosK3SlHAzxlqo=
             best_practice_data:
               badge: false
               percentage: null
@@ -7350,106 +6377,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: LinkedIn Corporation
-            homepage_url: https://linkedin.com/
-            logo: linkedin_corporation.svg
-            twitter: https://twitter.com/LinkedIn
-            crunchbase: https://www.crunchbase.com/organization/linkedin
-            crunchbase_data:
-              name: LinkedIn
-              description: LinkedIn is a professional networking site that allows its members to create business connections, search jobs, and find potential clients.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://linkedin.com
-              city: Sunnyvale
-              region: California
-              country: United States
-              twitter: http://twitter.com/linkedin
-              linkedin: https://www.linkedin.com/company/linkedin
-              acquisitions:
-                - date: '2010-08-04'
-                  acquiree: mSpoke
-                - date: '2010-09-22'
-                  acquiree: ChoiceVendor
-                - date: '2011-01-26'
-                  acquiree: CardMunch
-                - date: '2011-10-05'
-                  acquiree: Connected
-                - date: '2011-10-11'
-                  acquiree: IndexTank
-                - date: '2012-02-07'
-                  acquiree: Rapportive
-                - date: '2012-05-03'
-                  acquiree: LinkedIn SlideShare
-                - date: '2013-04-13'
-                  acquiree: Pulse
-                  price: 50000000
-                - date: '2014-02-07'
-                  acquiree: Bright.com
-                  price: 120000000
-                - date: '2014-07-14'
-                  acquiree: Newsle
-                - date: '2014-07-22'
-                  acquiree: Bizo
-                  price: 175000000
-                - date: '2014-11-13'
-                  acquiree: We Created It
-                - date: '2015-03-16'
-                  acquiree: Careerify
-                - date: '2015-04-02'
-                  acquiree: Refresh.io
-                - date: '2015-04-09'
-                  acquiree: Lynda
-                  price: 1500000000
-                - date: '2015-08-27'
-                  acquiree: Fliptop
-                - date: '2016-02-04'
-                  acquiree: Connectifier
-                  price: 150000000
-                - date: '2016-05-05'
-                  acquiree: Run Hop
-                - date: '2016-07-26'
-                  acquiree: PointDrive
-                - date: '2017-06-02'
-                  acquiree: Heighten
-                - date: '2018-10-08'
-                  acquiree: Glint
-                - date: '2018-12-01'
-                  acquiree: Sendbloom
-                - date: '2019-05-28'
-                  acquiree: Drawbridge
-                - date: '2020-04-23'
-                  acquiree: UpCounsel
-                - date: '2021-08-02'
-                  acquiree: Jumprope
-                - date: '2022-02-28'
-                  acquiree: Oribi
-                - date: '2022-03-29'
-                  acquiree: Paddle HR
-                - date: '2022-06-28'
-                  acquiree: EduBrite Systems
-              parents:
-                - https://www.crunchbase.com/organization/microsoft
-              ticker: MSFT
-              funding: 154800000
-              stockExchange: nyse
-              company_type: For Profit
-              industries:
-                - Professional Networking
-                - Recruiting
-                - Social Media
-                - Social Recruiting
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 1676733972480
-              effective_ticker: MSFT
-            image_data:
-              fileName: linked-in-corporation.svg
-              hash: Pe82UopU6UtVVr5hOaNxL8hYIvzUEYZgoNexdBXwvnI=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: MATRIXX Software
             homepage_url: https://matrixx.com/
             logo: matrixx_software.svg
@@ -7531,7 +6458,7 @@ landscape:
               kind: funding
             image_data:
               fileName: mavenir-systems-inc.svg
-              hash: 1vTjevcU+O4E/giZN63UjCZfHAVtf6f2l3x4eosI5Sc=
+              hash: iDrV15CFrvfWcpq3RwWgDIFd0tl7mqgKNB6uSzNwp2U=
             best_practice_data:
               badge: false
               percentage: null
@@ -7678,41 +6605,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Netris, INC.
-            homepage_url: https://netris.ai/
-            logo: netris_inc.svg
-            twitter: https://twitter.com/netrisai
-            crunchbase: https://www.crunchbase.com/organization/netris
-            crunchbase_data:
-              name: Netris
-              description: VPC Networking software for on-premises, edge, and bare metal.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.netris.ai/
-              city: Santa Clara
-              region: California
-              country: United States
-              twitter: https://twitter.com/netrisai
-              linkedin: https://www.linkedin.com/company/netrisai/
-              acquisitions: []
-              parents: []
-              funding: 1720000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Infrastructure
-                - Communications Infrastructure
-                - IT Infrastructure
-                - SaaS
-                - Software
-              kind: funding
-            image_data:
-              fileName: netris-inc.svg
-              hash: 9cMztW0K20uItutEkzUx+P97/6khNgYbdSI0TpyDX2A=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: NTT DATA Spain, S.L.U.
             homepage_url: https://everis.com/
             logo: ntt_data_spain_slu.svg
@@ -7803,6 +6695,89 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Orange SA
+            homepage_url: https://orange.com/
+            logo: orange_sa.svg
+            twitter: https://twitter.com/orange
+            crunchbase: https://www.crunchbase.com/organization/orange
+            crunchbase_data:
+              name: Orange
+              description: Orange is a digital operator that offers mobile and internet services in Europe and Africa, and corporate telecommunication services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.orange.com
+              city: Paris
+              region: Ile-de-France
+              country: France
+              twitter: https://twitter.com/orange
+              linkedin: https://www.linkedin.com/company/orange
+              acquisitions:
+                - date: '2001-07-04'
+                  acquiree: Autocity.com
+                - date: '2002-04-30'
+                  acquiree: S.C. Orange România
+                - date: '2004-06-29'
+                  acquiree: Wanadoo SA
+                - date: '2006-12-05'
+                  acquiree: Network Related Services SA
+                - date: '2009-08-28'
+                  acquiree: Unanimis
+                - date: '2011-10-21'
+                  acquiree: Orange RDC S.A.R.L
+                - date: '2013-02-22'
+                  acquiree: Dailymotion
+                  price: 168000000
+                - date: '2013-09-05'
+                  acquiree: InovenAltenor
+                - date: '2014-09-15'
+                  acquiree: Jazztel
+                  price: 3870000000
+                - date: '2015-03-20'
+                  acquiree: Cloudwatt
+                - date: '2016-01-11'
+                  acquiree: Cellcom Telecommunications
+                - date: '2016-04-15'
+                  acquiree: LEXSI
+                - date: '2016-04-21'
+                  acquiree: OASIS SPRL
+                - date: '2016-04-21'
+                  acquiree: Tigo
+                  price: 160000000
+                - date: '2016-04-22'
+                  acquiree: Groupama Banque
+                - date: '2016-06-29'
+                  acquiree: Sun Communications
+                - date: '2017-05-18'
+                  acquiree: Business & Decision
+                - date: '2019-02-01'
+                  acquiree: SecureData Europe Ltd.
+                - date: '2019-05-07'
+                  acquiree: SecureLink
+                  price: 576263752
+                - date: '2019-11-19'
+                  acquiree: Suma Móvil
+                - date: '2020-01-29'
+                  acquiree: Bucharest City App
+                - date: '2022-07-23'
+                  acquiree: MASMOVIL
+                  price: 11132172592
+              parents: []
+              ticker: ORA.PA
+              funding: 774445082
+              stockExchange: epa
+              company_type: For Profit
+              industries: []
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 27988755634
+              effective_ticker: ORA.PA
+            image_data:
+              fileName: orange-sa.svg
+              hash: 1jNOA6UGxYOGMX1Z4JaXkiXCtMXIuq53LmifRnjmGXc=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: PANTHEON.tech s.r.o
             homepage_url: https://pantheon.tech/
             logo: pantheontech_sro.svg
@@ -7845,51 +6820,6 @@ landscape:
             image_data:
               fileName: radtonics.svg
               hash: ONvQFu9oSlP9lFgof11I0LMY05J8f4WIvIwydh0GAQE=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Reliance Jio Infocomm Limited
-            homepage_url: https://jio.com/
-            logo: reliance_jio_infocomm_limited.svg
-            twitter: https://twitter.com/reliancejio
-            crunchbase: https://www.crunchbase.com/organization/jio
-            crunchbase_data:
-              name: Reliance Jio
-              description: Reliance Jio is a telecommunications company that offers high-speed mobile internet access.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.jio.com
-              city: Mumbai
-              region: Maharashtra
-              country: India
-              twitter: https://www.twitter.com/reliancejio
-              linkedin: https://www.linkedin.com/company/jio
-              acquisitions:
-                - date: '2019-03-29'
-                  acquiree: Jio Haptik
-                  price: 100000000
-              parents:
-                - https://www.crunchbase.com/organization/reliance-industries
-              ticker: RELIANCE.NS
-              funding: 24767620475
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Apps
-                - Consumer Electronics
-                - Electronics
-                - Information Services
-                - Information Technology
-                - Internet
-                - Telecommunications
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 208625203496
-              effective_ticker: RELIANCE.NS
-            image_data:
-              fileName: reliance-jio-infocomm-limited.svg
-              hash: 7hPSIWJRsQhCCq8vNqH0PAZHxaSO1gstBpCVG2fZxY0=
             best_practice_data:
               badge: false
               percentage: null
@@ -7972,161 +6902,46 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Sempre.ai
-            homepage_url: https://sempre.ai/
-            logo: sempreai.svg
-            twitter: https://twitter.com/sempre_usa
-            crunchbase: https://www.crunchbase.com/organization/sempre
-            crunchbase_data:
-              name: SEMPRE
-              description: SEMPRE is the technology company created to secure America’s critical infrastructure.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.sempre.ai/
-              city: Arlington
-              region: Virginia
-              country: United States
-              twitter: null
-              linkedin: https://www.linkedin.com/company/76880108/admin/
-              acquisitions:
-                - date: '2022-06-15'
-                  acquiree: NewSpace Networks
-              parents: []
-              funding: 20000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Mobile
-              kind: funding
-            image_data:
-              fileName: sempre-ai.svg
-              hash: srlzVU2vpqUrL3VIj/OeQJHN7rJgYXPjHyK+jcKo1GE=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Spirent Communications Inc
-            homepage_url: https://spirent.com/
-            logo: spirent_communications_inc.svg
-            twitter: https://twitter.com/Spirent
-            crunchbase: https://www.crunchbase.com/organization/spirent
-            crunchbase_data:
-              name: Spirent Communications
-              description: Spirent Communications is a telecommunications company offering lab test solutions to evaluate the performance of the latest technologies.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: http://www.spirent.com
-              city: Crawley
-              region: West Sussex
-              country: United Kingdom
-              twitter: http://twitter.com/Spirent
-              linkedin: https://www.linkedin.com/company/spirent-communications
-              acquisitions:
-                - date: '1999-07-22'
-                  acquiree: NetCom Systems
-                - date: '2000-10-17'
-                  acquiree: Net-HOPPER Systems
-                - date: '2000-11-17'
-                  acquiree: Hekimian Laboratories
-                  price: 1200000000
-                - date: '2006-02-14'
-                  acquiree: QuadTex Systems
-                  price: 7286859
-                - date: '2006-08-10'
-                  acquiree: Imperfect Networks
-                  price: 8000000
-                - date: '2011-02-14'
-                  acquiree: The Fanfare Group
-                  price: 15000000
-                - date: '2012-04-20'
-                  acquiree: Mu Dynamics
-                  price: 40000000
-                - date: '2012-09-05'
-                  acquiree: Metrico Wireless
-                - date: '2014-02-20'
-                  acquiree: Testing Technologies IST
-                  price: 2743714
-                - date: '2014-02-21'
-                  acquiree: DAX Technologies
-                - date: '2014-09-12'
-                  acquiree: Mobilethink
-                - date: '2014-11-13'
-                  acquiree: Netgend
-                - date: '2015-12-08'
-                  acquiree: Epitiro
-                - date: '2021-03-05'
-                  acquiree: OctoScope
-                  price: 55000000
-              parents: []
-              ticker: SPT.L
-              stockExchange: lse
-              company_type: For Profit
-              industries:
-                - Internet
-                - Location Based Services
-                - Mobile
-                - Network Security
-                - Public Relations
-                - VoIP
-                - Wireless
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 2045566344
-              effective_ticker: SPT.L
-            image_data:
-              fileName: spirent-communications-inc.svg
-              hash: vYb3e0c19jvRpd5ioG3ZxM+m5eJGEBNf0Nr9FK4JVD0=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Sprint Corporation
             homepage_url: https://sprint.com/
             logo: sprint_corporation.svg
             twitter: https://twitter.com/TMobile
-            crunchbase: https://www.crunchbase.com/organization/t-mobile
+            crunchbase: https://www.crunchbase.com/organization/sprint-nextel
             stock_ticker: null
             crunchbase_data:
-              name: T-Mobile
-              description: T-Mobile is redefining the way consumers and businesses buy wireless services.
+              name: Sprint
+              description: Sprint Nextel offers a comprehensive range of wireless and wireline communications services to consumers, businesses, and government users.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: https://www.t-mobile.com/
-              city: Burbank
-              region: California
+              homepage: http://sprint.com
+              city: Hillsboro
+              region: Oregon
               country: United States
-              twitter: http://twitter.com/TMobile
-              linkedin: https://www.linkedin.com/company/t-mobile
+              twitter: http://twitter.com/sprint
+              linkedin: https://www.linkedin.com/company/sprint
               acquisitions:
-                - date: '2007-09-17'
-                  acquiree: Suncom Wireless Holdings
-                  price: 2400000000
-                - date: '2013-05-01'
-                  acquiree: MetroPCS Communications Inc
-                  price: 1500000000
-                - date: '2017-12-13'
-                  acquiree: Layer3 TV
-                - date: '2018-01-02'
-                  acquiree: UPC Austria
-                  price: 2291685764
-                - date: '2019-07-26'
-                  acquiree: Sprint
-                  price: 26000000000
-                - date: '2019-07-31'
-                  acquiree: PushSpring
-                - date: '2022-01-10'
-                  acquiree: Octopus Interactive Inc.
-              parents:
-                - https://www.crunchbase.com/organization/deutsche-telekom
-              ticker: TMUS.SW
-              funding: 1570224359
-              stockExchange: swx
+                - date: '2005-08-15'
+                  acquiree: Nextel Communications
+                  price: 35000000000
+                - date: '2009-07-28'
+                  acquiree: Virgin Mobile USA
+                - date: '2009-10-19'
+                  acquiree: iPCS
+                - date: '2012-12-17'
+                  acquiree: Clearwire
+                  price: 2200000000
+                - date: '2013-05-20'
+                  acquiree: Handmark
+                - date: '2013-05-20'
+                  acquiree: OneLouder
+              parents: []
+              funding: 0
+              stockExchange: null
               company_type: For Profit
               industries:
                 - Mobile
                 - Telecommunications
                 - Wireless
-              kind: funding
             image_data:
               fileName: sprint-corporation.svg
               hash: tHl8MWebm4XimZGRhek/u6HYexoBx2I/mUu/QuFmy4k=
@@ -8179,81 +6994,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Swisscom
-            homepage_url: https://swisscom.com/
-            logo: swisscom.svg
-            twitter: https://twitter.com/Swisscom
-            crunchbase: https://www.crunchbase.com/organization/swisscom
-            crunchbase_data:
-              name: Swisscom
-              description: Swisscom, Switzerland’s leading telecoms company and one of its leading IT companies, is headquartered in Ittigen.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.swisscom.ch
-              city: Worblaufen
-              region: Bern
-              country: Switzerland
-              twitter: https://twitter.com/swisscom_de
-              linkedin: https://www.linkedin.com/company/swisscom
-              acquisitions:
-                - date: '2004-09-24'
-                  acquiree: CT Cinetrade
-                - date: '2006-09-29'
-                  acquiree: Betty Holding AG
-                - date: '2006-12-04'
-                  acquiree: Minick Holding AG
-                - date: '2007-05-22'
-                  acquiree: Fastweb
-                  price: 5653710247
-                - date: '2008-05-23'
-                  acquiree: webcall GmbH
-                - date: '2009-06-23'
-                  acquiree: Swisscom It Services Sourcing
-                - date: '2009-06-25'
-                  acquiree: Resource Group AG
-                - date: '2010-12-20'
-                  acquiree: Axept AG
-                - date: '2012-03-08'
-                  acquiree: Datasport AG
-                - date: '2013-05-08'
-                  acquiree: Tweasy
-                - date: '2014-04-01'
-                  acquiree: e-research AG
-                - date: '2014-08-25'
-                  acquiree: LTV Gelbe Seiten
-                - date: '2014-08-29'
-                  acquiree: Publigroupe S.A.
-                - date: '2014-12-09'
-                  acquiree: Veltigroup
-                - date: '2015-03-25'
-                  acquiree: H-Net
-                - date: '2015-11-30'
-                  acquiree: Mila
-                - date: '2019-05-09'
-                  acquiree: United Security Providers
-                - date: '2021-02-09'
-                  acquiree: webtiser
-                - date: '2022-01-05'
-                  acquiree: Innovative Web Group
-              parents: []
-              ticker: SCMN.SW
-              funding: 0
-              stockExchange: swx
-              company_type: For Profit
-              industries:
-                - Information Technology
-                - Telecommunications
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 29484367780
-              effective_ticker: SCMN.SW
-            image_data:
-              fileName: swisscom.svg
-              hash: 4AEc1nHevgWq/9sc6ume8QzrtksSFbqulFPHSG2bYYM=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Tata Communications Limited
             homepage_url: https://tatacommunications.com/
             logo: tata_communications_limited.svg
@@ -8293,21 +7033,6 @@ landscape:
             image_data:
               fileName: tata-communications-limited.svg
               hash: nz5s124caGnEib17me7oaKwj3GkigxG6vNH4+jwbkQc=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Telaverge Communications
-            homepage_url: https://telavergecommunications.com/
-            logo: telaverge_communications.svg
-            organization:
-              name: Telaverge Communications
-            crunchbase_data:
-              name: Telaverge Communications
-              parents: []
-            image_data:
-              fileName: telaverge-communications.svg
-              hash: rB4yg82uD8NGLUrLcT1M4pmZdxx5kEbIXVO+TOtlB0w=
             best_practice_data:
               badge: false
               percentage: null
@@ -8354,272 +7079,6 @@ landscape:
             image_data:
               fileName: telecom-italia-mobile-tim-s-p-a.svg
               hash: u0YqJO7ykLtQjf0VXI2U5SILIDEJ9ldBhHI/nqJS+ek=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Turk Telekomünikasyon A.S.
-            homepage_url: https://turktelekom.com.tr/
-            logo: turk_telekomunikasyon_as.svg
-            twitter: https://twitter.com/TurkTelekom
-            crunchbase: https://www.crunchbase.com/organization/trk-telekom
-            crunchbase_data:
-              name: Türk Telekom
-              description: Turk Telekom group provides integrated telecommunication services from PSTN, GSM to wide band internet.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.turktelekom.com.tr
-              city: Ankara
-              region: Ankara
-              country: Turkey
-              twitter: http://twitter.com/turk_telekom
-              linkedin: https://www.linkedin.com/company/166540
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Digital Media
-                - Information Services
-                - Information Technology
-                - Public Relations
-                - Telecommunications
-            image_data:
-              fileName: turk-telekom-nikasyon-a-s.svg
-              hash: yQ6o5YKIl1KWbM0p6pUPGrltyUaflCqgNr+v0T+5aJA=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Turnium Technology Group Inc
-            homepage_url: https://ttgi.io/
-            logo: turnium_technology_group_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
-            crunchbase_data:
-              name: Turnium Technology Group Inc.
-              description: Turnium Technology specializes in providing network technology solutions.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://ttgi.io
-              city: North Vancouver
-              region: British Columbia
-              country: Canada
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries: []
-            image_data:
-              fileName: turnium-technology-group-inc.svg
-              hash: pGQCYfdKseurHFFtg+b26qWvQIIKrcbyDQwcXTO19UQ=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: ULAK HABERLESME A.S.
-            homepage_url: https://ulakhaberlesme.com.tr/
-            logo: ulak_haberlesme_as.svg
-            twitter: https://twitter.com/UlakHaberlesme
-            crunchbase: https://www.crunchbase.com/organization/ulak-haberlesme-a-s
-            crunchbase_data:
-              name: ULAK HABERLESME A.S.
-              description: Ulak Communication Inc is a mobile and broadband communication systems R&D and engineering company.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: https://ulakhaberlesme.com.tr/index.php/tr/
-              city: Ankara
-              region: Ankara
-              country: Turkey
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: ''
-              industries: []
-            image_data:
-              fileName: ulak-haberlesme-a-s.svg
-              hash: 0q+zETKP+MQnhwnrBALkBkPlltQCUs9yWg4tlTDztCY=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: VMware, Inc.
-            homepage_url: https://vmware.com/
-            logo: vmware_inc.svg
-            twitter: https://twitter.com/VMware
-            crunchbase: https://www.crunchbase.com/organization/vmware
-            crunchbase_data:
-              name: VMware
-              description: VMware is a provider of multi-cloud services for all apps, enabling digital innovation with enterprise control.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.vmware.com
-              city: Palo Alto
-              region: California
-              country: United States
-              twitter: http://twitter.com/VMware
-              linkedin: https://www.linkedin.com/company/vmware
-              acquisitions:
-                - date: '2003-12-16'
-                  acquiree: Emic Networks
-                - date: '2006-06-18'
-                  acquiree: Akimbi Systems
-                - date: '2007-08-06'
-                  acquiree: Determina
-                - date: '2007-09-11'
-                  acquiree: Dunes Technologies
-                - date: '2008-01-15'
-                  acquiree: Thinstall inc
-                - date: '2008-05-28'
-                  acquiree: B-hive Networks
-                - date: '2008-11-30'
-                  acquiree: Blue Lane Technologies
-                - date: '2009-08-10'
-                  acquiree: Spring
-                  price: 362000000
-                - date: '2010-08-31'
-                  acquiree: Integrien
-                - date: '2010-08-31'
-                  acquiree: TriCipher
-                  price: 100000000
-                - date: '2011-03-08'
-                  acquiree: WaveMaker
-                - date: '2011-04-26'
-                  acquiree: SlideRocket
-                - date: '2011-05-16'
-                  acquiree: Shavlik Technologies
-                - date: '2011-05-31'
-                  acquiree: Socialcast
-                - date: '2011-06-13'
-                  acquiree: Digital Fuel
-                - date: '2011-08-01'
-                  acquiree: Packetmotion
-                - date: '2012-05-22'
-                  acquiree: Wanova
-                - date: '2012-07-02'
-                  acquiree: DynamicOps
-                - date: '2012-07-23'
-                  acquiree: Nicira Networks
-                  price: 1260000000
-                - date: '2013-02-11'
-                  acquiree: Virsto Software
-                - date: '2013-10-15'
-                  acquiree: Desktone
-                - date: '2014-01-22'
-                  acquiree: AirWatch
-                  price: 1540000000
-                - date: '2014-08-20'
-                  acquiree: CloudVolumes
-                - date: '2015-02-03'
-                  acquiree: Immidio
-                - date: '2015-10-14'
-                  acquiree: Boxer
-                - date: '2016-06-13'
-                  acquiree: Arkin
-                - date: '2016-12-20'
-                  acquiree: PLUMgrid
-                - date: '2017-04-12'
-                  acquiree: Wavefront
-                  price: 375000000
-                - date: '2017-05-15'
-                  acquiree: Apteligent
-                  price: 50000000
-                - date: '2017-11-02'
-                  acquiree: VeloCloud
-                - date: '2018-02-14'
-                  acquiree: CloudCoreo
-                - date: '2018-02-22'
-                  acquiree: CloudVelox
-                - date: '2018-03-28'
-                  acquiree: E8 Security
-                - date: '2018-05-01'
-                  acquiree: Bracket Computing
-                - date: '2018-08-27'
-                  acquiree: CloudHealth Technologies
-                - date: '2018-11-06'
-                  acquiree: Heptio
-                  price: 550000000
-                - date: '2019-02-05'
-                  acquiree: AetherPal
-                - date: '2019-05-15'
-                  acquiree: Bitnami
-                - date: '2019-06-14'
-                  acquiree: Avni Networks
-                - date: '2019-07-18'
-                  acquiree: Bitfusion.io
-                - date: '2019-07-25'
-                  acquiree: Uhana
-                - date: '2019-08-16'
-                  acquiree: Veriflow
-                - date: '2019-08-20'
-                  acquiree: Intrinsic
-                - date: '2019-08-22'
-                  acquiree: Pivotal
-                  price: 2700000000
-                - date: '2019-10-08'
-                  acquiree: Carbon Black
-                  price: 2100000000
-                - date: '2020-01-21'
-                  acquiree: Nyansa
-                - date: '2020-05-13'
-                  acquiree: Octarine
-                - date: '2020-06-04'
-                  acquiree: Lastline
-                - date: '2020-07-02'
-                  acquiree: Datrium
-                - date: '2020-09-29'
-                  acquiree: SaltStack
-                - date: '2021-03-18'
-                  acquiree: Mesh7
-              parents:
-                - https://www.crunchbase.com/organization/dell-technologies
-              ticker: VMW
-              funding: 393500000
-              stockExchange: nyse
-              company_type: For Profit
-              industries:
-                - Cloud Infrastructure
-                - Cloud Management
-                - Enterprise Software
-                - Information Technology
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 53663363072
-              effective_ticker: VMW
-            image_data:
-              fileName: v-mware-inc.svg
-              hash: ifx1u+sPs/VHqYgRJStdCPMD/zPTbeYPF0Su4jO56Fw=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: VoerEir AB
-            homepage_url: https://voereir.com/
-            logo: voereir_ab.svg
-            twitter: https://twitter.com/voereir
-            crunchbase: https://www.crunchbase.com/organization/voereir
-            crunchbase_data:
-              name: VoerEir
-              description: Voereir AB is a start-up founded mid 2015 and our focus is to help operators succeed with their NFV transformation.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.voereir.com/
-              city: Kista
-              region: Stockholms Lan
-              country: Sweden
-              twitter: https://twitter.com/voereir
-              linkedin: https://www.linkedin.com/company/voereir-ab/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries: []
-            image_data:
-              fileName: voer-eir-ab.svg
-              hash: LHbO2X00n715LN86Id/l/NJ2xAdk7gmCBPbOYraTE5A=
             best_practice_data:
               badge: false
               percentage: null
@@ -10728,7 +9187,7 @@ landscape:
               effective_ticker: IBM
             image_data:
               fileName: red-hat-inc-5-g.svg
-              hash: DP0xJOzNJFgqbN0RMQSYjY7TWaKh09iHDrR5sH3vk2U=
+              hash: YgiVPws6NHW8nPRghq7ooqbMAwREbnKytDEM6TKgVZE=
             best_practice_data:
               badge: false
               percentage: null
@@ -10983,7 +9442,7 @@ landscape:
               effective_ticker: IBM
             image_data:
               fileName: red-hat-inc-5-g.svg
-              hash: DP0xJOzNJFgqbN0RMQSYjY7TWaKh09iHDrR5sH3vk2U=
+              hash: YgiVPws6NHW8nPRghq7ooqbMAwREbnKytDEM6TKgVZE=
             best_practice_data:
               badge: false
               percentage: null
@@ -11105,7 +9564,7 @@ landscape:
                   value: 2360
                   color: '#e34c26'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2022-01-09Z
+              firstWeek: 2022-11-06Z
               stars: 1
               license: Other
               description: Mirror of https://gerrit.onap.org/r/#/admin/projects/aaf/authz
