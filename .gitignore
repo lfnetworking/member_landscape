@@ -45,3 +45,6 @@ lookup.json
 landscapeapp
 
 missing.csv
+
+# Local Netlify folder
+.netlify

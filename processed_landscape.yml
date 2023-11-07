@@ -18,31 +18,23 @@ landscape:
               A common model, standardized reference infrastructure
               specifications, and conformance and performance frameworks for VNFs & CNFs.
             crunchbase_data:
-              '0': h
-              '1': t
-              '2': t
-              '3': p
-              '4': s
-              '5': ':'
-              '6': /
-              '7': /
-              '8': g
-              '9': i
-              '10': t
-              '11': h
-              '12': u
-              '13': b
-              '14': .
-              '15': c
-              '16': o
-              '17': m
-              '18': /
-              '19': o
-              '20': p
-              '21': 'n'
-              '22': f
-              '23': v
-              parents: []
+              name: Anuket
+              description: A common model, standardized reference infrastructure specifications, and conformance and performance frameworks for VNFs & CNFs.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://anuket.io
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LF_Networking
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/lf-networking
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: For Profit
+              industries: []
             github_data:
               languages:
                 - name: Python
@@ -451,7 +443,7 @@ landscape:
               region: California
               country: United States
               twitter: null
-              linkedin: null
+              linkedin: https://www.linkedin.com/company/onap-project
               acquisitions: []
               parents:
                 - https://www.crunchbase.com/organization/lf-networking
@@ -462,28 +454,28 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 175186954
+                  value: 175301458
                   color: '#b07219'
                 - name: JavaScript
                   value: 30628951
                   color: '#f1e05a'
                 - name: Python
-                  value: 17954566
+                  value: 17888120
                   color: '#3572A5'
                 - name: TypeScript
-                  value: 11492760
+                  value: 11492826
                   color: '#2b7489'
                 - name: HTML
                   value: 6928464
                   color: '#e34c26'
                 - name: Groovy
-                  value: 6526705
+                  value: 6530747
                   color: '#e69f56'
                 - name: Shell
-                  value: 5521272
+                  value: 5458790
                   color: '#89e051'
                 - name: Kotlin
-                  value: 4471900
+                  value: 3770769
                   color: '#F18E33'
                 - name: CSS
                   value: 3495038
@@ -495,7 +487,7 @@ landscape:
                   value: 2234547
                   color: '#00ADD8'
                 - name: RobotFramework
-                  value: 1896405
+                  value: 1896396
                 - name: SCSS
                   value: 1346744
                 - name: Less
@@ -506,7 +498,7 @@ landscape:
                 - name: Smarty
                   value: 431638
                 - name: Dockerfile
-                  value: 407721
+                  value: 403956
                   color: '#384d54'
                 - name: FreeMarker
                   value: 326215
@@ -542,7 +534,7 @@ landscape:
                   value: 79579
                   color: '#000080'
                 - name: HCL
-                  value: 57684
+                  value: 56411
                 - name: Batchfile
                   value: 40015
                   color: '#C1F12E'
@@ -584,14 +576,14 @@ landscape:
                   value: 886
                   color: '#646464'
               contributions: >-
-                76;127;95;67;67;105;120;35;5;47;34;55;69;117;73;110;85;120;87;84;107;123;62;137;124;96;106;53;33;83;49;43;85;121;77;37;65;56;60;37;25;40;40;38;16;25;46;61;41;46;100;36
-              firstWeek: 2022-11-06Z
+                127;95;67;67;105;120;35;5;47;34;55;69;117;73;110;85;120;87;84;107;123;62;137;124;96;106;53;33;83;49;43;85;121;77;37;65;56;60;37;25;40;40;38;16;26;46;61;41;47;110;37;29
+              firstWeek: 2022-11-14Z
               stars: 555
               license: Other
               description: Mirror of https://gerrit.onap.org/r/#/admin/projects/aaf/authz
               latest_commit_date: '2021-04-27T18:20:44Z'
               latest_commit_link: /onap/archived-aaf-authz/commit/5836e4a53d87b1792486aa6b0b1ddb2e71d91bb9
-              contributors_count: 523
+              contributors_count: 522
               contributors_link: https://github.com/onap/aaf-authz/graphs/contributors
             repos:
               - url: https://github.com/onap/aaf-authz
@@ -870,19 +862,17 @@ landscape:
                 stars: 1
               - url: https://github.com/onap/dcaegen2-collectors
                 stars: 1
-              - url: https://github.com/onap/dcaegen2-collectors-hv-ves
-                stars: 1
               - url: https://github.com/onap/dcaegen2-collectors-snmptrap
                 stars: 1
               - url: https://github.com/onap/dcaegen2-deployments
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-oom
                 stars: 1
               - url: https://github.com/onap/dcaegen2-platform
                 stars: 1
               - url: https://github.com/onap/dcaegen2-platform-cdapbroker
                 stars: 1
               - url: https://github.com/onap/dcaegen2-platform-cli
-                stars: 1
-              - url: https://github.com/onap/dcaegen2-platform-configbinding
                 stars: 1
               - url: https://github.com/onap/dcaegen2-platform-inventory-api
                 stars: 1
@@ -1003,6 +993,8 @@ landscape:
               - url: https://github.com/onap/multicloud-openstack-vmware
                 stars: 1
               - url: https://github.com/onap/multicloud-openstack-windriver
+                stars: 1
+              - url: https://github.com/onap/nbi-oom
                 stars: 1
               - url: https://github.com/onap/oof-oom
                 stars: 1
@@ -1545,7 +1537,7 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
-              company_type: ''
+              company_type: Non Profit
               industries: []
             github_data:
               languages:
@@ -1755,7 +1747,7 @@ landscape:
               description: L3AF is an eBPF based platform enabling network functions a service.
               num_employees_min: null
               num_employees_max: null
-              homepage: https://www,l3af.io
+              homepage: https://l3af.io
               city: San Francisco
               region: California
               country: United States
@@ -1856,7 +1848,7 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
-              company_type: ''
+              company_type: Non Profit
               industries:
                 - Communities
                 - Non Profit
@@ -1883,7 +1875,7 @@ landscape:
               region: California
               country: United States
               twitter: null
-              linkedin: null
+              linkedin: https://www.linkedin.com/company/frrouting
               acquisitions: []
               parents: []
               stockExchange: null
@@ -1911,7 +1903,7 @@ landscape:
               region: California
               country: United States
               twitter: null
-              linkedin: null
+              linkedin: https://www.linkedin.com/company/magmacore
               acquisitions: []
               parents: []
               stockExchange: null
@@ -1934,12 +1926,12 @@ landscape:
               description: A community working to enable common optimized data centers and edge solutions through efficiency and flexibility.
               num_employees_min: null
               num_employees_max: null
-              homepage: null
+              homepage: https://www.open19.org/
               city: Beaverton
               region: Oregon
               country: United States
               twitter: null
-              linkedin: null
+              linkedin: https://www.linkedin.com/company/open19-foundation/
               acquisitions: []
               parents: []
               stockExchange: null
@@ -1973,7 +1965,7 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
-              company_type: ''
+              company_type: For Profit
               industries: []
             image_data:
               fileName: so-ni-c.svg
@@ -2043,7 +2035,7 @@ landscape:
               region: California
               country: United States
               twitter: null
-              linkedin: null
+              linkedin: https://www.linkedin.com/company/github
               acquisitions: []
               parents: []
               stockExchange: null
@@ -2084,7 +2076,6 @@ landscape:
                   acquiree: Kubernetes
                 - date: '2017-02-06'
                   acquiree: RethinkDB
-                  price: 25000
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               funding: 3000000
@@ -2194,6 +2185,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Open Source
+                - Software
             image_data:
               fileName: lf-edge.svg
               hash: PM/b/Jhgid+/6Bj5QPPHXilcBTf0L00UXlw29Dad1sQ=
@@ -2224,7 +2216,7 @@ landscape:
               region: Provence-Alpes-Cote d'Azur
               country: France
               twitter: https://twitter.com/3GPPLive/
-              linkedin: null
+              linkedin: https://www.linkedin.com/company/3gpp
               acquisitions: []
               parents: []
               stockExchange: null
@@ -2329,7 +2321,7 @@ landscape:
                 - https://www.crunchbase.com/organization/ieee
               funding: 1200000
               stockExchange: null
-              company_type: ''
+              company_type: Non Profit
               industries:
                 - Association
               kind: funding
@@ -2459,7 +2451,7 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
-              company_type: ''
+              company_type: For Profit
               industries:
                 - Association
                 - Education
@@ -2519,7 +2511,7 @@ landscape:
               num_employees_min: 51
               num_employees_max: 100
               homepage: http://www.tmforum.org/
-              city: Morristown
+              city: Parsippany
               region: New Jersey
               country: United States
               twitter: https://twitter.com/tmforumorg
@@ -2592,10 +2584,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/at-t
             crunchbase_data:
               name: AT&T
-              description: AT&T is a telecommunications company that provides wireless communications, local exchange, and long-distance services.
+              description: AT&T is a telecommunications company.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: https://www.att.com/
+              homepage: https://www.att.com
               city: Dallas
               region: Texas
               country: United States
@@ -2604,25 +2596,22 @@ landscape:
               acquisitions:
                 - date: '1993-08-17'
                   acquiree: McCaw Cellular Communications
-                  price: 12600000000
                 - date: '1994-10-18'
                   acquiree: Alascom
-                  price: 365000000
                 - date: '1999-03-01'
                   acquiree: Tele-Communications, Inc
                 - date: '2001-09-22'
                   acquiree: Prodigy Communications
-                  price: 384000000
+                - date: '2001-10-08'
+                  acquiree: Telecorp PCS
                 - date: '2006-03-05'
                   acquiree: BellSouth
                 - date: '2006-09-12'
                   acquiree: USInternetworking
-                  price: 300000000
                 - date: '2006-12-01'
                   acquiree: inFreeDA
                 - date: '2007-10-02'
                   acquiree: Interwise
-                  price: 121000000
                 - date: '2007-11-15'
                   acquiree: Dobson Fiber
                 - date: '2007-11-19'
@@ -2631,7 +2620,6 @@ landscape:
                   acquiree: Edge Wireless
                 - date: '2008-11-10'
                   acquiree: Wayport
-                  price: 275000000
                 - date: '2008-12-01'
                   acquiree: GetFon
                 - date: '2009-02-22'
@@ -2650,23 +2638,18 @@ landscape:
                   acquiree: Leap Wireless
                 - date: '2013-09-20'
                   acquiree: Alltel
-                  price: 780000000
                 - date: '2014-11-07'
                   acquiree: Iusacell compañía
-                  price: 2500000000
                 - date: '2015-01-27'
                   acquiree: Nextel Mexico
-                  price: 1900000000
                 - date: '2015-07-24'
                   acquiree: DIRECTV
-                  price: 48500000000
                 - date: '2015-12-30'
                   acquiree: Carrier IQ
                 - date: '2016-05-16'
                   acquiree: QuickPlay Media
                 - date: '2016-10-22'
                   acquiree: WarnerMedia
-                  price: 85400000000
                 - date: '2016-11-21'
                   acquiree: INVIDI Technologies
                 - date: '2017-02-01'
@@ -2677,8 +2660,11 @@ landscape:
                   acquiree: AppNexus
                 - date: '2018-07-10'
                   acquiree: AT&T CyberSecurity
+                - date: '2018-08-01'
+                  acquiree: Otter Media
               parents: []
               ticker: T
+              funding: 2200000
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -2686,9 +2672,7 @@ landscape:
                 - Service Industry
                 - Telecommunications
                 - Wireless
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 139190321152
               effective_ticker: T
             image_data:
               fileName: at-t-services-inc.svg
@@ -2707,20 +2691,18 @@ landscape:
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.chinamobileltd.com
-              city: Beijing
-              region: Beijing
-              country: China
+              city: Hong Kong
+              region: Hong Kong Island
+              country: Hong Kong
               twitter: null
               linkedin: https://www.linkedin.com/company/china-mobile/
               acquisitions:
                 - date: '2007-01-22'
                   acquiree: China Mobile Pakistan
-                  price: 284000000
                 - date: '2008-05-25'
                   acquiree: China Tietong
                 - date: '2022-06-21'
                   acquiree: Venustech
-                  price: 620000000
               parents: []
               ticker: 600941.SS
               funding: 3815535353
@@ -2730,9 +2712,7 @@ landscape:
                 - Mobile
                 - Telecommunications
                 - Wireless
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 150343188145
               effective_ticker: 600941.SS
             image_data:
               fileName: china-mobile-communication-company-ltd.svg
@@ -2791,285 +2771,203 @@ landscape:
               city: San Jose
               region: California
               country: United States
-              twitter: https://twitter.com/cisco
+              twitter: https://www.twitter.com/cisco
               linkedin: https://www.linkedin.com/company/cisco
               acquisitions:
                 - date: '1993-09-24'
                   acquiree: Crescendo Communications
                 - date: '1994-07-12'
                   acquiree: Newport Systems Solutions
-                  price: 90800000
                 - date: '1994-10-24'
                   acquiree: Kalpana
                 - date: '1994-12-08'
                   acquiree: LightStream Corporation
-                  price: 120000000
                 - date: '1995-08-10'
                   acquiree: Combinet
                 - date: '1995-09-06'
                   acquiree: Internet Junction
                 - date: '1995-09-28'
                   acquiree: Grand Junction Networks
-                  price: 348000000
                 - date: '1995-10-27'
                   acquiree: Network Translation
                 - date: '1996-01-23'
                   acquiree: TGV Software
-                  price: 115000000
                 - date: '1996-04-09'
                   acquiree: Granite Systems
                 - date: '1996-04-22'
                   acquiree: StrataCom
-                  price: 4000000000
                 - date: '1996-07-23'
                   acquiree: Telebit
-                  price: 200000000
                 - date: '1996-08-06'
                   acquiree: Nashoba Networks
-                  price: 100000000
                 - date: '1996-10-14'
                   acquiree: NetSys Technologies
-                  price: 79000000
                 - date: '1996-11-22'
                   acquiree: Metaplex
                 - date: '1997-03-27'
                   acquiree: Telesend
                 - date: '1997-06-09'
                   acquiree: Skystone Systems
-                  price: 89000000
                 - date: '1997-06-24'
                   acquiree: Ardent Communications
-                  price: 156000000
                 - date: '1997-06-24'
                   acquiree: Global Internet Software Group
-                  price: 40250000
                 - date: '1997-07-29'
                   acquiree: DAGAZ Technologies
-                  price: 126000000
                 - date: '1997-12-22'
                   acquiree: LightSpeed International
-                  price: 160000000
                 - date: '1998-02-18'
                   acquiree: WheelGroup
-                  price: 124000000
                 - date: '1998-03-10'
                   acquiree: NetSpeed
-                  price: 236000000
                 - date: '1998-03-11'
                   acquiree: Precept Software
-                  price: 84000000
                 - date: '1998-05-04'
                   acquiree: CLASS Data Systems
-                  price: 50000000
                 - date: '1998-07-28'
                   acquiree: Summa Four
-                  price: 116000000
                 - date: '1998-08-21'
                   acquiree: American Internet Corporation
-                  price: 56000000
                 - date: '1998-09-15'
                   acquiree: Clarity Wireless
-                  price: 157000000
                 - date: '1998-12-02'
                   acquiree: PipeLinks
-                  price: 126000000
                 - date: '1999-02-24'
                   acquiree: Selsius Systems
-                  price: 145000000
                 - date: '1999-04-08'
                   acquiree: Fibex Systems
-                  price: 320000000
                 - date: '1999-04-08'
                   acquiree: Sentient Networks
-                  price: 125000000
                 - date: '1999-04-13'
                   acquiree: GeoTel Communications
-                  price: 2000000000
-                - date: '1999-04-13'
-                  acquiree: GeoTel Communications
-                  price: 200000000
                 - date: '1999-04-28'
                   acquiree: Amteva Technologies
-                  price: 170000000
                 - date: '1999-06-17'
                   acquiree: TransMedia Communications
-                  price: 407000000
                 - date: '1999-06-29'
                   acquiree: StratumOne Communications
-                  price: 435000000
                 - date: '1999-08-16'
                   acquiree: CALISTA
-                  price: 55000000
                 - date: '1999-08-18'
                   acquiree: Maxcomm Technologies
-                  price: 143000000
                 - date: '1999-08-26'
                   acquiree: Cerent
-                  price: 6900000000
                 - date: '1999-08-26'
                   acquiree: MONTEREY NETWORKS
-                  price: 500000000
                 - date: '1999-09-15'
                   acquiree: Cocom
-                  price: 65599999
                 - date: '1999-09-22'
                   acquiree: WebLine Communications
-                  price: 325000000
                 - date: '1999-10-26'
                   acquiree: Tasmania Network Systems
-                  price: 25000000
                 - date: '1999-11-09'
                   acquiree: Aironet Wireless Communications
-                  price: 799000000
                 - date: '1999-11-11'
                   acquiree: V-Bits
-                  price: 128000000
                 - date: '1999-12-16'
                   acquiree: Worldwide Data Systems
                 - date: '1999-12-17'
                   acquiree: Internet Engineering Group
-                  price: 25000000
                 - date: '1999-12-20'
                   acquiree: Pirelli Optical Systems
-                  price: 2000000000
                 - date: '2000-01-19'
                   acquiree: Altiga Networks
                 - date: '2000-01-20'
                   acquiree: Compatible Systems
                 - date: '2000-02-16'
                   acquiree: Growth Networks
-                  price: 355000000
                 - date: '2000-03-01'
                   acquiree: Atlantech Technologies
-                  price: 180000000
                 - date: '2000-03-16'
                   acquiree: JetCell
-                  price: 200000000
                 - date: '2000-03-17'
                   acquiree: InfoGear Technology
-                  price: 301000000
                 - date: '2000-03-19'
                   acquiree: SightPath
-                  price: 800000000
                 - date: '2000-04-11'
                   acquiree: Pentacom
-                  price: 118000000
                 - date: '2000-04-12'
                   acquiree: Seagull Semiconductor
                 - date: '2000-05-05'
                   acquiree: ArrowPoint Communications
-                  price: 5700000000
                 - date: '2000-05-12'
                   acquiree: Qeyton Systems
-                  price: 800000000
                 - date: '2000-06-05'
                   acquiree: HyNEX
-                  price: 127000000
                 - date: '2000-07-07'
                   acquiree: Netiverse
-                  price: 210000000
                 - date: '2000-07-25'
                   acquiree: Komodo Technology
-                  price: 175000000
                 - date: '2000-07-27'
                   acquiree: NuSpeed Internet Systems
-                  price: 450000000
                 - date: '2000-08-01'
                   acquiree: IPmobile
-                  price: 425000000
                 - date: '2000-08-31'
                   acquiree: PixStream
-                  price: 369000000
                 - date: '2000-09-28'
                   acquiree: IPCell Technologies
-                  price: 369000000
                 - date: '2000-09-28'
                   acquiree: Vovida Networks
-                  price: 369000000
                 - date: '2000-10-20'
                   acquiree: CAIS Software Solutions
-                  price: 170000000
                 - date: '2000-11-10'
                   acquiree: Active Voice Corporation
-                  price: 300000000
                 - date: '2000-11-13'
                   acquiree: Radiata
-                  price: 295000000
                 - date: '2000-12-14'
                   acquiree: ExiO Communications
                 - date: '2001-07-16'
                   acquiree: AuroraNetics
-                  price: 150000000
                 - date: '2001-07-27'
                   acquiree: Allegro Systems
-                  price: 181000000
                 - date: '2002-05-01'
                   acquiree: Hammerhead Networks
-                  price: 173000000
                 - date: '2002-05-01'
                   acquiree: Navarro Networks
-                  price: 85000000
                 - date: '2002-07-25'
                   acquiree: AYR Networks
                 - date: '2002-08-20'
                   acquiree: Andiamo Systems
                 - date: '2002-10-22'
                   acquiree: Psionic Software
-                  price: 12000000
                 - date: '2003-01-24'
                   acquiree: Okena
-                  price: 154000000
                 - date: '2003-03-19'
                   acquiree: SignalWorks
-                  price: 13500000
                 - date: '2003-03-20'
                   acquiree: The Linksys Group
-                  price: 500000000
                 - date: '2003-11-12'
                   acquiree: Latitude Communications
-                  price: 80000000
                 - date: '2004-03-12'
                   acquiree: Twingo Systems
                 - date: '2004-03-23'
                   acquiree: Riverhead Networks
-                  price: 39000000
                 - date: '2004-06-18'
                   acquiree: Procket Networks
-                  price: 89000000
                 - date: '2004-06-29'
                   acquiree: Actona Technologies
-                  price: 82000000
                 - date: '2004-07-08'
                   acquiree: Parc Technologies
-                  price: 9000000
                 - date: '2004-08-23'
                   acquiree: P-Cube
-                  price: 200000000
                 - date: '2004-09-09'
                   acquiree: NetSolve
                 - date: '2004-09-13'
                   acquiree: DynamicSoft
-                  price: 55000000
                 - date: '2004-10-21'
                   acquiree: Perfigo
-                  price: 74000000
                 - date: '2004-11-17'
                   acquiree: Jahi Networks
                 - date: '2004-12-09'
                   acquiree: BCN Systems
-                  price: 34000000
                 - date: '2004-12-20'
                   acquiree: Protego Networks
-                  price: 65000000
                 - date: '2005-03-23'
                   acquiree: Airespace
-                  price: 450000000
                 - date: '2005-04-14'
                   acquiree: Topspin Communications
-                  price: 250000000
                 - date: '2005-04-26'
                   acquiree: Sipura Technology
-                  price: 68000000
                 - date: '2005-05-23'
                   acquiree: Vihana
                 - date: '2005-05-26'
@@ -3078,30 +2976,24 @@ landscape:
                   acquiree: M. I. Secure Corporation
                 - date: '2005-06-27'
                   acquiree: NetSift
-                  price: 30000000
                 - date: '2005-07-22'
                   acquiree: KiSS Technology
-                  price: 61000000
                 - date: '2005-07-26'
                   acquiree: Sheer Networks
                 - date: '2005-09-30'
                   acquiree: Nemo Systems
                 - date: '2005-11-18'
                   acquiree: Scientific Atlanta
-                  price: 6900000000
                 - date: '2005-11-29'
                   acquiree: Intellishield Alert Manager
                 - date: '2006-03-07'
                   acquiree: Sypixx Networks
-                  price: 51000000
                 - date: '2006-06-08'
                   acquiree: Audium
                 - date: '2006-06-28'
                   acquiree: Metreos Corporation
-                  price: 28000000
                 - date: '2006-07-06'
                   acquiree: Meetinghouse Data Communications
-                  price: 43700000
                 - date: '2006-08-21'
                   acquiree: Arroyo Video Solutions
                 - date: '2006-10-10'
@@ -3116,19 +3008,16 @@ landscape:
                   acquiree: Qovia
                 - date: '2007-01-04'
                   acquiree: IronPort Systems
-                  price: 830000000
                 - date: '2007-02-08'
                   acquiree: FiveAcross
                 - date: '2007-02-21'
                   acquiree: Reactivity
-                  price: 135000000
                 - date: '2007-03-02'
                   acquiree: Tribe
                 - date: '2007-03-13'
                   acquiree: NeoPath Networks
                 - date: '2007-03-15'
                   acquiree: Webex
-                  price: 3200000000
                 - date: '2007-03-28'
                   acquiree: Spans Logic
                 - date: '2007-05-22'
@@ -3139,7 +3028,6 @@ landscape:
                   acquiree: Latigent
                 - date: '2007-10-23'
                   acquiree: Navini Networks
-                  price: 330000000
                 - date: '2007-11-01'
                   acquiree: Securent
                 - date: '2008-05-01'
@@ -3150,42 +3038,32 @@ landscape:
                   acquiree: DiviTech A/S
                 - date: '2008-07-22'
                   acquiree: Pure Networks
-                  price: 120000000
                 - date: '2008-08-27'
                   acquiree: PostPath
-                  price: 215000000
                 - date: '2008-09-19'
                   acquiree: Jabber
                 - date: '2009-01-27'
                   acquiree: Richards-Zeta Building Intelligence
                 - date: '2009-03-19'
                   acquiree: Pure Digital Technologies
-                  price: 590000000
                 - date: '2009-05-20'
                   acquiree: Tidal Software
-                  price: 105000000
                 - date: '2009-10-01'
                   acquiree: Tandberg
-                  price: 3400000000
                 - date: '2009-10-27'
                   acquiree: ScanSafe
-                  price: 183000000
                 - date: '2009-11-02'
                   acquiree: DVN - set-top box business
-                  price: 44500000
                 - date: '2009-12-18'
                   acquiree: Starent Networks
-                  price: 2900000000
                 - date: '2010-01-05'
                   acquiree: Rohati Systems
                 - date: '2010-05-18'
                   acquiree: MOTO Development Group
                 - date: '2010-05-20'
                   acquiree: CoreOptics
-                  price: 99000000
                 - date: '2010-08-26'
                   acquiree: ExtendMedia
-                  price: 80000000
                 - date: '2010-09-20'
                   acquiree: Arch Rock Corporation
                 - date: '2010-12-13'
@@ -3200,20 +3078,16 @@ landscape:
                   acquiree: Axioss
                 - date: '2011-08-25'
                   acquiree: AXIOM Systems
-                  price: 31000000
                 - date: '2011-08-29'
                   acquiree: Versly
                 - date: '2011-10-20'
                   acquiree: BNI Video
-                  price: 99000000
                 - date: '2012-02-24'
                   acquiree: Lightwire
-                  price: 271000000
                 - date: '2012-03-15'
                   acquiree: NDS
                 - date: '2012-03-15'
                   acquiree: NDS Group
-                  price: 5019096092
                 - date: '2012-03-29'
                   acquiree: ClearAccess
                 - date: '2012-05-04'
@@ -3226,37 +3100,28 @@ landscape:
                   acquiree: vCider
                 - date: '2012-11-15'
                   acquiree: Cloupia
-                  price: 125000000
                 - date: '2012-11-20'
                   acquiree: Meraki
-                  price: 1200000000
                 - date: '2012-11-29'
                   acquiree: Cariden Technologies
-                  price: 141000000
                 - date: '2012-12-18'
                   acquiree: BroadHop
                 - date: '2013-01-23'
                   acquiree: Intucell
-                  price: 475000000
                 - date: '2013-01-29'
                   acquiree: Cognitive Security
                 - date: '2013-03-25'
                   acquiree: SolveDirect Service Management
                 - date: '2013-04-03'
                   acquiree: Ubiquisys
-                  price: 310000000
                 - date: '2013-05-29'
                   acquiree: JouleX
-                  price: 107000000
                 - date: '2013-06-20'
                   acquiree: Composite Software
-                  price: 180000000
                 - date: '2013-07-23'
                   acquiree: Sourcefire
-                  price: 2700000000
                 - date: '2013-09-11'
                   acquiree: WhipTail
-                  price: 415000000
                 - date: '2013-10-07'
                   acquiree: Pioneer SourceFire
                 - date: '2013-11-06'
@@ -3267,7 +3132,6 @@ landscape:
                   acquiree: ThreatGRID
                 - date: '2014-06-17'
                   acquiree: Tail-f Systems
-                  price: 175000000
                 - date: '2014-07-27'
                   acquiree: Assemblage
                 - date: '2014-09-17'
@@ -3284,10 +3148,8 @@ landscape:
                   acquiree: Piston Cloud Computing
                 - date: '2015-06-30'
                   acquiree: OpenDNS
-                  price: 635000000
                 - date: '2015-07-07'
                   acquiree: MaintenanceNet
-                  price: 139000000
                 - date: '2015-10-01'
                   acquiree: Portcullis
                 - date: '2015-10-12'
@@ -3296,73 +3158,58 @@ landscape:
                   acquiree: ParStream
                 - date: '2015-10-27'
                   acquiree: Lancope
-                  price: 452500000
                 - date: '2015-10-28'
                   acquiree: 1 Mainstream
                 - date: '2015-11-20'
                   acquiree: Acano
-                  price: 700000000
                 - date: '2016-02-03'
                   acquiree: Jasper Technologies
-                  price: 1400000000
                 - date: '2016-03-01'
                   acquiree: CliQr Technologies
-                  price: 260000000
                 - date: '2016-03-02'
                   acquiree: Leaba Semiconductor
-                  price: 320000000
                 - date: '2016-03-08'
                   acquiree: Synata
                 - date: '2016-06-28'
                   acquiree: CloudLock
-                  price: 293000000
                 - date: '2016-08-30'
                   acquiree: ContainerX
                 - date: '2016-10-17'
                   acquiree: Worklife
                 - date: '2017-01-24'
                   acquiree: AppDynamics
-                  price: 3700000000
                 - date: '2017-05-01'
                   acquiree: Viptela
-                  price: 610000000
                 - date: '2017-05-11'
                   acquiree: MindMeld
-                  price: 125000000
                 - date: '2017-07-13'
                   acquiree: Observable Networks
                 - date: '2017-08-23'
                   acquiree: Springpath
-                  price: 320000000
                 - date: '2017-10-19'
                   acquiree: Perspica
                 - date: '2017-10-23'
                   acquiree: BroadSoft
-                  price: 1900000000
                 - date: '2017-12-07'
                   acquiree: Cmpute.io
                 - date: '2018-01-24'
                   acquiree: Skyport Systems
                 - date: '2018-05-01'
                   acquiree: Accompany
-                  price: 270000000
                 - date: '2018-06-19'
                   acquiree: July Systems
                 - date: '2018-08-02'
                   acquiree: Duo Security
-                  price: 2350000000
                 - date: '2018-11-21'
                   acquiree: Ensoft
                 - date: '2018-12-18'
                   acquiree: Luxtera
-                  price: 660000000
                 - date: '2019-01-30'
                   acquiree: Singularity Networks
                 - date: '2019-06-06'
                   acquiree: Sentryo
                 - date: '2019-07-09'
                   acquiree: Acacia
-                  price: 4500000000
                 - date: '2019-08-07'
                   acquiree: Voicea
                 - date: '2019-08-26'
@@ -3375,7 +3222,6 @@ landscape:
                   acquiree: Fluidmesh Networks
                 - date: '2020-05-28'
                   acquiree: ThousandEyes
-                  price: 1000000000
                 - date: '2020-07-31'
                   acquiree: Modcam
                 - date: '2020-08-25'
@@ -3386,14 +3232,12 @@ landscape:
                   acquiree: Banzai Cloud
                 - date: '2020-12-07'
                   acquiree: IMImobile
-                  price: 725222241
                 - date: '2020-12-07'
                   acquiree: Slido
                 - date: '2020-12-22'
                   acquiree: Dashbase
                 - date: '2021-05-11'
                   acquiree: Sedona Systems
-                  price: 100000000
                 - date: '2021-05-12'
                   acquiree: Socio
                 - date: '2021-05-14'
@@ -3402,23 +3246,32 @@ landscape:
                   acquiree: Involvio
                 - date: '2021-08-13'
                   acquiree: Epsagon
-                  price: 500000000
                 - date: '2021-10-25'
                   acquiree: Replex
+                - date: '2023-03-29'
+                  acquiree: Lightspin
+                - date: '2023-04-20'
+                  acquiree: Smartlook
+                - date: '2023-06-01'
+                  acquiree: Armorblox
+                - date: '2023-06-21'
+                  acquiree: Accedian
+                - date: '2023-08-01'
+                  acquiree: Code BGP
+                - date: '2023-08-15'
+                  acquiree: Working Group Two
+                - date: '2023-09-21'
+                  acquiree: Splunk
               parents: []
               ticker: CSCO
-              funding: 2500000
               stockExchange: nasdaq
               company_type: For Profit
               industries:
                 - Communications Infrastructure
                 - Enterprise Software
                 - Hardware
-                - SaaS
                 - Software
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 198503399424
               effective_ticker: CSCO
             image_data:
               fileName: cisco-systems-inc.svg
@@ -3444,20 +3297,18 @@ landscape:
               twitter: http://twitter.com/deutschetelekom
               linkedin: https://www.linkedin.com/company/telekom
               acquisitions:
+                - date: '2000-07-24'
+                  acquiree: Voicestream Wireless
                 - date: '2009-11-20'
                   acquiree: Strato AG
-                  price: 409097739
                 - date: '2010-03-25'
                   acquiree: ClickandBuy
                 - date: '2013-07-04'
                   acquiree: ChooChee
-                  price: 100000000
                 - date: '2013-11-10'
                   acquiree: GTS Central Europe
-                  price: 729491080
                 - date: '2014-02-10'
                   acquiree: T-Mobile
-                  price: 1129727665
                 - date: '2015-02-25'
                   acquiree: Deutsche Sportwetten
                 - date: '2019-01-11'
@@ -3474,9 +3325,7 @@ landscape:
                 - Mobile
                 - Retail
                 - Telecommunications
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 104683566325
               effective_ticker: DTE.DE
             image_data:
               fileName: deutsche-telekom-ag.svg
@@ -3492,22 +3341,20 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ericsson
             crunchbase_data:
               name: Ericsson
-              description: Ericsson is a technology company that provides and operates telecommunications networks, television and video systems, and related services.
+              description: Ericsson is an information and communications technology company that offers network services.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.ericsson.com
-              city: Stockholm
+              city: Kista
               region: Stockholms Lan
               country: Sweden
-              twitter: https://twitter.com/ericsson
+              twitter: https://www.twitter.com/ericsson
               linkedin: https://www.linkedin.com/company/ericsson
               acquisitions:
                 - date: '1998-09-10'
                   acquiree: Advanced Computer Communications
-                  price: 285000000
                 - date: '2000-10-13'
                   acquiree: Ericsson Amplified Technologies
-                  price: 100000000
                 - date: '2005-06-03'
                   acquiree: Netspira Networks
                 - date: '2005-07-04'
@@ -3516,20 +3363,18 @@ landscape:
                   acquiree: Axxessit AS
                 - date: '2005-10-25'
                   acquiree: Marconi Corporation plc
-                  price: 2137920836
                 - date: '2006-12-19'
                   acquiree: Redback Networks
-                  price: 2100000000
                 - date: '2007-02-13'
                   acquiree: Entrisphere
                 - date: '2007-02-26'
                   acquiree: Ericsson Television
-                  price: 1390583169
                 - date: '2007-06-05'
                   acquiree: LHS Germany
-                  price: 419267931
                 - date: '2007-06-08'
                   acquiree: Drutt Corporation
+                - date: '2010-12-01'
+                  acquiree: Optimi
                 - date: '2010-12-01'
                   acquiree: Pride SpA
                 - date: '2010-12-22'
@@ -3538,7 +3383,6 @@ landscape:
                   acquiree: iconectiv
                 - date: '2012-03-13'
                   acquiree: Technicolor - Broadcast Services
-                  price: 24858275
                 - date: '2012-04-03'
                   acquiree: BelAir Networks
                 - date: '2012-07-31'
@@ -3557,7 +3401,6 @@ landscape:
                   acquiree: MetraTech
                 - date: '2014-09-12'
                   acquiree: Fabrix Systems
-                  price: 95000000
                 - date: '2014-09-22'
                   acquiree: Apcera
                 - date: '2014-09-26'
@@ -3570,7 +3413,6 @@ landscape:
                   acquiree: TimelessMIND
                 - date: '2015-09-10'
                   acquiree: Envivio
-                  price: 125000000
                 - date: '2016-01-19'
                   acquiree: FYI Television
                 - date: '2016-04-05'
@@ -3587,10 +3429,8 @@ landscape:
                   acquiree: Genaker
                 - date: '2020-09-17'
                   acquiree: Cradlepoint
-                  price: 1100000000
                 - date: '2021-11-22'
                   acquiree: Vonage
-                  price: 6200000000
               parents:
                 - https://www.crunchbase.com/organization/investor-ab
               ticker: ERIC
@@ -3602,9 +3442,7 @@ landscape:
                 - Internet
                 - Mobile
                 - Telecommunications
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 20629356544
               effective_ticker: ERIC
             image_data:
               fileName: ericsson.svg
@@ -3627,7 +3465,7 @@ landscape:
               city: Mountain View
               region: California
               country: United States
-              twitter: https://twitter.com/google
+              twitter: https://www.twitter.com/google
               linkedin: https://www.linkedin.com/company/google
               acquisitions:
                 - date: '2001-02-12'
@@ -3638,7 +3476,6 @@ landscape:
                   acquiree: Pyra Labs
                 - date: '2003-04-28'
                   acquiree: Applied Semantics
-                  price: 102000000
                 - date: '2003-06-04'
                   acquiree: Neotonic Software
                 - date: '2003-09-30'
@@ -3649,6 +3486,8 @@ landscape:
                   acquiree: Sprinks
                 - date: '2004-05-10'
                   acquiree: Ignite Logic
+                - date: '2004-07-14'
+                  acquiree: Picasa
                 - date: '2004-09-10'
                   acquiree: ZipDash
                 - date: '2004-10-09'
@@ -3663,7 +3502,6 @@ landscape:
                   acquiree: Dodgeball
                 - date: '2005-08-16'
                   acquiree: Android
-                  price: 50000000
                 - date: '2005-09-15'
                   acquiree: Transformic
                 - date: '2005-11-09'
@@ -3678,7 +3516,6 @@ landscape:
                   acquiree: bruNET
                 - date: '2006-01-01'
                   acquiree: dMarc Broadcasting
-                  price: 102000000
                 - date: '2006-02-14'
                   acquiree: Measure Map
                 - date: '2006-03-09'
@@ -3693,15 +3530,12 @@ landscape:
                   acquiree: Neven Vision
                 - date: '2006-10-01'
                   acquiree: YouTube
-                  price: 1650000000
                 - date: '2006-10-31'
                   acquiree: JotSpot
                 - date: '2006-12-18'
                   acquiree: Endoxon
-                  price: 28000000
                 - date: '2007-02-16'
                   acquiree: Adscape
-                  price: 23000000
                 - date: '2007-03-16'
                   acquiree: Trendalyzer
                 - date: '2007-04-17'
@@ -3710,19 +3544,16 @@ landscape:
                   acquiree: Marratech
                 - date: '2007-05-23'
                   acquiree: FeedBurner
-                  price: 100000000
                 - date: '2007-05-29'
                   acquiree: GreenBorder
                 - date: '2007-05-31'
                   acquiree: Panoramio
                 - date: '2007-06-05'
                   acquiree: PeakStream
-                  price: 20300000
                 - date: '2007-06-19'
                   acquiree: Zenter
                 - date: '2007-07-01'
                   acquiree: GrandCentral
-                  price: 60000000
                 - date: '2007-07-09'
                   acquiree: Postini
                 - date: '2007-07-20'
@@ -3733,26 +3564,22 @@ landscape:
                   acquiree: Zingku
                 - date: '2007-10-09'
                   acquiree: Jaiku
-                  price: 12000000
                 - date: '2008-03-11'
                   acquiree: DoubleClick
                 - date: '2008-07-18'
                   acquiree: ZAO Begun
-                  price: 140000000
                 - date: '2008-07-30'
                   acquiree: Omnisio
                 - date: '2008-09-12'
                   acquiree: TNC
                 - date: '2009-02-19'
                   acquiree: On2 Technologies
-                  price: 130000000
                 - date: '2009-09-16'
                   acquiree: reCAPTCHA
                 - date: '2009-11-09'
                   acquiree: AdMob
                 - date: '2009-11-09'
                   acquiree: Gizmofive
-                  price: 30000000
                 - date: '2009-11-23'
                   acquiree: Teracent
                 - date: '2009-12-04'
@@ -3787,14 +3614,12 @@ landscape:
                   acquiree: Ruba
                 - date: '2010-06-02'
                   acquiree: Invite Media
-                  price: 81000000
                 - date: '2010-07-16'
                   acquiree: Freebase
                 - date: '2010-07-16'
                   acquiree: Metaweb Technologies
                 - date: '2010-08-06'
                   acquiree: Slide
-                  price: 182000000
                 - date: '2010-08-09'
                   acquiree: Jambool
                 - date: '2010-08-13'
@@ -3807,7 +3632,6 @@ landscape:
                   acquiree: SocialDeck
                 - date: '2010-09-12'
                   acquiree: MentorWave Technologies
-                  price: 12000000
                 - date: '2010-09-14'
                   acquiree: Quiksee
                 - date: '2010-09-28'
@@ -3818,7 +3642,6 @@ landscape:
                   acquiree: Phonetic Arts
                 - date: '2010-12-03'
                   acquiree: Widevine Technologies
-                  price: 160000000
                 - date: '2011-01-12'
                   acquiree: eBook Technologies
                 - date: '2011-01-25'
@@ -3827,26 +3650,22 @@ landscape:
                   acquiree: zynamics
                 - date: '2011-03-07'
                   acquiree: BeatThatQuote.com
-                  price: 61208155
                 - date: '2011-03-15'
                   acquiree: Green Parrot Pictures
                 - date: '2011-04-08'
                   acquiree: PushLife
                 - date: '2011-04-13'
                   acquiree: ITA Software
-                  price: 700000000
                 - date: '2011-04-25'
                   acquiree: Numovis Inc
                 - date: '2011-04-25'
                   acquiree: TalkBin
                 - date: '2011-05-20'
                   acquiree: modu
-                  price: 4900000
                 - date: '2011-05-23'
                   acquiree: Sparkbuy
                 - date: '2011-06-01'
                   acquiree: Admeld
-                  price: 411556083
                 - date: '2011-06-03'
                   acquiree: PostRank
                 - date: '2011-06-19'
@@ -3869,7 +3688,6 @@ landscape:
                   acquiree: SocialGrapple
                 - date: '2011-10-26'
                   acquiree: Zagat
-                  price: 151000000
                 - date: '2011-11-10'
                   acquiree: Apture
                 - date: '2011-11-10'
@@ -3884,19 +3702,16 @@ landscape:
                   acquiree: TxVia
                 - date: '2012-05-22'
                   acquiree: Motorola Mobility (a Lenovo Company)
-                  price: 12500000000
                 - date: '2012-06-01'
                   acquiree: KikScore
                 - date: '2012-06-04'
                   acquiree: Meebo
-                  price: 100000000
                 - date: '2012-06-05'
                   acquiree: Quickoffice
                 - date: '2012-07-20'
                   acquiree: Sparrow
                 - date: '2012-07-31'
                   acquiree: Wildfire
-                  price: 350000000
                 - date: '2012-08-13'
                   acquiree: Frommer's
                 - date: '2012-09-07'
@@ -3909,7 +3724,6 @@ landscape:
                   acquiree: BufferBox
                 - date: '2012-12-01'
                   acquiree: BufferBox
-                  price: 17000000
                 - date: '2013-02-06'
                   acquiree: Channel Intelligence
                 - date: '2013-02-15'
@@ -3922,23 +3736,18 @@ landscape:
                   acquiree: Behavio
                 - date: '2013-04-24'
                   acquiree: Wavii
-                  price: 30000000
                 - date: '2013-06-11'
                   acquiree: Waze
-                  price: 1300000000
                 - date: '2013-08-31'
                   acquiree: WIMM Labs
                 - date: '2013-09-16'
                   acquiree: Bump Technologies
-                  price: 30000000
                 - date: '2013-10-02'
                   acquiree: Flutter
                 - date: '2013-10-22'
                   acquiree: FlexyCore
-                  price: 23000000
                 - date: '2013-12-02'
                   acquiree: Schaft
-                  price: 20000000
                 - date: '2013-12-04'
                   acquiree: Industrial Pereception Inc.
                 - date: '2013-12-04'
@@ -3957,12 +3766,10 @@ landscape:
                   acquiree: Gridcentric
                 - date: '2014-01-01'
                   acquiree: Nest Labs
-                  price: 3200000000
                 - date: '2014-01-16'
                   acquiree: Impermium
                 - date: '2014-01-26'
                   acquiree: DeepMind
-                  price: 500000000
                 - date: '2014-02-16'
                   acquiree: SlickLogin
                 - date: '2014-02-21'
@@ -3983,10 +3790,8 @@ landscape:
                   acquiree: Quest Visual
                 - date: '2014-05-20'
                   acquiree: Divide
-                  price: 120000000
                 - date: '2014-06-10'
                   acquiree: Terra Bella
-                  price: 500000000
                 - date: '2014-06-19'
                   acquiree: Alpental Technologies
                 - date: '2014-06-19'
@@ -4049,7 +3854,6 @@ landscape:
                   acquiree: Pixate
                 - date: '2015-09-21'
                   acquiree: Oyster
-                  price: 30000000
                 - date: '2015-09-30'
                   acquiree: Jibe Mobile
                 - date: '2015-10-13'
@@ -4060,7 +3864,6 @@ landscape:
                   acquiree: Fly Labs
                 - date: '2015-11-19'
                   acquiree: Bebop
-                  price: 380200000
                 - date: '2016-02-18'
                   acquiree: Pie
                 - date: '2016-05-01'
@@ -4079,7 +3882,6 @@ landscape:
                   acquiree: Orbitera
                 - date: '2016-09-08'
                   acquiree: Apigee
-                  price: 625000000
                 - date: '2016-09-15'
                   acquiree: Urban Engines
                 - date: '2016-09-19'
@@ -4118,18 +3920,16 @@ landscape:
                   acquiree: AIMatter
                 - date: '2017-09-21'
                   acquiree: HTC - Pixel Phone Division
-                  price: 1100000000
                 - date: '2017-10-09'
                   acquiree: Relay Media
                 - date: '2017-10-11'
                   acquiree: 60dB
                 - date: '2018-02-15'
                   acquiree: Xively
-                  price: 50000000
                 - date: '2018-03-10'
                   acquiree: Banter
                 - date: '2018-03-27'
-                  acquiree: Tenor Inc
+                  acquiree: Tenor
                 - date: '2018-05-09'
                   acquiree: Velostrata
                 - date: '2018-05-15'
@@ -4148,24 +3948,20 @@ landscape:
                   acquiree: Alooma
                 - date: '2019-06-06'
                   acquiree: Looker
-                  price: 2600000000
                 - date: '2019-07-09'
                   acquiree: Elastifile
                 - date: '2019-08-17'
                   acquiree: Socratic
                 - date: '2019-11-01'
                   acquiree: Fitbit
-                  price: 2100000000
                 - date: '2019-12-12'
                   acquiree: Typhoon Studios
                 - date: '2020-01-14'
                   acquiree: Pointy
-                  price: 163000000
                 - date: '2020-01-15'
                   acquiree: AppSheet
                 - date: '2020-06-29'
                   acquiree: North
-                  price: 180000000
                 - date: '2020-12-15'
                   acquiree: Neverware
                 - date: '2021-04-05'
@@ -4176,13 +3972,10 @@ landscape:
                   acquiree: Tempow
                 - date: '2022-01-04'
                   acquiree: Siemplify
-                  price: 500000000
                 - date: '2022-03-08'
                   acquiree: Mandiant
-                  price: 5400000000
                 - date: '2022-03-17'
                   acquiree: Raxium
-                  price: 1000000000
                 - date: '2022-09-20'
                   acquiree: BreezoMeter
                 - date: '2022-09-20'
@@ -4193,11 +3986,12 @@ landscape:
                   acquiree: Sound Life Sciences
                 - date: '2022-10-28'
                   acquiree: Alter
-                  price: 100000000
+                - date: '2023-02-27'
+                  acquiree: Photomath
               parents:
                 - https://www.crunchbase.com/organization/alphabet
               ticker: GOOG
-              funding: 26101000
+              funding: 26100000
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -4206,9 +4000,7 @@ landscape:
                 - Enterprise Software
                 - Information Technology
                 - Search Engine
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 1137087741952
               effective_ticker: GOOG
             image_data:
               fileName: google-llc.svg
@@ -4244,15 +4036,12 @@ landscape:
                   acquiree: Centre for Integrated Photonics
                 - date: '2014-09-22'
                   acquiree: Neul
-                  price: 25000000
                 - date: '2016-12-07'
                   acquiree: Toga Networks
                 - date: '2016-12-27'
                   acquiree: HexaTier
-                  price: 42000000
                 - date: '2019-06-03'
                   acquiree: Vokord Telekom Zao
-                  price: 50000000
                 - date: '2019-06-04'
                   acquiree: Vocord
               parents: []
@@ -4291,61 +4080,46 @@ landscape:
               acquisitions:
                 - date: '2003-12-18'
                   acquiree: Infosys Technologies (Australia) Pty. Ltd.
-                  price: 22900000
                 - date: '2009-11-13'
                   acquiree: McCamish Systems LLC
-                  price: 58000000
                 - date: '2012-05-05'
                   acquiree: EdgeVerve
-                  price: 235000000
                 - date: '2012-09-10'
                   acquiree: Lodestone Holding
-                  price: 349000000
                 - date: '2015-02-16'
                   acquiree: Panaya
-                  price: 230000000
                 - date: '2015-04-24'
                   acquiree: Kallidus Technologies
-                  price: 120000000
                 - date: '2015-04-27'
                   acquiree: Skava
-                  price: 120000000
                 - date: '2015-10-19'
                   acquiree: Noah Consulting
-                  price: 70000000
                 - date: '2017-04-18'
                   acquiree: Skytree
                 - date: '2017-08-03'
                   acquiree: Brilliant Basics
-                  price: 9857085
                 - date: '2018-04-13'
                   acquiree: WONGDOODY
-                  price: 75040000
                 - date: '2018-09-14'
                   acquiree: Fluido
                 - date: '2019-03-28'
                   acquiree: Stater
-                  price: 143179276
                 - date: '2019-10-09'
                   acquiree: Eishtec
                 - date: '2020-02-10'
                   acquiree: Simplus
                 - date: '2020-09-03'
                   acquiree: Kaleidoscope Innovation and Product Design
-                  price: 42000000
                 - date: '2020-09-14'
                   acquiree: GuideVision
                 - date: '2020-10-08'
                   acquiree: Blue Acorn iCi
-                  price: 125000000
                 - date: '2021-01-13'
                   acquiree: Carter Digital
                 - date: '2021-12-15'
                   acquiree: Singtel
-                  price: 4392772
                 - date: '2022-07-13'
                   acquiree: Base Life Science
-                  price: 110377602
               parents: []
               ticker: INFY
               funding: 200000000
@@ -4358,6 +4132,9 @@ landscape:
                 - Information Technology
                 - Software
               kind: funding
+            image_data:
+              fileName: infosys-limited.svg
+              hash: RrtW5EwunWf+Ra7/QvHxQKNSs+5rWBoaO+9uKVgZpdo=
             best_practice_data:
               badge: false
               percentage: null
@@ -4382,17 +4159,14 @@ landscape:
               acquisitions:
                 - date: '1997-12-09'
                   acquiree: Ipsilon Networks
-                  price: 120000000
                 - date: '1998-08-20'
                   acquiree: User Interface Design
                 - date: '1998-09-17'
                   acquiree: NE-Products
                 - date: '1998-12-18'
                   acquiree: Vienna Systems Corporation
-                  price: 90000000
                 - date: '1999-02-16'
                   acquiree: Diamond Lane Communications
-                  price: 125000000
                 - date: '1999-02-18'
                   acquiree: InTalk Corp.
                 - date: '1999-09-02'
@@ -4403,43 +4177,34 @@ landscape:
                   acquiree: TeamWARE - security software business
                 - date: '2000-02-01'
                   acquiree: Network Alchemy
-                  price: 335000000
                 - date: '2000-08-08'
                   acquiree: DiscoveryCom
                 - date: '2000-12-07'
                   acquiree: Ramp Networks
                 - date: '2001-07-25'
                   acquiree: Amber Networks
-                  price: 421000000
                 - date: '2003-04-22'
                   acquiree: Eizel Technologies
-                  price: 21000000
                 - date: '2006-02-10'
                   acquiree: Intellisync
-                  price: 430000000
                 - date: '2006-08-08'
                   acquiree: Loudeye
-                  price: 60000000
                 - date: '2006-10-12'
                   acquiree: gate5
                 - date: '2007-04-01'
                   acquiree: Pixto
                 - date: '2007-07-24'
                   acquiree: Twango
-                  price: 96800000
                 - date: '2007-10-08'
                   acquiree: Enpocket
-                  price: 100000000
                 - date: '2007-10-23'
                   acquiree: Vivento Technical Services
                 - date: '2007-12-04'
                   acquiree: Avvenu
                 - date: '2008-01-28'
                   acquiree: Qt Software
-                  price: 153000000
                 - date: '2008-06-05'
                   acquiree: Trolltech
-                  price: 153000000
                 - date: '2008-06-23'
                   acquiree: Plazes
                 - date: '2008-06-24'
@@ -4460,7 +4225,6 @@ landscape:
                   acquiree: MetaCarta
                 - date: '2010-07-19'
                   acquiree: Motorola Wireless
-                  price: 1200000000
                 - date: '2010-08-20'
                   acquiree: Motally
                 - date: '2011-01-05'
@@ -4479,12 +4243,10 @@ landscape:
                   acquiree: SAC Wireless
                 - date: '2015-04-15'
                   acquiree: Alcatel-Lucent
-                  price: 16600000000
                 - date: '2016-02-21'
                   acquiree: Nakina Systems
                 - date: '2016-04-26'
                   acquiree: Withings
-                  price: 192066957
                 - date: '2016-06-09'
                   acquiree: Gainspeed
                 - date: '2016-10-05'
@@ -4493,7 +4255,6 @@ landscape:
                   acquiree: DeepField
                 - date: '2017-02-09'
                   acquiree: Comptel
-                  price: 369819726
                 - date: '2018-02-25'
                   acquiree: Unium
                 - date: '2018-05-07'
@@ -4510,9 +4271,7 @@ landscape:
                 - Internet of Things
                 - Mobile Devices
                 - Telecommunications
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 27435798528
               effective_ticker: NOK
             image_data:
               fileName: nokia-corporation.svg
@@ -4528,14 +4287,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/red-hat
             crunchbase_data:
               name: Red Hat
-              description: Red Hat is a multinational software company engaged in providing open-source software products to the enterprise community.
+              description: Red Hat is a software company that offers enterprise open source software solutions.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.redhat.com
               city: Raleigh
               region: North Carolina
               country: United States
-              twitter: http://twitter.com/redhat
+              twitter: https://www.twitter.com/redhat
               linkedin: https://www.linkedin.com/company/red-hat
               acquisitions:
                 - date: '2001-01-31'
@@ -4544,10 +4303,8 @@ landscape:
                   acquiree: NOCpulse
                 - date: '2003-12-18'
                   acquiree: Sistina Software
-                  price: 31000000
                 - date: '2004-02-20'
                   acquiree: JBoss
-                  price: 350000000
                 - date: '2007-06-02'
                   acquiree: MetaMatrix
                 - date: '2008-03-14'
@@ -4560,7 +4317,6 @@ landscape:
                   acquiree: Makara
                 - date: '2011-10-04'
                   acquiree: Gluster
-                  price: 136000000
                 - date: '2012-06-27'
                   acquiree: FuseSource
                 - date: '2012-08-28'
@@ -4571,16 +4327,12 @@ landscape:
                   acquiree: ManageIQ
                 - date: '2014-04-30'
                   acquiree: Inktank
-                  price: 175000000
                 - date: '2014-06-18'
                   acquiree: eNovance
-                  price: 95074205
                 - date: '2014-09-18'
                   acquiree: FeedHenry
-                  price: 82000000
                 - date: '2015-10-16'
                   acquiree: Red Hat Ansible
-                  price: 150000000
                 - date: '2016-06-22'
                   acquiree: 3scale
                 - date: '2017-05-25'
@@ -4589,12 +4341,10 @@ landscape:
                   acquiree: Permabit Technology Corporation
                 - date: '2018-01-30'
                   acquiree: CoreOS
-                  price: 250000000
                 - date: '2018-11-27'
                   acquiree: NooBaa
                 - date: '2021-01-07'
                   acquiree: StackRox
-                  price: 400000000
               parents:
                 - https://www.crunchbase.com/organization/ibm
               ticker: IBM
@@ -4603,13 +4353,12 @@ landscape:
               company_type: For Profit
               industries:
                 - Enterprise Software
+                - InsurTech
                 - Linux
                 - Open Source
                 - Operating Systems
                 - Software
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 128801177600
               effective_ticker: IBM
             image_data:
               fileName: red-hat-inc.svg
@@ -4641,73 +4390,52 @@ landscape:
                   acquiree: Satyam Computer Services Ltd.
                 - date: '2014-11-20'
                   acquiree: Lightbridge Communications Corporation
-                  price: 240000000
                 - date: '2015-01-09'
                   acquiree: SOFGEN
                 - date: '2016-05-28'
                   acquiree: Target Group
-                  price: 164000000
                 - date: '2016-06-22'
                   acquiree: The Bio Agency
-                  price: 66542159
                 - date: '2017-03-06'
                   acquiree: CJS Solutions Group
-                  price: 110000000
                 - date: '2018-08-22'
                   acquiree: Inter - Informatics
-                  price: 6256459
                 - date: '2019-02-04'
                   acquiree: Dynacommerce
                 - date: '2019-06-17'
                   acquiree: Objectwise
-                  price: 2050594
                 - date: '2019-07-30'
                   acquiree: Mad*Pow
                 - date: '2019-11-05'
                   acquiree: BORN
-                  price: 95000000
                 - date: '2020-02-24'
                   acquiree: Zen3 infosolutions
-                  price: 64000000
                 - date: '2020-10-23'
                   acquiree: Momenton
-                  price: 10157901
                 - date: '2020-10-23'
                   acquiree: Tenzing Ltd.
-                  price: 29525633
                 - date: '2021-01-12'
                   acquiree: Payments Technology Services Ltd
-                  price: 9000000
                 - date: '2021-03-15'
                   acquiree: Perigord
-                  price: 25044633
                 - date: '2021-04-19'
                   acquiree: DigitalOnUS
-                  price: 119927687
                 - date: '2021-04-27'
                   acquiree: Eventus Solutions Group
-                  price: 44000000
                 - date: '2021-06-28'
                   acquiree: BrainScale
-                  price: 28800000
                 - date: '2021-10-25'
                   acquiree: Lodestone
-                  price: 105000000
                 - date: '2021-10-25'
                   acquiree: We Make Websites
-                  price: 12937964
                 - date: '2021-12-03'
                   acquiree: Activus Connect
-                  price: 62000000
                 - date: '2021-12-31'
                   acquiree: Allyis
-                  price: 125000000
                 - date: '2022-01-17'
                   acquiree: Com Tec Co
-                  price: 376536526
                 - date: '2022-03-12'
                   acquiree: Thirdware Solution
-                  price: 42000000
               parents: []
               stockExchange: null
               company_type: For Profit
@@ -4753,16 +4481,12 @@ landscape:
                   acquiree: Public Mobile
                 - date: '2016-07-14'
                   acquiree: NIghtingale - Canadian Assets
-                  price: 14000000
                 - date: '2018-08-20'
                   acquiree: Medisys Health Group
-                  price: 146000000
                 - date: '2019-10-01'
                   acquiree: ADT
-                  price: 529568855
                 - date: '2019-12-04'
                   acquiree: Competence Call Center
-                  price: 1300000000
                 - date: '2019-12-19'
                   acquiree: Decisive Farming
                 - date: '2020-07-02'
@@ -4771,24 +4495,24 @@ landscape:
                   acquiree: Price’s Alarms
                 - date: '2021-11-09'
                   acquiree: Blacksmith Applications
-                  price: 275000000
                 - date: '2022-02-10'
                   acquiree: Fully Managed
                 - date: '2022-06-16'
                   acquiree: LifeWorks
-                  price: 1775252974
+                - date: '2023-02-04'
+                  acquiree: Altima Communications
+                - date: '2023-02-04'
+                  acquiree: Start.Ca
               parents: []
               ticker: TU
-              funding: 31000000
+              funding: 2281000000
               stockExchange: nyse
               company_type: For Profit
               industries:
                 - Internet
                 - Mobile
                 - Wireless
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 28976097280
               effective_ticker: TU
             image_data:
               fileName: telus-corporation.svg
@@ -4816,6 +4540,8 @@ landscape:
               acquisitions:
                 - date: '2000-06-30'
                   acquiree: GTE Corporation
+                - date: '2007-07-30'
+                  acquiree: Rural Cellular
                 - date: '2016-11-17'
                   acquiree: SocialRadar
                 - date: '2017-02-16'
@@ -4830,9 +4556,7 @@ landscape:
                 - Communication Hardware
                 - Telecommunications
                 - Wireless
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 177190404096
               effective_ticker: VZ
             image_data:
               fileName: verizon-corporate-services.svg
@@ -4897,6 +4621,7 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/walmart
               ticker: WMT
+              funding: 5000000000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -4905,9 +4630,7 @@ landscape:
                 - Multi-level Marketing
                 - Retail
                 - Retail Technology
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 395836293120
               effective_ticker: WMT
             image_data:
               fileName: walmart-inc.svg
@@ -4940,9 +4663,7 @@ landscape:
               industries:
                 - Network Hardware
                 - Telecommunications
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 16907758402
               effective_ticker: 000063.SZ
             image_data:
               fileName: zte-corporation.svg
@@ -5017,9 +4738,7 @@ landscape:
                 - Security
                 - Virtualization
                 - Web Hosting
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 1165616640
               effective_ticker: ATEN
             image_data:
               fileName: a10-networks.svg
@@ -5035,7 +4754,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/aarna-networks
             crunchbase_data:
               name: Aarna Networks
-              description: Aarna Networks develops an orchestration, management, and automation platform for private 5G networks and computing applications.
+              description: Aarna Networks solves enterprise edge and private 5G management complexity through zero-touch edge orchestration at scale.
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://www.aarnanetworks.com/
@@ -5046,7 +4765,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/aarna-networks-inc.
               acquisitions: []
               parents: []
-              funding: 3516000
+              funding: 5016000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -5077,29 +4796,30 @@ landscape:
               city: Santa Clara
               region: California
               country: United States
-              twitter: https://twitter.com/amd
+              twitter: https://www.twitter.com/amd
               linkedin: https://www.linkedin.com/company/amd
               acquisitions:
                 - date: '2002-02-06'
                   acquiree: Alchemy Semiconductor
                 - date: '2006-07-24'
                   acquiree: ATI Technologies
-                  price: 5400000000
                 - date: '2012-02-29'
                   acquiree: SeaMicro
-                  price: 334000000
                 - date: '2016-06-29'
                   acquiree: HiAlgo
                 - date: '2017-04-10'
                   acquiree: Nitero
                 - date: '2020-10-27'
                   acquiree: Xilinx
-                  price: 35000000000
                 - date: '2022-04-04'
                   acquiree: AMD Pensando
-                  price: 1900000000
+                - date: '2023-08-24'
+                  acquiree: Mipsology
+                - date: '2023-10-10'
+                  acquiree: Nod
               parents: []
               ticker: AMD
+              funding: 0
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -5109,9 +4829,7 @@ landscape:
                 - GPU
                 - Hardware
                 - Semiconductor
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 103126540288
               effective_ticker: AMD
             image_data:
               fileName: advanced-micro-devices-amd.svg
@@ -5158,9 +4876,7 @@ landscape:
                 - Hardware
                 - Information Technology
                 - Software
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 34555883520
               effective_ticker: ANET
             image_data:
               fileName: arista-networks-inc.svg
@@ -5183,7 +4899,7 @@ landscape:
               city: Cambridge
               region: Cambridgeshire
               country: United Kingdom
-              twitter: https://twitter.com/Arm
+              twitter: https://www.twitter.com/Arm
               linkedin: https://www.linkedin.com/company/arm
               acquisitions:
                 - date: '2004-08-16'
@@ -5208,12 +4924,10 @@ landscape:
                   acquiree: Wicentric
                 - date: '2015-07-30'
                   acquiree: Sansa Security
-                  price: 70000000
                 - date: '2015-10-19'
                   acquiree: Carbon Design Systems
                 - date: '2016-05-18'
                   acquiree: Apical
-                  price: 350000000
                 - date: '2016-12-16'
                   acquiree: Allinea Software
                 - date: '2017-02-20'
@@ -5227,12 +4941,15 @@ landscape:
                 - date: '2020-06-23'
                   acquiree: Falanx Microsystems
               parents: []
-              stockExchange: lse
+              ticker: ARM
+              stockExchange: nasdaq
               company_type: For Profit
               industries:
                 - Electronics
                 - Internet of Things
                 - Semiconductor
+            yahoo_finance_data:
+              effective_ticker: ARM
             image_data:
               fileName: arm-limited.svg
               hash: 6cFaSOdPutT9CLhP42mgBkq/YAgPKaMyaWG4b7YRpEo=
@@ -5276,9 +4993,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
             crunchbase_data:
               name: Canonical
-              description: Canonical is a computer software company that markets commercial support and related services for Ubuntu and related projects.
-              num_employees_min: 501
-              num_employees_max: 1000
+              description: Canonical is a software company that markets commercial support and services for Ubuntu (Linux OS) and related projects.
+              num_employees_min: 1001
+              num_employees_max: 5000
               homepage: http://www.canonical.com
               city: London
               region: England
@@ -5332,9 +5049,7 @@ landscape:
                 - News
                 - Telecommunications
                 - Wireless
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 23212511874
               effective_ticker: 600050.SS
             image_data:
               fileName: china-unicom.svg
@@ -5366,28 +5081,22 @@ landscape:
                   acquiree: Lightera
                 - date: '2000-12-20'
                   acquiree: Cyras Systems
-                  price: 2600000000
                 - date: '2002-06-21'
                   acquiree: ONI Systems
-                  price: 1200000000
                 - date: '2003-04-14'
                   acquiree: Wavesmith Networks
                 - date: '2003-08-22'
                   acquiree: Akara
                 - date: '2004-02-19'
                   acquiree: Catena Networks
-                  price: 486700000
                 - date: '2004-02-19'
                   acquiree: Internet Photonics
-                  price: 150000000
                 - date: '2007-09-18'
                   acquiree: PhyFlex Networks
                 - date: '2008-01-22'
                   acquiree: World Wide Packets
-                  price: 290000000
                 - date: '2015-05-04'
                   acquiree: Cyan
-                  price: 400000000
                 - date: '2018-05-31'
                   acquiree: Packet Design
                 - date: '2018-09-05'
@@ -5410,9 +5119,7 @@ landscape:
                 - Delivery
                 - Software
                 - Telecommunications
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 7631499264
               effective_ticker: CIEN
             image_data:
               fileName: ciena-canada-ulc.svg
@@ -5428,7 +5135,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cloudops
             crunchbase_data:
               name: CloudOps
-              description: A cloud consulting, managed services, and software company focused on open source, cloud native platforms, networking, and DevOps.
+              description: CloudOps is a consulting, managed services, and software firm specializing in open source, cloud native platforms, networking, and DevOps.
               num_employees_min: 51
               num_employees_max: 100
               homepage: http://cloudops.com
@@ -5462,8 +5169,8 @@ landscape:
             crunchbase_data:
               name: Equinix
               description: Equinix is an internet company that provides data center services for companies, businesses, and organizations.
-              num_employees_min: 5001
-              num_employees_max: 10000
+              num_employees_min: 10001
+              num_employees_max: 1000000
               homepage: http://www.equinix.com
               city: Redwood City
               region: California
@@ -5477,15 +5184,12 @@ landscape:
                   acquiree: Virtu Secure Webservices
                 - date: '2009-10-21'
                   acquiree: Switch & Data
-                  price: 689000000
                 - date: '2009-10-21'
                   acquiree: Switch and Data
-                  price: 689000000
                 - date: '2012-05-16'
                   acquiree: ancotel
                 - date: '2012-07-09'
                   acquiree: Asia Tone Limited
-                  price: 230500000
                 - date: '2013-10-09'
                   acquiree: Kleyer 90 Carrier Hotel
                 - date: '2014-07-24'
@@ -5496,22 +5200,18 @@ landscape:
                   acquiree: Bit-isle Equinix, Inc.
                 - date: '2016-01-16'
                   acquiree: TelecityGroup
-                  price: 3600000000
                 - date: '2017-09-11'
                   acquiree: Itconic Innovate IT
-                  price: 259000000
                 - date: '2017-12-17'
                   acquiree: Metronode
-                  price: 792000000
+                - date: '2018-04-03'
+                  acquiree: Infomart Data Centers
                 - date: '2020-01-15'
                   acquiree: Packet
-                  price: 355000000
                 - date: '2020-08-11'
                   acquiree: GPX India
-                  price: 161000000
                 - date: '2021-12-07'
                   acquiree: MainOne
-                  price: 320000000
               parents: []
               ticker: EQIX
               funding: 1443500126
@@ -5524,9 +5224,7 @@ landscape:
                 - Infrastructure
                 - Internet
                 - Software
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 62365126656
               effective_ticker: EQIX
             image_data:
               fileName: equinix-services-inc.svg
@@ -5572,17 +5270,14 @@ landscape:
                   acquiree: Intellistor
                 - date: '1997-07-31'
                   acquiree: Amdahl Corporation
-                  price: 850000000
                 - date: '1997-11-06'
                   acquiree: Nexion
-                  price: 130000000
                 - date: '2000-04-04'
                   acquiree: Fujitsu Glovia
                 - date: '2002-02-07'
                   acquiree: ICL
                 - date: '2006-12-11'
                   acquiree: Fujitsu TDS
-                  price: 84023269
                 - date: '2007-09-17'
                   acquiree: OKERE
                 - date: '2007-10-01'
@@ -5609,8 +5304,16 @@ landscape:
                   acquiree: TrueNet Communications
                 - date: '2016-08-01'
                   acquiree: Symfoni ESM
+                - date: '2021-04-01'
+                  acquiree: Versor
+                - date: '2022-02-01'
+                  acquiree: oobe
                 - date: '2022-09-19'
                   acquiree: InPhySec
+                - date: '2023-09-04'
+                  acquiree: Innovation Consulting Services
+                - date: '2023-09-18'
+                  acquiree: MF & Associates
               parents: []
               ticker: 6702.T
               stockExchange: tyo
@@ -5618,13 +5321,13 @@ landscape:
               industries:
                 - Cloud Computing
                 - Cloud Infrastructure
+                - Cyber Security
                 - Enterprise Software
                 - IT Infrastructure
+                - Information Technology
                 - Information and Communications Technology (ICT)
                 - Software
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 25641818163
               effective_ticker: 6702.T
             image_data:
               fileName: fujitsu-limited.svg
@@ -5651,7 +5354,7 @@ landscape:
               linkedin: https://www.linkedin.com/company-beta/10378127/
               acquisitions: []
               parents: []
-              funding: 30246945
+              funding: 38468771
               stockExchange: null
               company_type: For Profit
               industries:
@@ -5706,12 +5409,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
             crunchbase_data:
               name: Hewlett Packard Enterprise
-              description: Hewlett Packard Enterprise is an industry technology company that enables customers to go further and faster.
+              description: Hewlett Packard Enterprise is an edge-to-cloud company that uses comprehensive solutions to accelerate business outcomes.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.hpe.com
-              city: Houston
-              region: Texas
+              city: Roseville
+              region: California
               country: United States
               twitter: https://www.twitter.com/hpe
               linkedin: https://www.linkedin.com/company/hewlett-packard-enterprise
@@ -5720,17 +5423,14 @@ landscape:
                   acquiree: Trilead
                 - date: '2016-08-11'
                   acquiree: Silicon Graphics
-                  price: 275000000
                 - date: '2017-01-17'
                   acquiree: Simplivity
-                  price: 650000000
                 - date: '2017-01-23'
                   acquiree: Cloud Cruiser
                 - date: '2017-02-01'
                   acquiree: Niara
                 - date: '2017-03-07'
                   acquiree: Nimble Storage
-                  price: 1090000000
                 - date: '2017-09-05'
                   acquiree: Cloud Technology Partners
                 - date: '2018-04-11'
@@ -5743,21 +5443,26 @@ landscape:
                   acquiree: MapR Technologies
                 - date: '2019-09-26'
                   acquiree: Cray
-                  price: 1400000000
                 - date: '2020-02-03'
                   acquiree: Scytale.io
                 - date: '2020-07-13'
                   acquiree: Silver Peak Systems, Inc.
-                  price: 925000000
                 - date: '2021-02-23'
                   acquiree: CloudPhysics
                 - date: '2021-06-21'
                   acquiree: Determined AI
                 - date: '2021-07-01'
                   acquiree: Zerto
-                  price: 374000000
                 - date: '2021-07-07'
                   acquiree: Ampool
+                - date: '2023-01-12'
+                  acquiree: Pachyderm
+                - date: '2023-02-23'
+                  acquiree: Athonet
+                - date: '2023-03-02'
+                  acquiree: Axis Security
+                - date: '2023-03-20'
+                  acquiree: OpsRamp
               parents: []
               ticker: HPE
               stockExchange: nyse
@@ -5768,10 +5473,7 @@ landscape:
                 - IT Management
                 - Information Technology
                 - Network Security
-                - Wireless
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 21931941888
               effective_ticker: HPE
             image_data:
               fileName: hewlett-packard-enterprise-development-lp.svg
@@ -5790,16 +5492,15 @@ landscape:
               description: Intel designs, manufactures, and sells integrated digital technology platforms worldwide.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.intel.com/
+              homepage: http://www.intel.com
               city: Santa Clara
               region: California
               country: United States
-              twitter: http://twitter.com/intel
+              twitter: http://www.twitter.com/intel
               linkedin: https://www.linkedin.com/company/intel-corporation
               acquisitions:
                 - date: '1997-07-27'
                   acquiree: Chips and Technologies
-                  price: 420000000
                 - date: '1997-09-25'
                   acquiree: Dayna Communications
                 - date: '1997-09-30'
@@ -5818,7 +5519,6 @@ landscape:
                   acquiree: XLNT
                 - date: '1999-10-05'
                   acquiree: iPivot
-                  price: 500000000
                 - date: '1999-11-15'
                   acquiree: Parity Software Development
                 - date: '2000-02-04'
@@ -5829,10 +5529,8 @@ landscape:
                   acquiree: Voice Technologies
                 - date: '2000-03-15'
                   acquiree: GIGA
-                  price: 1250000000
                 - date: '2000-03-21'
                   acquiree: Basis Communications
-                  price: 450000000
                 - date: '2000-04-06'
                   acquiree: Kuck & Associates
                 - date: '2000-04-10'
@@ -5843,13 +5541,10 @@ landscape:
                   acquiree: DataKinetics
                 - date: '2000-08-15'
                   acquiree: Ziatech
-                  price: 240000000
                 - date: '2001-01-15'
                   acquiree: Xircom
-                  price: 748000000
                 - date: '2001-02-26'
                   acquiree: VxTel
-                  price: 550000000
                 - date: '2001-03-12'
                   acquiree: CAD-UL
                 - date: '2001-03-20'
@@ -5872,10 +5567,8 @@ landscape:
                   acquiree: Mobilian Corp
                 - date: '2004-03-25'
                   acquiree: Envara
-                  price: 40000000
                 - date: '2005-02-25'
                   acquiree: Oplus Technologies
-                  price: 100000000
                 - date: '2005-08-17'
                   acquiree: Sarvega
                 - date: '2006-02-08'
@@ -5887,13 +5580,11 @@ landscape:
                 - date: '2008-10-14'
                   acquiree: NetEffect Corp
                 - date: '2008-10-15'
-                  acquiree: NetEffect
-                  price: 8000000
+                  acquiree: NetEffect Sytems
                 - date: '2009-02-01'
                   acquiree: Swiftfoot Graphics AB
                 - date: '2009-06-04'
                   acquiree: Wind River
-                  price: 884000000
                 - date: '2009-07-01'
                   acquiree: Cilk Arts
                 - date: '2009-08-01'
@@ -5902,13 +5593,10 @@ landscape:
                   acquiree: RapidMind
                 - date: '2010-02-01'
                   acquiree: Infineon Technologies
-                  price: 1400000000
                 - date: '2010-08-19'
                   acquiree: McAfee
-                  price: 7680000000
                 - date: '2010-11-15'
                   acquiree: CognoVision
-                  price: 25000000
                 - date: '2011-03-14'
                   acquiree: SySDSoft
                 - date: '2011-03-17'
@@ -5925,30 +5613,24 @@ landscape:
                   acquiree: Telmap
                 - date: '2012-04-17'
                   acquiree: Olaworks
-                  price: 31000000
                 - date: '2012-07-02'
                   acquiree: IDesia
                 - date: '2012-07-13'
                   acquiree: Whamcloud
                 - date: '2012-11-20'
                   acquiree: ZiiLabs
-                  price: 50000000
                 - date: '2013-04-17'
                   acquiree: Mashery
-                  price: 180000000
                 - date: '2013-04-28'
                   acquiree: Aepona
-                  price: 123778078
                 - date: '2013-07-16'
                   acquiree: Omek Interactive
-                  price: 40000000
                 - date: '2013-07-22'
                   acquiree: Xtreme Insights
                 - date: '2013-09-13'
                   acquiree: Indisys
-                  price: 26000000
                 - date: '2013-09-30'
-                  acquiree: Sensory Network
+                  acquiree: Sensory Networks
                 - date: '2013-11-08'
                   acquiree: Kno
                 - date: '2013-11-20'
@@ -5957,12 +5639,12 @@ landscape:
                   acquiree: Appmobi
                 - date: '2014-03-03'
                   acquiree: BASIS Science
-                  price: 100000000
                 - date: '2014-08-13'
                   acquiree: LSI - Axxia Networking Business
-                  price: 650000000
                 - date: '2014-12-01'
                   acquiree: PasswordBox
+                - date: '2015-01-01'
+                  acquiree: IMS Nanofabrication
                 - date: '2015-01-21'
                   acquiree: Composyt Light Labs
                 - date: '2015-02-02'
@@ -5971,10 +5653,8 @@ landscape:
                   acquiree: Lemoptix
                 - date: '2015-06-01'
                   acquiree: Altera
-                  price: 16700000000
                 - date: '2015-06-18'
                   acquiree: Recon Instruments
-                  price: 175000000
                 - date: '2015-08-14'
                   acquiree: Docea Power
                 - date: '2015-10-26'
@@ -5983,27 +5663,20 @@ landscape:
                   acquiree: Ascending Technologies
                 - date: '2016-03-08'
                   acquiree: Replay Technologies
-                  price: 175000000
                 - date: '2016-04-05'
                   acquiree: YOGITECH
                 - date: '2016-05-26'
                   acquiree: Itseez
                 - date: '2016-08-09'
                   acquiree: Nervana
-                  price: 408000000
                 - date: '2016-09-06'
                   acquiree: Movidius
-                  price: 400000000
                 - date: '2016-09-09'
                   acquiree: Soft Machines
-                  price: 250000000
                 - date: '2016-11-01'
                   acquiree: MAVinci GmbH
                 - date: '2016-11-03'
                   acquiree: VOKE
-                - date: '2017-03-13'
-                  acquiree: Mobileye
-                  price: 15300000000
                 - date: '2018-07-12'
                   acquiree: eASIC
                 - date: '2018-08-16'
@@ -6018,13 +5691,10 @@ landscape:
                   acquiree: Barefoot Networks
                 - date: '2019-10-16'
                   acquiree: Smart Edge
-                  price: 27000000
                 - date: '2019-12-16'
                   acquiree: Habana
-                  price: 2000000000
                 - date: '2020-05-04'
                   acquiree: Moovit
-                  price: 900000000
                 - date: '2020-05-20'
                   acquiree: Rivet Networks
                 - date: '2020-10-29'
@@ -6035,10 +5705,6 @@ landscape:
                   acquiree: RemoteMyApp
                 - date: '2021-12-07'
                   acquiree: Screenovate
-                  price: 100000000
-                - date: '2022-02-15'
-                  acquiree: Tower Semiconductor
-                  price: 5400000000
                 - date: '2022-02-23'
                   acquiree: Linutronix
                 - date: '2022-03-31'
@@ -6056,17 +5722,11 @@ landscape:
               company_type: For Profit
               industries:
                 - Artificial Intelligence
-                - Computer
-                - GPU
-                - Hardware
                 - Information Technology
-                - Manufacturing
                 - Product Design
                 - Semiconductor
                 - Software
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 118568706048
               effective_ticker: INTC
             image_data:
               fileName: intel-corporation.svg
@@ -6094,57 +5754,42 @@ landscape:
               acquisitions:
                 - date: '1999-11-15'
                   acquiree: Layer Five
-                  price: 19000000
                 - date: '2000-01-18'
                   acquiree: Pacific Advantage Ltd.
-                  price: 4000000
                 - date: '2001-12-11'
                   acquiree: Micro Magic
-                  price: 260000000
                 - date: '2001-12-14'
                   acquiree: Pacific Broadband Communications
-                  price: 200000000
                 - date: '2002-07-01'
                   acquiree: Unisphere Networks
-                  price: 740000000
                 - date: '2004-02-10'
                   acquiree: NetScreen Technologies
-                  price: 3400000000
                 - date: '2005-03-29'
                   acquiree: Kagoor Networks
                 - date: '2005-05-05'
                   acquiree: Redline Networks
-                  price: 132000000
                 - date: '2005-07-01'
                   acquiree: Peribit Networks
-                  price: 337000000
                 - date: '2005-10-25'
                   acquiree: Acorn Packet Solutions
-                  price: 8700000
                 - date: '2005-11-14'
                   acquiree: Funk Software
-                  price: 122000000
                 - date: '2010-04-08'
                   acquiree: Ankeena Networks
-                  price: 100000000
                 - date: '2010-07-27'
                   acquiree: SMobile Systems
-                  price: 70000000
                 - date: '2010-11-16'
                   acquiree: Trapeze Networks
-                  price: 152000000
                 - date: '2010-11-18'
                   acquiree: Blackwave
                 - date: '2010-12-06'
                   acquiree: Altor Networks
                 - date: '2011-02-21'
                   acquiree: Brilliant Telecommunications
-                  price: 4500000
                 - date: '2012-02-22'
                   acquiree: Mykonos Software
                 - date: '2012-12-13'
                   acquiree: Contrail Systems
-                  price: 176000000
                 - date: '2013-02-08'
                   acquiree: Webscreen Technology
                 - date: '2013-12-16'
@@ -6161,10 +5806,8 @@ landscape:
                   acquiree: HTBASE
                 - date: '2019-03-05'
                   acquiree: Mist Systems
-                  price: 405000000
                 - date: '2020-10-19'
                   acquiree: 128 Technology
-                  price: 450000000
                 - date: '2020-11-25'
                   acquiree: SISRA
                 - date: '2020-12-07'
@@ -6181,9 +5824,7 @@ landscape:
                 - Information Technology
                 - Infrastructure
                 - Security
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 10369564672
               effective_ticker: JNPR
             image_data:
               fileName: juniper-networks-inc.svg
@@ -6240,7 +5881,7 @@ landscape:
               city: Tokyo
               region: Tokyo
               country: Japan
-              twitter: http://twitter.com/au_official
+              twitter: https://twitter.com/kddipr
               linkedin: https://www.linkedin.com/company/kddi-corporation
               acquisitions:
                 - date: '2010-01-25'
@@ -6261,7 +5902,6 @@ landscape:
                   acquiree: Loco Partners, Inc.
                 - date: '2017-08-02'
                   acquiree: SORACOM
-                  price: 181000000
                 - date: '2017-11-23'
                   acquiree: Aeon Corp.
               parents: []
@@ -6272,9 +5912,7 @@ landscape:
                 - Finance
                 - Mobile
                 - Telecommunications
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 65642940467
               effective_ticker: 9433.T
             image_data:
               fileName: kddi-corporation.svg
@@ -6293,7 +5931,7 @@ landscape:
               description: Keysight Technologies is an electronic measurement company.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: https://www.keysight.com/us/en/home.html
+              homepage: https://www.keysight.com
               city: Santa Rosa
               region: California
               country: United States
@@ -6304,38 +5942,44 @@ landscape:
                   acquiree: Eagleware-Elanix
                 - date: '2015-08-13'
                   acquiree: Anite
-                  price: 600000000
                 - date: '2015-08-28'
                   acquiree: Electroservices Enterprises
                 - date: '2016-07-30'
                   acquiree: Signadyne
                 - date: '2017-01-30'
                   acquiree: IXIA
-                  price: 1600000000
                 - date: '2018-08-13'
                   acquiree: Thales Calibration Services
                 - date: '2020-03-02'
                   acquiree: Labber
                 - date: '2020-06-25'
                   acquiree: Eggplant
-                  price: 330000000
+                - date: '2020-07-01'
+                  acquiree: NORDSYS
                 - date: '2021-02-22'
                   acquiree: Sanjole
                 - date: '2021-05-25'
                   acquiree: Quantum Benchmark
                 - date: '2021-10-18'
                   acquiree: Scalable Network Technologies
+                - date: '2023-02-23'
+                  acquiree: ClioSoft
               parents: []
               ticker: KEYS
+              funding: 0
               stockExchange: nyse
               company_type: For Profit
               industries:
-                - Electrical Distribution
+                - Analytics
+                - Cloud Security
                 - Electronics
                 - Manufacturing
-              kind: market_cap
+                - Network Security
+                - Product Design
+                - Software
+                - Test and Measurement
+                - Wireless
             yahoo_finance_data:
-              market_cap: 31364220928
               effective_ticker: KEYS
             image_data:
               fileName: keysight-technologies-inc.svg
@@ -6420,14 +6064,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/mavenir
             crunchbase_data:
               name: Mavenir
-              description: Mavenir engages in accelerating software network transformation for communications service providers and enterprises.
+              description: Mavenir develops multimedia communications and information processing software.
               num_employees_min: 5001
               num_employees_max: 10000
               homepage: http://www.mavenir.com
               city: Richardson
               region: Texas
               country: United States
-              twitter: http://twitter.com/mavenir
+              twitter: https://www.twitter.com/mavenir
               linkedin: https://www.linkedin.com/company/mavenir
               acquisitions:
                 - date: '2011-05-30'
@@ -6445,14 +6089,15 @@ landscape:
                 - date: '2020-09-28'
                   acquiree: ip.access
                 - date: '2021-08-25'
-                  acquiree: TeleStax, Inc.
+                  acquiree: TeleStax
               parents: []
-              funding: 854600000
+              funding: 954600000
               stockExchange: nyse
               company_type: For Profit
               industries:
                 - Cloud Infrastructure
                 - Communications Infrastructure
+                - SaaS
                 - Software
                 - Telecommunications
               kind: funding
@@ -6470,7 +6115,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/mirantis
             crunchbase_data:
               name: Mirantis
-              description: Mirantis helps organizations ship code faster on public and private clouds. We provide a public cloud experience on any infrastructure.
+              description: Mirantis is a DevOps as-a-service company that helps organizations ship code on public and private clouds on any infrastructure.
               num_employees_min: 501
               num_employees_max: 1000
               homepage: http://www.mirantis.com
@@ -6490,8 +6135,10 @@ landscape:
                   acquiree: Lens
                 - date: '2022-07-26'
                   acquiree: amazee.io
+                - date: '2023-01-26'
+                  acquiree: Shipa
               parents: []
-              funding: 220000000
+              funding: 240000000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -6500,7 +6147,6 @@ landscape:
                 - IT Infrastructure
                 - IaaS
                 - Open Source
-                - Software
               kind: funding
             image_data:
               fileName: mirantis-inc.svg
@@ -6528,24 +6174,20 @@ landscape:
               acquisitions:
                 - date: '2008-06-21'
                   acquiree: NetCracker Technology
-                  price: 300000000
                 - date: '2016-08-18'
                   acquiree: Arcon Managed Security Services
                 - date: '2018-01-09'
                   acquiree: Northgate Public Services
-                  price: 642696131
                 - date: '2018-02-09'
                   acquiree: NEC XON
                 - date: '2018-08-01'
                   acquiree: i2N
                 - date: '2018-12-27'
                   acquiree: KMD
-                  price: 1230000000
                 - date: '2019-07-29'
                   acquiree: OncoImmunity
                 - date: '2020-10-05'
                   acquiree: Avaloq
-                  price: 2200000000
                 - date: '2022-01-28'
                   acquiree: Blue Danube Systems
                 - date: '2022-07-01'
@@ -6560,9 +6202,7 @@ landscape:
                 - Information Technology
                 - Network Security
                 - Telecommunications
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 9216622886
               effective_ticker: 6701.T
             image_data:
               fileName: nec-corporation.svg
@@ -6622,6 +6262,8 @@ landscape:
               twitter: https://twitter.com/nttdata_pr
               linkedin: https://www.linkedin.com/company/ntt-data/
               acquisitions:
+                - date: '2010-05-01'
+                  acquiree: Cue Data Services
                 - date: '2010-06-14'
                   acquiree: Intelligroup
                 - date: '2010-09-02'
@@ -6634,7 +6276,6 @@ landscape:
                   acquiree: Mpayy
                 - date: '2012-01-25'
                   acquiree: Netmagic Solutions
-                  price: 128000000
                 - date: '2012-10-10'
                   acquiree: RMA Consulting
                 - date: '2013-11-01'
@@ -6683,10 +6324,9 @@ landscape:
               industries:
                 - Information Services
                 - Information Technology
+                - InsurTech
                 - Software
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 20240595043
               effective_ticker: 9613.T
             image_data:
               fileName: ntt-data-spain-s-l-u.svg
@@ -6723,15 +6363,13 @@ landscape:
                 - date: '2009-08-28'
                   acquiree: Unanimis
                 - date: '2011-10-21'
-                  acquiree: Orange RDC S.A.R.L
+                  acquiree: Orange RDC
                 - date: '2013-02-22'
                   acquiree: Dailymotion
-                  price: 168000000
                 - date: '2013-09-05'
                   acquiree: InovenAltenor
                 - date: '2014-09-15'
                   acquiree: Jazztel
-                  price: 3870000000
                 - date: '2015-03-20'
                   acquiree: Cloudwatt
                 - date: '2016-01-11'
@@ -6742,7 +6380,6 @@ landscape:
                   acquiree: OASIS SPRL
                 - date: '2016-04-21'
                   acquiree: Tigo
-                  price: 160000000
                 - date: '2016-04-22'
                   acquiree: Groupama Banque
                 - date: '2016-06-29'
@@ -6753,23 +6390,21 @@ landscape:
                   acquiree: SecureData Europe Ltd.
                 - date: '2019-05-07'
                   acquiree: SecureLink
-                  price: 576263752
                 - date: '2019-11-19'
                   acquiree: Suma Móvil
                 - date: '2020-01-29'
                   acquiree: Bucharest City App
+                - date: '2021-06-07'
+                  acquiree: DabaDoc
                 - date: '2022-07-23'
                   acquiree: MASMOVIL
-                  price: 11132172592
               parents: []
               ticker: ORA.PA
-              funding: 774445082
+              funding: 2401539128
               stockExchange: epa
               company_type: For Profit
               industries: []
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 27988755634
               effective_ticker: ORA.PA
             image_data:
               fileName: orange-sa.svg
@@ -6847,17 +6482,14 @@ landscape:
                   acquiree: Anova Data
                 - date: '2019-11-14'
                   acquiree: ECI Telecom
-                  price: 463000000
               parents: []
               ticker: RBBN
-              funding: 52000000
+              funding: 105400000
               stockExchange: nasdaq
               company_type: For Profit
               industries:
                 - Telecommunications
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 480831776
               effective_ticker: RBBN
             image_data:
               fileName: ribbon-communications-operating-company-inc.svg
@@ -6922,14 +6554,12 @@ landscape:
               acquisitions:
                 - date: '2005-08-15'
                   acquiree: Nextel Communications
-                  price: 35000000000
                 - date: '2009-07-28'
                   acquiree: Virgin Mobile USA
                 - date: '2009-10-19'
                   acquiree: iPCS
                 - date: '2012-12-17'
                   acquiree: Clearwire
-                  price: 2200000000
                 - date: '2013-05-20'
                   acquiree: Handmark
                 - date: '2013-05-20'
@@ -6960,24 +6590,21 @@ landscape:
               description: STL is an Indian manufacturer of optical fibers, telecommunication cables and power transmission conductors.
               num_employees_min: 1001
               num_employees_max: 5000
-              homepage: https://www.stl.tech/
+              homepage: https://www.stl.tech
               city: Pune
               region: Maharashtra
               country: India
               twitter: https://twitter.com/STL_tech
-              linkedin: https://in.linkedin.com/company/sterlite-technologies-ltd.
+              linkedin: https://www.linkedin.com/company/sterlite-technologies-ltd-
               acquisitions:
                 - date: '2015-09-23'
                   acquiree: Elitecore Technologies
-                  price: 27000000
                 - date: '2018-07-06'
                   acquiree: Metallurgica Bresciana
-                  price: 55241476
                 - date: '2019-09-25'
                   acquiree: Impact Data Solutions
                 - date: '2021-07-22'
                   acquiree: Clearcomm Group
-                  price: 21347833
               parents: []
               ticker: STRTECH.NS
               stockExchange: nse
@@ -7019,6 +6646,12 @@ landscape:
                   acquiree: Teleena
                 - date: '2020-12-23'
                   acquiree: Oasis Smart SIM
+                - date: '2023-05-01'
+                  acquiree: The Switch
+                - date: '2023-06-28'
+                  acquiree: Kaleyra
+                - date: '2023-06-28'
+                  acquiree: Kaleyra
               parents: []
               ticker: TATACOMM.NS
               stockExchange: nse
@@ -7026,9 +6659,7 @@ landscape:
               industries:
                 - Content Delivery Network
                 - Internet
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 4596542103
               effective_ticker: TATACOMM.NS
             image_data:
               fileName: tata-communications-limited.svg
@@ -7043,36 +6674,37 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/telecom-italia
             crunchbase_data:
               name: Telecom Italia
-              description: Telecom Italia offers technological infrastructure/platforms for voice and data to be converted to advanced telecom, ICT and media services.
+              description: Telecom Italia is an ICT group that develops infrastructure and offers fixed telephony and DSL data services.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.gruppotim.it
-              city: Milan
-              region: Lombardia
+              city: Roma
+              region: Lazio
               country: Italy
               twitter: https://twitter.com/timnewsroom
-              linkedin: https://www.linkedin.com/company/tim/
+              linkedin: https://www.linkedin.com/company/tim
               acquisitions:
                 - date: '2005-04-06'
                   acquiree: Liberty Surf Group
                 - date: '2006-09-18'
                   acquiree: AOL - Internet access business Germany
-                  price: 854000000
                 - date: '2016-01-01'
                   acquiree: Olivetti
                 - date: '2016-10-28'
                   acquiree: Noverca
+                - date: '2019-10-31'
+                  acquiree: Noverca
                 - date: '2020-05-27'
                   acquiree: Noovle
+                - date: '2023-04-21'
+                  acquiree: TS-WAY
               parents: []
-              funding: 391580536
+              funding: 2430234641
               stockExchange: nyse
               company_type: For Profit
               industries:
                 - Information Services
                 - Information Technology
-                - Internet
-                - Retail
                 - Telecommunications
                 - Web Hosting
               kind: funding
@@ -7104,16 +6736,16 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
+                - Artificial Intelligence
                 - Big Data
                 - Cloud Computing
                 - Cloud Data Services
                 - Cloud Infrastructure
                 - Cloud Management
-                - Cloud Security
                 - Cloud Storage
                 - Enterprise Software
-                - Software
-                - Software Engineering
+                - Information Technology
+                - UX Design
             image_data:
               fileName: wavelabs.svg
               hash: 056sFOs06anrDPmi1y/l1EBaEYqJzy/WfvKYrgNtuA4=
@@ -7128,7 +6760,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/wind-river
             crunchbase_data:
               name: Wind River
-              description: Wind River is a technology company that develops, runs, and manages device software.
+              description: Software for the Intelligent Edge
               num_employees_min: 1001
               num_employees_max: 5000
               homepage: http://www.windriver.com
@@ -7142,12 +6774,10 @@ landscape:
                   acquiree: AudeSi Technologies
                 - date: '2000-10-09'
                   acquiree: Rapid Logic
-                  price: 58300000
                 - date: '2009-02-28'
                   acquiree: Tilcon Software Ltd.
                 - date: '2010-02-05'
                   acquiree: Virtutech
-                  price: 45000000
                 - date: '2016-04-04'
                   acquiree: Arynga
                 - date: '2020-01-16'
@@ -7298,9 +6928,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/gradiant
             crunchbase_data:
               name: Gradiant
-              description: Innovation provider of technologies and knowledge transfer helping companies since 2008
-              num_employees_min: 51
-              num_employees_max: 100
+              description: Gradiant is engaged in the transfer and development of technologies for each company or organization.
+              num_employees_min: 101
+              num_employees_max: 250
               homepage: https://www.gradiant.org/?lang=en
               city: Vigo
               region: Galicia
@@ -7368,7 +6998,7 @@ landscape:
               region: T'ai-pei
               country: Taiwan
               twitter: null
-              linkedin: null
+              linkedin: https://www.linkedin.com/company/institute-for-information-industry
               acquisitions: []
               parents: []
               stockExchange: null
@@ -7436,12 +7066,10 @@ landscape:
                 - https://www.crunchbase.com/organization/digital-ga
               ticker: 4819.T
               stockExchange: null
-              company_type: ''
+              company_type: For Profit
               industries:
                 - Finance
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 1542901453
               effective_ticker: 4819.T
             image_data:
               fileName: okinawa-open-laboratory.svg
@@ -7488,7 +7116,10 @@ landscape:
               company_type: Non Profit
               industries:
                 - Cloud Computing
+                - Consulting
+                - Information Technology
                 - Non Profit
+                - Software
                 - Telecommunications
             image_data:
               fileName: open-networking-foundation.svg
@@ -7517,7 +7148,7 @@ landscape:
               parents: []
               funding: 13400000
               stockExchange: null
-              company_type: ''
+              company_type: For Profit
               industries:
                 - Education
                 - Training
@@ -7564,9 +7195,9 @@ landscape:
               linkedin: https://www.linkedin.com/edu/trinity-college-dublin-13378
               acquisitions: []
               parents: []
-              funding: 327305390
+              funding: 328887762
               stockExchange: null
-              company_type: ''
+              company_type: For Profit
               industries:
                 - Education
                 - Public Relations
@@ -7665,12 +7296,13 @@ landscape:
               linkedin: https://www.linkedin.com/company/university-of-surrey
               acquisitions: []
               parents: []
-              funding: 0
+              funding: 318669
               stockExchange: null
               company_type: ''
               industries:
                 - Association
                 - Education
+              kind: funding
             image_data:
               fileName: university-of-surrey.svg
               hash: RTzY7Z7B+wOZWVkBLbQg/xUb5mul3azFG6yUhvK2lQs=
@@ -7716,9 +7348,7 @@ landscape:
                 - Security
                 - Virtualization
                 - Web Hosting
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 1165616640
               effective_ticker: ATEN
             image_data:
               fileName: a10-networks-5-g-cloud.svg
@@ -7773,16 +7403,15 @@ landscape:
               description: Intel designs, manufactures, and sells integrated digital technology platforms worldwide.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.intel.com/
+              homepage: http://www.intel.com
               city: Santa Clara
               region: California
               country: United States
-              twitter: http://twitter.com/intel
+              twitter: http://www.twitter.com/intel
               linkedin: https://www.linkedin.com/company/intel-corporation
               acquisitions:
                 - date: '1997-07-27'
                   acquiree: Chips and Technologies
-                  price: 420000000
                 - date: '1997-09-25'
                   acquiree: Dayna Communications
                 - date: '1997-09-30'
@@ -7801,7 +7430,6 @@ landscape:
                   acquiree: XLNT
                 - date: '1999-10-05'
                   acquiree: iPivot
-                  price: 500000000
                 - date: '1999-11-15'
                   acquiree: Parity Software Development
                 - date: '2000-02-04'
@@ -7812,10 +7440,8 @@ landscape:
                   acquiree: Voice Technologies
                 - date: '2000-03-15'
                   acquiree: GIGA
-                  price: 1250000000
                 - date: '2000-03-21'
                   acquiree: Basis Communications
-                  price: 450000000
                 - date: '2000-04-06'
                   acquiree: Kuck & Associates
                 - date: '2000-04-10'
@@ -7826,13 +7452,10 @@ landscape:
                   acquiree: DataKinetics
                 - date: '2000-08-15'
                   acquiree: Ziatech
-                  price: 240000000
                 - date: '2001-01-15'
                   acquiree: Xircom
-                  price: 748000000
                 - date: '2001-02-26'
                   acquiree: VxTel
-                  price: 550000000
                 - date: '2001-03-12'
                   acquiree: CAD-UL
                 - date: '2001-03-20'
@@ -7855,10 +7478,8 @@ landscape:
                   acquiree: Mobilian Corp
                 - date: '2004-03-25'
                   acquiree: Envara
-                  price: 40000000
                 - date: '2005-02-25'
                   acquiree: Oplus Technologies
-                  price: 100000000
                 - date: '2005-08-17'
                   acquiree: Sarvega
                 - date: '2006-02-08'
@@ -7870,13 +7491,11 @@ landscape:
                 - date: '2008-10-14'
                   acquiree: NetEffect Corp
                 - date: '2008-10-15'
-                  acquiree: NetEffect
-                  price: 8000000
+                  acquiree: NetEffect Sytems
                 - date: '2009-02-01'
                   acquiree: Swiftfoot Graphics AB
                 - date: '2009-06-04'
                   acquiree: Wind River
-                  price: 884000000
                 - date: '2009-07-01'
                   acquiree: Cilk Arts
                 - date: '2009-08-01'
@@ -7885,13 +7504,10 @@ landscape:
                   acquiree: RapidMind
                 - date: '2010-02-01'
                   acquiree: Infineon Technologies
-                  price: 1400000000
                 - date: '2010-08-19'
                   acquiree: McAfee
-                  price: 7680000000
                 - date: '2010-11-15'
                   acquiree: CognoVision
-                  price: 25000000
                 - date: '2011-03-14'
                   acquiree: SySDSoft
                 - date: '2011-03-17'
@@ -7908,30 +7524,24 @@ landscape:
                   acquiree: Telmap
                 - date: '2012-04-17'
                   acquiree: Olaworks
-                  price: 31000000
                 - date: '2012-07-02'
                   acquiree: IDesia
                 - date: '2012-07-13'
                   acquiree: Whamcloud
                 - date: '2012-11-20'
                   acquiree: ZiiLabs
-                  price: 50000000
                 - date: '2013-04-17'
                   acquiree: Mashery
-                  price: 180000000
                 - date: '2013-04-28'
                   acquiree: Aepona
-                  price: 123778078
                 - date: '2013-07-16'
                   acquiree: Omek Interactive
-                  price: 40000000
                 - date: '2013-07-22'
                   acquiree: Xtreme Insights
                 - date: '2013-09-13'
                   acquiree: Indisys
-                  price: 26000000
                 - date: '2013-09-30'
-                  acquiree: Sensory Network
+                  acquiree: Sensory Networks
                 - date: '2013-11-08'
                   acquiree: Kno
                 - date: '2013-11-20'
@@ -7940,12 +7550,12 @@ landscape:
                   acquiree: Appmobi
                 - date: '2014-03-03'
                   acquiree: BASIS Science
-                  price: 100000000
                 - date: '2014-08-13'
                   acquiree: LSI - Axxia Networking Business
-                  price: 650000000
                 - date: '2014-12-01'
                   acquiree: PasswordBox
+                - date: '2015-01-01'
+                  acquiree: IMS Nanofabrication
                 - date: '2015-01-21'
                   acquiree: Composyt Light Labs
                 - date: '2015-02-02'
@@ -7954,10 +7564,8 @@ landscape:
                   acquiree: Lemoptix
                 - date: '2015-06-01'
                   acquiree: Altera
-                  price: 16700000000
                 - date: '2015-06-18'
                   acquiree: Recon Instruments
-                  price: 175000000
                 - date: '2015-08-14'
                   acquiree: Docea Power
                 - date: '2015-10-26'
@@ -7966,27 +7574,20 @@ landscape:
                   acquiree: Ascending Technologies
                 - date: '2016-03-08'
                   acquiree: Replay Technologies
-                  price: 175000000
                 - date: '2016-04-05'
                   acquiree: YOGITECH
                 - date: '2016-05-26'
                   acquiree: Itseez
                 - date: '2016-08-09'
                   acquiree: Nervana
-                  price: 408000000
                 - date: '2016-09-06'
                   acquiree: Movidius
-                  price: 400000000
                 - date: '2016-09-09'
                   acquiree: Soft Machines
-                  price: 250000000
                 - date: '2016-11-01'
                   acquiree: MAVinci GmbH
                 - date: '2016-11-03'
                   acquiree: VOKE
-                - date: '2017-03-13'
-                  acquiree: Mobileye
-                  price: 15300000000
                 - date: '2018-07-12'
                   acquiree: eASIC
                 - date: '2018-08-16'
@@ -8001,13 +7602,10 @@ landscape:
                   acquiree: Barefoot Networks
                 - date: '2019-10-16'
                   acquiree: Smart Edge
-                  price: 27000000
                 - date: '2019-12-16'
                   acquiree: Habana
-                  price: 2000000000
                 - date: '2020-05-04'
                   acquiree: Moovit
-                  price: 900000000
                 - date: '2020-05-20'
                   acquiree: Rivet Networks
                 - date: '2020-10-29'
@@ -8018,10 +7616,6 @@ landscape:
                   acquiree: RemoteMyApp
                 - date: '2021-12-07'
                   acquiree: Screenovate
-                  price: 100000000
-                - date: '2022-02-15'
-                  acquiree: Tower Semiconductor
-                  price: 5400000000
                 - date: '2022-02-23'
                   acquiree: Linutronix
                 - date: '2022-03-31'
@@ -8039,17 +7633,11 @@ landscape:
               company_type: For Profit
               industries:
                 - Artificial Intelligence
-                - Computer
-                - GPU
-                - Hardware
                 - Information Technology
-                - Manufacturing
                 - Product Design
                 - Semiconductor
                 - Software
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 118568706048
               effective_ticker: INTC
             image_data:
               fileName: intel-corporation-5-g.svg
@@ -8076,14 +7664,13 @@ landscape:
               city: Menlo Park
               region: California
               country: United States
-              twitter: https://twitter.com/Meta
+              twitter: https://www.twitter.com/Meta
               linkedin: https://www.linkedin.com/company/meta
               acquisitions:
                 - date: '2007-07-01'
                   acquiree: Parakey
                 - date: '2009-08-10'
                   acquiree: FriendFeed
-                  price: 50000000
                 - date: '2010-02-19'
                   acquiree: Octazen Solutions
                 - date: '2010-04-02'
@@ -8092,13 +7679,10 @@ landscape:
                   acquiree: ShareGrove
                 - date: '2010-07-28'
                   acquiree: Hot Potato
-                  price: 10000000
                 - date: '2010-08-15'
                   acquiree: Chai Labs
-                  price: 10000000
                 - date: '2010-09-25'
                   acquiree: Nextstop
-                  price: 2500000
                 - date: '2010-10-29'
                   acquiree: drop.io
                 - date: '2010-11-16'
@@ -8111,7 +7695,6 @@ landscape:
                   acquiree: Beluga
                 - date: '2011-03-20'
                   acquiree: Snaptu
-                  price: 70000000
                 - date: '2011-04-27'
                   acquiree: Daytum
                 - date: '2011-06-09'
@@ -8128,7 +7711,6 @@ landscape:
                   acquiree: WhoGlue
                 - date: '2011-12-02'
                   acquiree: Gowalla (acquired by facebook)
-                  price: 3000000
                 - date: '2012-02-29'
                   acquiree: Sendoid
                 - date: '2012-03-03'
@@ -8137,7 +7719,6 @@ landscape:
                   acquiree: GazeHawk
                 - date: '2012-04-09'
                   acquiree: Instagram
-                  price: 1010470000
                 - date: '2012-04-13'
                   acquiree: Tagtile
                 - date: '2012-05-04'
@@ -8170,28 +7751,22 @@ landscape:
                   acquiree: Spaceport.io
                 - date: '2013-04-25'
                   acquiree: Parse
-                  price: 85000000
                 - date: '2013-07-18'
                   acquiree: Monoidics
                 - date: '2013-08-12'
                   acquiree: Jibbigo
                 - date: '2013-10-14'
                   acquiree: Onavo
-                  price: 120000000
                 - date: '2013-12-17'
                   acquiree: SportStream
                 - date: '2014-01-13'
                   acquiree: Branch
-                  price: 15000000
                 - date: '2014-02-19'
                   acquiree: WhatsApp
-                  price: 19000000000
                 - date: '2014-03-25'
                   acquiree: Oculus
-                  price: 2000000000
                 - date: '2014-03-28'
                   acquiree: Ascenta (UK)
-                  price: 20000000
                 - date: '2014-04-24'
                   acquiree: Moves
                 - date: '2014-04-24'
@@ -8204,7 +7779,6 @@ landscape:
                   acquiree: PrivateCore
                 - date: '2014-08-14'
                   acquiree: LiveRail
-                  price: 500000000
                 - date: '2015-01-05'
                   acquiree: Wit.ai
                 - date: '2015-01-08'
@@ -8267,14 +7841,12 @@ landscape:
                   acquiree: Sanzaru Games
                 - date: '2020-05-15'
                   acquiree: Giphy
-                  price: 400000000
                 - date: '2020-06-18'
                   acquiree: Mapillary
                 - date: '2020-09-22'
                   acquiree: Lemnis Technologies
                 - date: '2020-11-30'
                   acquiree: Kustomer
-                  price: 1000000000
                 - date: '2021-06-04'
                   acquiree: Unit 2 Games
                 - date: '2021-10-12'
@@ -8295,9 +7867,11 @@ landscape:
                   acquiree: Twisted Pixel Games
                 - date: '2022-12-31'
                   acquiree: Luxexcel
+                - date: '2023-01-12'
+                  acquiree: Gary Sharp Innovations
               parents: []
               ticker: META
-              funding: 26122817488
+              funding: 24622817488
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -8305,9 +7879,7 @@ landscape:
                 - Social Media
                 - Social Network
                 - Virtual Reality
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 340938457088
               effective_ticker: META
             image_data:
               fileName: meta-5-g.svg
@@ -8326,7 +7898,7 @@ landscape:
               description: Turnium Technology specializes in providing network technology solutions.
               num_employees_min: 11
               num_employees_max: 50
-              homepage: http://ttgi.io
+              homepage: https://www.ttgi.io/
               city: North Vancouver
               region: British Columbia
               country: Canada
@@ -8366,16 +7938,16 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
+                - Artificial Intelligence
                 - Big Data
                 - Cloud Computing
                 - Cloud Data Services
                 - Cloud Infrastructure
                 - Cloud Management
-                - Cloud Security
                 - Cloud Storage
                 - Enterprise Software
-                - Software
-                - Software Engineering
+                - Information Technology
+                - UX Design
             image_data:
               fileName: wavelabs-5-g.svg
               hash: 056sFOs06anrDPmi1y/l1EBaEYqJzy/WfvKYrgNtuA4=
@@ -8402,11 +7974,10 @@ landscape:
               acquisitions:
                 - date: '2002-01-02'
                   acquiree: Ernst & Young - Consulting Unit
-                  price: 11000000000
                 - date: '2003-01-01'
                   acquiree: Transiciel SA
                 - date: '2004-03-01'
-                  acquiree: Dräger Synematic GmbH
+                  acquiree: Dräger
                 - date: '2006-01-01'
                   acquiree: Kanbay Software India Pty Ltd
                 - date: '2006-10-10'
@@ -8415,6 +7986,8 @@ landscape:
                   acquiree: Capgemini Business Services (India) Pvt Ltd
                 - date: '2006-10-26'
                   acquiree: Kanbay
+                - date: '2007-02-01'
+                  acquiree: Software Architects, Inc.
                 - date: '2007-02-09'
                   acquiree: Capgemini Financial Services International
                 - date: '2008-05-02'
@@ -8459,7 +8032,6 @@ landscape:
                   acquiree: Groupe Euriware S.A.
                 - date: '2015-04-27'
                   acquiree: iGATE Global Solutions
-                  price: 4000000000
                 - date: '2015-07-01'
                   acquiree: iGATE
                 - date: '2016-01-05'
@@ -8482,15 +8054,14 @@ landscape:
                   acquiree: DOING
                 - date: '2019-06-24'
                   acquiree: Altran India Pvt. Ltd
-                  price: 4103733257
                 - date: '2019-06-24'
                   acquiree: Capgemini Engineering
-                  price: 4103733257
                 - date: '2020-03-26'
                   acquiree: WhiteSky Labs
                 - date: '2020-11-10'
                   acquiree: RXP Services
-                  price: 69535004
+                - date: '2021-03-26'
+                  acquiree: RXP Group
                 - date: '2021-05-10'
                   acquiree: Multibook - SAP services business
                 - date: '2021-06-24'
@@ -8501,7 +8072,6 @@ landscape:
                   acquiree: Acclimation
                 - date: '2021-07-19'
                   acquiree: Empired
-                  price: 172400000
                 - date: '2021-09-14'
                   acquiree: VariQ
                 - date: '2022-05-15'
@@ -8516,6 +8086,10 @@ landscape:
                   acquiree: Quorsus
                 - date: '2022-10-28'
                   acquiree: Quantmetry
+                - date: '2023-06-22'
+                  acquiree: Big Tree Technology & Consulting
+                - date: '2023-09-28'
+                  acquiree: HDL Design House
               parents: []
               ticker: CAP.PA
               stockExchange: epa
@@ -8524,11 +8098,10 @@ landscape:
                 - Consulting
                 - IT Management
                 - Information Technology
+                - InsurTech
                 - News
                 - Software
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 30009019507
               effective_ticker: CAP.PA
             image_data:
               fileName: cap-gemini-engineering-5-g.svg
@@ -8588,7 +8161,7 @@ landscape:
               linkedin: https://www.linkedin.com/company-beta/10378127/
               acquisitions: []
               parents: []
-              funding: 30246945
+              funding: 38468771
               stockExchange: null
               company_type: For Profit
               industries:
@@ -8624,7 +8197,7 @@ landscape:
               linkedin: https://www.linkedin.com/company-beta/10378127/
               acquisitions: []
               parents: []
-              funding: 30246945
+              funding: 38468771
               stockExchange: null
               company_type: For Profit
               industries:
@@ -8774,16 +8347,15 @@ landscape:
               description: Intel designs, manufactures, and sells integrated digital technology platforms worldwide.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.intel.com/
+              homepage: http://www.intel.com
               city: Santa Clara
               region: California
               country: United States
-              twitter: http://twitter.com/intel
+              twitter: http://www.twitter.com/intel
               linkedin: https://www.linkedin.com/company/intel-corporation
               acquisitions:
                 - date: '1997-07-27'
                   acquiree: Chips and Technologies
-                  price: 420000000
                 - date: '1997-09-25'
                   acquiree: Dayna Communications
                 - date: '1997-09-30'
@@ -8802,7 +8374,6 @@ landscape:
                   acquiree: XLNT
                 - date: '1999-10-05'
                   acquiree: iPivot
-                  price: 500000000
                 - date: '1999-11-15'
                   acquiree: Parity Software Development
                 - date: '2000-02-04'
@@ -8813,10 +8384,8 @@ landscape:
                   acquiree: Voice Technologies
                 - date: '2000-03-15'
                   acquiree: GIGA
-                  price: 1250000000
                 - date: '2000-03-21'
                   acquiree: Basis Communications
-                  price: 450000000
                 - date: '2000-04-06'
                   acquiree: Kuck & Associates
                 - date: '2000-04-10'
@@ -8827,13 +8396,10 @@ landscape:
                   acquiree: DataKinetics
                 - date: '2000-08-15'
                   acquiree: Ziatech
-                  price: 240000000
                 - date: '2001-01-15'
                   acquiree: Xircom
-                  price: 748000000
                 - date: '2001-02-26'
                   acquiree: VxTel
-                  price: 550000000
                 - date: '2001-03-12'
                   acquiree: CAD-UL
                 - date: '2001-03-20'
@@ -8856,10 +8422,8 @@ landscape:
                   acquiree: Mobilian Corp
                 - date: '2004-03-25'
                   acquiree: Envara
-                  price: 40000000
                 - date: '2005-02-25'
                   acquiree: Oplus Technologies
-                  price: 100000000
                 - date: '2005-08-17'
                   acquiree: Sarvega
                 - date: '2006-02-08'
@@ -8871,13 +8435,11 @@ landscape:
                 - date: '2008-10-14'
                   acquiree: NetEffect Corp
                 - date: '2008-10-15'
-                  acquiree: NetEffect
-                  price: 8000000
+                  acquiree: NetEffect Sytems
                 - date: '2009-02-01'
                   acquiree: Swiftfoot Graphics AB
                 - date: '2009-06-04'
                   acquiree: Wind River
-                  price: 884000000
                 - date: '2009-07-01'
                   acquiree: Cilk Arts
                 - date: '2009-08-01'
@@ -8886,13 +8448,10 @@ landscape:
                   acquiree: RapidMind
                 - date: '2010-02-01'
                   acquiree: Infineon Technologies
-                  price: 1400000000
                 - date: '2010-08-19'
                   acquiree: McAfee
-                  price: 7680000000
                 - date: '2010-11-15'
                   acquiree: CognoVision
-                  price: 25000000
                 - date: '2011-03-14'
                   acquiree: SySDSoft
                 - date: '2011-03-17'
@@ -8909,30 +8468,24 @@ landscape:
                   acquiree: Telmap
                 - date: '2012-04-17'
                   acquiree: Olaworks
-                  price: 31000000
                 - date: '2012-07-02'
                   acquiree: IDesia
                 - date: '2012-07-13'
                   acquiree: Whamcloud
                 - date: '2012-11-20'
                   acquiree: ZiiLabs
-                  price: 50000000
                 - date: '2013-04-17'
                   acquiree: Mashery
-                  price: 180000000
                 - date: '2013-04-28'
                   acquiree: Aepona
-                  price: 123778078
                 - date: '2013-07-16'
                   acquiree: Omek Interactive
-                  price: 40000000
                 - date: '2013-07-22'
                   acquiree: Xtreme Insights
                 - date: '2013-09-13'
                   acquiree: Indisys
-                  price: 26000000
                 - date: '2013-09-30'
-                  acquiree: Sensory Network
+                  acquiree: Sensory Networks
                 - date: '2013-11-08'
                   acquiree: Kno
                 - date: '2013-11-20'
@@ -8941,12 +8494,12 @@ landscape:
                   acquiree: Appmobi
                 - date: '2014-03-03'
                   acquiree: BASIS Science
-                  price: 100000000
                 - date: '2014-08-13'
                   acquiree: LSI - Axxia Networking Business
-                  price: 650000000
                 - date: '2014-12-01'
                   acquiree: PasswordBox
+                - date: '2015-01-01'
+                  acquiree: IMS Nanofabrication
                 - date: '2015-01-21'
                   acquiree: Composyt Light Labs
                 - date: '2015-02-02'
@@ -8955,10 +8508,8 @@ landscape:
                   acquiree: Lemoptix
                 - date: '2015-06-01'
                   acquiree: Altera
-                  price: 16700000000
                 - date: '2015-06-18'
                   acquiree: Recon Instruments
-                  price: 175000000
                 - date: '2015-08-14'
                   acquiree: Docea Power
                 - date: '2015-10-26'
@@ -8967,27 +8518,20 @@ landscape:
                   acquiree: Ascending Technologies
                 - date: '2016-03-08'
                   acquiree: Replay Technologies
-                  price: 175000000
                 - date: '2016-04-05'
                   acquiree: YOGITECH
                 - date: '2016-05-26'
                   acquiree: Itseez
                 - date: '2016-08-09'
                   acquiree: Nervana
-                  price: 408000000
                 - date: '2016-09-06'
                   acquiree: Movidius
-                  price: 400000000
                 - date: '2016-09-09'
                   acquiree: Soft Machines
-                  price: 250000000
                 - date: '2016-11-01'
                   acquiree: MAVinci GmbH
                 - date: '2016-11-03'
                   acquiree: VOKE
-                - date: '2017-03-13'
-                  acquiree: Mobileye
-                  price: 15300000000
                 - date: '2018-07-12'
                   acquiree: eASIC
                 - date: '2018-08-16'
@@ -9002,13 +8546,10 @@ landscape:
                   acquiree: Barefoot Networks
                 - date: '2019-10-16'
                   acquiree: Smart Edge
-                  price: 27000000
                 - date: '2019-12-16'
                   acquiree: Habana
-                  price: 2000000000
                 - date: '2020-05-04'
                   acquiree: Moovit
-                  price: 900000000
                 - date: '2020-05-20'
                   acquiree: Rivet Networks
                 - date: '2020-10-29'
@@ -9019,10 +8560,6 @@ landscape:
                   acquiree: RemoteMyApp
                 - date: '2021-12-07'
                   acquiree: Screenovate
-                  price: 100000000
-                - date: '2022-02-15'
-                  acquiree: Tower Semiconductor
-                  price: 5400000000
                 - date: '2022-02-23'
                   acquiree: Linutronix
                 - date: '2022-03-31'
@@ -9040,17 +8577,11 @@ landscape:
               company_type: For Profit
               industries:
                 - Artificial Intelligence
-                - Computer
-                - GPU
-                - Hardware
                 - Information Technology
-                - Manufacturing
                 - Product Design
                 - Semiconductor
                 - Software
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 118568706048
               effective_ticker: INTC
             image_data:
               fileName: intel-corporation-5-g.svg
@@ -9102,14 +8633,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/red-hat
             crunchbase_data:
               name: Red Hat
-              description: Red Hat is a multinational software company engaged in providing open-source software products to the enterprise community.
+              description: Red Hat is a software company that offers enterprise open source software solutions.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.redhat.com
               city: Raleigh
               region: North Carolina
               country: United States
-              twitter: http://twitter.com/redhat
+              twitter: https://www.twitter.com/redhat
               linkedin: https://www.linkedin.com/company/red-hat
               acquisitions:
                 - date: '2001-01-31'
@@ -9118,10 +8649,8 @@ landscape:
                   acquiree: NOCpulse
                 - date: '2003-12-18'
                   acquiree: Sistina Software
-                  price: 31000000
                 - date: '2004-02-20'
                   acquiree: JBoss
-                  price: 350000000
                 - date: '2007-06-02'
                   acquiree: MetaMatrix
                 - date: '2008-03-14'
@@ -9134,7 +8663,6 @@ landscape:
                   acquiree: Makara
                 - date: '2011-10-04'
                   acquiree: Gluster
-                  price: 136000000
                 - date: '2012-06-27'
                   acquiree: FuseSource
                 - date: '2012-08-28'
@@ -9145,16 +8673,12 @@ landscape:
                   acquiree: ManageIQ
                 - date: '2014-04-30'
                   acquiree: Inktank
-                  price: 175000000
                 - date: '2014-06-18'
                   acquiree: eNovance
-                  price: 95074205
                 - date: '2014-09-18'
                   acquiree: FeedHenry
-                  price: 82000000
                 - date: '2015-10-16'
                   acquiree: Red Hat Ansible
-                  price: 150000000
                 - date: '2016-06-22'
                   acquiree: 3scale
                 - date: '2017-05-25'
@@ -9163,12 +8687,10 @@ landscape:
                   acquiree: Permabit Technology Corporation
                 - date: '2018-01-30'
                   acquiree: CoreOS
-                  price: 250000000
                 - date: '2018-11-27'
                   acquiree: NooBaa
                 - date: '2021-01-07'
                   acquiree: StackRox
-                  price: 400000000
               parents:
                 - https://www.crunchbase.com/organization/ibm
               ticker: IBM
@@ -9177,13 +8699,12 @@ landscape:
               company_type: For Profit
               industries:
                 - Enterprise Software
+                - InsurTech
                 - Linux
                 - Open Source
                 - Operating Systems
                 - Software
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 128801177600
               effective_ticker: IBM
             image_data:
               fileName: red-hat-inc-5-g.svg
@@ -9238,10 +8759,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/kubernetes
             crunchbase_data:
               name: Kubernetes
-              description: Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
+              description: Kubernetes is an open-source system for automating the deployment, scaling, and management of containerized applications.
               num_employees_min: 251
               num_employees_max: 500
-              homepage: https://kubernetes.io/
+              homepage: https://kubernetes.io
               city: San Francisco
               region: California
               country: United States
@@ -9302,9 +8823,7 @@ landscape:
                 - Security
                 - Virtualization
                 - Web Hosting
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 1165616640
               effective_ticker: ATEN
             image_data:
               fileName: a10-networks-5-g.svg
@@ -9321,7 +8840,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/aarna-networks
             crunchbase_data:
               name: Aarna Networks
-              description: Aarna Networks develops an orchestration, management, and automation platform for private 5G networks and computing applications.
+              description: Aarna Networks solves enterprise edge and private 5G management complexity through zero-touch edge orchestration at scale.
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://www.aarnanetworks.com/
@@ -9332,7 +8851,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/aarna-networks-inc.
               acquisitions: []
               parents: []
-              funding: 3516000
+              funding: 5016000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -9357,14 +8876,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/red-hat
             crunchbase_data:
               name: Red Hat
-              description: Red Hat is a multinational software company engaged in providing open-source software products to the enterprise community.
+              description: Red Hat is a software company that offers enterprise open source software solutions.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.redhat.com
               city: Raleigh
               region: North Carolina
               country: United States
-              twitter: http://twitter.com/redhat
+              twitter: https://www.twitter.com/redhat
               linkedin: https://www.linkedin.com/company/red-hat
               acquisitions:
                 - date: '2001-01-31'
@@ -9373,10 +8892,8 @@ landscape:
                   acquiree: NOCpulse
                 - date: '2003-12-18'
                   acquiree: Sistina Software
-                  price: 31000000
                 - date: '2004-02-20'
                   acquiree: JBoss
-                  price: 350000000
                 - date: '2007-06-02'
                   acquiree: MetaMatrix
                 - date: '2008-03-14'
@@ -9389,7 +8906,6 @@ landscape:
                   acquiree: Makara
                 - date: '2011-10-04'
                   acquiree: Gluster
-                  price: 136000000
                 - date: '2012-06-27'
                   acquiree: FuseSource
                 - date: '2012-08-28'
@@ -9400,16 +8916,12 @@ landscape:
                   acquiree: ManageIQ
                 - date: '2014-04-30'
                   acquiree: Inktank
-                  price: 175000000
                 - date: '2014-06-18'
                   acquiree: eNovance
-                  price: 95074205
                 - date: '2014-09-18'
                   acquiree: FeedHenry
-                  price: 82000000
                 - date: '2015-10-16'
                   acquiree: Red Hat Ansible
-                  price: 150000000
                 - date: '2016-06-22'
                   acquiree: 3scale
                 - date: '2017-05-25'
@@ -9418,12 +8930,10 @@ landscape:
                   acquiree: Permabit Technology Corporation
                 - date: '2018-01-30'
                   acquiree: CoreOS
-                  price: 250000000
                 - date: '2018-11-27'
                   acquiree: NooBaa
                 - date: '2021-01-07'
                   acquiree: StackRox
-                  price: 400000000
               parents:
                 - https://www.crunchbase.com/organization/ibm
               ticker: IBM
@@ -9432,13 +8942,12 @@ landscape:
               company_type: For Profit
               industries:
                 - Enterprise Software
+                - InsurTech
                 - Linux
                 - Open Source
                 - Operating Systems
                 - Software
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 128801177600
               effective_ticker: IBM
             image_data:
               fileName: red-hat-inc-5-g.svg
@@ -9457,7 +8966,7 @@ landscape:
               description: Turnium Technology specializes in providing network technology solutions.
               num_employees_min: 11
               num_employees_max: 50
-              homepage: http://ttgi.io
+              homepage: https://www.ttgi.io/
               city: North Vancouver
               region: British Columbia
               country: Canada
@@ -9564,7 +9073,7 @@ landscape:
                   value: 2360
                   color: '#e34c26'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2022-11-06Z
+              firstWeek: 2022-11-14Z
               stars: 1
               license: Other
               description: Mirror of https://gerrit.onap.org/r/#/admin/projects/aaf/authz
@@ -9604,11 +9113,10 @@ landscape:
               acquisitions:
                 - date: '2002-01-02'
                   acquiree: Ernst & Young - Consulting Unit
-                  price: 11000000000
                 - date: '2003-01-01'
                   acquiree: Transiciel SA
                 - date: '2004-03-01'
-                  acquiree: Dräger Synematic GmbH
+                  acquiree: Dräger
                 - date: '2006-01-01'
                   acquiree: Kanbay Software India Pty Ltd
                 - date: '2006-10-10'
@@ -9617,6 +9125,8 @@ landscape:
                   acquiree: Capgemini Business Services (India) Pvt Ltd
                 - date: '2006-10-26'
                   acquiree: Kanbay
+                - date: '2007-02-01'
+                  acquiree: Software Architects, Inc.
                 - date: '2007-02-09'
                   acquiree: Capgemini Financial Services International
                 - date: '2008-05-02'
@@ -9661,7 +9171,6 @@ landscape:
                   acquiree: Groupe Euriware S.A.
                 - date: '2015-04-27'
                   acquiree: iGATE Global Solutions
-                  price: 4000000000
                 - date: '2015-07-01'
                   acquiree: iGATE
                 - date: '2016-01-05'
@@ -9684,15 +9193,14 @@ landscape:
                   acquiree: DOING
                 - date: '2019-06-24'
                   acquiree: Altran India Pvt. Ltd
-                  price: 4103733257
                 - date: '2019-06-24'
                   acquiree: Capgemini Engineering
-                  price: 4103733257
                 - date: '2020-03-26'
                   acquiree: WhiteSky Labs
                 - date: '2020-11-10'
                   acquiree: RXP Services
-                  price: 69535004
+                - date: '2021-03-26'
+                  acquiree: RXP Group
                 - date: '2021-05-10'
                   acquiree: Multibook - SAP services business
                 - date: '2021-06-24'
@@ -9703,7 +9211,6 @@ landscape:
                   acquiree: Acclimation
                 - date: '2021-07-19'
                   acquiree: Empired
-                  price: 172400000
                 - date: '2021-09-14'
                   acquiree: VariQ
                 - date: '2022-05-15'
@@ -9718,6 +9225,10 @@ landscape:
                   acquiree: Quorsus
                 - date: '2022-10-28'
                   acquiree: Quantmetry
+                - date: '2023-06-22'
+                  acquiree: Big Tree Technology & Consulting
+                - date: '2023-09-28'
+                  acquiree: HDL Design House
               parents: []
               ticker: CAP.PA
               stockExchange: epa
@@ -9726,11 +9237,10 @@ landscape:
                 - Consulting
                 - IT Management
                 - Information Technology
+                - InsurTech
                 - News
                 - Software
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 30009019507
               effective_ticker: CAP.PA
             image_data:
               fileName: cap-gemini-engineering.svg
@@ -9790,7 +9300,7 @@ landscape:
               linkedin: https://www.linkedin.com/company-beta/10378127/
               acquisitions: []
               parents: []
-              funding: 30246945
+              funding: 38468771
               stockExchange: null
               company_type: For Profit
               industries:
@@ -9905,6 +9415,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Open Source
+                - Software
             image_data:
               fileName: eve.svg
               hash: XEOnOMegX/zGqpXkARvuoD9sPCuOriJ33uWLyvP+RPY=
@@ -10037,6 +9548,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Open Source
+                - Software
             image_data:
               fileName: akraino.svg
               hash: 32sj13iP4PJIKblghzPtoxSO+xUiekHWho3bPVP9+Vk=
@@ -10086,16 +9598,15 @@ landscape:
               description: Intel designs, manufactures, and sells integrated digital technology platforms worldwide.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.intel.com/
+              homepage: http://www.intel.com
               city: Santa Clara
               region: California
               country: United States
-              twitter: http://twitter.com/intel
+              twitter: http://www.twitter.com/intel
               linkedin: https://www.linkedin.com/company/intel-corporation
               acquisitions:
                 - date: '1997-07-27'
                   acquiree: Chips and Technologies
-                  price: 420000000
                 - date: '1997-09-25'
                   acquiree: Dayna Communications
                 - date: '1997-09-30'
@@ -10114,7 +9625,6 @@ landscape:
                   acquiree: XLNT
                 - date: '1999-10-05'
                   acquiree: iPivot
-                  price: 500000000
                 - date: '1999-11-15'
                   acquiree: Parity Software Development
                 - date: '2000-02-04'
@@ -10125,10 +9635,8 @@ landscape:
                   acquiree: Voice Technologies
                 - date: '2000-03-15'
                   acquiree: GIGA
-                  price: 1250000000
                 - date: '2000-03-21'
                   acquiree: Basis Communications
-                  price: 450000000
                 - date: '2000-04-06'
                   acquiree: Kuck & Associates
                 - date: '2000-04-10'
@@ -10139,13 +9647,10 @@ landscape:
                   acquiree: DataKinetics
                 - date: '2000-08-15'
                   acquiree: Ziatech
-                  price: 240000000
                 - date: '2001-01-15'
                   acquiree: Xircom
-                  price: 748000000
                 - date: '2001-02-26'
                   acquiree: VxTel
-                  price: 550000000
                 - date: '2001-03-12'
                   acquiree: CAD-UL
                 - date: '2001-03-20'
@@ -10168,10 +9673,8 @@ landscape:
                   acquiree: Mobilian Corp
                 - date: '2004-03-25'
                   acquiree: Envara
-                  price: 40000000
                 - date: '2005-02-25'
                   acquiree: Oplus Technologies
-                  price: 100000000
                 - date: '2005-08-17'
                   acquiree: Sarvega
                 - date: '2006-02-08'
@@ -10183,13 +9686,11 @@ landscape:
                 - date: '2008-10-14'
                   acquiree: NetEffect Corp
                 - date: '2008-10-15'
-                  acquiree: NetEffect
-                  price: 8000000
+                  acquiree: NetEffect Sytems
                 - date: '2009-02-01'
                   acquiree: Swiftfoot Graphics AB
                 - date: '2009-06-04'
                   acquiree: Wind River
-                  price: 884000000
                 - date: '2009-07-01'
                   acquiree: Cilk Arts
                 - date: '2009-08-01'
@@ -10198,13 +9699,10 @@ landscape:
                   acquiree: RapidMind
                 - date: '2010-02-01'
                   acquiree: Infineon Technologies
-                  price: 1400000000
                 - date: '2010-08-19'
                   acquiree: McAfee
-                  price: 7680000000
                 - date: '2010-11-15'
                   acquiree: CognoVision
-                  price: 25000000
                 - date: '2011-03-14'
                   acquiree: SySDSoft
                 - date: '2011-03-17'
@@ -10221,30 +9719,24 @@ landscape:
                   acquiree: Telmap
                 - date: '2012-04-17'
                   acquiree: Olaworks
-                  price: 31000000
                 - date: '2012-07-02'
                   acquiree: IDesia
                 - date: '2012-07-13'
                   acquiree: Whamcloud
                 - date: '2012-11-20'
                   acquiree: ZiiLabs
-                  price: 50000000
                 - date: '2013-04-17'
                   acquiree: Mashery
-                  price: 180000000
                 - date: '2013-04-28'
                   acquiree: Aepona
-                  price: 123778078
                 - date: '2013-07-16'
                   acquiree: Omek Interactive
-                  price: 40000000
                 - date: '2013-07-22'
                   acquiree: Xtreme Insights
                 - date: '2013-09-13'
                   acquiree: Indisys
-                  price: 26000000
                 - date: '2013-09-30'
-                  acquiree: Sensory Network
+                  acquiree: Sensory Networks
                 - date: '2013-11-08'
                   acquiree: Kno
                 - date: '2013-11-20'
@@ -10253,12 +9745,12 @@ landscape:
                   acquiree: Appmobi
                 - date: '2014-03-03'
                   acquiree: BASIS Science
-                  price: 100000000
                 - date: '2014-08-13'
                   acquiree: LSI - Axxia Networking Business
-                  price: 650000000
                 - date: '2014-12-01'
                   acquiree: PasswordBox
+                - date: '2015-01-01'
+                  acquiree: IMS Nanofabrication
                 - date: '2015-01-21'
                   acquiree: Composyt Light Labs
                 - date: '2015-02-02'
@@ -10267,10 +9759,8 @@ landscape:
                   acquiree: Lemoptix
                 - date: '2015-06-01'
                   acquiree: Altera
-                  price: 16700000000
                 - date: '2015-06-18'
                   acquiree: Recon Instruments
-                  price: 175000000
                 - date: '2015-08-14'
                   acquiree: Docea Power
                 - date: '2015-10-26'
@@ -10279,27 +9769,20 @@ landscape:
                   acquiree: Ascending Technologies
                 - date: '2016-03-08'
                   acquiree: Replay Technologies
-                  price: 175000000
                 - date: '2016-04-05'
                   acquiree: YOGITECH
                 - date: '2016-05-26'
                   acquiree: Itseez
                 - date: '2016-08-09'
                   acquiree: Nervana
-                  price: 408000000
                 - date: '2016-09-06'
                   acquiree: Movidius
-                  price: 400000000
                 - date: '2016-09-09'
                   acquiree: Soft Machines
-                  price: 250000000
                 - date: '2016-11-01'
                   acquiree: MAVinci GmbH
                 - date: '2016-11-03'
                   acquiree: VOKE
-                - date: '2017-03-13'
-                  acquiree: Mobileye
-                  price: 15300000000
                 - date: '2018-07-12'
                   acquiree: eASIC
                 - date: '2018-08-16'
@@ -10314,13 +9797,10 @@ landscape:
                   acquiree: Barefoot Networks
                 - date: '2019-10-16'
                   acquiree: Smart Edge
-                  price: 27000000
                 - date: '2019-12-16'
                   acquiree: Habana
-                  price: 2000000000
                 - date: '2020-05-04'
                   acquiree: Moovit
-                  price: 900000000
                 - date: '2020-05-20'
                   acquiree: Rivet Networks
                 - date: '2020-10-29'
@@ -10331,10 +9811,6 @@ landscape:
                   acquiree: RemoteMyApp
                 - date: '2021-12-07'
                   acquiree: Screenovate
-                  price: 100000000
-                - date: '2022-02-15'
-                  acquiree: Tower Semiconductor
-                  price: 5400000000
                 - date: '2022-02-23'
                   acquiree: Linutronix
                 - date: '2022-03-31'
@@ -10352,17 +9828,11 @@ landscape:
               company_type: For Profit
               industries:
                 - Artificial Intelligence
-                - Computer
-                - GPU
-                - Hardware
                 - Information Technology
-                - Manufacturing
                 - Product Design
                 - Semiconductor
                 - Software
-              kind: market_cap
             yahoo_finance_data:
-              market_cap: 118568706048
               effective_ticker: INTC
             image_data:
               fileName: intel-corporation-5-g.svg
@@ -10424,7 +9894,7 @@ landscape:
               linkedin: https://www.linkedin.com/company-beta/10378127/
               acquisitions: []
               parents: []
-              funding: 30246945
+              funding: 38468771
               stockExchange: null
               company_type: For Profit
               industries:
@@ -10457,11 +9927,11 @@ landscape:
               region: Nordrhein-Westfalen
               country: Germany
               twitter: null
-              linkedin: null
+              linkedin: https://www.linkedin.com/company/o-ran
               acquisitions: []
               parents: []
               stockExchange: null
-              company_type: ''
+              company_type: For Profit
               industries: []
             image_data:
               fileName: o-ran-sc.svg
