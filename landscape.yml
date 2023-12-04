@@ -754,16 +754,146 @@ landscape:
         name: Platinum
         items:
           - item:
+            name: Amdocs Limited
+            homepage_url: https://amdocs.com/
+            logo: amdocs_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/amdocs
+          - item:
+            name: Amdocs Limited
+            homepage_url: https://amdocs.com/
+            logo: amdocs_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/amdocs
+          - item:
+            name: Amdocs Limited
+            homepage_url: https://amdocs.com/
+            logo: amdocs_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/amdocs
+          - item:
+            name: Amdocs Limited
+            homepage_url: https://amdocs.com/
+            logo: amdocs_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/amdocs
+          - item:
+            name: Arm Limited
+            homepage_url: https://arm.com/
+            logo: arm_limited.svg
+            twitter: https://twitter.com/ArmCommunity
+            crunchbase: https://www.crunchbase.com/organization/arm
+            joined: '2019-02-01'
+          - item:
+            name: Arm Limited
+            homepage_url: https://arm.com/
+            logo: arm_limited.svg
+            twitter: https://twitter.com/ArmCommunity
+            crunchbase: https://www.crunchbase.com/organization/arm
+            joined: '2019-02-01'
+          - item:
             name: AT&T Services, Inc.
             homepage_url: https://att.com/
             logo: att_services_inc.svg
             twitter: https://twitter.com/ATT
             crunchbase: https://www.crunchbase.com/organization/at-t
           - item:
+            name: AT&T Services, Inc.
+            homepage_url: https://att.com/
+            logo: att_services_inc.svg
+            twitter: https://twitter.com/ATT
+            crunchbase: https://www.crunchbase.com/organization/at-t
+          - item:
+            name: AT&T Services, Inc.
+            homepage_url: https://att.com/
+            logo: att_services_inc.svg
+            twitter: https://twitter.com/ATT
+            crunchbase: https://www.crunchbase.com/organization/at-t
+          - item:
+            name: AT&T Services, Inc.
+            homepage_url: https://att.com/
+            logo: att_services_inc.svg
+            twitter: https://twitter.com/ATT
+            crunchbase: https://www.crunchbase.com/organization/at-t
+          - item:
+            name: AT&T Services, Inc.
+            homepage_url: https://att.com/
+            logo: att_services_inc.svg
+            twitter: https://twitter.com/ATT
+            crunchbase: https://www.crunchbase.com/organization/at-t
+          - item:
+            name: Bell Canada
+            homepage_url: https://bell.net/
+            logo: bell_canada.svg
+            twitter: https://twitter.com/Bell
+            crunchbase: https://www.crunchbase.com/organization/bell-net
+          - item:
+            name: Bell Canada
+            homepage_url: https://bell.net/
+            logo: bell_canada.svg
+            twitter: https://twitter.com/Bell
+            crunchbase: https://www.crunchbase.com/organization/bell-net
+          - item:
+            name: Bell Canada
+            homepage_url: https://bell.net/
+            logo: bell_canada.svg
+            twitter: https://twitter.com/Bell
+            crunchbase: https://www.crunchbase.com/organization/bell-net
+          - item:
+            name: Bell Canada
+            homepage_url: https://bell.net/
+            logo: bell_canada.svg
+            twitter: https://twitter.com/Bell
+            crunchbase: https://www.crunchbase.com/organization/bell-net
+          - item:
             name: China Mobile Communication Company Ltd
             homepage_url: https://chinamobileltd.com/
             logo: china_mobile_communication_company_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/china-mobile
+          - item:
+            name: China Mobile Communication Company Ltd
+            homepage_url: https://chinamobileltd.com/
+            logo: china_mobile_communication_company_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/china-mobile
+          - item:
+            name: China Mobile Communication Company Ltd
+            homepage_url: https://chinamobileltd.com/
+            logo: china_mobile_communication_company_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/china-mobile
+          - item:
+            name: China Mobile Communication Company Ltd
+            homepage_url: https://chinamobileltd.com/
+            logo: china_mobile_communication_company_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/china-mobile
+          - item:
+            name: China Mobile Communication Company Ltd
+            homepage_url: https://chinamobileltd.com/
+            logo: china_mobile_communication_company_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/china-mobile
+          - item:
+            name: China Telecommunications Corporation
+            homepage_url: https://chinatelecom.cn/
+            logo: china_telecommunications_corporation.svg
+            twitter: https://twitter.com/chinateleglobal
+            crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
+            stock_ticker:
+          - item:
+            name: China Telecommunications Corporation
+            homepage_url: https://chinatelecom.cn/
+            logo: china_telecommunications_corporation.svg
+            twitter: https://twitter.com/chinateleglobal
+            crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
+            stock_ticker:
+          - item:
+            name: China Telecommunications Corporation
+            homepage_url: https://chinatelecom.cn/
+            logo: china_telecommunications_corporation.svg
+            twitter: https://twitter.com/chinateleglobal
+            crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
+            stock_ticker:
+          - item:
+            name: China Telecommunications Corporation
+            homepage_url: https://chinatelecom.cn/
+            logo: china_telecommunications_corporation.svg
+            twitter: https://twitter.com/chinateleglobal
+            crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
+            stock_ticker:
           - item:
             name: China Telecommunications Corporation
             homepage_url: https://chinatelecom.cn/
@@ -778,6 +908,65 @@ landscape:
             twitter: https://twitter.com/Cisco
             crunchbase: https://www.crunchbase.com/organization/cisco
           - item:
+            name: Cisco Systems, Inc.
+            homepage_url: https://cisco.com/
+            logo: cisco_systems_inc.svg
+            twitter: https://twitter.com/Cisco
+            crunchbase: https://www.crunchbase.com/organization/cisco
+          - item:
+            name: Cisco Systems, Inc.
+            homepage_url: https://cisco.com/
+            logo: cisco_systems_inc.svg
+            twitter: https://twitter.com/Cisco
+            crunchbase: https://www.crunchbase.com/organization/cisco
+          - item:
+            name: Cisco Systems, Inc.
+            homepage_url: https://cisco.com/
+            logo: cisco_systems_inc.svg
+            twitter: https://twitter.com/Cisco
+            crunchbase: https://www.crunchbase.com/organization/cisco
+          - item:
+            name: Cisco Systems, Inc.
+            homepage_url: https://cisco.com/
+            logo: cisco_systems_inc.svg
+            twitter: https://twitter.com/Cisco
+            crunchbase: https://www.crunchbase.com/organization/cisco
+          - item:
+            name: Cisco Systems, Inc.
+            homepage_url: https://cisco.com/
+            logo: cisco_systems_inc.svg
+            twitter: https://twitter.com/Cisco
+            crunchbase: https://www.crunchbase.com/organization/cisco
+          - item:
+            name: Cloudify Platform Ltd.
+            homepage_url: https://cloudify.co/
+            logo: cloudify_platform_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/cloudify-co
+          - item:
+            name: Deutsche Telekom AG
+            homepage_url: https://telekom.com/
+            logo: deutsche_telekom_ag.svg
+            twitter: https://twitter.com/deutschetelekom
+            crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
+          - item:
+            name: Deutsche Telekom AG
+            homepage_url: https://telekom.com/
+            logo: deutsche_telekom_ag.svg
+            twitter: https://twitter.com/deutschetelekom
+            crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
+          - item:
+            name: Deutsche Telekom AG
+            homepage_url: https://telekom.com/
+            logo: deutsche_telekom_ag.svg
+            twitter: https://twitter.com/deutschetelekom
+            crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
+          - item:
+            name: Deutsche Telekom AG
+            homepage_url: https://telekom.com/
+            logo: deutsche_telekom_ag.svg
+            twitter: https://twitter.com/deutschetelekom
+            crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
+          - item:
             name: Deutsche Telekom AG
             homepage_url: https://telekom.com/
             logo: deutsche_telekom_ag.svg
@@ -789,6 +978,60 @@ landscape:
             logo: ericsson.svg
             twitter: https://twitter.com/ericsson
             crunchbase: https://www.crunchbase.com/organization/ericsson
+            joined: '2018-12-01'
+          - item:
+            name: Ericsson
+            homepage_url: https://ericsson.com/
+            logo: ericsson.svg
+            twitter: https://twitter.com/ericsson
+            crunchbase: https://www.crunchbase.com/organization/ericsson
+            joined: '2018-12-01'
+          - item:
+            name: Ericsson
+            homepage_url: https://ericsson.com/
+            logo: ericsson.svg
+            twitter: https://twitter.com/ericsson
+            crunchbase: https://www.crunchbase.com/organization/ericsson
+            joined: '2018-12-01'
+          - item:
+            name: Ericsson
+            homepage_url: https://ericsson.com/
+            logo: ericsson.svg
+            twitter: https://twitter.com/ericsson
+            crunchbase: https://www.crunchbase.com/organization/ericsson
+            joined: '2018-12-01'
+          - item:
+            name: Ericsson
+            homepage_url: https://ericsson.com/
+            logo: ericsson.svg
+            twitter: https://twitter.com/ericsson
+            crunchbase: https://www.crunchbase.com/organization/ericsson
+            joined: '2018-12-01'
+          - item:
+            name: Ericsson
+            homepage_url: https://ericsson.com/
+            logo: ericsson.svg
+            twitter: https://twitter.com/ericsson
+            crunchbase: https://www.crunchbase.com/organization/ericsson
+            joined: '2018-12-01'
+          - item:
+            name: Google LLC
+            homepage_url: https://google.com/
+            logo: google_llc.svg
+            twitter: https://twitter.com/Google
+            crunchbase: https://www.crunchbase.com/organization/google
+          - item:
+            name: Google LLC
+            homepage_url: https://google.com/
+            logo: google_llc.svg
+            twitter: https://twitter.com/Google
+            crunchbase: https://www.crunchbase.com/organization/google
+          - item:
+            name: Google LLC
+            homepage_url: https://google.com/
+            logo: google_llc.svg
+            twitter: https://twitter.com/Google
+            crunchbase: https://www.crunchbase.com/organization/google
           - item:
             name: Google LLC
             homepage_url: https://google.com/
@@ -802,11 +1045,167 @@ landscape:
             twitter: https://twitter.com/Huawei
             crunchbase: https://www.crunchbase.com/organization/huawei
           - item:
+            name: Huawei Technologies Co., Ltd
+            homepage_url: https://huawei.com/
+            logo: huawei_technologies_co_ltd.svg
+            twitter: https://twitter.com/Huawei
+            crunchbase: https://www.crunchbase.com/organization/huawei
+          - item:
+            name: Huawei Technologies Co., Ltd
+            homepage_url: https://huawei.com/
+            logo: huawei_technologies_co_ltd.svg
+            twitter: https://twitter.com/Huawei
+            crunchbase: https://www.crunchbase.com/organization/huawei
+          - item:
+            name: Huawei Technologies Co., Ltd
+            homepage_url: https://huawei.com/
+            logo: huawei_technologies_co_ltd.svg
+            twitter: https://twitter.com/Huawei
+            crunchbase: https://www.crunchbase.com/organization/huawei
+          - item:
+            name: Huawei Technologies Co., Ltd
+            homepage_url: https://huawei.com/
+            logo: huawei_technologies_co_ltd.svg
+            twitter: https://twitter.com/Huawei
+            crunchbase: https://www.crunchbase.com/organization/huawei
+          - item:
+            name: Huawei Technologies Co., Ltd
+            homepage_url: https://huawei.com/
+            logo: huawei_technologies_co_ltd.svg
+            twitter: https://twitter.com/Huawei
+            crunchbase: https://www.crunchbase.com/organization/huawei
+          - item:
             name: Infosys Limited
             homepage_url: https://infosys.com/
             logo: infosys_limited.svg
             twitter: https://twitter.com/Infosys
             crunchbase: https://www.crunchbase.com/organization/infosys
+            joined: '2020-11-01'
+          - item:
+            name: Intel Corporation
+            homepage_url: https://intel.com/
+            logo: intel_corporation.svg
+            twitter: https://twitter.com/intel
+            crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: Intel Corporation
+            homepage_url: https://intel.com/
+            logo: intel_corporation.svg
+            twitter: https://twitter.com/intel
+            crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: Intel Corporation
+            homepage_url: https://intel.com/
+            logo: intel_corporation.svg
+            twitter: https://twitter.com/intel
+            crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: Intel Corporation
+            homepage_url: https://intel.com/
+            logo: intel_corporation.svg
+            twitter: https://twitter.com/intel
+            crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: Intel Corporation
+            homepage_url: https://intel.com/
+            logo: intel_corporation.svg
+            twitter: https://twitter.com/intel
+            crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: International Business Machines Corporation
+            homepage_url: https://ibm.com/
+            logo: international_business_machines_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/ibm
+          - item:
+            name: International Business Machines Corporation
+            homepage_url: https://ibm.com/
+            logo: international_business_machines_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/ibm
+          - item:
+            name: International Business Machines Corporation
+            homepage_url: https://ibm.com/
+            logo: international_business_machines_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/ibm
+          - item:
+            name: International Business Machines Corporation
+            homepage_url: https://ibm.com/
+            logo: international_business_machines_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/ibm
+          - item:
+            name: International Business Machines Corporation
+            homepage_url: https://ibm.com/
+            logo: international_business_machines_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/ibm
+          - item:
+            name: International Business Machines Corporation
+            homepage_url: https://ibm.com/
+            logo: international_business_machines_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/ibm
+          - item:
+            name: Juniper Networks, Inc.
+            homepage_url: https://juniper.net/
+            logo: juniper_networks_inc.svg
+            twitter: https://twitter.com/JuniperNetworks
+            crunchbase: https://www.crunchbase.com/organization/juniper-networks
+            joined: '2020-08-01'
+          - item:
+            name: Juniper Networks, Inc.
+            homepage_url: https://juniper.net/
+            logo: juniper_networks_inc.svg
+            twitter: https://twitter.com/JuniperNetworks
+            crunchbase: https://www.crunchbase.com/organization/juniper-networks
+            joined: '2020-08-01'
+          - item:
+            name: Juniper Networks, Inc.
+            homepage_url: https://juniper.net/
+            logo: juniper_networks_inc.svg
+            twitter: https://twitter.com/JuniperNetworks
+            crunchbase: https://www.crunchbase.com/organization/juniper-networks
+            joined: '2020-08-01'
+          - item:
+            name: Juniper Networks, Inc.
+            homepage_url: https://juniper.net/
+            logo: juniper_networks_inc.svg
+            twitter: https://twitter.com/JuniperNetworks
+            crunchbase: https://www.crunchbase.com/organization/juniper-networks
+            joined: '2020-08-01'
+          - item:
+            name: Juniper Networks, Inc.
+            homepage_url: https://juniper.net/
+            logo: juniper_networks_inc.svg
+            twitter: https://twitter.com/JuniperNetworks
+            crunchbase: https://www.crunchbase.com/organization/juniper-networks
+            joined: '2020-08-01'
+          - item:
+            name: Lenovo (United States) Inc.
+            homepage_url: https://lenovo.com/
+            logo: lenovo_united_states_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/lenovo
+            joined: '2023-04-01'
+          - item:
+            name: Lenovo (United States) Inc.
+            homepage_url: https://lenovo.com/
+            logo: lenovo_united_states_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/lenovo
+            joined: '2023-04-01'
+          - item:
+            name: Lenovo (United States) Inc.
+            homepage_url: https://lenovo.com/
+            logo: lenovo_united_states_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/lenovo
+            joined: '2023-04-01'
+          - item:
+            name: NEC Corporation
+            homepage_url: https://nec.com/
+            logo: nec_corporation.svg
+            twitter: https://twitter.com/NEC_corp
+            crunchbase: https://www.crunchbase.com/organization/nec
+          - item:
+            name: NEC Corporation
+            homepage_url: https://nec.com/
+            logo: nec_corporation.svg
+            twitter: https://twitter.com/NEC_corp
+            crunchbase: https://www.crunchbase.com/organization/nec
           - item:
             name: Nokia Corporation
             homepage_url: https://nokia.com/
@@ -815,11 +1214,183 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/nokia
             stock_ticker: NOK
           - item:
+            name: Nokia Corporation
+            homepage_url: https://nokia.com/
+            logo: nokia_corporation.svg
+            twitter: https://twitter.com/nokia
+            crunchbase: https://www.crunchbase.com/organization/nokia
+            stock_ticker: NOK
+          - item:
+            name: Nokia Corporation
+            homepage_url: https://nokia.com/
+            logo: nokia_corporation.svg
+            twitter: https://twitter.com/nokia
+            crunchbase: https://www.crunchbase.com/organization/nokia
+            stock_ticker: NOK
+          - item:
+            name: Nokia Corporation
+            homepage_url: https://nokia.com/
+            logo: nokia_corporation.svg
+            twitter: https://twitter.com/nokia
+            crunchbase: https://www.crunchbase.com/organization/nokia
+            stock_ticker: NOK
+          - item:
+            name: Nokia Corporation
+            homepage_url: https://nokia.com/
+            logo: nokia_corporation.svg
+            twitter: https://twitter.com/nokia
+            crunchbase: https://www.crunchbase.com/organization/nokia
+            stock_ticker: NOK
+          - item:
+            name: Orange SA
+            homepage_url: https://orange.com/
+            logo: orange_sa.svg
+            twitter: https://twitter.com/orange
+            crunchbase: https://www.crunchbase.com/organization/orange
+          - item:
+            name: Orange SA
+            homepage_url: https://orange.com/
+            logo: orange_sa.svg
+            twitter: https://twitter.com/orange
+            crunchbase: https://www.crunchbase.com/organization/orange
+          - item:
+            name: Orange SA
+            homepage_url: https://orange.com/
+            logo: orange_sa.svg
+            twitter: https://twitter.com/orange
+            crunchbase: https://www.crunchbase.com/organization/orange
+          - item:
+            name: Orange SA
+            homepage_url: https://orange.com/
+            logo: orange_sa.svg
+            twitter: https://twitter.com/orange
+            crunchbase: https://www.crunchbase.com/organization/orange
+          - item:
+            name: Orange SA
+            homepage_url: https://orange.com/
+            logo: orange_sa.svg
+            twitter: https://twitter.com/orange
+            crunchbase: https://www.crunchbase.com/organization/orange
+          - item:
+            name: Qualcomm, Inc.
+            homepage_url: https://qualcomm.com/
+            logo: qualcomm_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/qualcomm
+          - item:
+            name: Qualcomm, Inc.
+            homepage_url: https://qualcomm.com/
+            logo: qualcomm_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/qualcomm
+          - item:
+            name: Qualcomm, Inc.
+            homepage_url: https://qualcomm.com/
+            logo: qualcomm_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/qualcomm
+          - item:
             name: Red Hat, Inc.
             homepage_url: https://redhat.com/
             logo: red_hat_inc.svg
             twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
+            joined: '2016-01-01'
+          - item:
+            name: Red Hat, Inc.
+            homepage_url: https://redhat.com/
+            logo: red_hat_inc.svg
+            twitter: https://twitter.com/RedHat
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+            joined: '2016-01-01'
+          - item:
+            name: Red Hat, Inc.
+            homepage_url: https://redhat.com/
+            logo: red_hat_inc.svg
+            twitter: https://twitter.com/RedHat
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+            joined: '2016-01-01'
+          - item:
+            name: Red Hat, Inc.
+            homepage_url: https://redhat.com/
+            logo: red_hat_inc.svg
+            twitter: https://twitter.com/RedHat
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+            joined: '2016-01-01'
+          - item:
+            name: Red Hat, Inc.
+            homepage_url: https://redhat.com/
+            logo: red_hat_inc.svg
+            twitter: https://twitter.com/RedHat
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+            joined: '2016-01-01'
+          - item:
+            name: Reliance Jio Infocomm Limited
+            homepage_url: https://jio.com/
+            logo: reliance_jio_infocomm_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/jio
+          - item:
+            name: Reliance Jio Infocomm Limited
+            homepage_url: https://jio.com/
+            logo: reliance_jio_infocomm_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/jio
+          - item:
+            name: Samsung Electronics Co. Ltd.
+            homepage_url: https://samsung.com/
+            logo: samsung_electronics_co_ltd.svg
+            twitter: https://twitter.com/Samsung
+            crunchbase: https://www.crunchbase.com/organization/samsung-electronics
+          - item:
+            name: Samsung Electronics Co. Ltd.
+            homepage_url: https://samsung.com/
+            logo: samsung_electronics_co_ltd.svg
+            twitter: https://twitter.com/Samsung
+            crunchbase: https://www.crunchbase.com/organization/samsung-electronics
+          - item:
+            name: Samsung Electronics Co. Ltd.
+            homepage_url: https://samsung.com/
+            logo: samsung_electronics_co_ltd.svg
+            twitter: https://twitter.com/Samsung
+            crunchbase: https://www.crunchbase.com/organization/samsung-electronics
+          - item:
+            name: Samsung Electronics Co. Ltd.
+            homepage_url: https://samsung.com/
+            logo: samsung_electronics_co_ltd.svg
+            twitter: https://twitter.com/Samsung
+            crunchbase: https://www.crunchbase.com/organization/samsung-electronics
+          - item:
+            name: SUSE LLC
+            homepage_url: https://suse.com/
+            logo: suse_llc.svg
+            crunchbase: https://www.crunchbase.com/organization/suse
+            joined: '2017-04-01'
+          - item:
+            name: SUSE LLC
+            homepage_url: https://suse.com/
+            logo: suse_llc.svg
+            crunchbase: https://www.crunchbase.com/organization/suse
+            joined: '2017-04-01'
+          - item:
+            name: Tech Mahindra Limited
+            homepage_url: https://techmahindra.com/
+            logo: tech_mahindra_limited.svg
+            twitter: https://twitter.com/tech_mahindra
+            crunchbase: https://www.crunchbase.com/organization/tech-mahindra
+          - item:
+            name: Tech Mahindra Limited
+            homepage_url: https://techmahindra.com/
+            logo: tech_mahindra_limited.svg
+            twitter: https://twitter.com/tech_mahindra
+            crunchbase: https://www.crunchbase.com/organization/tech-mahindra
+          - item:
+            name: Tech Mahindra Limited
+            homepage_url: https://techmahindra.com/
+            logo: tech_mahindra_limited.svg
+            twitter: https://twitter.com/tech_mahindra
+            crunchbase: https://www.crunchbase.com/organization/tech-mahindra
+          - item:
+            name: Tech Mahindra Limited
+            homepage_url: https://techmahindra.com/
+            logo: tech_mahindra_limited.svg
+            twitter: https://twitter.com/tech_mahindra
+            crunchbase: https://www.crunchbase.com/organization/tech-mahindra
           - item:
             name: Tech Mahindra Limited
             homepage_url: https://techmahindra.com/
@@ -833,17 +1404,144 @@ landscape:
             twitter: https://twitter.com/TELUS
             crunchbase: https://www.crunchbase.com/organization/telus
           - item:
+            name: Turk Telekomünikasyon A.S.
+            homepage_url: https://turktelekom.com.tr/
+            logo: turk_telekomunikasyon_as.svg
+            crunchbase: https://www.crunchbase.com/organization/trk-telekom
+          - item:
+            name: Turk Telekomünikasyon A.S.
+            homepage_url: https://turktelekom.com.tr/
+            logo: turk_telekomunikasyon_as.svg
+            crunchbase: https://www.crunchbase.com/organization/trk-telekom
+          - item:
+            name: Turk Telekomünikasyon A.S.
+            homepage_url: https://turktelekom.com.tr/
+            logo: turk_telekomunikasyon_as.svg
+            crunchbase: https://www.crunchbase.com/organization/trk-telekom
+          - item:
+            name: Turk Telekomünikasyon A.S.
+            homepage_url: https://turktelekom.com.tr/
+            logo: turk_telekomunikasyon_as.svg
+            crunchbase: https://www.crunchbase.com/organization/trk-telekom
+          - item:
+            name: Turk Telekomünikasyon A.S.
+            homepage_url: https://turktelekom.com.tr/
+            logo: turk_telekomunikasyon_as.svg
+            crunchbase: https://www.crunchbase.com/organization/trk-telekom
+          - item:
             name: Verizon Corporate Services
             homepage_url: https://verizon.com/
             logo: verizon_corporate_services.svg
             twitter: https://twitter.com/Verizon
             crunchbase: https://www.crunchbase.com/organization/verizon
           - item:
+            name: Verizon Corporate Services
+            homepage_url: https://verizon.com/
+            logo: verizon_corporate_services.svg
+            twitter: https://twitter.com/Verizon
+            crunchbase: https://www.crunchbase.com/organization/verizon
+          - item:
+            name: Verizon Corporate Services
+            homepage_url: https://verizon.com/
+            logo: verizon_corporate_services.svg
+            twitter: https://twitter.com/Verizon
+            crunchbase: https://www.crunchbase.com/organization/verizon
+          - item:
+            name: Verizon Corporate Services
+            homepage_url: https://verizon.com/
+            logo: verizon_corporate_services.svg
+            twitter: https://twitter.com/Verizon
+            crunchbase: https://www.crunchbase.com/organization/verizon
+          - item:
+            name: Verizon Corporate Services
+            homepage_url: https://verizon.com/
+            logo: verizon_corporate_services.svg
+            twitter: https://twitter.com/Verizon
+            crunchbase: https://www.crunchbase.com/organization/verizon
+          - item:
+            name: VMware by Broadcom
+            homepage_url: https://vmware.com/
+            logo: vmware_by_broadcom.svg
+            crunchbase: https://www.crunchbase.com/organization/vmware
+            joined: '2016-01-01'
+          - item:
+            name: VMware by Broadcom
+            homepage_url: https://vmware.com/
+            logo: vmware_by_broadcom.svg
+            crunchbase: https://www.crunchbase.com/organization/vmware
+            joined: '2016-01-01'
+          - item:
+            name: VMware by Broadcom
+            homepage_url: https://vmware.com/
+            logo: vmware_by_broadcom.svg
+            crunchbase: https://www.crunchbase.com/organization/vmware
+            joined: '2016-01-01'
+          - item:
+            name: VMware by Broadcom
+            homepage_url: https://vmware.com/
+            logo: vmware_by_broadcom.svg
+            crunchbase: https://www.crunchbase.com/organization/vmware
+            joined: '2016-01-01'
+          - item:
+            name: Vodafone Group Plc.
+            homepage_url: https://vodafone.com/
+            logo: vodafone_group_plc.svg
+            crunchbase: https://www.crunchbase.com/organization/vodafone
+          - item:
+            name: Vodafone Group Plc.
+            homepage_url: https://vodafone.com/
+            logo: vodafone_group_plc.svg
+            crunchbase: https://www.crunchbase.com/organization/vodafone
+          - item:
+            name: Vodafone Group Plc.
+            homepage_url: https://vodafone.com/
+            logo: vodafone_group_plc.svg
+            crunchbase: https://www.crunchbase.com/organization/vodafone
+          - item:
             name: Walmart Inc.
             homepage_url: https://walmart.com/
             logo: walmart_inc.svg
             twitter: https://twitter.com/Walmart
             crunchbase: https://www.crunchbase.com/organization/walmart-labs
+            joined: '2018-09-01'
+          - item:
+            name: Walmart Inc.
+            homepage_url: https://walmart.com/
+            logo: walmart_inc.svg
+            twitter: https://twitter.com/Walmart
+            crunchbase: https://www.crunchbase.com/organization/walmart-labs
+            joined: '2018-09-01'
+          - item:
+            name: Walmart Inc.
+            homepage_url: https://walmart.com/
+            logo: walmart_inc.svg
+            twitter: https://twitter.com/Walmart
+            crunchbase: https://www.crunchbase.com/organization/walmart-labs
+            joined: '2018-09-01'
+          - item:
+            name: ZTE Corporation
+            homepage_url: https://zte.com.cn/
+            logo: zte_corporation.svg
+            twitter: https://twitter.com/ZTEPress
+            crunchbase: https://www.crunchbase.com/organization/zte-corporation
+          - item:
+            name: ZTE Corporation
+            homepage_url: https://zte.com.cn/
+            logo: zte_corporation.svg
+            twitter: https://twitter.com/ZTEPress
+            crunchbase: https://www.crunchbase.com/organization/zte-corporation
+          - item:
+            name: ZTE Corporation
+            homepage_url: https://zte.com.cn/
+            logo: zte_corporation.svg
+            twitter: https://twitter.com/ZTEPress
+            crunchbase: https://www.crunchbase.com/organization/zte-corporation
+          - item:
+            name: ZTE Corporation
+            homepage_url: https://zte.com.cn/
+            logo: zte_corporation.svg
+            twitter: https://twitter.com/ZTEPress
+            crunchbase: https://www.crunchbase.com/organization/zte-corporation
           - item:
             name: ZTE Corporation
             homepage_url: https://zte.com.cn/
@@ -854,14 +1552,164 @@ landscape:
         name: Gold
         items:
           - item:
+            name: Accenture Global Solutions Limited
+            homepage_url: https://accenture.com/
+            logo: accenture_global_solutions_limited.svg
+            twitter: https://twitter.com/Accenture
+            crunchbase: https://www.crunchbase.com/organization/organization/accenture
+          - item:
+            name: Accenture Global Solutions Limited
+            homepage_url: https://accenture.com/
+            logo: accenture_global_solutions_limited.svg
+            twitter: https://twitter.com/Accenture
+            crunchbase: https://www.crunchbase.com/organization/organization/accenture
+          - item:
+            name: Accenture Global Solutions Limited
+            homepage_url: https://accenture.com/
+            logo: accenture_global_solutions_limited.svg
+            twitter: https://twitter.com/Accenture
+            crunchbase: https://www.crunchbase.com/organization/organization/accenture
+          - item:
+            name: Accenture Global Solutions Limited
+            homepage_url: https://accenture.com/
+            logo: accenture_global_solutions_limited.svg
+            twitter: https://twitter.com/Accenture
+            crunchbase: https://www.crunchbase.com/organization/organization/accenture
+          - item:
+            name: Advanced Micro Devices (AMD)
+            homepage_url: https://amd.com/
+            logo: advanced_micro_devices_amd.svg
+            twitter: https://twitter.com/AMD
+            crunchbase: https://www.crunchbase.com/organization/amd
+          - item:
+            name: Aptira
+            homepage_url: https://aptira.com/
+            logo: aptira.svg
+            crunchbase: https://www.crunchbase.com/organization/aptira
+          - item:
+            name: AT&T Services, Inc.
+            homepage_url: https://att.com/
+            logo: att_services_inc.svg
+            twitter: https://twitter.com/ATT
+            crunchbase: https://www.crunchbase.com/organization/at-t
+          - item:
             name: Bell Canada
             homepage_url: https://bell.net/
             logo: bell_canada.svg
             twitter: https://twitter.com/Bell
             crunchbase: https://www.crunchbase.com/organization/bell-net
+          - item:
+            name: Bell Canada
+            homepage_url: https://bell.net/
+            logo: bell_canada.svg
+            twitter: https://twitter.com/Bell
+            crunchbase: https://www.crunchbase.com/organization/bell-net
+          - item:
+            name: Bell Canada
+            homepage_url: https://bell.net/
+            logo: bell_canada.svg
+            twitter: https://twitter.com/Bell
+            crunchbase: https://www.crunchbase.com/organization/bell-net
+          - item:
+            name: Kontron Europe GmbH
+            homepage_url: https://kontron.com/
+            logo: kontron_europe_gmbh.svg
+            crunchbase: https://www.crunchbase.com/organization/kontron
+          - item:
+            name: Kontron Europe GmbH
+            homepage_url: https://kontron.com/
+            logo: kontron_europe_gmbh.svg
+            crunchbase: https://www.crunchbase.com/organization/kontron
+          - item:
+            name: Lumina Networks
+            homepage_url: https://luminanetworks.com/
+            logo: lumina_networks.svg
+            crunchbase: https://www.crunchbase.com/organization/lumina-networks-inc
+          - item:
+            name: Lumina Networks
+            homepage_url: https://luminanetworks.com/
+            logo: lumina_networks.svg
+            crunchbase: https://www.crunchbase.com/organization/lumina-networks-inc
+          - item:
+            name: Lumina Networks
+            homepage_url: https://luminanetworks.com/
+            logo: lumina_networks.svg
+            crunchbase: https://www.crunchbase.com/organization/lumina-networks-inc
+          - item:
+            name: Microsoft Corporation
+            homepage_url: https://microsoft.com/
+            logo: microsoft_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
+            name: Microsoft Corporation
+            homepage_url: https://microsoft.com/
+            logo: microsoft_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
+            name: Microsoft Corporation
+            homepage_url: https://microsoft.com/
+            logo: microsoft_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
+            name: Microsoft Corporation
+            homepage_url: https://microsoft.com/
+            logo: microsoft_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
+            name: Microsoft Corporation
+            homepage_url: https://microsoft.com/
+            logo: microsoft_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
+            name: Telstra Limited
+            homepage_url: https://telstra.com/
+            logo: telstra_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/telstra-ventures
+          - item:
+            name: Telstra Limited
+            homepage_url: https://telstra.com/
+            logo: telstra_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/telstra-ventures
+          - item:
+            name: Telstra Limited
+            homepage_url: https://telstra.com/
+            logo: telstra_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/telstra-ventures
+          - item:
+            name: Wipro Limited
+            homepage_url: https://wipro.com/
+            logo: wipro_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/wipro
+          - item:
+            name: Wipro Limited
+            homepage_url: https://wipro.com/
+            logo: wipro_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/wipro
+          - item:
+            name: Wipro Limited
+            homepage_url: https://wipro.com/
+            logo: wipro_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/wipro
+          - item:
+            name: Wipro Limited
+            homepage_url: https://wipro.com/
+            logo: wipro_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/wipro
       - subcategory:
         name: Silver
         items:
+          - item:
+            name: A10 Networks
+            homepage_url: https://a10networks.com/
+            logo: a10_networks.svg
+            twitter: https://twitter.com/A10Networks
+            crunchbase: https://www.crunchbase.com/organization/a10-networks
+          - item:
+            name: A10 Networks
+            homepage_url: https://a10networks.com/
+            logo: a10_networks.svg
+            twitter: https://twitter.com/A10Networks
+            crunchbase: https://www.crunchbase.com/organization/a10-networks
           - item:
             name: A10 Networks
             homepage_url: https://a10networks.com/
@@ -875,11 +1723,177 @@ landscape:
             twitter: https://twitter.com/aarnanetworks
             crunchbase: https://www.crunchbase.com/organization/aarna-networks
           - item:
+            name: Aarna Networks
+            homepage_url: https://aarnanetworks.com/
+            logo: aarna_networks.svg
+            twitter: https://twitter.com/aarnanetworks
+            crunchbase: https://www.crunchbase.com/organization/aarna-networks
+          - item:
+            name: Aarna Networks
+            homepage_url: https://aarnanetworks.com/
+            logo: aarna_networks.svg
+            twitter: https://twitter.com/aarnanetworks
+            crunchbase: https://www.crunchbase.com/organization/aarna-networks
+          - item:
+            name: Aarna Networks
+            homepage_url: https://aarnanetworks.com/
+            logo: aarna_networks.svg
+            twitter: https://twitter.com/aarnanetworks
+            crunchbase: https://www.crunchbase.com/organization/aarna-networks
+          - item:
+            name: Aarna Networks
+            homepage_url: https://aarnanetworks.com/
+            logo: aarna_networks.svg
+            twitter: https://twitter.com/aarnanetworks
+            crunchbase: https://www.crunchbase.com/organization/aarna-networks
+          - item:
+            name: Adtran
+            homepage_url: https://adtran.com/
+            logo: adtran.svg
+            crunchbase: https://www.crunchbase.com/organization/objectworld-communications
+          - item:
+            name: Adtran
+            homepage_url: https://adtran.com/
+            logo: adtran.svg
+            crunchbase: https://www.crunchbase.com/organization/objectworld-communications
+          - item:
+            name: Adtran
+            homepage_url: https://adtran.com/
+            logo: adtran.svg
+            crunchbase: https://www.crunchbase.com/organization/objectworld-communications
+          - item:
+            name: Adtran Networks Se
+            homepage_url: https://advaoptical.com/
+            logo: adtran_networks_se.svg
+            crunchbase: https://www.crunchbase.com/organization/adva-optical-networking
+          - item:
+            name: Adtran Networks Se
+            homepage_url: https://advaoptical.com/
+            logo: adtran_networks_se.svg
+            crunchbase: https://www.crunchbase.com/organization/adva-optical-networking
+          - item:
+            name: Adtran Networks Se
+            homepage_url: https://advaoptical.com/
+            logo: adtran_networks_se.svg
+            crunchbase: https://www.crunchbase.com/organization/adva-optical-networking
+          - item:
+            name: Adtran Networks Se
+            homepage_url: https://advaoptical.com/
+            logo: adtran_networks_se.svg
+            crunchbase: https://www.crunchbase.com/organization/adva-optical-networking
+          - item:
+            name: Adtran Networks Se
+            homepage_url: https://advaoptical.com/
+            logo: adtran_networks_se.svg
+            crunchbase: https://www.crunchbase.com/organization/adva-optical-networking
+          - item:
+            name: Adtran Networks Se
+            homepage_url: https://advaoptical.com/
+            logo: adtran_networks_se.svg
+            crunchbase: https://www.crunchbase.com/organization/adva-optical-networking
+          - item:
             name: Advanced Micro Devices (AMD)
             homepage_url: https://amd.com/
             logo: advanced_micro_devices_amd.svg
             twitter: https://twitter.com/AMD
             crunchbase: https://www.crunchbase.com/organization/amd
+          - item:
+            name: Advanced Micro Devices (AMD)
+            homepage_url: https://amd.com/
+            logo: advanced_micro_devices_amd.svg
+            twitter: https://twitter.com/AMD
+            crunchbase: https://www.crunchbase.com/organization/amd
+          - item:
+            name: Advanced Micro Devices (AMD)
+            homepage_url: https://amd.com/
+            logo: advanced_micro_devices_amd.svg
+            twitter: https://twitter.com/AMD
+            crunchbase: https://www.crunchbase.com/organization/amd
+          - item:
+            name: Advanced Micro Devices (AMD)
+            homepage_url: https://amd.com/
+            logo: advanced_micro_devices_amd.svg
+            twitter: https://twitter.com/AMD
+            crunchbase: https://www.crunchbase.com/organization/amd
+          - item:
+            name: Affirmed Networks Inc.
+            homepage_url: https://affirmednetworks.com/
+            logo: affirmed_networks_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/affirmed-networks
+          - item:
+            name: Affirmed Networks Inc.
+            homepage_url: https://affirmednetworks.com/
+            logo: affirmed_networks_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/affirmed-networks
+          - item:
+            name: Affirmed Networks Inc.
+            homepage_url: https://affirmednetworks.com/
+            logo: affirmed_networks_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/affirmed-networks
+          - item:
+            name: Amantya Technologies, Inc
+            homepage_url: https://amantyatech.com/
+            logo: amantya_technologies_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/amantya-technologies
+          - item:
+            name: Amantya Technologies, Inc
+            homepage_url: https://amantyatech.com/
+            logo: amantya_technologies_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/amantya-technologies
+          - item:
+            name: Amantya Technologies, Inc
+            homepage_url: https://amantyatech.com/
+            logo: amantya_technologies_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/amantya-technologies
+          - item:
+            name: Amantya Technologies, Inc
+            homepage_url: https://amantyatech.com/
+            logo: amantya_technologies_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/amantya-technologies
+          - item:
+            name: Amdocs Limited
+            homepage_url: https://amdocs.com/
+            logo: amdocs_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/amdocs
+          - item:
+            name: Amdocs Limited
+            homepage_url: https://amdocs.com/
+            logo: amdocs_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/amdocs
+          - item:
+            name: AQSACOM
+            homepage_url: https://aqsacom.com/
+            logo: aqsacom.svg
+            crunchbase: https://www.crunchbase.com/organization/aqsacom
+          - item:
+            name: AQSACOM
+            homepage_url: https://aqsacom.com/
+            logo: aqsacom.svg
+            crunchbase: https://www.crunchbase.com/organization/aqsacom
+          - item:
+            name: Arista Networks, Inc.
+            homepage_url: https://arista.com/
+            logo: arista_networks_inc.svg
+            twitter: https://twitter.com/AristaNetworks
+            crunchbase: https://www.crunchbase.com/organization/arista-networks
+          - item:
+            name: Arista Networks, Inc.
+            homepage_url: https://arista.com/
+            logo: arista_networks_inc.svg
+            twitter: https://twitter.com/AristaNetworks
+            crunchbase: https://www.crunchbase.com/organization/arista-networks
+          - item:
+            name: Arista Networks, Inc.
+            homepage_url: https://arista.com/
+            logo: arista_networks_inc.svg
+            twitter: https://twitter.com/AristaNetworks
+            crunchbase: https://www.crunchbase.com/organization/arista-networks
+          - item:
+            name: Arista Networks, Inc.
+            homepage_url: https://arista.com/
+            logo: arista_networks_inc.svg
+            twitter: https://twitter.com/AristaNetworks
+            crunchbase: https://www.crunchbase.com/organization/arista-networks
           - item:
             name: Arista Networks, Inc.
             homepage_url: https://arista.com/
@@ -892,6 +1906,125 @@ landscape:
             logo: arm_limited.svg
             twitter: https://twitter.com/ArmCommunity
             crunchbase: https://www.crunchbase.com/organization/arm
+            joined: '2019-02-01'
+          - item:
+            name: Arm Limited
+            homepage_url: https://arm.com/
+            logo: arm_limited.svg
+            twitter: https://twitter.com/ArmCommunity
+            crunchbase: https://www.crunchbase.com/organization/arm
+            joined: '2019-02-01'
+          - item:
+            name: Arm Limited
+            homepage_url: https://arm.com/
+            logo: arm_limited.svg
+            twitter: https://twitter.com/ArmCommunity
+            crunchbase: https://www.crunchbase.com/organization/arm
+            joined: '2019-02-01'
+          - item:
+            name: Arm Limited
+            homepage_url: https://arm.com/
+            logo: arm_limited.svg
+            twitter: https://twitter.com/ArmCommunity
+            crunchbase: https://www.crunchbase.com/organization/arm
+            joined: '2019-02-01'
+          - item:
+            name: Atos France
+            homepage_url: https://atos.net/
+            logo: atos_france.svg
+            twitter: https://twitter.com/Atos
+            crunchbase: https://www.crunchbase.com/organization/atos
+          - item:
+            name: Atos France
+            homepage_url: https://atos.net/
+            logo: atos_france.svg
+            twitter: https://twitter.com/Atos
+            crunchbase: https://www.crunchbase.com/organization/atos
+          - item:
+            name: Atos France
+            homepage_url: https://atos.net/
+            logo: atos_france.svg
+            twitter: https://twitter.com/Atos
+            crunchbase: https://www.crunchbase.com/organization/atos
+          - item:
+            name: ATS (a KGPCo Company)
+            homepage_url: https://atsgen.com/
+            logo: ats_a_kgpco_company.svg
+            crunchbase: https://www.crunchbase.com/organization/kgpco
+          - item:
+            name: ATS (a KGPCo Company)
+            homepage_url: https://atsgen.com/
+            logo: ats_a_kgpco_company.svg
+            crunchbase: https://www.crunchbase.com/organization/kgpco
+          - item:
+            name: ATS (a KGPCo Company)
+            homepage_url: https://atsgen.com/
+            logo: ats_a_kgpco_company.svg
+            crunchbase: https://www.crunchbase.com/organization/kgpco
+          - item:
+            name: ATS (a KGPCo Company)
+            homepage_url: https://atsgen.com/
+            logo: ats_a_kgpco_company.svg
+            crunchbase: https://www.crunchbase.com/organization/kgpco
+          - item:
+            name: ATS (a KGPCo Company)
+            homepage_url: https://atsgen.com/
+            logo: ats_a_kgpco_company.svg
+            crunchbase: https://www.crunchbase.com/organization/kgpco
+          - item:
+            name: Beijing Baidu Netcom Science Technology Co., Ltd.
+            homepage_url: https://baidu.com/
+            logo: beijing_baidu_netcom_science_technology_co_ltd.svg
+            twitter: https://twitter.com/Baidu_Inc
+            crunchbase: https://www.crunchbase.com/organization/baidu
+          - item:
+            name: Beijing Baidu Netcom Science Technology Co., Ltd.
+            homepage_url: https://baidu.com/
+            logo: beijing_baidu_netcom_science_technology_co_ltd.svg
+            twitter: https://twitter.com/Baidu_Inc
+            crunchbase: https://www.crunchbase.com/organization/baidu
+          - item:
+            name: Beijing BOCO Inter-Telecom Technology Co., Ltd
+            homepage_url: https://boco.com.cn/
+            logo: beijing_boco_inter-telecom_technology_co_ltd.svg
+            organization:
+              name: Beijing BOCO Inter-Telecom Technology Co., Ltd
+          - item:
+            name: Beijing BOCO Inter-Telecom Technology Co., Ltd
+            homepage_url: https://boco.com.cn/
+            logo: beijing_boco_inter-telecom_technology_co_ltd.svg
+            organization:
+              name: Beijing BOCO Inter-Telecom Technology Co., Ltd
+          - item:
+            name: Beijing BOCO Inter-Telecom Technology Co., Ltd
+            homepage_url: https://boco.com.cn/
+            logo: beijing_boco_inter-telecom_technology_co_ltd.svg
+            organization:
+              name: Beijing BOCO Inter-Telecom Technology Co., Ltd
+          - item:
+            name: Cable Television Laboratories Inc.
+            homepage_url: https://cablelabs.com/
+            logo: cable_television_laboratories_inc.svg
+            twitter: https://twitter.com/CableLabs
+            crunchbase: https://www.crunchbase.com/organization/cablelabs
+          - item:
+            name: Cable Television Laboratories Inc.
+            homepage_url: https://cablelabs.com/
+            logo: cable_television_laboratories_inc.svg
+            twitter: https://twitter.com/CableLabs
+            crunchbase: https://www.crunchbase.com/organization/cablelabs
+          - item:
+            name: Cable Television Laboratories Inc.
+            homepage_url: https://cablelabs.com/
+            logo: cable_television_laboratories_inc.svg
+            twitter: https://twitter.com/CableLabs
+            crunchbase: https://www.crunchbase.com/organization/cablelabs
+          - item:
+            name: Cable Television Laboratories Inc.
+            homepage_url: https://cablelabs.com/
+            logo: cable_television_laboratories_inc.svg
+            twitter: https://twitter.com/CableLabs
+            crunchbase: https://www.crunchbase.com/organization/cablelabs
           - item:
             name: Cable Television Laboratories Inc.
             homepage_url: https://cablelabs.com/
@@ -904,12 +2037,100 @@ landscape:
             logo: canonical_group_limited.svg
             twitter: https://twitter.com/Canonical
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
+            joined: '2017-01-01'
+          - item:
+            name: Canonical Group Limited
+            homepage_url: https://canonical.com/
+            logo: canonical_group_limited.svg
+            twitter: https://twitter.com/Canonical
+            crunchbase: https://www.crunchbase.com/organization/canonical-ltd
+            joined: '2017-01-01'
+          - item:
+            name: Canonical Group Limited
+            homepage_url: https://canonical.com/
+            logo: canonical_group_limited.svg
+            twitter: https://twitter.com/Canonical
+            crunchbase: https://www.crunchbase.com/organization/canonical-ltd
+            joined: '2017-01-01'
+          - item:
+            name: Canonical Group Limited
+            homepage_url: https://canonical.com/
+            logo: canonical_group_limited.svg
+            twitter: https://twitter.com/Canonical
+            crunchbase: https://www.crunchbase.com/organization/canonical-ltd
+            joined: '2017-01-01'
+          - item:
+            name: Canonical Group Limited
+            homepage_url: https://canonical.com/
+            logo: canonical_group_limited.svg
+            twitter: https://twitter.com/Canonical
+            crunchbase: https://www.crunchbase.com/organization/canonical-ltd
+            joined: '2017-01-01'
+          - item:
+            name: CertusNet Inc.
+            homepage_url: https://certusnet.com.cn/
+            logo: certusnet_inc.svg
+            organization:
+              name: CertusNet Inc.
+          - item:
+            name: CertusNet Inc.
+            homepage_url: https://certusnet.com.cn/
+            logo: certusnet_inc.svg
+            organization:
+              name: CertusNet Inc.
+          - item:
+            name: CertusNet Inc.
+            homepage_url: https://certusnet.com.cn/
+            logo: certusnet_inc.svg
+            organization:
+              name: CertusNet Inc.
+          - item:
+            name: CertusNet Inc.
+            homepage_url: https://certusnet.com.cn/
+            logo: certusnet_inc.svg
+            organization:
+              name: CertusNet Inc.
+          - item:
+            name: CertusNet Inc.
+            homepage_url: https://certusnet.com.cn/
+            logo: certusnet_inc.svg
+            organization:
+              name: CertusNet Inc.
           - item:
             name: China Unicom
             homepage_url: https://chinaunicom.com/
             logo: china_unicom.svg
             twitter: https://twitter.com/ChinunicomOS
             crunchbase: https://www.crunchbase.com/organization/china-unicom
+            joined: '2019-09-01'
+          - item:
+            name: China Unicom
+            homepage_url: https://chinaunicom.com/
+            logo: china_unicom.svg
+            twitter: https://twitter.com/ChinunicomOS
+            crunchbase: https://www.crunchbase.com/organization/china-unicom
+            joined: '2019-09-01'
+          - item:
+            name: China Unicom
+            homepage_url: https://chinaunicom.com/
+            logo: china_unicom.svg
+            twitter: https://twitter.com/ChinunicomOS
+            crunchbase: https://www.crunchbase.com/organization/china-unicom
+            joined: '2019-09-01'
+          - item:
+            name: China Unicom
+            homepage_url: https://chinaunicom.com/
+            logo: china_unicom.svg
+            twitter: https://twitter.com/ChinunicomOS
+            crunchbase: https://www.crunchbase.com/organization/china-unicom
+            joined: '2019-09-01'
+          - item:
+            name: China Unicom
+            homepage_url: https://chinaunicom.com/
+            logo: china_unicom.svg
+            twitter: https://twitter.com/ChinunicomOS
+            crunchbase: https://www.crunchbase.com/organization/china-unicom
+            joined: '2019-09-01'
           - item:
             name: Ciena Canada, ULC
             homepage_url: https://ciena.com/
@@ -917,17 +2138,274 @@ landscape:
             twitter: https://twitter.com/Ciena
             crunchbase: https://www.crunchbase.com/organization/ciena
           - item:
+            name: Ciena Canada, ULC
+            homepage_url: https://ciena.com/
+            logo: ciena_canada_ulc.svg
+            twitter: https://twitter.com/Ciena
+            crunchbase: https://www.crunchbase.com/organization/ciena
+          - item:
+            name: Ciena Canada, ULC
+            homepage_url: https://ciena.com/
+            logo: ciena_canada_ulc.svg
+            twitter: https://twitter.com/Ciena
+            crunchbase: https://www.crunchbase.com/organization/ciena
+          - item:
+            name: Ciena Canada, ULC
+            homepage_url: https://ciena.com/
+            logo: ciena_canada_ulc.svg
+            twitter: https://twitter.com/Ciena
+            crunchbase: https://www.crunchbase.com/organization/ciena
+          - item:
+            name: Ciena Canada, ULC
+            homepage_url: https://ciena.com/
+            logo: ciena_canada_ulc.svg
+            twitter: https://twitter.com/Ciena
+            crunchbase: https://www.crunchbase.com/organization/ciena
+          - item:
+            name: Cloudify Platform Ltd.
+            homepage_url: https://cloudify.co/
+            logo: cloudify_platform_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/cloudify-co
+          - item:
+            name: Cloudify Platform Ltd.
+            homepage_url: https://cloudify.co/
+            logo: cloudify_platform_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/cloudify-co
+          - item:
+            name: Cloudify Platform Ltd.
+            homepage_url: https://cloudify.co/
+            logo: cloudify_platform_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/cloudify-co
+          - item:
             name: CloudOps Inc.
             homepage_url: https://cloudops.com/
             logo: cloudops_inc.svg
             twitter: https://twitter.com/CloudOps_
             crunchbase: https://www.crunchbase.com/organization/cloudops
+            joined: '2018-03-01'
+          - item:
+            name: CloudOps Inc.
+            homepage_url: https://cloudops.com/
+            logo: cloudops_inc.svg
+            twitter: https://twitter.com/CloudOps_
+            crunchbase: https://www.crunchbase.com/organization/cloudops
+            joined: '2018-03-01'
+          - item:
+            name: CloudOps Inc.
+            homepage_url: https://cloudops.com/
+            logo: cloudops_inc.svg
+            twitter: https://twitter.com/CloudOps_
+            crunchbase: https://www.crunchbase.com/organization/cloudops
+            joined: '2018-03-01'
+          - item:
+            name: CloudOps Inc.
+            homepage_url: https://cloudops.com/
+            logo: cloudops_inc.svg
+            twitter: https://twitter.com/CloudOps_
+            crunchbase: https://www.crunchbase.com/organization/cloudops
+            joined: '2018-03-01'
+          - item:
+            name: CloudOps Inc.
+            homepage_url: https://cloudops.com/
+            logo: cloudops_inc.svg
+            twitter: https://twitter.com/CloudOps_
+            crunchbase: https://www.crunchbase.com/organization/cloudops
+            joined: '2018-03-01'
+          - item:
+            name: CodiLime Sp. z o.o.
+            homepage_url: https://codilime.com/
+            logo: codilime_sp_z_oo.svg
+            crunchbase: https://www.crunchbase.com/organization/codilime-inc
+          - item:
+            name: Comarch S.A.
+            homepage_url: https://comarch.com/
+            logo: comarch_sa.svg
+            crunchbase: https://www.crunchbase.com/organization/comarch
+          - item:
+            name: Comcast Cable Communications, LLC
+            homepage_url: https://xfinity.com/
+            logo: comcast_cable_communications_llc.svg
+            twitter: https://twitter.com/Xfinity
+            crunchbase: https://www.crunchbase.com/organization/comcast
+          - item:
+            name: Comcast Cable Communications, LLC
+            homepage_url: https://xfinity.com/
+            logo: comcast_cable_communications_llc.svg
+            twitter: https://twitter.com/Xfinity
+            crunchbase: https://www.crunchbase.com/organization/comcast
+          - item:
+            name: Comcast Cable Communications, LLC
+            homepage_url: https://xfinity.com/
+            logo: comcast_cable_communications_llc.svg
+            twitter: https://twitter.com/Xfinity
+            crunchbase: https://www.crunchbase.com/organization/comcast
+          - item:
+            name: CommScope Inc.
+            homepage_url: https://commscope.com/
+            logo: commscope_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/commscope-enterprise-solutions
+          - item:
+            name: CommScope Inc.
+            homepage_url: https://commscope.com/
+            logo: commscope_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/commscope-enterprise-solutions
+          - item:
+            name: CommScope Inc.
+            homepage_url: https://commscope.com/
+            logo: commscope_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/commscope-enterprise-solutions
+          - item:
+            name: CommScope Inc.
+            homepage_url: https://commscope.com/
+            logo: commscope_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/commscope-enterprise-solutions
+          - item:
+            name: Coriant GMBH
+            homepage_url: https://coriant.com/
+            logo: coriant_gmbh.svg
+            crunchbase: https://www.crunchbase.com/organization/coriant
+          - item:
+            name: Customer Care Inc.
+            homepage_url: https://customercaresolutions.com/
+            logo: customer_care_inc.svg
+            organization:
+              name: Customer Care Inc.
+          - item:
+            name: Customer Care Inc.
+            homepage_url: https://customercaresolutions.com/
+            logo: customer_care_inc.svg
+            organization:
+              name: Customer Care Inc.
+          - item:
+            name: Dell Technologies
+            homepage_url: https://delltechnologies.com/
+            logo: dell_technologies.svg
+            crunchbase: https://www.crunchbase.com/organization/dell
+            joined: '2017-01-01'
+          - item:
+            name: Dell Technologies
+            homepage_url: https://delltechnologies.com/
+            logo: dell_technologies.svg
+            crunchbase: https://www.crunchbase.com/organization/dell
+            joined: '2017-01-01'
+          - item:
+            name: Dell Technologies
+            homepage_url: https://delltechnologies.com/
+            logo: dell_technologies.svg
+            crunchbase: https://www.crunchbase.com/organization/dell
+            joined: '2017-01-01'
+          - item:
+            name: Dell Technologies
+            homepage_url: https://delltechnologies.com/
+            logo: dell_technologies.svg
+            crunchbase: https://www.crunchbase.com/organization/dell
+            joined: '2017-01-01'
+          - item:
+            name: ENEA Software AB
+            homepage_url: https://enea.com/
+            logo: enea_software_ab.svg
+            crunchbase: https://www.crunchbase.com/organization/enea
+          - item:
+            name: ENEA Software AB
+            homepage_url: https://enea.com/
+            logo: enea_software_ab.svg
+            crunchbase: https://www.crunchbase.com/organization/enea
+          - item:
+            name: ENEA Software AB
+            homepage_url: https://enea.com/
+            logo: enea_software_ab.svg
+            crunchbase: https://www.crunchbase.com/organization/enea
+          - item:
+            name: ENEA Software AB
+            homepage_url: https://enea.com/
+            logo: enea_software_ab.svg
+            crunchbase: https://www.crunchbase.com/organization/enea
+          - item:
+            name: Equinix Metal
+            homepage_url: https://metal.equinix.com/
+            logo: https://landscape.cncf.io/logos/equinix-metal-member.svg
+            crunchbase: https://www.crunchbase.com/organization/equinix
+          - item:
+            name: Equinix Metal
+            homepage_url: https://metal.equinix.com/
+            logo: https://landscape.cncf.io/logos/equinix-metal-member.svg
+            crunchbase: https://www.crunchbase.com/organization/equinix
           - item:
             name: Equinix Services, Inc.
             homepage_url: https://equinix.com/
             logo: equinix_services_inc.svg
             twitter: https://twitter.com/Equinix
             crunchbase: https://www.crunchbase.com/organization/equinix
+          - item:
+            name: Equinix Services, Inc.
+            homepage_url: https://equinix.com/
+            logo: equinix_services_inc.svg
+            twitter: https://twitter.com/Equinix
+            crunchbase: https://www.crunchbase.com/organization/equinix
+          - item:
+            name: Equinix Services, Inc.
+            homepage_url: https://equinix.com/
+            logo: equinix_services_inc.svg
+            twitter: https://twitter.com/Equinix
+            crunchbase: https://www.crunchbase.com/organization/equinix
+          - item:
+            name: Equinix Services, Inc.
+            homepage_url: https://equinix.com/
+            logo: equinix_services_inc.svg
+            twitter: https://twitter.com/Equinix
+            crunchbase: https://www.crunchbase.com/organization/equinix
+          - item:
+            name: Equinix Services, Inc.
+            homepage_url: https://equinix.com/
+            logo: equinix_services_inc.svg
+            twitter: https://twitter.com/Equinix
+            crunchbase: https://www.crunchbase.com/organization/equinix
+          - item:
+            name: Equinox International FZE
+            homepage_url: https://equinox.com/
+            logo: equinox_international_fze.svg
+            crunchbase: https://www.crunchbase.com/organization/equinox-fitness
+          - item:
+            name: Equinox International FZE
+            homepage_url: https://equinox.com/
+            logo: equinox_international_fze.svg
+            crunchbase: https://www.crunchbase.com/organization/equinox-fitness
+          - item:
+            name: Equinox International FZE
+            homepage_url: https://equinox.com/
+            logo: equinox_international_fze.svg
+            crunchbase: https://www.crunchbase.com/organization/equinox-fitness
+          - item:
+            name: F5, Inc.
+            homepage_url: https://f5.com/
+            logo: f5_inc.svg
+            twitter: https://twitter.com/F5
+            crunchbase: https://www.crunchbase.com/organization/f5-networks
+            joined: '2017-11-01'
+          - item:
+            name: F5, Inc.
+            homepage_url: https://f5.com/
+            logo: f5_inc.svg
+            twitter: https://twitter.com/F5
+            crunchbase: https://www.crunchbase.com/organization/f5-networks
+            joined: '2017-11-01'
+          - item:
+            name: F5, Inc.
+            homepage_url: https://f5.com/
+            logo: f5_inc.svg
+            twitter: https://twitter.com/F5
+            crunchbase: https://www.crunchbase.com/organization/f5-networks
+            joined: '2017-11-01'
+          - item:
+            name: FiberHome Technologies
+            homepage_url: https://fiberhomegroup.com/
+            logo: fiberhome_technologies.svg
+            crunchbase: https://www.crunchbase.com/organization/fiberhome-technologies-group
+          - item:
+            name: FiberHome Technologies
+            homepage_url: https://fiberhomegroup.com/
+            logo: fiberhome_technologies.svg
+            crunchbase: https://www.crunchbase.com/organization/fiberhome-technologies-group
           - item:
             name: Firecell
             homepage_url: https://firecell.io/
@@ -941,6 +2419,56 @@ landscape:
             logo: fujitsu_limited.svg
             twitter: https://twitter.com/Fujitsu_Global
             crunchbase: https://www.crunchbase.com/organization/fujitsu
+            stock_ticker:
+            joined: '2016-01-01'
+          - item:
+            name: Fujitsu Limited
+            homepage_url: https://fujitsu.com/
+            logo: fujitsu_limited.svg
+            twitter: https://twitter.com/Fujitsu_Global
+            crunchbase: https://www.crunchbase.com/organization/fujitsu
+            stock_ticker:
+            joined: '2016-01-01'
+          - item:
+            name: Fujitsu Limited
+            homepage_url: https://fujitsu.com/
+            logo: fujitsu_limited.svg
+            twitter: https://twitter.com/Fujitsu_Global
+            crunchbase: https://www.crunchbase.com/organization/fujitsu
+            stock_ticker:
+            joined: '2016-01-01'
+          - item:
+            name: Fujitsu Limited
+            homepage_url: https://fujitsu.com/
+            logo: fujitsu_limited.svg
+            twitter: https://twitter.com/Fujitsu_Global
+            crunchbase: https://www.crunchbase.com/organization/fujitsu
+            stock_ticker:
+            joined: '2016-01-01'
+          - item:
+            name: Fujitsu Limited
+            homepage_url: https://fujitsu.com/
+            logo: fujitsu_limited.svg
+            twitter: https://twitter.com/Fujitsu_Global
+            crunchbase: https://www.crunchbase.com/organization/fujitsu
+            stock_ticker:
+            joined: '2016-01-01'
+          - item:
+            name: Fujitsu Limited
+            homepage_url: https://fujitsu.com/
+            logo: fujitsu_limited.svg
+            twitter: https://twitter.com/Fujitsu_Global
+            crunchbase: https://www.crunchbase.com/organization/fujitsu
+            stock_ticker:
+            joined: '2016-01-01'
+          - item:
+            name: Fujitsu Limited
+            homepage_url: https://fujitsu.com/
+            logo: fujitsu_limited.svg
+            twitter: https://twitter.com/Fujitsu_Global
+            crunchbase: https://www.crunchbase.com/organization/fujitsu
+            stock_ticker:
+            joined: '2016-01-01'
           - item:
             name: GenXcomm Inc
             homepage_url: https://genxcomm.com/
@@ -948,11 +2476,111 @@ landscape:
             twitter: https://twitter.com/GXC_io
             crunchbase: https://www.crunchbase.com/organization/genxcomm
           - item:
+            name: GenXcomm Inc
+            homepage_url: https://genxcomm.com/
+            logo: genxcomm_inc.svg
+            twitter: https://twitter.com/GXC_io
+            crunchbase: https://www.crunchbase.com/organization/genxcomm
+          - item:
+            name: Globe Telecom, Inc.
+            homepage_url: https://globe.com.ph/
+            logo: globe_telecom_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/globe-telecom
+          - item:
+            name: Globe Telecom, Inc.
+            homepage_url: https://globe.com.ph/
+            logo: globe_telecom_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/globe-telecom
+          - item:
+            name: Globe Telecom, Inc.
+            homepage_url: https://globe.com.ph/
+            logo: globe_telecom_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/globe-telecom
+          - item:
             name: Globo
             homepage_url: https://globo.com/
             logo: globo.svg
             twitter: https://twitter.com/globonoticias
             crunchbase: https://www.crunchbase.com/organization/organiza-es-globo
+          - item:
+            name: Globo
+            homepage_url: https://globo.com/
+            logo: globo.svg
+            twitter: https://twitter.com/globonoticias
+            crunchbase: https://www.crunchbase.com/organization/organiza-es-globo
+          - item:
+            name: Globo
+            homepage_url: https://globo.com/
+            logo: globo.svg
+            twitter: https://twitter.com/globonoticias
+            crunchbase: https://www.crunchbase.com/organization/organiza-es-globo
+          - item:
+            name: Globo
+            homepage_url: https://globo.com/
+            logo: globo.svg
+            twitter: https://twitter.com/globonoticias
+            crunchbase: https://www.crunchbase.com/organization/organiza-es-globo
+          - item:
+            name: Guavus
+            homepage_url: https://guavus.com/
+            logo: guavus.svg
+            crunchbase: https://www.crunchbase.com/organization/guavus
+          - item:
+            name: Hangzhou Eastcom Software Technology Co., Ltd
+            homepage_url: https://eastcom-sw.com/
+            logo: hangzhou_eastcom_software_technology_co_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/hangzhou-xingxi-technology-co-ltd
+          - item:
+            name: Hangzhou Eastcom Software Technology Co., Ltd
+            homepage_url: https://eastcom-sw.com/
+            logo: hangzhou_eastcom_software_technology_co_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/hangzhou-xingxi-technology-co-ltd
+          - item:
+            name: Hangzhou Eastcom Software Technology Co., Ltd
+            homepage_url: https://eastcom-sw.com/
+            logo: hangzhou_eastcom_software_technology_co_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/hangzhou-xingxi-technology-co-ltd
+          - item:
+            name: Hangzhou Eastcom Software Technology Co., Ltd
+            homepage_url: https://eastcom-sw.com/
+            logo: hangzhou_eastcom_software_technology_co_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/hangzhou-xingxi-technology-co-ltd
+          - item:
+            name: HCL Technologies Ltd.
+            homepage_url: https://hcltech.com/
+            logo: hcl_technologies_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/hcl-technologies
+            joined: '2020-02-01'
+          - item:
+            name: HCL Technologies Ltd.
+            homepage_url: https://hcltech.com/
+            logo: hcl_technologies_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/hcl-technologies
+            joined: '2020-02-01'
+          - item:
+            name: HCL Technologies Ltd.
+            homepage_url: https://hcltech.com/
+            logo: hcl_technologies_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/hcl-technologies
+            joined: '2020-02-01'
+          - item:
+            name: HCL Technologies Ltd.
+            homepage_url: https://hcltech.com/
+            logo: hcl_technologies_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/hcl-technologies
+            joined: '2020-02-01'
+          - item:
+            name: HCL Technologies Ltd.
+            homepage_url: https://hcltech.com/
+            logo: hcl_technologies_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/hcl-technologies
+            joined: '2020-02-01'
+          - item:
+            name: HCL Technologies Ltd.
+            homepage_url: https://hcltech.com/
+            logo: hcl_technologies_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/hcl-technologies
+            joined: '2020-02-01'
           - item:
             name: Hewlett Packard Enterprise Development LP
             homepage_url: https://hpe.com/
@@ -960,17 +2588,121 @@ landscape:
             twitter: https://twitter.com/HPE
             crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
           - item:
+            name: Hewlett Packard Enterprise Development LP
+            homepage_url: https://hpe.com/
+            logo: hewlett_packard_enterprise_development_lp.svg
+            twitter: https://twitter.com/HPE
+            crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
+          - item:
+            name: Hewlett Packard Enterprise Development LP
+            homepage_url: https://hpe.com/
+            logo: hewlett_packard_enterprise_development_lp.svg
+            twitter: https://twitter.com/HPE
+            crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
+          - item:
+            name: Hewlett Packard Enterprise Development LP
+            homepage_url: https://hpe.com/
+            logo: hewlett_packard_enterprise_development_lp.svg
+            twitter: https://twitter.com/HPE
+            crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
+          - item:
+            name: Hewlett Packard Enterprise Development LP
+            homepage_url: https://hpe.com/
+            logo: hewlett_packard_enterprise_development_lp.svg
+            twitter: https://twitter.com/HPE
+            crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
+          - item:
+            name: iconectiv
+            homepage_url: https://iconectiv.com/
+            logo: iconectiv.svg
+            crunchbase: https://www.crunchbase.com/organization/iconectiv
+          - item:
+            name: iconectiv
+            homepage_url: https://iconectiv.com/
+            logo: iconectiv.svg
+            crunchbase: https://www.crunchbase.com/organization/iconectiv
+          - item:
+            name: iconectiv
+            homepage_url: https://iconectiv.com/
+            logo: iconectiv.svg
+            crunchbase: https://www.crunchbase.com/organization/iconectiv
+          - item:
+            name: Infinera Corporation
+            homepage_url: https://infinera.com/
+            logo: infinera_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/infinera
+          - item:
+            name: Infinera Corporation
+            homepage_url: https://infinera.com/
+            logo: infinera_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/infinera
+          - item:
+            name: Infosys Limited
+            homepage_url: https://infosys.com/
+            logo: infosys_limited.svg
+            twitter: https://twitter.com/Infosys
+            crunchbase: https://www.crunchbase.com/organization/infosys
+            joined: '2020-11-01'
+          - item:
+            name: Infosys Limited
+            homepage_url: https://infosys.com/
+            logo: infosys_limited.svg
+            twitter: https://twitter.com/Infosys
+            crunchbase: https://www.crunchbase.com/organization/infosys
+            joined: '2020-11-01'
+          - item:
             name: Intel Corporation
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
             twitter: https://twitter.com/intel
             crunchbase: https://www.crunchbase.com/organization/intel
           - item:
+            name: JMA Wireless
+            homepage_url: https://jmawireless.com/
+            logo: jma_wireless.svg
+            crunchbase: https://www.crunchbase.com/organization/jma-wireless
+          - item:
+            name: JMA Wireless
+            homepage_url: https://jmawireless.com/
+            logo: jma_wireless.svg
+            crunchbase: https://www.crunchbase.com/organization/jma-wireless
+          - item:
             name: Juniper Networks, Inc.
             homepage_url: https://juniper.net/
             logo: juniper_networks_inc.svg
             twitter: https://twitter.com/JuniperNetworks
             crunchbase: https://www.crunchbase.com/organization/juniper-networks
+            joined: '2020-08-01'
+          - item:
+            name: Kaloom Inc.
+            homepage_url: https://kaloom.com/
+            logo: kaloom_inc.svg
+            twitter: https://twitter.com/Kaloom_Inc
+            crunchbase: https://www.crunchbase.com/organization/kaloom
+          - item:
+            name: Kaloom Inc.
+            homepage_url: https://kaloom.com/
+            logo: kaloom_inc.svg
+            twitter: https://twitter.com/Kaloom_Inc
+            crunchbase: https://www.crunchbase.com/organization/kaloom
+          - item:
+            name: Kaloom Inc.
+            homepage_url: https://kaloom.com/
+            logo: kaloom_inc.svg
+            twitter: https://twitter.com/Kaloom_Inc
+            crunchbase: https://www.crunchbase.com/organization/kaloom
+          - item:
+            name: Kaloom Inc.
+            homepage_url: https://kaloom.com/
+            logo: kaloom_inc.svg
+            twitter: https://twitter.com/Kaloom_Inc
+            crunchbase: https://www.crunchbase.com/organization/kaloom
+          - item:
+            name: Kaloom Inc.
+            homepage_url: https://kaloom.com/
+            logo: kaloom_inc.svg
+            twitter: https://twitter.com/Kaloom_Inc
+            crunchbase: https://www.crunchbase.com/organization/kaloom
           - item:
             name: Kaloom Inc.
             homepage_url: https://kaloom.com/
@@ -984,35 +2716,292 @@ landscape:
             twitter: https://twitter.com/kddipr
             crunchbase: https://www.crunchbase.com/organization/kddi
           - item:
+            name: KDDI Corporation
+            homepage_url: https://kddi.com/
+            logo: kddi_corporation.svg
+            twitter: https://twitter.com/kddipr
+            crunchbase: https://www.crunchbase.com/organization/kddi
+          - item:
+            name: KDDI Corporation
+            homepage_url: https://kddi.com/
+            logo: kddi_corporation.svg
+            twitter: https://twitter.com/kddipr
+            crunchbase: https://www.crunchbase.com/organization/kddi
+          - item:
+            name: KDDI Corporation
+            homepage_url: https://kddi.com/
+            logo: kddi_corporation.svg
+            twitter: https://twitter.com/kddipr
+            crunchbase: https://www.crunchbase.com/organization/kddi
+          - item:
+            name: KDDI Corporation
+            homepage_url: https://kddi.com/
+            logo: kddi_corporation.svg
+            twitter: https://twitter.com/kddipr
+            crunchbase: https://www.crunchbase.com/organization/kddi
+          - item:
+            name: KDDI Corporation
+            homepage_url: https://kddi.com/
+            logo: kddi_corporation.svg
+            twitter: https://twitter.com/kddipr
+            crunchbase: https://www.crunchbase.com/organization/kddi
+          - item:
             name: Keysight Technologies Inc.
             homepage_url: https://keysight.com/
             logo: keysight_technologies_inc.svg
             twitter: https://twitter.com/Keysight
             crunchbase: https://www.crunchbase.com/organization/keysight-technologies
           - item:
+            name: Kontron Europe GmbH
+            homepage_url: https://kontron.com/
+            logo: kontron_europe_gmbh.svg
+            crunchbase: https://www.crunchbase.com/organization/kontron
+          - item:
+            name: Kontron Europe GmbH
+            homepage_url: https://kontron.com/
+            logo: kontron_europe_gmbh.svg
+            crunchbase: https://www.crunchbase.com/organization/kontron
+          - item:
+            name: Kontron Europe GmbH
+            homepage_url: https://kontron.com/
+            logo: kontron_europe_gmbh.svg
+            crunchbase: https://www.crunchbase.com/organization/kontron
+          - item:
+            name: KT
+            homepage_url: https://kt.com/
+            logo: kt.svg
+            crunchbase: https://www.crunchbase.com/organization/kt-rental-corp
+          - item:
+            name: KT
+            homepage_url: https://kt.com/
+            logo: kt.svg
+            crunchbase: https://www.crunchbase.com/organization/kt-rental-corp
+          - item:
             name: Kubermatic GmbH
             homepage_url: https://kubermatic.com/
             logo: kubermatic_gmbh.svg
             twitter: https://twitter.com/Kubermatic
             crunchbase: https://www.crunchbase.com/organization/loodse-gmbh
+            joined: '2017-01-01'
+          - item:
+            name: Kubermatic GmbH
+            homepage_url: https://kubermatic.com/
+            logo: kubermatic_gmbh.svg
+            twitter: https://twitter.com/Kubermatic
+            crunchbase: https://www.crunchbase.com/organization/loodse-gmbh
+            joined: '2017-01-01'
+          - item:
+            name: Kubermatic GmbH
+            homepage_url: https://kubermatic.com/
+            logo: kubermatic_gmbh.svg
+            twitter: https://twitter.com/Kubermatic
+            crunchbase: https://www.crunchbase.com/organization/loodse-gmbh
+            joined: '2017-01-01'
+          - item:
+            name: Kubermatic GmbH
+            homepage_url: https://kubermatic.com/
+            logo: kubermatic_gmbh.svg
+            twitter: https://twitter.com/Kubermatic
+            crunchbase: https://www.crunchbase.com/organization/loodse-gmbh
+            joined: '2017-01-01'
+          - item:
+            name: Kubermatic GmbH
+            homepage_url: https://kubermatic.com/
+            logo: kubermatic_gmbh.svg
+            twitter: https://twitter.com/Kubermatic
+            crunchbase: https://www.crunchbase.com/organization/loodse-gmbh
+            joined: '2017-01-01'
+          - item:
+            name: Lenovo (United States) Inc.
+            homepage_url: https://lenovo.com/
+            logo: lenovo_united_states_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/lenovo
+            joined: '2023-04-01'
+          - item:
+            name: LG Uplus Corporation
+            homepage_url: https://lguplus.co.kr/
+            logo: lg_uplus_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/lg-uplus
+          - item:
+            name: LG Uplus Corporation
+            homepage_url: https://lguplus.co.kr/
+            logo: lg_uplus_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/lg-uplus
+          - item:
+            name: LinkedIn Corporation
+            homepage_url: https://linkedin.com/
+            logo: linkedin_corporation.svg
+            twitter: https://twitter.com/LinkedIn
+            crunchbase: https://www.crunchbase.com/organization/linkedin
+          - item:
+            name: LinkedIn Corporation
+            homepage_url: https://linkedin.com/
+            logo: linkedin_corporation.svg
+            twitter: https://twitter.com/LinkedIn
+            crunchbase: https://www.crunchbase.com/organization/linkedin
+          - item:
+            name: LinkedIn Corporation
+            homepage_url: https://linkedin.com/
+            logo: linkedin_corporation.svg
+            twitter: https://twitter.com/LinkedIn
+            crunchbase: https://www.crunchbase.com/organization/linkedin
+          - item:
+            name: LinkedIn Corporation
+            homepage_url: https://linkedin.com/
+            logo: linkedin_corporation.svg
+            twitter: https://twitter.com/LinkedIn
+            crunchbase: https://www.crunchbase.com/organization/linkedin
+          - item:
+            name: LinkedIn Corporation
+            homepage_url: https://linkedin.com/
+            logo: linkedin_corporation.svg
+            twitter: https://twitter.com/LinkedIn
+            crunchbase: https://www.crunchbase.com/organization/linkedin
+          - item:
+            name: Marvell Semiconductors Ltd
+            homepage_url: https://marvell.com/
+            logo: marvell_semiconductors_ltd.svg
+            twitter: https://twitter.com/MarvellTech
+            crunchbase: https://www.crunchbase.com/organization/marvell-technology
           - item:
             name: MATRIXX Software
             homepage_url: https://matrixx.com/
             logo: matrixx_software.svg
             twitter: https://twitter.com/MATRIXX_SW
             crunchbase: https://www.crunchbase.com/organization/matrixx-software
+            joined: '2022-05-01'
+          - item:
+            name: MATRIXX Software
+            homepage_url: https://matrixx.com/
+            logo: matrixx_software.svg
+            twitter: https://twitter.com/MATRIXX_SW
+            crunchbase: https://www.crunchbase.com/organization/matrixx-software
+            joined: '2022-05-01'
+          - item:
+            name: MATRIXX Software
+            homepage_url: https://matrixx.com/
+            logo: matrixx_software.svg
+            twitter: https://twitter.com/MATRIXX_SW
+            crunchbase: https://www.crunchbase.com/organization/matrixx-software
+            joined: '2022-05-01'
+          - item:
+            name: MATRIXX Software
+            homepage_url: https://matrixx.com/
+            logo: matrixx_software.svg
+            twitter: https://twitter.com/MATRIXX_SW
+            crunchbase: https://www.crunchbase.com/organization/matrixx-software
+            joined: '2022-05-01'
           - item:
             name: Mavenir Systems, Inc.
             homepage_url: https://mavenir.com/
             logo: mavenir_systems_inc.svg
             twitter: https://twitter.com/Mavenir
             crunchbase: https://www.crunchbase.com/organization/mavenir
+            joined: '2019-08-01'
+          - item:
+            name: Mavenir Systems, Inc.
+            homepage_url: https://mavenir.com/
+            logo: mavenir_systems_inc.svg
+            twitter: https://twitter.com/Mavenir
+            crunchbase: https://www.crunchbase.com/organization/mavenir
+            joined: '2019-08-01'
+          - item:
+            name: Mavenir Systems, Inc.
+            homepage_url: https://mavenir.com/
+            logo: mavenir_systems_inc.svg
+            twitter: https://twitter.com/Mavenir
+            crunchbase: https://www.crunchbase.com/organization/mavenir
+            joined: '2019-08-01'
+          - item:
+            name: Mavenir Systems, Inc.
+            homepage_url: https://mavenir.com/
+            logo: mavenir_systems_inc.svg
+            twitter: https://twitter.com/Mavenir
+            crunchbase: https://www.crunchbase.com/organization/mavenir
+            joined: '2019-08-01'
+          - item:
+            name: Mavenir Systems, Inc.
+            homepage_url: https://mavenir.com/
+            logo: mavenir_systems_inc.svg
+            twitter: https://twitter.com/Mavenir
+            crunchbase: https://www.crunchbase.com/organization/mavenir
+            joined: '2019-08-01'
+          - item:
+            name: Metaswitch Networks
+            homepage_url: https://metaswitch.com/
+            logo: metaswitch_networks.svg
+            crunchbase: https://www.crunchbase.com/organization/metaswitch
+          - item:
+            name: Metaswitch Networks
+            homepage_url: https://metaswitch.com/
+            logo: metaswitch_networks.svg
+            crunchbase: https://www.crunchbase.com/organization/metaswitch
+          - item:
+            name: Microsoft Corporation
+            homepage_url: https://microsoft.com/
+            logo: microsoft_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/microsoft
           - item:
             name: Mirantis, Inc.
             homepage_url: https://mirantis.com/
             logo: mirantis_inc.svg
             twitter: https://twitter.com/MirantisIT
             crunchbase: https://www.crunchbase.com/organization/mirantis
+            joined: '2016-08-01'
+          - item:
+            name: Mirantis, Inc.
+            homepage_url: https://mirantis.com/
+            logo: mirantis_inc.svg
+            twitter: https://twitter.com/MirantisIT
+            crunchbase: https://www.crunchbase.com/organization/mirantis
+            joined: '2016-08-01'
+          - item:
+            name: Mirantis, Inc.
+            homepage_url: https://mirantis.com/
+            logo: mirantis_inc.svg
+            twitter: https://twitter.com/MirantisIT
+            crunchbase: https://www.crunchbase.com/organization/mirantis
+            joined: '2016-08-01'
+          - item:
+            name: Mirantis, Inc.
+            homepage_url: https://mirantis.com/
+            logo: mirantis_inc.svg
+            twitter: https://twitter.com/MirantisIT
+            crunchbase: https://www.crunchbase.com/organization/mirantis
+            joined: '2016-08-01'
+          - item:
+            name: MYCOM OSI
+            homepage_url: https://mycom-osi.com/
+            logo: mycom_osi.svg
+            crunchbase: https://www.crunchbase.com/organization/mycom-osi
+          - item:
+            name: MYCOM OSI
+            homepage_url: https://mycom-osi.com/
+            logo: mycom_osi.svg
+            crunchbase: https://www.crunchbase.com/organization/mycom-osi
+          - item:
+            name: MYCOM OSI
+            homepage_url: https://mycom-osi.com/
+            logo: mycom_osi.svg
+            crunchbase: https://www.crunchbase.com/organization/mycom-osi
+          - item:
+            name: NEC Corporation
+            homepage_url: https://nec.com/
+            logo: nec_corporation.svg
+            twitter: https://twitter.com/NEC_corp
+            crunchbase: https://www.crunchbase.com/organization/nec
+          - item:
+            name: NEC Corporation
+            homepage_url: https://nec.com/
+            logo: nec_corporation.svg
+            twitter: https://twitter.com/NEC_corp
+            crunchbase: https://www.crunchbase.com/organization/nec
+          - item:
+            name: NEC Corporation
+            homepage_url: https://nec.com/
+            logo: nec_corporation.svg
+            twitter: https://twitter.com/NEC_corp
+            crunchbase: https://www.crunchbase.com/organization/nec
           - item:
             name: NEC Corporation
             homepage_url: https://nec.com/
@@ -1026,11 +3015,155 @@ landscape:
             twitter: https://twitter.com/NetgateUSA
             crunchbase: https://www.crunchbase.com/organization/netgate
           - item:
+            name: Netgate
+            homepage_url: https://netgate.com/
+            logo: netgate.svg
+            twitter: https://twitter.com/NetgateUSA
+            crunchbase: https://www.crunchbase.com/organization/netgate
+          - item:
+            name: Netgate
+            homepage_url: https://netgate.com/
+            logo: netgate.svg
+            twitter: https://twitter.com/NetgateUSA
+            crunchbase: https://www.crunchbase.com/organization/netgate
+          - item:
+            name: Netgate
+            homepage_url: https://netgate.com/
+            logo: netgate.svg
+            twitter: https://twitter.com/NetgateUSA
+            crunchbase: https://www.crunchbase.com/organization/netgate
+          - item:
+            name: Netgate
+            homepage_url: https://netgate.com/
+            logo: netgate.svg
+            twitter: https://twitter.com/NetgateUSA
+            crunchbase: https://www.crunchbase.com/organization/netgate
+          - item:
+            name: Netris, INC.
+            homepage_url: https://www.netris.io/
+            logo: netris_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/netris
+            joined: '2021-08-01'
+          - item:
+            name: Netris, INC.
+            homepage_url: https://www.netris.io/
+            logo: netris_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/netris
+            joined: '2021-08-01'
+          - item:
+            name: Netris, INC.
+            homepage_url: https://www.netris.io/
+            logo: netris_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/netris
+            joined: '2021-08-01'
+          - item:
+            name: Netris, INC.
+            homepage_url: https://www.netris.io/
+            logo: netris_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/netris
+            joined: '2021-08-01'
+          - item:
+            name: Netris, INC.
+            homepage_url: https://www.netris.io/
+            logo: netris_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/netris
+            joined: '2021-08-01'
+          - item:
+            name: NetScout Systems, Inc.
+            homepage_url: https://netscout.com/
+            logo: netscout_systems_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/netscout-systems
+          - item:
+            name: NetScout Systems, Inc.
+            homepage_url: https://netscout.com/
+            logo: netscout_systems_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/netscout-systems
+          - item:
+            name: NetScout Systems, Inc.
+            homepage_url: https://netscout.com/
+            logo: netscout_systems_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/netscout-systems
+          - item:
+            name: NETSIA Inc.
+            homepage_url: https://netsia.com/
+            logo: netsia_inc.svg
+            organization:
+              name: NETSIA Inc.
+          - item:
+            name: NETSIA Inc.
+            homepage_url: https://netsia.com/
+            logo: netsia_inc.svg
+            organization:
+              name: NETSIA Inc.
+          - item:
+            name: NETSIA Inc.
+            homepage_url: https://netsia.com/
+            logo: netsia_inc.svg
+            organization:
+              name: NETSIA Inc.
+          - item:
+            name: NETSIA Inc.
+            homepage_url: https://netsia.com/
+            logo: netsia_inc.svg
+            organization:
+              name: NETSIA Inc.
+          - item:
+            name: New H3C Technologies Co., Ltd
+            homepage_url: https://h3c.com/
+            logo: new_h3c_technologies_co_ltd.svg
+            twitter: https://twitter.com/H3CGlobal
+            crunchbase: https://www.crunchbase.com/organization/h3c-technologies
+          - item:
+            name: New H3C Technologies Co., Ltd
+            homepage_url: https://h3c.com/
+            logo: new_h3c_technologies_co_ltd.svg
+            twitter: https://twitter.com/H3CGlobal
+            crunchbase: https://www.crunchbase.com/organization/h3c-technologies
+          - item:
+            name: New H3C Technologies Co., Ltd
+            homepage_url: https://h3c.com/
+            logo: new_h3c_technologies_co_ltd.svg
+            twitter: https://twitter.com/H3CGlobal
+            crunchbase: https://www.crunchbase.com/organization/h3c-technologies
+          - item:
+            name: New H3C Technologies Co., Ltd
+            homepage_url: https://h3c.com/
+            logo: new_h3c_technologies_co_ltd.svg
+            twitter: https://twitter.com/H3CGlobal
+            crunchbase: https://www.crunchbase.com/organization/h3c-technologies
+          - item:
             name: NTT DATA Spain, S.L.U.
             homepage_url: https://everis.com/
             logo: ntt_data_spain_slu.svg
             twitter: https://twitter.com/NTTDATA
             crunchbase: https://www.crunchbase.com/organization/ntt-data
+          - item:
+            name: NTT DATA Spain, S.L.U.
+            homepage_url: https://everis.com/
+            logo: ntt_data_spain_slu.svg
+            twitter: https://twitter.com/NTTDATA
+            crunchbase: https://www.crunchbase.com/organization/ntt-data
+          - item:
+            name: NTT DATA Spain, S.L.U.
+            homepage_url: https://everis.com/
+            logo: ntt_data_spain_slu.svg
+            twitter: https://twitter.com/NTTDATA
+            crunchbase: https://www.crunchbase.com/organization/ntt-data
+          - item:
+            name: Openet
+            homepage_url: https://openet.com/
+            logo: openet.svg
+            crunchbase: https://www.crunchbase.com/organization/amdocs-ltd
+          - item:
+            name: Openet
+            homepage_url: https://openet.com/
+            logo: openet.svg
+            crunchbase: https://www.crunchbase.com/organization/amdocs-ltd
+          - item:
+            name: Openet
+            homepage_url: https://openet.com/
+            logo: openet.svg
+            crunchbase: https://www.crunchbase.com/organization/amdocs-ltd
           - item:
             name: Orange SA
             homepage_url: https://orange.com/
@@ -1044,11 +3177,132 @@ landscape:
             twitter: https://twitter.com/Pantheon_Tech
             crunchbase: https://www.crunchbase.com/organization/pantheon-technologies
           - item:
+            name: PANTHEON.tech s.r.o
+            homepage_url: https://pantheon.tech/
+            logo: pantheontech_sro.svg
+            twitter: https://twitter.com/Pantheon_Tech
+            crunchbase: https://www.crunchbase.com/organization/pantheon-technologies
+          - item:
+            name: PANTHEON.tech s.r.o
+            homepage_url: https://pantheon.tech/
+            logo: pantheontech_sro.svg
+            twitter: https://twitter.com/Pantheon_Tech
+            crunchbase: https://www.crunchbase.com/organization/pantheon-technologies
+          - item:
+            name: PANTHEON.tech s.r.o
+            homepage_url: https://pantheon.tech/
+            logo: pantheontech_sro.svg
+            twitter: https://twitter.com/Pantheon_Tech
+            crunchbase: https://www.crunchbase.com/organization/pantheon-technologies
+          - item:
+            name: PANTHEON.tech s.r.o
+            homepage_url: https://pantheon.tech/
+            logo: pantheontech_sro.svg
+            twitter: https://twitter.com/Pantheon_Tech
+            crunchbase: https://www.crunchbase.com/organization/pantheon-technologies
+          - item:
+            name: PANTHEON.tech s.r.o
+            homepage_url: https://pantheon.tech/
+            logo: pantheontech_sro.svg
+            twitter: https://twitter.com/Pantheon_Tech
+            crunchbase: https://www.crunchbase.com/organization/pantheon-technologies
+          - item:
+            name: PCCW Global Ltd.
+            homepage_url: https://pccwglobal.com/
+            logo: pccw_global_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/pccw-global
+          - item:
+            name: Pensa Inc
+            homepage_url: https://pensa.ai/
+            logo: pensa_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/pensa-networks
+          - item:
             name: RADTONICS
             homepage_url: https://radtonics.com/
             logo: radtonics.svg
             organization:
               name: RADTONICS
+          - item:
+            name: RADTONICS
+            homepage_url: https://radtonics.com/
+            logo: radtonics.svg
+            organization:
+              name: RADTONICS
+          - item:
+            name: RADTONICS
+            homepage_url: https://radtonics.com/
+            logo: radtonics.svg
+            organization:
+              name: RADTONICS
+          - item:
+            name: Raisecom Technology Co. Ltd
+            homepage_url: https://raisecom.com/
+            logo: raisecom_technology_co_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/raisecom
+          - item:
+            name: Raisecom Technology Co. Ltd
+            homepage_url: https://raisecom.com/
+            logo: raisecom_technology_co_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/raisecom
+          - item:
+            name: Raisecom Technology Co. Ltd
+            homepage_url: https://raisecom.com/
+            logo: raisecom_technology_co_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/raisecom
+          - item:
+            name: Redapt
+            homepage_url: https://redapt.com/
+            logo: redapt.svg
+            crunchbase: https://www.crunchbase.com/organization/redapt
+          - item:
+            name: Redapt
+            homepage_url: https://redapt.com/
+            logo: redapt.svg
+            crunchbase: https://www.crunchbase.com/organization/redapt
+          - item:
+            name: Redapt
+            homepage_url: https://redapt.com/
+            logo: redapt.svg
+            crunchbase: https://www.crunchbase.com/organization/redapt
+          - item:
+            name: Reliance Jio Infocomm Limited
+            homepage_url: https://jio.com/
+            logo: reliance_jio_infocomm_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/jio
+          - item:
+            name: Reliance Jio Infocomm Limited
+            homepage_url: https://jio.com/
+            logo: reliance_jio_infocomm_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/jio
+          - item:
+            name: Reliance Jio Infocomm Limited
+            homepage_url: https://jio.com/
+            logo: reliance_jio_infocomm_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/jio
+          - item:
+            name: Ribbon Communications Operating Company, Inc.
+            homepage_url: https://ribboncommunications.com/
+            logo: ribbon_communications_operating_company_inc.svg
+            twitter: https://twitter.com/ribboncomm
+            crunchbase: https://www.crunchbase.com/organization/ribbon-communications
+          - item:
+            name: Ribbon Communications Operating Company, Inc.
+            homepage_url: https://ribboncommunications.com/
+            logo: ribbon_communications_operating_company_inc.svg
+            twitter: https://twitter.com/ribboncomm
+            crunchbase: https://www.crunchbase.com/organization/ribbon-communications
+          - item:
+            name: Ribbon Communications Operating Company, Inc.
+            homepage_url: https://ribboncommunications.com/
+            logo: ribbon_communications_operating_company_inc.svg
+            twitter: https://twitter.com/ribboncomm
+            crunchbase: https://www.crunchbase.com/organization/ribbon-communications
+          - item:
+            name: Ribbon Communications Operating Company, Inc.
+            homepage_url: https://ribboncommunications.com/
+            logo: ribbon_communications_operating_company_inc.svg
+            twitter: https://twitter.com/ribboncomm
+            crunchbase: https://www.crunchbase.com/organization/ribbon-communications
           - item:
             name: Ribbon Communications Operating Company, Inc.
             homepage_url: https://ribboncommunications.com/
@@ -1061,12 +3315,187 @@ landscape:
             logo: robin_systems_inc.svg
             twitter: https://twitter.com/Robin4K8S
             crunchbase: https://www.crunchbase.com/organization/robin-systems
+            joined: '2018-08-01'
+          - item:
+            name: Robin Systems, Inc
+            homepage_url: https://robin.io/
+            logo: robin_systems_inc.svg
+            twitter: https://twitter.com/Robin4K8S
+            crunchbase: https://www.crunchbase.com/organization/robin-systems
+            joined: '2018-08-01'
+          - item:
+            name: Robin Systems, Inc
+            homepage_url: https://robin.io/
+            logo: robin_systems_inc.svg
+            twitter: https://twitter.com/Robin4K8S
+            crunchbase: https://www.crunchbase.com/organization/robin-systems
+            joined: '2018-08-01'
+          - item:
+            name: Sandvine Incorporated
+            homepage_url: https://sandvine.com/
+            logo: sandvine_incorporated.svg
+            crunchbase: https://www.crunchbase.com/organization/sandvine
+          - item:
+            name: Sandvine Incorporated
+            homepage_url: https://sandvine.com/
+            logo: sandvine_incorporated.svg
+            crunchbase: https://www.crunchbase.com/organization/sandvine
+          - item:
+            name: Sempre.ai
+            homepage_url: https://sempre.ai/
+            logo: sempreai.svg
+            crunchbase: https://www.crunchbase.com/organization/sempre
+          - item:
+            name: Sempre.ai
+            homepage_url: https://sempre.ai/
+            logo: sempreai.svg
+            crunchbase: https://www.crunchbase.com/organization/sempre
+          - item:
+            name: Serro
+            homepage_url: https://serro.com/
+            logo: serro.svg
+            crunchbase: https://www.crunchbase.com/organization/serro-solutions
+          - item:
+            name: Serro
+            homepage_url: https://serro.com/
+            logo: serro.svg
+            crunchbase: https://www.crunchbase.com/organization/serro-solutions
+          - item:
+            name: SES Networks
+            homepage_url: https://ses.com/
+            logo: ses_networks.svg
+            crunchbase: https://www.crunchbase.com/organization/ses
+          - item:
+            name: SES Networks
+            homepage_url: https://ses.com/
+            logo: ses_networks.svg
+            crunchbase: https://www.crunchbase.com/organization/ses
+          - item:
+            name: SES Networks
+            homepage_url: https://ses.com/
+            logo: ses_networks.svg
+            crunchbase: https://www.crunchbase.com/organization/ses
+          - item:
+            name: SES Networks
+            homepage_url: https://ses.com/
+            logo: ses_networks.svg
+            crunchbase: https://www.crunchbase.com/organization/ses
+          - item:
+            name: SK Telecom
+            homepage_url: https://sktelecom.com/
+            logo: sk_telecom.svg
+            crunchbase: https://www.crunchbase.com/organization/sktelecom
+          - item:
+            name: SK Telecom
+            homepage_url: https://sktelecom.com/
+            logo: sk_telecom.svg
+            crunchbase: https://www.crunchbase.com/organization/sktelecom
+          - item:
+            name: SK Telecom
+            homepage_url: https://sktelecom.com/
+            logo: sk_telecom.svg
+            crunchbase: https://www.crunchbase.com/organization/sktelecom
+          - item:
+            name: SnapRoute Inc.
+            homepage_url: https://snaproute.com/
+            logo: snaproute_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/infoblox
+          - item:
+            name: SnapRoute Inc.
+            homepage_url: https://snaproute.com/
+            logo: snaproute_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/infoblox
+          - item:
+            name: Sofioni Networks
+            homepage_url: https://sofioni.com/
+            logo: sofioni_networks.svg
+            organization:
+              name: Sofioni Networks
+          - item:
+            name: Sofioni Networks
+            homepage_url: https://sofioni.com/
+            logo: sofioni_networks.svg
+            organization:
+              name: Sofioni Networks
+          - item:
+            name: Solutions by STC
+            homepage_url: https://solutions.com.sa/
+            logo: solutions_by_stc.svg
+            crunchbase: https://www.crunchbase.com/organization/stc-solutions
+          - item:
+            name: Solutions by STC
+            homepage_url: https://solutions.com.sa/
+            logo: solutions_by_stc.svg
+            crunchbase: https://www.crunchbase.com/organization/stc-solutions
+          - item:
+            name: Solutions by STC
+            homepage_url: https://solutions.com.sa/
+            logo: solutions_by_stc.svg
+            crunchbase: https://www.crunchbase.com/organization/stc-solutions
+          - item:
+            name: Solutions by STC
+            homepage_url: https://solutions.com.sa/
+            logo: solutions_by_stc.svg
+            crunchbase: https://www.crunchbase.com/organization/stc-solutions
+          - item:
+            name: Spirent Communications Inc
+            homepage_url: https://spirent.com/
+            logo: spirent_communications_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/spirent
+          - item:
+            name: Spirent Communications Inc
+            homepage_url: https://spirent.com/
+            logo: spirent_communications_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/spirent
+          - item:
+            name: Spirent Communications Inc
+            homepage_url: https://spirent.com/
+            logo: spirent_communications_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/spirent
+          - item:
+            name: Spirent Communications Inc
+            homepage_url: https://spirent.com/
+            logo: spirent_communications_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/spirent
+          - item:
+            name: Spirent Communications Inc
+            homepage_url: https://spirent.com/
+            logo: spirent_communications_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/spirent
           - item:
             name: Sprint Corporation
             homepage_url: https://sprint.com/
             logo: sprint_corporation.svg
             twitter: https://twitter.com/TMobile
-            crunchbase: https://www.crunchbase.com/organization/sprint-nextel
+            crunchbase: https://www.crunchbase.com/organization/t-mobile
+            stock_ticker:
+          - item:
+            name: Sprint Corporation
+            homepage_url: https://sprint.com/
+            logo: sprint_corporation.svg
+            twitter: https://twitter.com/TMobile
+            crunchbase: https://www.crunchbase.com/organization/t-mobile
+            stock_ticker:
+          - item:
+            name: Sprint Corporation
+            homepage_url: https://sprint.com/
+            logo: sprint_corporation.svg
+            twitter: https://twitter.com/TMobile
+            crunchbase: https://www.crunchbase.com/organization/t-mobile
+            stock_ticker:
+          - item:
+            name: Sprint Corporation
+            homepage_url: https://sprint.com/
+            logo: sprint_corporation.svg
+            twitter: https://twitter.com/TMobile
+            crunchbase: https://www.crunchbase.com/organization/t-mobile
+            stock_ticker:
+          - item:
+            name: Sprint Corporation
+            homepage_url: https://sprint.com/
+            logo: sprint_corporation.svg
+            twitter: https://twitter.com/TMobile
+            crunchbase: https://www.crunchbase.com/organization/t-mobile
             stock_ticker:
           - item:
             name: Sterlite Technologies Limited
@@ -1076,16 +3505,267 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/sterlite-technologies-ltd-
             stock_ticker:
           - item:
+            name: Sterlite Technologies Limited
+            homepage_url: https://stl.tech/
+            logo: sterlite_technologies_limited.svg
+            twitter: https://twitter.com/STL_Tech
+            crunchbase: https://www.crunchbase.com/organization/sterlite-technologies-ltd-
+            stock_ticker:
+          - item:
+            name: Sterlite Technologies Limited
+            homepage_url: https://stl.tech/
+            logo: sterlite_technologies_limited.svg
+            twitter: https://twitter.com/STL_Tech
+            crunchbase: https://www.crunchbase.com/organization/sterlite-technologies-ltd-
+            stock_ticker:
+          - item:
+            name: Sterlite Technologies Limited
+            homepage_url: https://stl.tech/
+            logo: sterlite_technologies_limited.svg
+            twitter: https://twitter.com/STL_Tech
+            crunchbase: https://www.crunchbase.com/organization/sterlite-technologies-ltd-
+            stock_ticker:
+          - item:
+            name: SUSE LLC
+            homepage_url: https://suse.com/
+            logo: suse_llc.svg
+            crunchbase: https://www.crunchbase.com/organization/suse
+            joined: '2017-04-01'
+          - item:
+            name: SUSE LLC
+            homepage_url: https://suse.com/
+            logo: suse_llc.svg
+            crunchbase: https://www.crunchbase.com/organization/suse
+            joined: '2017-04-01'
+          - item:
+            name: Swisscom
+            homepage_url: https://swisscom.com/
+            logo: swisscom.svg
+            twitter: https://twitter.com/Swisscom
+            crunchbase: https://www.crunchbase.com/organization/swisscom
+            joined: '2020-12-01'
+          - item:
+            name: Swisscom
+            homepage_url: https://swisscom.com/
+            logo: swisscom.svg
+            twitter: https://twitter.com/Swisscom
+            crunchbase: https://www.crunchbase.com/organization/swisscom
+            joined: '2020-12-01'
+          - item:
+            name: Swisscom
+            homepage_url: https://swisscom.com/
+            logo: swisscom.svg
+            twitter: https://twitter.com/Swisscom
+            crunchbase: https://www.crunchbase.com/organization/swisscom
+            joined: '2020-12-01'
+          - item:
+            name: Swisscom
+            homepage_url: https://swisscom.com/
+            logo: swisscom.svg
+            twitter: https://twitter.com/Swisscom
+            crunchbase: https://www.crunchbase.com/organization/swisscom
+            joined: '2020-12-01'
+          - item:
+            name: Swisscom
+            homepage_url: https://swisscom.com/
+            logo: swisscom.svg
+            twitter: https://twitter.com/Swisscom
+            crunchbase: https://www.crunchbase.com/organization/swisscom
+            joined: '2020-12-01'
+          - item:
             name: Tata Communications Limited
             homepage_url: https://tatacommunications.com/
             logo: tata_communications_limited.svg
             twitter: https://twitter.com/tata_comm
             crunchbase: https://www.crunchbase.com/organization/tata-communications
           - item:
+            name: Tata Communications Limited
+            homepage_url: https://tatacommunications.com/
+            logo: tata_communications_limited.svg
+            twitter: https://twitter.com/tata_comm
+            crunchbase: https://www.crunchbase.com/organization/tata-communications
+          - item:
+            name: Tata Communications Limited
+            homepage_url: https://tatacommunications.com/
+            logo: tata_communications_limited.svg
+            twitter: https://twitter.com/tata_comm
+            crunchbase: https://www.crunchbase.com/organization/tata-communications
+          - item:
+            name: Tata Communications Limited
+            homepage_url: https://tatacommunications.com/
+            logo: tata_communications_limited.svg
+            twitter: https://twitter.com/tata_comm
+            crunchbase: https://www.crunchbase.com/organization/tata-communications
+          - item:
+            name: Tata Communications Limited
+            homepage_url: https://tatacommunications.com/
+            logo: tata_communications_limited.svg
+            twitter: https://twitter.com/tata_comm
+            crunchbase: https://www.crunchbase.com/organization/tata-communications
+          - item:
+            name: Tata Communications Limited
+            homepage_url: https://tatacommunications.com/
+            logo: tata_communications_limited.svg
+            twitter: https://twitter.com/tata_comm
+            crunchbase: https://www.crunchbase.com/organization/tata-communications
+          - item:
+            name: Telaverge Communications
+            homepage_url: https://telavergecommunications.com/
+            logo: telaverge_communications.svg
+            organization:
+              name: Telaverge Communications
+          - item:
+            name: Telaverge Communications
+            homepage_url: https://telavergecommunications.com/
+            logo: telaverge_communications.svg
+            organization:
+              name: Telaverge Communications
+          - item:
             name: Telecom Italia Mobile (TIM) S.p.A.
             homepage_url: https://telecomitalia.com/
             logo: telecom_italia_mobile_tim_spa.svg
             crunchbase: https://www.crunchbase.com/organization/telecom-italia
+          - item:
+            name: Telecom Italia Mobile (TIM) S.p.A.
+            homepage_url: https://telecomitalia.com/
+            logo: telecom_italia_mobile_tim_spa.svg
+            crunchbase: https://www.crunchbase.com/organization/telecom-italia
+          - item:
+            name: Telecom Italia Mobile (TIM) S.p.A.
+            homepage_url: https://telecomitalia.com/
+            logo: telecom_italia_mobile_tim_spa.svg
+            crunchbase: https://www.crunchbase.com/organization/telecom-italia
+          - item:
+            name: Telecom Italia Mobile (TIM) S.p.A.
+            homepage_url: https://telecomitalia.com/
+            logo: telecom_italia_mobile_tim_spa.svg
+            crunchbase: https://www.crunchbase.com/organization/telecom-italia
+          - item:
+            name: Telecom Italia Mobile (TIM) S.p.A.
+            homepage_url: https://telecomitalia.com/
+            logo: telecom_italia_mobile_tim_spa.svg
+            crunchbase: https://www.crunchbase.com/organization/telecom-italia
+          - item:
+            name: Tencent Holdings Limited
+            homepage_url: https://tencent.com/
+            logo: tencent_holdings_limited.svg
+            twitter: https://twitter.com/TencentGlobal
+            crunchbase: https://www.crunchbase.com/organization/tencent
+          - item:
+            name: Tencent Holdings Limited
+            homepage_url: https://tencent.com/
+            logo: tencent_holdings_limited.svg
+            twitter: https://twitter.com/TencentGlobal
+            crunchbase: https://www.crunchbase.com/organization/tencent
+          - item:
+            name: Tencent Holdings Limited
+            homepage_url: https://tencent.com/
+            logo: tencent_holdings_limited.svg
+            twitter: https://twitter.com/TencentGlobal
+            crunchbase: https://www.crunchbase.com/organization/tencent
+          - item:
+            name: Tencent Holdings Limited
+            homepage_url: https://tencent.com/
+            logo: tencent_holdings_limited.svg
+            twitter: https://twitter.com/TencentGlobal
+            crunchbase: https://www.crunchbase.com/organization/tencent
+          - item:
+            name: Tencent Holdings Limited
+            homepage_url: https://tencent.com/
+            logo: tencent_holdings_limited.svg
+            twitter: https://twitter.com/TencentGlobal
+            crunchbase: https://www.crunchbase.com/organization/tencent
+          - item:
+            name: Turk Telekomünikasyon A.S.
+            homepage_url: https://turktelekom.com.tr/
+            logo: turk_telekomunikasyon_as.svg
+            crunchbase: https://www.crunchbase.com/organization/trk-telekom
+          - item:
+            name: Turk Telekomünikasyon A.S.
+            homepage_url: https://turktelekom.com.tr/
+            logo: turk_telekomunikasyon_as.svg
+            crunchbase: https://www.crunchbase.com/organization/trk-telekom
+          - item:
+            name: Turnium Technology Group Inc
+            homepage_url: https://ttgi.io/
+            logo: turnium_technology_group_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
+          - item:
+            name: Turnium Technology Group Inc
+            homepage_url: https://ttgi.io/
+            logo: turnium_technology_group_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
+          - item:
+            name: ULAK HABERLESME A.S.
+            homepage_url: https://ulakhaberlesme.com.tr/
+            logo: ulak_haberlesme_as.svg
+            crunchbase: https://www.crunchbase.com/organization/ulak-haberlesme-a-s
+          - item:
+            name: ULAK HABERLESME A.S.
+            homepage_url: https://ulakhaberlesme.com.tr/
+            logo: ulak_haberlesme_as.svg
+            crunchbase: https://www.crunchbase.com/organization/ulak-haberlesme-a-s
+          - item:
+            name: ULAK HABERLESME A.S.
+            homepage_url: https://ulakhaberlesme.com.tr/
+            logo: ulak_haberlesme_as.svg
+            crunchbase: https://www.crunchbase.com/organization/ulak-haberlesme-a-s
+          - item:
+            name: ULAK HABERLESME A.S.
+            homepage_url: https://ulakhaberlesme.com.tr/
+            logo: ulak_haberlesme_as.svg
+            crunchbase: https://www.crunchbase.com/organization/ulak-haberlesme-a-s
+          - item:
+            name: Vasona Networks
+            homepage_url: https://vasonanetworks.com/
+            logo: vasona_networks.svg
+            crunchbase: https://www.crunchbase.com/organization/vasona-networks
+          - item:
+            name: Vasona Networks
+            homepage_url: https://vasonanetworks.com/
+            logo: vasona_networks.svg
+            crunchbase: https://www.crunchbase.com/organization/vasona-networks
+          - item:
+            name: Veon
+            homepage_url: https://veon.com/
+            logo: veon.svg
+            crunchbase: https://www.crunchbase.com/organization/veon-inc
+          - item:
+            name: VMware by Broadcom
+            homepage_url: https://vmware.com/
+            logo: vmware_by_broadcom.svg
+            crunchbase: https://www.crunchbase.com/organization/vmware
+            joined: '2016-01-01'
+          - item:
+            name: VMware by Broadcom
+            homepage_url: https://vmware.com/
+            logo: vmware_by_broadcom.svg
+            crunchbase: https://www.crunchbase.com/organization/vmware
+            joined: '2016-01-01'
+          - item:
+            name: VoerEir AB
+            homepage_url: https://voereir.com/
+            logo: voereir_ab.svg
+            organization:
+              name: VoerEir AB
+          - item:
+            name: VoerEir AB
+            homepage_url: https://voereir.com/
+            logo: voereir_ab.svg
+            organization:
+              name: VoerEir AB
+          - item:
+            name: VoerEir AB
+            homepage_url: https://voereir.com/
+            logo: voereir_ab.svg
+            organization:
+              name: VoerEir AB
+          - item:
+            name: VoerEir AB
+            homepage_url: https://voereir.com/
+            logo: voereir_ab.svg
+            organization:
+              name: VoerEir AB
           - item:
             name: Wavelabs
             homepage_url: https://wavelabs.ai/
@@ -1093,14 +3773,100 @@ landscape:
             twitter: https://twitter.com/WavelabsTech
             crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
           - item:
+            name: Wavelabs
+            homepage_url: https://wavelabs.ai/
+            logo: wavelabs.svg
+            twitter: https://twitter.com/WavelabsTech
+            crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
+          - item:
+            name: Wavelabs
+            homepage_url: https://wavelabs.ai/
+            logo: wavelabs.svg
+            twitter: https://twitter.com/WavelabsTech
+            crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
+          - item:
+            name: Windmill Enterprise
+            homepage_url: https://windmill.com/
+            logo: windmill_enterprise.svg
+            crunchbase: https://www.crunchbase.com/organization/windmill-software--inc-
+          - item:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
             logo: wind_river_systems_inc.svg
             twitter: https://twitter.com/WindRiver
             crunchbase: https://www.crunchbase.com/organization/wind-river
+          - item:
+            name: Wind River Systems, Inc.
+            homepage_url: https://windriver.com/
+            logo: wind_river_systems_inc.svg
+            twitter: https://twitter.com/WindRiver
+            crunchbase: https://www.crunchbase.com/organization/wind-river
+          - item:
+            name: Wind River Systems, Inc.
+            homepage_url: https://windriver.com/
+            logo: wind_river_systems_inc.svg
+            twitter: https://twitter.com/WindRiver
+            crunchbase: https://www.crunchbase.com/organization/wind-river
+          - item:
+            name: Wind River Systems, Inc.
+            homepage_url: https://windriver.com/
+            logo: wind_river_systems_inc.svg
+            twitter: https://twitter.com/WindRiver
+            crunchbase: https://www.crunchbase.com/organization/wind-river
+          - item:
+            name: Wind River Systems, Inc.
+            homepage_url: https://windriver.com/
+            logo: wind_river_systems_inc.svg
+            twitter: https://twitter.com/WindRiver
+            crunchbase: https://www.crunchbase.com/organization/wind-river
+          - item:
+            name: Xilinx Inc
+            homepage_url: https://xilinx.com/
+            logo: xilinx_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/xilinx
+          - item:
+            name: Xilinx Inc
+            homepage_url: https://xilinx.com/
+            logo: xilinx_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/xilinx
+          - item:
+            name: Xilinx Inc
+            homepage_url: https://xilinx.com/
+            logo: xilinx_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/xilinx
+          - item:
+            name: Zenlayer Inc
+            homepage_url: https://zenlayer.com/
+            logo: zenlayer_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/zenlayer
+          - item:
+            name: Zenlayer Inc
+            homepage_url: https://zenlayer.com/
+            logo: zenlayer_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/zenlayer
+          - item:
+            name: ZTEsoft Technology
+            homepage_url: https://ztesoft.com/
+            logo: ztesoft_technology.svg
+            crunchbase: https://www.crunchbase.com/organization/ztesoft
       - subcategory:
         name: Associate
         items:
+          - item:
+            name: Beijing University of Posts and Telecommunications (BUPT)
+            homepage_url: https://bupt.edu.cn/
+            logo: beijing_university_of_posts_and_telecommunications_bupt.svg
+            crunchbase: https://www.crunchbase.com/organization/beijing-university-of-posts-and-telecommunications
+          - item:
+            name: Beijing University of Posts and Telecommunications (BUPT)
+            homepage_url: https://bupt.edu.cn/
+            logo: beijing_university_of_posts_and_telecommunications_bupt.svg
+            crunchbase: https://www.crunchbase.com/organization/beijing-university-of-posts-and-telecommunications
+          - item:
+            name: Beijing University of Posts and Telecommunications (BUPT)
+            homepage_url: https://bupt.edu.cn/
+            logo: beijing_university_of_posts_and_telecommunications_bupt.svg
+            crunchbase: https://www.crunchbase.com/organization/beijing-university-of-posts-and-telecommunications
           - item:
             name: Beijing University of Posts and Telecommunications (BUPT)
             homepage_url: https://bupt.edu.cn/
@@ -1112,6 +3878,31 @@ landscape:
             logo: cengn.svg
             twitter: https://twitter.com/CENGNCanada
             crunchbase: https://www.crunchbase.com/organization/cengn
+            joined: '2018-10-01'
+          - item:
+            name: CENGN
+            homepage_url: https://cengn.ca/
+            logo: cengn.svg
+            twitter: https://twitter.com/CENGNCanada
+            crunchbase: https://www.crunchbase.com/organization/cengn
+            joined: '2018-10-01'
+          - item:
+            name: CENGN
+            homepage_url: https://cengn.ca/
+            logo: cengn.svg
+            twitter: https://twitter.com/CENGNCanada
+            crunchbase: https://www.crunchbase.com/organization/cengn
+            joined: '2018-10-01'
+          - item:
+            name: China Academy of Information and Communications Technology (CAICT)
+            homepage_url: https://caict.ac.cn/
+            logo: china_academy_of_information_and_communications_technology_caict.svg
+            crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
+          - item:
+            name: China Academy of Information and Communications Technology (CAICT)
+            homepage_url: https://caict.ac.cn/
+            logo: china_academy_of_information_and_communications_technology_caict.svg
+            crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
           - item:
             name: China Academy of Information and Communications Technology (CAICT)
             homepage_url: https://caict.ac.cn/
@@ -1141,11 +3932,56 @@ landscape:
             logo: institute_for_information_industry.svg
             crunchbase: https://www.crunchbase.com/organization/institute-for-information-industry-2
           - item:
+            name: INSTITUTE FOR INFORMATION INDUSTRY
+            homepage_url: https://iii.org.tw/
+            logo: institute_for_information_industry.svg
+            crunchbase: https://www.crunchbase.com/organization/institute-for-information-industry-2
+          - item:
+            name: INSTITUTE FOR INFORMATION INDUSTRY
+            homepage_url: https://iii.org.tw/
+            logo: institute_for_information_industry.svg
+            crunchbase: https://www.crunchbase.com/organization/institute-for-information-industry-2
+          - item:
             name: MEF Forum
             homepage_url: https://mef.net/
             logo: mef_forum.svg
             twitter: https://twitter.com/MEF_Forum
             crunchbase: https://www.crunchbase.com/organization/mef
+          - item:
+            name: MEF Forum
+            homepage_url: https://mef.net/
+            logo: mef_forum.svg
+            twitter: https://twitter.com/MEF_Forum
+            crunchbase: https://www.crunchbase.com/organization/mef
+          - item:
+            name: MEF Forum
+            homepage_url: https://mef.net/
+            logo: mef_forum.svg
+            twitter: https://twitter.com/MEF_Forum
+            crunchbase: https://www.crunchbase.com/organization/mef
+          - item:
+            name: MEF Forum
+            homepage_url: https://mef.net/
+            logo: mef_forum.svg
+            twitter: https://twitter.com/MEF_Forum
+            crunchbase: https://www.crunchbase.com/organization/mef
+          - item:
+            name: National Institute of Advanced Industrial Science and Technology(AIST)
+            homepage_url: https://aist.go.jp/
+            logo: national_institute_of_advanced_industrial_science_and_technologyaist.svg
+            crunchbase: https://www.crunchbase.com/organization/national-institute-of-advanced-industrial-science-and-technology
+          - item:
+            name: Okinawa Open Laboratory
+            homepage_url: https://okinawaopenlabs.org/
+            logo: okinawa_open_laboratory.svg
+            twitter: https://twitter.com/OkinawaOpenLab
+            crunchbase: https://www.crunchbase.com/organization/open-network-lab
+          - item:
+            name: Okinawa Open Laboratory
+            homepage_url: https://okinawaopenlabs.org/
+            logo: okinawa_open_laboratory.svg
+            twitter: https://twitter.com/OkinawaOpenLab
+            crunchbase: https://www.crunchbase.com/organization/open-network-lab
           - item:
             name: Okinawa Open Laboratory
             homepage_url: https://okinawaopenlabs.org/
@@ -1160,6 +3996,45 @@ landscape:
             organization:
               name: OpenAirInterface Software Alliance (OSA)
           - item:
+            name: OpenAirInterface Software Alliance (OSA)
+            homepage_url: https://openairinterface.org/
+            logo: openairinterface_software_alliance_osa.svg
+            twitter: https://twitter.com/osalliance5g
+            organization:
+              name: OpenAirInterface Software Alliance (OSA)
+          - item:
+            name: OpenAirInterface Software Alliance (OSA)
+            homepage_url: https://openairinterface.org/
+            logo: openairinterface_software_alliance_osa.svg
+            twitter: https://twitter.com/osalliance5g
+            organization:
+              name: OpenAirInterface Software Alliance (OSA)
+          - item:
+            name: OpenAirInterface Software Alliance (OSA)
+            homepage_url: https://openairinterface.org/
+            logo: openairinterface_software_alliance_osa.svg
+            twitter: https://twitter.com/osalliance5g
+            organization:
+              name: OpenAirInterface Software Alliance (OSA)
+          - item:
+            name: Open Networking Foundation
+            homepage_url: https://opennetworking.org/
+            logo: open_networking_foundation.svg
+            twitter: https://twitter.com/ONF_SDN
+            crunchbase: https://www.crunchbase.com/organization/open-networking-foundation
+          - item:
+            name: Open Networking Foundation
+            homepage_url: https://opennetworking.org/
+            logo: open_networking_foundation.svg
+            twitter: https://twitter.com/ONF_SDN
+            crunchbase: https://www.crunchbase.com/organization/open-networking-foundation
+          - item:
+            name: Open Networking Foundation
+            homepage_url: https://opennetworking.org/
+            logo: open_networking_foundation.svg
+            twitter: https://twitter.com/ONF_SDN
+            crunchbase: https://www.crunchbase.com/organization/open-networking-foundation
+          - item:
             name: Open Networking Foundation
             homepage_url: https://opennetworking.org/
             logo: open_networking_foundation.svg
@@ -1171,6 +4046,26 @@ landscape:
             logo: penn_state.svg
             twitter: https://twitter.com/penn_state
             crunchbase: https://www.crunchbase.com/organization/pennsylvania-state-university-main-campus
+          - item:
+            name: Penn State
+            homepage_url: https://psu.edu/
+            logo: penn_state.svg
+            twitter: https://twitter.com/penn_state
+            crunchbase: https://www.crunchbase.com/organization/pennsylvania-state-university-main-campus
+          - item:
+            name: SDNLAB
+            homepage_url: https://sdnlab.com/
+            logo: sdnlab.svg
+            twitter: https://twitter.com/SDNLAB
+            organization:
+              name: SDNLAB
+          - item:
+            name: SDNLAB
+            homepage_url: https://sdnlab.com/
+            logo: sdnlab.svg
+            twitter: https://twitter.com/SDNLAB
+            organization:
+              name: SDNLAB
           - item:
             name: SDNLAB
             homepage_url: https://sdnlab.com/
@@ -1196,6 +4091,24 @@ landscape:
             logo: university_of_new_hampshire.svg
             twitter: https://twitter.com/UofNH
             crunchbase: https://www.crunchbase.com/organization/university-of-new-hampshire
+          - item:
+            name: University of New Hampshire
+            homepage_url: https://unh.edu/
+            logo: university_of_new_hampshire.svg
+            twitter: https://twitter.com/UofNH
+            crunchbase: https://www.crunchbase.com/organization/university-of-new-hampshire
+          - item:
+            name: University of New Hampshire
+            homepage_url: https://unh.edu/
+            logo: university_of_new_hampshire.svg
+            twitter: https://twitter.com/UofNH
+            crunchbase: https://www.crunchbase.com/organization/university-of-new-hampshire
+          - item:
+            name: University of Surrey
+            homepage_url: https://surrey.ac.uk/
+            logo: university_of_surrey.svg
+            twitter: https://twitter.com/UniOfSurrey
+            crunchbase: https://www.crunchbase.com/organization/university-of-surrey
           - item:
             name: University of Surrey
             homepage_url: https://surrey.ac.uk/
