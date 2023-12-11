@@ -1,4 +1,3 @@
-# THIS FILE IS GENERATED AUTOMATICALLY!
 landscape:
   - category:
     name: LF Networking Projects
@@ -454,31 +453,31 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 175301458
+                  value: 175170564
                   color: '#b07219'
                 - name: JavaScript
                   value: 30628951
                   color: '#f1e05a'
                 - name: Python
-                  value: 17888120
+                  value: 17573604
                   color: '#3572A5'
                 - name: TypeScript
-                  value: 11492826
+                  value: 11416107
                   color: '#2b7489'
                 - name: HTML
-                  value: 6928464
+                  value: 6916787
                   color: '#e34c26'
                 - name: Groovy
-                  value: 6530747
+                  value: 6558654
                   color: '#e69f56'
                 - name: Shell
-                  value: 5458790
+                  value: 5513479
                   color: '#89e051'
                 - name: Kotlin
-                  value: 3770769
+                  value: 4474751
                   color: '#F18E33'
                 - name: CSS
-                  value: 3495038
+                  value: 3485226
                   color: '#563d7c'
                 - name: C
                   value: 2909276
@@ -487,7 +486,7 @@ landscape:
                   value: 2234547
                   color: '#00ADD8'
                 - name: RobotFramework
-                  value: 1896396
+                  value: 1901764
                 - name: SCSS
                   value: 1346744
                 - name: Less
@@ -496,9 +495,9 @@ landscape:
                   value: 444426
                   color: '#f34b7d'
                 - name: Smarty
-                  value: 431638
+                  value: 432240
                 - name: Dockerfile
-                  value: 403956
+                  value: 407850
                   color: '#384d54'
                 - name: FreeMarker
                   value: 326215
@@ -506,7 +505,7 @@ landscape:
                 - name: Jinja
                   value: 317922
                 - name: Makefile
-                  value: 237348
+                  value: 232635
                   color: '#427819'
                 - name: Erlang
                   value: 181038
@@ -526,7 +525,7 @@ landscape:
                 - name: Velocity Template Language
                   value: 128140
                 - name: Ruby
-                  value: 117917
+                  value: 114929
                   color: '#701516'
                 - name: Mustache
                   value: 84192
@@ -534,7 +533,7 @@ landscape:
                   value: 79579
                   color: '#000080'
                 - name: HCL
-                  value: 56411
+                  value: 57684
                 - name: Batchfile
                   value: 40015
                   color: '#C1F12E'
@@ -576,14 +575,14 @@ landscape:
                   value: 886
                   color: '#646464'
               contributions: >-
-                127;95;67;67;105;120;35;5;47;34;55;69;117;73;110;85;120;87;84;107;123;62;137;124;96;106;53;33;83;49;43;85;121;77;37;65;56;60;37;25;40;40;38;16;26;46;61;41;47;110;37;29
-              firstWeek: 2022-11-14Z
-              stars: 555
+                132;42;5;37;43;45;69;123;67;109;84;125;90;75;113;122;71;126;107;124;99;56;33;81;54;35;83;128;67;49;63;56;61;37;28;39;39;37;20;22;48;61;38;58;109;41;36;74;112;30;26;31
+              firstWeek: 2022-12-19Z
+              stars: 557
               license: Other
               description: Mirror of https://gerrit.onap.org/r/#/admin/projects/aaf/authz
               latest_commit_date: '2021-04-27T18:20:44Z'
               latest_commit_link: /onap/archived-aaf-authz/commit/5836e4a53d87b1792486aa6b0b1ddb2e71d91bb9
-              contributors_count: 522
+              contributors_count: 524
               contributors_link: https://github.com/onap/aaf-authz/graphs/contributors
             repos:
               - url: https://github.com/onap/aaf-authz
@@ -602,6 +601,8 @@ landscape:
                 stars: 9
               - url: https://github.com/onap/integration
                 stars: 9
+              - url: https://github.com/onap/policy-models
+                stars: 7
               - url: https://github.com/onap/policy-apex-pdp
                 stars: 6
               - url: https://github.com/onap/vid
@@ -611,8 +612,6 @@ landscape:
               - url: https://github.com/onap/dcaegen2-collectors-ves
                 stars: 5
               - url: https://github.com/onap/logging-analytics
-                stars: 5
-              - url: https://github.com/onap/policy-models
                 stars: 5
               - url: https://github.com/onap/testsuite
                 stars: 5
@@ -862,6 +861,8 @@ landscape:
                 stars: 1
               - url: https://github.com/onap/dcaegen2-collectors
                 stars: 1
+              - url: https://github.com/onap/dcaegen2-collectors-hv-ves
+                stars: 1
               - url: https://github.com/onap/dcaegen2-collectors-snmptrap
                 stars: 1
               - url: https://github.com/onap/dcaegen2-deployments
@@ -871,8 +872,6 @@ landscape:
               - url: https://github.com/onap/dcaegen2-platform
                 stars: 1
               - url: https://github.com/onap/dcaegen2-platform-cdapbroker
-                stars: 1
-              - url: https://github.com/onap/dcaegen2-platform-cli
                 stars: 1
               - url: https://github.com/onap/dcaegen2-platform-inventory-api
                 stars: 1
@@ -3339,6 +3338,7 @@ landscape:
             logo: ericsson.svg
             twitter: https://twitter.com/ericsson
             crunchbase: https://www.crunchbase.com/organization/ericsson
+            joined: '2018-12-01'
             crunchbase_data:
               name: Ericsson
               description: Ericsson is an information and communications technology company that offers network services.
@@ -4066,6 +4066,7 @@ landscape:
             twitter: https://twitter.com/Infosys
             crunchbase: https://www.crunchbase.com/organization/infosys
             stock_ticker: null
+            joined: '2020-11-01'
             crunchbase_data:
               name: Infosys
               description: Infosys is a provider of consulting, technology, and outsourcing, and next-generation services.
@@ -4285,6 +4286,7 @@ landscape:
             logo: red_hat_inc.svg
             twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
+            joined: '2016-01-01'
             crunchbase_data:
               name: Red Hat
               description: Red Hat is a software company that offers enterprise open source software solutions.
@@ -4570,6 +4572,7 @@ landscape:
             logo: walmart_inc.svg
             twitter: https://twitter.com/Walmart
             crunchbase: https://www.crunchbase.com/organization/walmart-labs
+            joined: '2018-09-01'
             crunchbase_data:
               name: Walmart Labs
               description: WalmartLabs, the technology division responsible for Walmart’s global e-Commerce initiatives.
@@ -4890,6 +4893,7 @@ landscape:
             logo: arm_limited.svg
             twitter: https://twitter.com/ArmCommunity
             crunchbase: https://www.crunchbase.com/organization/arm
+            joined: '2019-02-01'
             crunchbase_data:
               name: Arm Holdings
               description: Arm Holdings is a multinational semiconductor company that designs, produces, and licenses IP for digital electronic product development.
@@ -4991,6 +4995,7 @@ landscape:
             logo: canonical_group_limited.svg
             twitter: https://twitter.com/Canonical
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
+            joined: '2017-01-01'
             crunchbase_data:
               name: Canonical
               description: Canonical is a software company that markets commercial support and services for Ubuntu (Linux OS) and related projects.
@@ -5016,7 +5021,7 @@ landscape:
               kind: funding
             image_data:
               fileName: canonical-group-limited.svg
-              hash: 9AAltScJtlJo62xLgQR58Qgzxxopu8+8nq7mnoZBRdQ=
+              hash: AnlqIAIQTADb9PRhshxwvTgPcqQqc5G+CJLWVvhwM4Q=
             best_practice_data:
               badge: false
               percentage: null
@@ -5026,6 +5031,7 @@ landscape:
             logo: china_unicom.svg
             twitter: https://twitter.com/ChinunicomOS
             crunchbase: https://www.crunchbase.com/organization/china-unicom
+            joined: '2019-09-01'
             crunchbase_data:
               name: China Unicom
               description: China Unicom is a company that provides broadband communications and information services.
@@ -5133,6 +5139,7 @@ landscape:
             logo: cloudops_inc.svg
             twitter: https://twitter.com/CloudOps_
             crunchbase: https://www.crunchbase.com/organization/cloudops
+            joined: '2018-03-01'
             crunchbase_data:
               name: CloudOps
               description: CloudOps is a consulting, managed services, and software firm specializing in open source, cloud native platforms, networking, and DevOps.
@@ -5254,6 +5261,8 @@ landscape:
             logo: fujitsu_limited.svg
             twitter: https://twitter.com/Fujitsu_Global
             crunchbase: https://www.crunchbase.com/organization/fujitsu
+            stock_ticker: null
+            joined: '2016-01-01'
             crunchbase_data:
               name: Fujitsu
               description: Fujitsu is a information & communications technology equipment and services firm providing IT & IT infrastructure and other services.
@@ -5376,6 +5385,7 @@ landscape:
             logo: globo.svg
             twitter: https://twitter.com/globonoticias
             crunchbase: https://www.crunchbase.com/organization/organiza-es-globo
+            joined: '2018-12-01'
             crunchbase_data:
               name: Globo.com
               description: Globo.com is a mass media group that offers intelligence and know-how in strategy creation and the development of digital solutions.
@@ -5740,6 +5750,7 @@ landscape:
             logo: juniper_networks_inc.svg
             twitter: https://twitter.com/JuniperNetworks
             crunchbase: https://www.crunchbase.com/organization/juniper-networks
+            joined: '2020-08-01'
             crunchbase_data:
               name: Juniper Networks
               description: Juniper Networks is a networking company that markets and develops networking products for enterprise companies.
@@ -5829,40 +5840,6 @@ landscape:
             image_data:
               fileName: juniper-networks-inc.svg
               hash: TD/eZspPAo+E0o5DYCc4jWSbldfUrLosK3SlHAzxlqo=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Kaloom Inc.
-            homepage_url: https://kaloom.com/
-            logo: kaloom_inc.svg
-            twitter: https://twitter.com/Kaloom_Inc
-            crunchbase: https://www.crunchbase.com/organization/kaloom
-            crunchbase_data:
-              name: Kaloom
-              description: Kaloom is a programmable data center networking software solution that will disrupt how cloud and data center networks are built.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: http://www.kaloom.com/
-              city: Montréal
-              region: Quebec
-              country: Canada
-              twitter: https://twitter.com/Kaloom_Inc
-              linkedin: https://www.linkedin.com/company/kaloom/
-              acquisitions: []
-              parents: []
-              funding: 53445242
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Data Center
-                - Information Services
-                - Information Technology
-                - Software
-              kind: funding
-            image_data:
-              fileName: kaloom-inc.svg
-              hash: 90o6GA4zMQK7mtknJZsigzZzhNyrgWeoWeUsFRsY4tk=
             best_practice_data:
               badge: false
               percentage: null
@@ -5993,6 +5970,7 @@ landscape:
             logo: kubermatic_gmbh.svg
             twitter: https://twitter.com/Kubermatic
             crunchbase: https://www.crunchbase.com/organization/loodse-gmbh
+            joined: '2017-01-01'
             crunchbase_data:
               name: Kubermatic
               description: Kubermatic empowers organizations worldwide to automate their Kubernetes and cloud native operations across multi-cloud, edge and on-prem.
@@ -6026,6 +6004,7 @@ landscape:
             logo: matrixx_software.svg
             twitter: https://twitter.com/MATRIXX_SW
             crunchbase: https://www.crunchbase.com/organization/matrixx-software
+            joined: '2022-05-01'
             crunchbase_data:
               name: MATRIXX Software
               description: Provider of a digital commerce platform designed to monetize 5G
@@ -6062,6 +6041,7 @@ landscape:
             logo: mavenir_systems_inc.svg
             twitter: https://twitter.com/Mavenir
             crunchbase: https://www.crunchbase.com/organization/mavenir
+            joined: '2019-08-01'
             crunchbase_data:
               name: Mavenir
               description: Mavenir develops multimedia communications and information processing software.
@@ -6113,6 +6093,7 @@ landscape:
             logo: mirantis_inc.svg
             twitter: https://twitter.com/MirantisIT
             crunchbase: https://www.crunchbase.com/organization/mirantis
+            joined: '2016-08-01'
             crunchbase_data:
               name: Mirantis
               description: Mirantis is a DevOps as-a-service company that helps organizations ship code on public and private clouds on any infrastructure.
@@ -6503,6 +6484,7 @@ landscape:
             logo: robin_systems_inc.svg
             twitter: https://twitter.com/Robin4K8S
             crunchbase: https://www.crunchbase.com/organization/robin-systems
+            joined: '2018-08-01'
             crunchbase_data:
               name: Robin.io
               description: Robin.io runs stateful applications on Kubernetes, even complex Big Data, Databases, AI/ML, and Custom Apps.
@@ -6538,40 +6520,53 @@ landscape:
             homepage_url: https://sprint.com/
             logo: sprint_corporation.svg
             twitter: https://twitter.com/TMobile
-            crunchbase: https://www.crunchbase.com/organization/sprint-nextel
             stock_ticker: null
+            crunchbase: https://www.crunchbase.com/organization/t-mobile
             crunchbase_data:
-              name: Sprint
-              description: Sprint Nextel offers a comprehensive range of wireless and wireline communications services to consumers, businesses, and government users.
+              name: T-Mobile
+              description: T-Mobile is a telecommunications company that provides wireless communication services, including mobile phone and internet services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://sprint.com
-              city: Hillsboro
-              region: Oregon
+              homepage: https://www.t-mobile.com
+              city: Bellevue
+              region: Washington
               country: United States
-              twitter: http://twitter.com/sprint
-              linkedin: https://www.linkedin.com/company/sprint
+              twitter: http://www.twitter.com/TMobile
+              linkedin: https://www.linkedin.com/company/t-mobile
               acquisitions:
-                - date: '2005-08-15'
-                  acquiree: Nextel Communications
-                - date: '2009-07-28'
-                  acquiree: Virgin Mobile USA
-                - date: '2009-10-19'
-                  acquiree: iPCS
-                - date: '2012-12-17'
-                  acquiree: Clearwire
-                - date: '2013-05-20'
-                  acquiree: Handmark
-                - date: '2013-05-20'
-                  acquiree: OneLouder
-              parents: []
-              funding: 0
-              stockExchange: null
+                - date: '2007-09-17'
+                  acquiree: Suncom Wireless Holdings
+                  price: 2400000000
+                - date: '2013-05-01'
+                  acquiree: MetroPCS Communications Inc
+                  price: 1500000000
+                - date: '2017-12-13'
+                  acquiree: Layer3 TV
+                - date: '2018-01-02'
+                  acquiree: UPC Austria
+                  price: 2291685764
+                - date: '2019-07-26'
+                  acquiree: Sprint
+                  price: 26000000000
+                - date: '2019-07-31'
+                  acquiree: PushSpring
+                - date: '2022-01-10'
+                  acquiree: Octopus Interactive Inc.
+                - date: '2023-03-15'
+                  acquiree: Mint Mobile
+                  price: 1350000000
+              parents:
+                - https://www.crunchbase.com/organization/deutsche-telekom
+              ticker: TMUS.SW
+              funding: 7070224359
+              stockExchange: swx
               company_type: For Profit
               industries:
+                - Internet
                 - Mobile
                 - Telecommunications
                 - Wireless
+              kind: funding
             image_data:
               fileName: sprint-corporation.svg
               hash: tHl8MWebm4XimZGRhek/u6HYexoBx2I/mUu/QuFmy4k=
@@ -6836,6 +6831,7 @@ landscape:
             logo: cengn.svg
             twitter: https://twitter.com/CENGNCanada
             crunchbase: https://www.crunchbase.com/organization/cengn
+            joined: '2018-10-01'
             crunchbase_data:
               name: Cengn
               description: CENGN’s mission is to accelerate the commercialization of network technologies and applications.
@@ -7040,6 +7036,34 @@ landscape:
             image_data:
               fileName: mef-forum.svg
               hash: B6evW7NCIqYD9s9sqsf3BtTum43cUxCEF04aEXXYUEY=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: National Institute of Advanced Industrial Science and Technology(AIST)
+            homepage_url: https://aist.go.jp/
+            logo: national_institute_of_advanced_industrial_science_and_technologyaist.svg
+            crunchbase: https://www.crunchbase.com/organization/national-institute-of-advanced-industrial-science-and-technology
+            crunchbase_data:
+              name: National Institute of Advanced Industrial Science and Technology
+              description: AIST is a public research institution funded by the Japanese government to a large extent.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.aist.go.jp/
+              city: Tokyo
+              region: Tokyo
+              country: Japan
+              twitter: https://www.twitter.com/aist_en
+              linkedin: https://www.linkedin.com/company/aist
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Association
+            image_data:
+              fileName: national-institute-of-advanced-industrial-science-and-technology-aist.svg
+              hash: eD8D5S1dvLx7EUxL9xcx9kSKRi54R3kCJ+sVycRC66M=
             best_practice_data:
               badge: false
               percentage: null
@@ -9073,7 +9097,7 @@ landscape:
                   value: 2360
                   color: '#e34c26'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2022-11-14Z
+              firstWeek: 2022-12-19Z
               stars: 1
               license: Other
               description: Mirror of https://gerrit.onap.org/r/#/admin/projects/aaf/authz

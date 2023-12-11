@@ -951,7 +951,7 @@ landscape:
             logo: fujitsu_limited.svg
             twitter: https://twitter.com/Fujitsu_Global
             crunchbase: https://www.crunchbase.com/organization/fujitsu
-            stock_ticker:
+            stock_ticker: null
             joined: '2016-01-01'
           - item:
             name: GenXcomm Inc
