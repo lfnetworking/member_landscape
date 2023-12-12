@@ -518,9 +518,8 @@ landscape:
               - repo_url: https://github.com/nephio-project/common-lib
               - repo_url: https://github.com/nephio-project/nephio-poc
               - repo_url: https://github.com/nephio-project/sig-network-architecture
-            description: >
-              The Nephio project is building a Kubernetes-based automation platform for deploying and managing highly distributed, interconnected workloads such
-              as 5G Network Functions, and the underlying infrastructure on which those workloads depend.
+            description: |
+              The Nephio project is building a Kubernetes-based automation platform for deploying and managing highly distributed, interconnected workloads such as 5G Network Functions, and the underlying infrastructure on which those workloads depend.
           - item:
             name: XG Vela
             homepage_url: https://xgvela.org/
@@ -771,7 +770,7 @@ landscape:
             logo: china_telecommunications_corporation.svg
             twitter: https://twitter.com/chinateleglobal
             crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
@@ -809,7 +808,7 @@ landscape:
             logo: infosys_limited.svg
             twitter: https://twitter.com/Infosys
             crunchbase: https://www.crunchbase.com/organization/infosys
-            stock_ticker: null
+            stock_ticker:
             joined: '2020-11-01'
           - item:
             name: Nokia Corporation
@@ -951,7 +950,7 @@ landscape:
             logo: fujitsu_limited.svg
             twitter: https://twitter.com/Fujitsu_Global
             crunchbase: https://www.crunchbase.com/organization/fujitsu
-            stock_ticker: null
+            stock_ticker:
             joined: '2016-01-01'
           - item:
             name: GenXcomm Inc
@@ -959,13 +958,6 @@ landscape:
             logo: genxcomm_inc.svg
             twitter: https://twitter.com/GXC_io
             crunchbase: https://www.crunchbase.com/organization/genxcomm
-          - item:
-            name: Globo
-            homepage_url: https://globo.com/
-            logo: globo.svg
-            twitter: https://twitter.com/globonoticias
-            crunchbase: https://www.crunchbase.com/organization/organiza-es-globo
-            joined: '2018-12-01'
           - item:
             name: Hewlett Packard Enterprise Development LP
             homepage_url: https://hpe.com/
@@ -1038,12 +1030,6 @@ landscape:
             twitter: https://twitter.com/NetgateUSA
             crunchbase: https://www.crunchbase.com/organization/netgate
           - item:
-            name: NTT DATA Spain, S.L.U.
-            homepage_url: https://everis.com/
-            logo: ntt_data_spain_slu.svg
-            twitter: https://twitter.com/NTTDATA
-            crunchbase: https://www.crunchbase.com/organization/ntt-data
-          - item:
             name: Orange SA
             homepage_url: https://orange.com/
             logo: orange_sa.svg
@@ -1079,15 +1065,8 @@ landscape:
             homepage_url: https://sprint.com/
             logo: sprint_corporation.svg
             twitter: https://twitter.com/TMobile
-            stock_ticker: null
-            crunchbase: https://www.crunchbase.com/organization/t-mobile
-          - item:
-            name: Sterlite Technologies Limited
-            homepage_url: https://stl.tech/
-            logo: sterlite_technologies_limited.svg
-            twitter: https://twitter.com/STL_Tech
-            crunchbase: https://www.crunchbase.com/organization/sterlite-technologies-ltd-
-            stock_ticker: null
+            crunchbase: https://www.crunchbase.com/organization/sprint-nextel
+            stock_ticker:
           - item:
             name: Tata Communications Limited
             homepage_url: https://tatacommunications.com/
@@ -1164,6 +1143,7 @@ landscape:
             name: National Institute of Advanced Industrial Science and Technology(AIST)
             homepage_url: https://aist.go.jp/
             logo: national_institute_of_advanced_industrial_science_and_technologyaist.svg
+            twitter: https://twitter.com/AIST_JP
             crunchbase: https://www.crunchbase.com/organization/national-institute-of-advanced-industrial-science-and-technology
           - item:
             name: Okinawa Open Laboratory
@@ -1538,7 +1518,7 @@ landscape:
               description: |
                 HPE Telco Blueprints
               version: '2019.12'
-              sut_sw_version: null
+              sut_sw_version:
               sut_hw_version: DL360
           - item:
             name: Nokia Edge Cloud NFVI
@@ -1556,7 +1536,7 @@ landscape:
                 processor in 3U high chassis including 5 servers.
               verson: '2018.09'
               sut_sw_version: NCI_R19-3
-              sut_hw_version: null
+              sut_hw_version:
           - item:
             name: Lenovo Select Solution for NFVI with Wind River Titanium Cloud
             crunchbase: https://www.crunchbase.com/organization/lf-networking
@@ -1597,7 +1577,7 @@ landscape:
               checksum: 372393d689d1cfa52877d7fb77ed54642589edf2e818a3bb8b65f0567f7d507a
               product_version: 9
               version: '2019.12'
-              verification_date: 2020-05-19T00:00:00.000Z
+              verification_date: 2020-05-19 00:00:00
           - item:
             name: Cinar
             crunchbase: https://www.crunchbase.com/organization/lf-networking
@@ -1610,4 +1590,4 @@ landscape:
               checksum: 669a5ae0a71ec99aaaa022b71d25fc36a1ab2c6c6aaaafc752ceb303e4cf0741
               product_version: 0.4.11
               version: '2019.12'
-              verification_date: 2020-03-17T00:00:00.000Z
+              verification_date: 2020-03-17 00:00:00
