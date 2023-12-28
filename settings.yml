@@ -145,9 +145,9 @@ home:
     Crunchbase data is used under license from Crunchbase to CNCF.
 # ads for the landscape. Good opportunity to advertise your project events
 ads:
-  - url: https://events.linuxfoundation.org/open-networking-and-edge-exec-forum
-    image: /images/ONEEF_398x398.png
-    title: Open Networking & Edge
+  - url: https://events.linuxfoundation.org/one-summit-north-america/
+    image: /images/ONE_Summit_2023_400x400.png
+    title: ONE Summit 2024
 # preset searches
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
