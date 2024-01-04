@@ -754,12 +754,6 @@ landscape:
         name: Platinum
         items:
           - item:
-            name: AT&T Services, Inc.
-            homepage_url: https://att.com/
-            logo: att_services_inc.svg
-            twitter: https://twitter.com/ATT
-            crunchbase: https://www.crunchbase.com/organization/at-t
-          - item:
             name: China Mobile Communication Company Ltd
             homepage_url: https://chinamobileltd.com/
             logo: china_mobile_communication_company_ltd.svg
@@ -849,21 +843,9 @@ landscape:
             twitter: https://twitter.com/Walmart
             crunchbase: https://www.crunchbase.com/organization/walmart-labs
             joined: '2018-09-01'
-          - item:
-            name: ZTE Corporation
-            homepage_url: https://zte.com.cn/
-            logo: zte_corporation.svg
-            twitter: https://twitter.com/ZTEPress
-            crunchbase: https://www.crunchbase.com/organization/zte-corporation
       - subcategory:
         name: Gold
-        items:
-          - item:
-            name: Bell Canada
-            homepage_url: https://bell.net/
-            logo: bell_canada.svg
-            twitter: https://twitter.com/Bell
-            crunchbase: https://www.crunchbase.com/organization/bell-net
+        items: []
       - subcategory:
         name: Silver
         items:
@@ -919,12 +901,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/china-unicom
             joined: '2019-09-01'
           - item:
-            name: Ciena Canada, ULC
-            homepage_url: https://ciena.com/
-            logo: ciena_canada_ulc.svg
-            twitter: https://twitter.com/Ciena
-            crunchbase: https://www.crunchbase.com/organization/ciena
-          - item:
             name: CloudOps Inc.
             homepage_url: https://cloudops.com/
             logo: cloudops_inc.svg
@@ -937,6 +913,13 @@ landscape:
             logo: equinix_services_inc.svg
             twitter: https://twitter.com/Equinix
             crunchbase: https://www.crunchbase.com/organization/equinix
+          - item:
+            name: F5, Inc.
+            homepage_url: https://f5.com/
+            logo: f5_inc.svg
+            twitter: https://twitter.com/F5
+            crunchbase: https://www.crunchbase.com/organization/f5-networks
+            joined: '2017-11-01'
           - item:
             name: Firecell
             homepage_url: https://firecell.io/
@@ -977,18 +960,6 @@ landscape:
             twitter: https://twitter.com/JuniperNetworks
             crunchbase: https://www.crunchbase.com/organization/juniper-networks
             joined: '2020-08-01'
-          - item:
-            name: KDDI Corporation
-            homepage_url: https://kddi.com/
-            logo: kddi_corporation.svg
-            twitter: https://twitter.com/kddipr
-            crunchbase: https://www.crunchbase.com/organization/kddi
-          - item:
-            name: Keysight Technologies Inc.
-            homepage_url: https://keysight.com/
-            logo: keysight_technologies_inc.svg
-            twitter: https://twitter.com/Keysight
-            crunchbase: https://www.crunchbase.com/organization/keysight-technologies
           - item:
             name: Kubermatic GmbH
             homepage_url: https://kubermatic.com/
@@ -1035,12 +1006,6 @@ landscape:
             logo: orange_sa.svg
             twitter: https://twitter.com/orange
             crunchbase: https://www.crunchbase.com/organization/orange
-          - item:
-            name: PANTHEON.tech s.r.o
-            homepage_url: https://pantheon.tech/
-            logo: pantheontech_sro.svg
-            twitter: https://twitter.com/Pantheon_Tech
-            crunchbase: https://www.crunchbase.com/organization/pantheon-technologies
           - item:
             name: RADTONICS
             homepage_url: https://radtonics.com/
@@ -1090,6 +1055,12 @@ landscape:
             logo: wind_river_systems_inc.svg
             twitter: https://twitter.com/WindRiver
             crunchbase: https://www.crunchbase.com/organization/wind-river
+          - item:
+            name: ZTE Corporation
+            homepage_url: https://zte.com.cn/
+            logo: zte_corporation.svg
+            twitter: https://twitter.com/ZTEPress
+            crunchbase: https://www.crunchbase.com/organization/zte-corporation
       - subcategory:
         name: Associate
         items:
