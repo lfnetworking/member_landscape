@@ -1,3 +1,4 @@
+# THIS FILE IS GENERATED AUTOMATICALLY!
 landscape:
   - category:
     name: LF Networking Projects
@@ -453,31 +454,31 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 175170564
+                  value: 174747474
                   color: '#b07219'
                 - name: JavaScript
-                  value: 30628951
+                  value: 30694015
                   color: '#f1e05a'
                 - name: Python
-                  value: 17573604
+                  value: 17971524
                   color: '#3572A5'
                 - name: TypeScript
-                  value: 11416107
+                  value: 12706879
                   color: '#2b7489'
                 - name: HTML
-                  value: 6916787
+                  value: 6939511
                   color: '#e34c26'
                 - name: Groovy
-                  value: 6558654
+                  value: 6457356
                   color: '#e69f56'
                 - name: Shell
-                  value: 5513479
+                  value: 5507168
                   color: '#89e051'
                 - name: Kotlin
                   value: 4474751
                   color: '#F18E33'
                 - name: CSS
-                  value: 3485226
+                  value: 3495400
                   color: '#563d7c'
                 - name: C
                   value: 2909276
@@ -486,7 +487,7 @@ landscape:
                   value: 2234547
                   color: '#00ADD8'
                 - name: RobotFramework
-                  value: 1901764
+                  value: 1896396
                 - name: SCSS
                   value: 1346744
                 - name: Less
@@ -495,9 +496,9 @@ landscape:
                   value: 444426
                   color: '#f34b7d'
                 - name: Smarty
-                  value: 432240
+                  value: 432214
                 - name: Dockerfile
-                  value: 407850
+                  value: 408317
                   color: '#384d54'
                 - name: FreeMarker
                   value: 326215
@@ -505,7 +506,7 @@ landscape:
                 - name: Jinja
                   value: 317922
                 - name: Makefile
-                  value: 232635
+                  value: 240716
                   color: '#427819'
                 - name: Erlang
                   value: 181038
@@ -525,7 +526,7 @@ landscape:
                 - name: Velocity Template Language
                   value: 128140
                 - name: Ruby
-                  value: 114929
+                  value: 117917
                   color: '#701516'
                 - name: Mustache
                   value: 84192
@@ -574,27 +575,30 @@ landscape:
                 - name: SaltStack
                   value: 886
                   color: '#646464'
+                - name: PostScript
+                  value: 24
+                  color: '#da291c'
               contributions: >-
-                132;42;5;37;43;45;69;123;67;109;84;125;90;75;113;122;71;126;107;124;99;56;33;81;54;35;83;128;67;49;63;56;61;37;28;39;39;37;20;22;48;61;38;58;109;41;36;74;112;30;26;31
-              firstWeek: 2022-12-19Z
+                42;38;67;110;76;79;115;130;82;81;88;111;107;81;138;132;94;61;39;69;50;45;69;110;85;52;50;65;63;36;34;30;40;45;21;21;42;62;36;55;113;39;32;64;118;35;25;39;78;26;5;15
+              firstWeek: 2023-01-08Z
               stars: 557
               license: Other
               description: Mirror of https://gerrit.onap.org/r/#/admin/projects/aaf/authz
               latest_commit_date: '2021-04-27T18:20:44Z'
               latest_commit_link: /onap/archived-aaf-authz/commit/5836e4a53d87b1792486aa6b0b1ddb2e71d91bb9
-              contributors_count: 524
+              contributors_count: 525
               contributors_link: https://github.com/onap/aaf-authz/graphs/contributors
             repos:
               - url: https://github.com/onap/aaf-authz
                 stars: 1
               - url: https://github.com/onap/oom
-                stars: 35
+                stars: 36
               - url: https://github.com/onap/multicloud-k8s
                 stars: 30
               - url: https://github.com/onap/so
                 stars: 17
               - url: https://github.com/onap/ccsdk-cds
-                stars: 15
+                stars: 16
               - url: https://github.com/onap/sdc
                 stars: 14
               - url: https://github.com/onap/doc
@@ -692,8 +696,6 @@ landscape:
               - url: https://github.com/onap/cps-cps-tbdmt
                 stars: 2
               - url: https://github.com/onap/cps-cps-temporal
-                stars: 2
-              - url: https://github.com/onap/cps-ncmp-dmi-plugin
                 stars: 2
               - url: https://github.com/onap/dcaegen2-analytics-tca
                 stars: 2
@@ -873,6 +875,10 @@ landscape:
                 stars: 1
               - url: https://github.com/onap/dcaegen2-platform-cdapbroker
                 stars: 1
+              - url: https://github.com/onap/dcaegen2-platform-cli
+                stars: 1
+              - url: https://github.com/onap/dcaegen2-platform-configbinding
+                stars: 1
               - url: https://github.com/onap/dcaegen2-platform-inventory-api
                 stars: 1
               - url: https://github.com/onap/dcaegen2-platform-servicechange-handler
@@ -956,10 +962,6 @@ landscape:
               - url: https://github.com/onap/integration-usecases-mdons
                 stars: 1
               - url: https://github.com/onap/integration-xtesting
-                stars: 1
-              - url: https://github.com/onap/logging-analytics-pomba
-                stars: 1
-              - url: https://github.com/onap/logging-analytics-pomba-pomba-aai-context-builder
                 stars: 1
               - url: https://github.com/onap/logging-analytics-pomba-pomba-audit-common
                 stars: 1
@@ -2575,110 +2577,6 @@ landscape:
       - subcategory:
         name: Platinum
         items:
-          - item:
-            name: AT&T Services, Inc.
-            homepage_url: https://att.com/
-            logo: att_services_inc.svg
-            twitter: https://twitter.com/ATT
-            crunchbase: https://www.crunchbase.com/organization/at-t
-            crunchbase_data:
-              name: AT&T
-              description: AT&T is a telecommunications company.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.att.com
-              city: Dallas
-              region: Texas
-              country: United States
-              twitter: http://twitter.com/ATT
-              linkedin: https://www.linkedin.com/company/at&t
-              acquisitions:
-                - date: '1993-08-17'
-                  acquiree: McCaw Cellular Communications
-                - date: '1994-10-18'
-                  acquiree: Alascom
-                - date: '1999-03-01'
-                  acquiree: Tele-Communications, Inc
-                - date: '2001-09-22'
-                  acquiree: Prodigy Communications
-                - date: '2001-10-08'
-                  acquiree: Telecorp PCS
-                - date: '2006-03-05'
-                  acquiree: BellSouth
-                - date: '2006-09-12'
-                  acquiree: USInternetworking
-                - date: '2006-12-01'
-                  acquiree: inFreeDA
-                - date: '2007-10-02'
-                  acquiree: Interwise
-                - date: '2007-11-15'
-                  acquiree: Dobson Fiber
-                - date: '2007-11-19'
-                  acquiree: Ingenio
-                - date: '2007-12-04'
-                  acquiree: Edge Wireless
-                - date: '2008-11-10'
-                  acquiree: Wayport
-                - date: '2008-12-01'
-                  acquiree: GetFon
-                - date: '2009-02-22'
-                  acquiree: Sterling Commerce
-                - date: '2009-09-30'
-                  acquiree: Plusmo
-                - date: '2009-11-06'
-                  acquiree: Centennial Communications Corp
-                - date: '2010-12-06'
-                  acquiree: Xanboo
-                - date: '2011-09-26'
-                  acquiree: Superclick Networks
-                - date: '2012-08-02'
-                  acquiree: NextWave Wireless
-                - date: '2013-07-01'
-                  acquiree: Leap Wireless
-                - date: '2013-09-20'
-                  acquiree: Alltel
-                - date: '2014-11-07'
-                  acquiree: Iusacell compañía
-                - date: '2015-01-27'
-                  acquiree: Nextel Mexico
-                - date: '2015-07-24'
-                  acquiree: DIRECTV
-                - date: '2015-12-30'
-                  acquiree: Carrier IQ
-                - date: '2016-05-16'
-                  acquiree: QuickPlay Media
-                - date: '2016-10-22'
-                  acquiree: WarnerMedia
-                - date: '2016-11-21'
-                  acquiree: INVIDI Technologies
-                - date: '2017-02-01'
-                  acquiree: FiberTower
-                - date: '2017-06-02'
-                  acquiree: Vyatta
-                - date: '2018-06-25'
-                  acquiree: AppNexus
-                - date: '2018-07-10'
-                  acquiree: AT&T CyberSecurity
-                - date: '2018-08-01'
-                  acquiree: Otter Media
-              parents: []
-              ticker: T
-              funding: 2200000
-              stockExchange: nyse
-              company_type: For Profit
-              industries:
-                - Mobile
-                - Service Industry
-                - Telecommunications
-                - Wireless
-            yahoo_finance_data:
-              effective_ticker: T
-            image_data:
-              fileName: at-t-services-inc.svg
-              hash: mlZTLXohA+O9VdTGAhRx/8bAXbuM4GvBQwQ8GJJmdVs=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: China Mobile Communication Company Ltd
             homepage_url: https://chinamobileltd.com/
@@ -4641,71 +4539,9 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: ZTE Corporation
-            homepage_url: https://zte.com.cn/
-            logo: zte_corporation.svg
-            twitter: https://twitter.com/ZTEPress
-            crunchbase: https://www.crunchbase.com/organization/zte-corporation
-            crunchbase_data:
-              name: ZTE
-              description: ZTE provides telecommunications equipment and network solutions.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://zte.com.cn
-              city: Shenzhen
-              region: Guangdong
-              country: China
-              twitter: https://twitter.com/ZTEPress
-              linkedin: https://www.linkedin.com/company/5804
-              acquisitions: []
-              parents: []
-              ticker: 000063.SZ
-              stockExchange: szse
-              company_type: For Profit
-              industries:
-                - Network Hardware
-                - Telecommunications
-            yahoo_finance_data:
-              effective_ticker: 000063.SZ
-            image_data:
-              fileName: zte-corporation.svg
-              hash: IRYqNufKmzvSx2V7mlRdTGB0Wjn8BkrIbKayvH+0KBs=
-            best_practice_data:
-              badge: false
-              percentage: null
       - subcategory:
         name: Gold
-        items:
-          - item:
-            name: Bell Canada
-            homepage_url: https://bell.net/
-            logo: bell_canada.svg
-            twitter: https://twitter.com/Bell
-            crunchbase: https://www.crunchbase.com/organization/bell-net
-            crunchbase_data:
-              name: Bell Net
-              description: Bell Net Corp. offers system integration, content, planning, software, hardware, infrastructure and support.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://webmail.bell.net
-              city: Tokyo
-              region: Tokyo
-              country: Japan
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Software
-            image_data:
-              fileName: bell-canada.svg
-              hash: 1QOkHyvbQzE2/NG2qm3MLe4ir1GSj0d81tGw0Tte8io=
-            best_practice_data:
-              badge: false
-              percentage: null
+        items: []
       - subcategory:
         name: Silver
         items:
@@ -5064,76 +4900,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Ciena Canada, ULC
-            homepage_url: https://ciena.com/
-            logo: ciena_canada_ulc.svg
-            twitter: https://twitter.com/Ciena
-            crunchbase: https://www.crunchbase.com/organization/ciena
-            crunchbase_data:
-              name: Ciena
-              description: Ciena collaborates with customers to unlock the strategic potential of their networks and and change the way they perform and compete.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.ciena.com
-              city: Linthicum Heights
-              region: Maryland
-              country: United States
-              twitter: http://twitter.com/Ciena
-              linkedin: https://www.linkedin.com/company/ciena
-              acquisitions:
-                - date: '1997-12-01'
-                  acquiree: Astracom
-                - date: '1999-03-01'
-                  acquiree: Lightera
-                - date: '2000-12-20'
-                  acquiree: Cyras Systems
-                - date: '2002-06-21'
-                  acquiree: ONI Systems
-                - date: '2003-04-14'
-                  acquiree: Wavesmith Networks
-                - date: '2003-08-22'
-                  acquiree: Akara
-                - date: '2004-02-19'
-                  acquiree: Catena Networks
-                - date: '2004-02-19'
-                  acquiree: Internet Photonics
-                - date: '2007-09-18'
-                  acquiree: PhyFlex Networks
-                - date: '2008-01-22'
-                  acquiree: World Wide Packets
-                - date: '2015-05-04'
-                  acquiree: Cyan
-                - date: '2018-05-31'
-                  acquiree: Packet Design
-                - date: '2018-09-05'
-                  acquiree: DonRiver
-                - date: '2019-10-03'
-                  acquiree: Centina Systems
-                - date: '2021-09-02'
-                  acquiree: Vyatta
-                - date: '2022-11-22'
-                  acquiree: Benu Networks
-                - date: '2022-11-22'
-                  acquiree: Tibit Communications
-              parents: []
-              ticker: CIEN
-              funding: 0
-              stockExchange: nyse
-              company_type: For Profit
-              industries:
-                - Collaboration
-                - Delivery
-                - Software
-                - Telecommunications
-            yahoo_finance_data:
-              effective_ticker: CIEN
-            image_data:
-              fileName: ciena-canada-ulc.svg
-              hash: 91hKgFgCUDI71cJk0/kjQ3ET2VFRwk3R81i9nqZ7qB4=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: CloudOps Inc.
             homepage_url: https://cloudops.com/
             logo: cloudops_inc.svg
@@ -5236,6 +5002,69 @@ landscape:
             image_data:
               fileName: equinix-services-inc.svg
               hash: mfN59XFl9tD7TMQB3rTr88bj7jx24elvEaZY4qAVNqA=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: F5, Inc.
+            homepage_url: https://f5.com/
+            logo: f5_inc.svg
+            twitter: https://twitter.com/F5
+            crunchbase: https://www.crunchbase.com/organization/f5-networks
+            joined: '2017-11-01'
+            crunchbase_data:
+              name: F5
+              description: F5 Networks provides application security and delivery tools.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: https://www.f5.com
+              city: Seattle
+              region: Washington
+              country: United States
+              twitter: http://twitter.com/f5networks
+              linkedin: https://www.linkedin.com/company/f5
+              acquisitions:
+                - date: '2004-06-02'
+                  acquiree: MagniFire Websystems
+                - date: '2005-09-06'
+                  acquiree: Swan Labs
+                - date: '2007-08-06'
+                  acquiree: Acopia Networks
+                - date: '2011-08-15'
+                  acquiree: Crescendo Networks
+                - date: '2012-02-20'
+                  acquiree: Traffix Systems
+                - date: '2013-02-11'
+                  acquiree: LineRate Systems
+                - date: '2013-09-17'
+                  acquiree: Versafe
+                - date: '2014-05-22'
+                  acquiree: Defense.Net
+                - date: '2019-03-11'
+                  acquiree: NGINX
+                - date: '2019-12-19'
+                  acquiree: Shape Security
+                - date: '2021-01-07'
+                  acquiree: Volterra
+                - date: '2021-09-20'
+                  acquiree: Threat Stack
+                - date: '2023-01-26'
+                  acquiree: Lilac Cloud
+              parents: []
+              ticker: FFIV
+              funding: 0
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Consumer Electronics
+                - SaaS
+                - Security
+                - Virtualization
+            yahoo_finance_data:
+              effective_ticker: FFIV
+            image_data:
+              fileName: f5-inc.svg
+              hash: yuPEiJNImgMQSdm+i/tZE6dyen5i9aaOBJRSRSF/fDg=
             best_practice_data:
               badge: false
               percentage: null
@@ -5376,38 +5205,6 @@ landscape:
             image_data:
               fileName: gen-xcomm-inc.svg
               hash: /SZJzvxBw0FekbmIG8Lh6ZHP3FmEbsxSChCq4JKUheU=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Globo
-            homepage_url: https://globo.com/
-            logo: globo.svg
-            twitter: https://twitter.com/globonoticias
-            crunchbase: https://www.crunchbase.com/organization/organiza-es-globo
-            joined: '2018-12-01'
-            crunchbase_data:
-              name: Globo.com
-              description: Globo.com is a mass media group that offers intelligence and know-how in strategy creation and the development of digital solutions.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: http://globo.com
-              city: Rio De Janeiro
-              region: Rio de Janeiro
-              country: Brazil
-              twitter: https://twitter.com/globocom
-              linkedin: https://www.linkedin.com/company/globo-com/about/
-              acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/grupo-globo
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Internet
-                - News
-            image_data:
-              fileName: globo.svg
-              hash: ROb5HHZBYAIDpB3qiRl86tjaFk2mXQjI9mX59WVtqDw=
             best_practice_data:
               badge: false
               percentage: null
@@ -5844,127 +5641,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: KDDI Corporation
-            homepage_url: https://kddi.com/
-            logo: kddi_corporation.svg
-            twitter: https://twitter.com/kddipr
-            crunchbase: https://www.crunchbase.com/organization/kddi
-            crunchbase_data:
-              name: KDDI
-              description: KDDI is providing telecommunication services for finance, energy, entertainment, and education sectors.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.kddi.com
-              city: Tokyo
-              region: Tokyo
-              country: Japan
-              twitter: https://twitter.com/kddipr
-              linkedin: https://www.linkedin.com/company/kddi-corporation
-              acquisitions:
-                - date: '2010-01-25'
-                  acquiree: Jupiter Telecommunications
-                - date: '2014-10-16'
-                  acquiree: Bitcellar
-                - date: '2014-10-16'
-                  acquiree: Nanapi
-                - date: '2014-10-16'
-                  acquiree: Supership
-                - date: '2015-04-14'
-                  acquiree: LUXA
-                - date: '2016-10-06'
-                  acquiree: DeNA - Online Shopping Business
-                - date: '2016-12-07'
-                  acquiree: BIGLOBE
-                - date: '2017-03-07'
-                  acquiree: Loco Partners, Inc.
-                - date: '2017-08-02'
-                  acquiree: SORACOM
-                - date: '2017-11-23'
-                  acquiree: Aeon Corp.
-              parents: []
-              ticker: 9433.T
-              stockExchange: tyo
-              company_type: For Profit
-              industries:
-                - Finance
-                - Mobile
-                - Telecommunications
-            yahoo_finance_data:
-              effective_ticker: 9433.T
-            image_data:
-              fileName: kddi-corporation.svg
-              hash: gMs7VS7Whyj4vGJOpQGj3rUH86PLT85Lc+9xlxUfSjY=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Keysight Technologies Inc.
-            homepage_url: https://keysight.com/
-            logo: keysight_technologies_inc.svg
-            twitter: https://twitter.com/Keysight
-            crunchbase: https://www.crunchbase.com/organization/keysight-technologies
-            crunchbase_data:
-              name: Keysight Technologies
-              description: Keysight Technologies is an electronic measurement company.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.keysight.com
-              city: Santa Rosa
-              region: California
-              country: United States
-              twitter: https://twitter.com/Keysight
-              linkedin: https://www.linkedin.com/company/keysight-technologies/
-              acquisitions:
-                - date: '2005-08-01'
-                  acquiree: Eagleware-Elanix
-                - date: '2015-08-13'
-                  acquiree: Anite
-                - date: '2015-08-28'
-                  acquiree: Electroservices Enterprises
-                - date: '2016-07-30'
-                  acquiree: Signadyne
-                - date: '2017-01-30'
-                  acquiree: IXIA
-                - date: '2018-08-13'
-                  acquiree: Thales Calibration Services
-                - date: '2020-03-02'
-                  acquiree: Labber
-                - date: '2020-06-25'
-                  acquiree: Eggplant
-                - date: '2020-07-01'
-                  acquiree: NORDSYS
-                - date: '2021-02-22'
-                  acquiree: Sanjole
-                - date: '2021-05-25'
-                  acquiree: Quantum Benchmark
-                - date: '2021-10-18'
-                  acquiree: Scalable Network Technologies
-                - date: '2023-02-23'
-                  acquiree: ClioSoft
-              parents: []
-              ticker: KEYS
-              funding: 0
-              stockExchange: nyse
-              company_type: For Profit
-              industries:
-                - Analytics
-                - Cloud Security
-                - Electronics
-                - Manufacturing
-                - Network Security
-                - Product Design
-                - Software
-                - Test and Measurement
-                - Wireless
-            yahoo_finance_data:
-              effective_ticker: KEYS
-            image_data:
-              fileName: keysight-technologies-inc.svg
-              hash: P3mOqwJkyHj99naRxO8/IIKxKtiyYQqbLRF1eCZiElM=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Kubermatic GmbH
             homepage_url: https://kubermatic.com/
             logo: kubermatic_gmbh.svg
@@ -6226,96 +5902,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: NTT DATA Spain, S.L.U.
-            homepage_url: https://everis.com/
-            logo: ntt_data_spain_slu.svg
-            twitter: https://twitter.com/NTTDATA
-            crunchbase: https://www.crunchbase.com/organization/ntt-data
-            crunchbase_data:
-              name: NTT Data
-              description: NTT DATA provides broad range of IT services and solutions, including consulting, systems integration, and IT outsourcing.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.nttdata.com/jp/ja/
-              city: Koto
-              region: Tokyo
-              country: Japan
-              twitter: https://twitter.com/nttdata_pr
-              linkedin: https://www.linkedin.com/company/ntt-data/
-              acquisitions:
-                - date: '2010-05-01'
-                  acquiree: Cue Data Services
-                - date: '2010-06-14'
-                  acquiree: Intelligroup
-                - date: '2010-09-02'
-                  acquiree: NTT DATA FA Insurance Systems
-                - date: '2010-12-30'
-                  acquiree: Keane International
-                - date: '2011-05-30'
-                  acquiree: Value Team
-                - date: '2011-06-15'
-                  acquiree: Mpayy
-                - date: '2012-01-25'
-                  acquiree: Netmagic Solutions
-                - date: '2012-10-10'
-                  acquiree: RMA Consulting
-                - date: '2013-11-01'
-                  acquiree: Everis Group
-                - date: '2013-11-21'
-                  acquiree: Optimal Solutions Integration
-                - date: '2015-06-08'
-                  acquiree: Carlisle & Gallagher Consulting Group
-                - date: '2015-12-23'
-                  acquiree: Wizardsgroup
-                - date: '2016-09-27'
-                  acquiree: Nefos
-                - date: '2017-05-11'
-                  acquiree: PT. Abyor International
-                - date: '2018-06-01'
-                  acquiree: MagenTys
-                - date: '2018-06-25'
-                  acquiree: gen-ius dms GmbH
-                - date: '2018-10-29'
-                  acquiree: Sierra Systems Group Inc.
-                - date: '2018-11-27'
-                  acquiree: NTT DATA Payment Services
-                - date: '2019-12-03'
-                  acquiree: Flux7
-                - date: '2019-12-18'
-                  acquiree: NETE
-                - date: '2020-08-27'
-                  acquiree: Acorio
-                - date: '2020-12-11'
-                  acquiree: Hashmap
-                - date: '2021-01-15'
-                  acquiree: My Supply Chain Group
-                - date: '2021-12-22'
-                  acquiree: Chainalytics
-                - date: '2022-06-01'
-                  acquiree: Postlight
-                - date: '2022-09-19'
-                  acquiree: Apisero
-                - date: '2022-09-27'
-                  acquiree: Umvel
-              parents:
-                - https://www.crunchbase.com/organization/nippon-telegraph-and-telephone-corporation
-              ticker: 9613.T
-              stockExchange: tyo
-              company_type: For Profit
-              industries:
-                - Information Services
-                - Information Technology
-                - InsurTech
-                - Software
-            yahoo_finance_data:
-              effective_ticker: 9613.T
-            image_data:
-              fileName: ntt-data-spain-s-l-u.svg
-              hash: W/ejt0/3LZdMB1husxo30UbfheFMvy8K/6yFDvNxklk=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Orange SA
             homepage_url: https://orange.com/
             logo: orange_sa.svg
@@ -6390,37 +5976,6 @@ landscape:
             image_data:
               fileName: orange-sa.svg
               hash: 1jNOA6UGxYOGMX1Z4JaXkiXCtMXIuq53LmifRnjmGXc=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: PANTHEON.tech s.r.o
-            homepage_url: https://pantheon.tech/
-            logo: pantheontech_sro.svg
-            twitter: https://twitter.com/Pantheon_Tech
-            crunchbase: https://www.crunchbase.com/organization/pantheon-technologies
-            crunchbase_data:
-              name: PANTHEON.tech
-              description: PANTHEON.tech is a research & development software company, focused on sotware prototyping and network technologies.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: https://pantheon.tech
-              city: Bratislava
-              region: Bratislava
-              country: Slovakia (Slovak Republic)
-              twitter: https://twitter.com/pantheon_tech
-              linkedin: https://www.linkedin.com/company/pantheontech/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Technology
-                - Internet
-                - Software
-            image_data:
-              fileName: pantheon-tech-s-r-o.svg
-              hash: 1gbWD8yyWNV9qsoS/5GlNjyDR1Q15eagpuXZbuVzTe4=
             best_practice_data:
               badge: false
               percentage: null
@@ -6520,8 +6075,8 @@ landscape:
             homepage_url: https://sprint.com/
             logo: sprint_corporation.svg
             twitter: https://twitter.com/TMobile
-            stock_ticker: null
             crunchbase: https://www.crunchbase.com/organization/t-mobile
+            stock_ticker: null
             crunchbase_data:
               name: T-Mobile
               description: T-Mobile is a telecommunications company that provides wireless communication services, including mobile phone and internet services.
@@ -6570,48 +6125,6 @@ landscape:
             image_data:
               fileName: sprint-corporation.svg
               hash: tHl8MWebm4XimZGRhek/u6HYexoBx2I/mUu/QuFmy4k=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Sterlite Technologies Limited
-            homepage_url: https://stl.tech/
-            logo: sterlite_technologies_limited.svg
-            twitter: https://twitter.com/STL_Tech
-            crunchbase: https://www.crunchbase.com/organization/sterlite-technologies-ltd-
-            stock_ticker: null
-            crunchbase_data:
-              name: STL
-              description: STL is an Indian manufacturer of optical fibers, telecommunication cables and power transmission conductors.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: https://www.stl.tech
-              city: Pune
-              region: Maharashtra
-              country: India
-              twitter: https://twitter.com/STL_tech
-              linkedin: https://www.linkedin.com/company/sterlite-technologies-ltd-
-              acquisitions:
-                - date: '2015-09-23'
-                  acquiree: Elitecore Technologies
-                - date: '2018-07-06'
-                  acquiree: Metallurgica Bresciana
-                - date: '2019-09-25'
-                  acquiree: Impact Data Solutions
-                - date: '2021-07-22'
-                  acquiree: Clearcomm Group
-              parents: []
-              ticker: STRTECH.NS
-              stockExchange: nse
-              company_type: For Profit
-              industries:
-                - Internet
-                - Manufacturing
-                - Optical Communication
-                - Telecommunications
-            image_data:
-              fileName: sterlite-technologies-limited.svg
-              hash: 9DC8Qmgru5fIgR/9Di7L9qKnVu7wgrpnGDQmzqi4Baw=
             best_practice_data:
               badge: false
               percentage: null
@@ -6792,6 +6305,39 @@ landscape:
             image_data:
               fileName: wind-river-systems-inc.svg
               hash: T2a6/3cjncll+Vjjrd9H3bTULlBUVnCOxDwk9xxRRE0=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: ZTE Corporation
+            homepage_url: https://zte.com.cn/
+            logo: zte_corporation.svg
+            twitter: https://twitter.com/ZTEPress
+            crunchbase: https://www.crunchbase.com/organization/zte-corporation
+            crunchbase_data:
+              name: ZTE
+              description: ZTE provides telecommunications equipment and network solutions.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://zte.com.cn
+              city: Shenzhen
+              region: Guangdong
+              country: China
+              twitter: https://twitter.com/ZTEPress
+              linkedin: https://www.linkedin.com/company/5804
+              acquisitions: []
+              parents: []
+              ticker: 000063.SZ
+              stockExchange: szse
+              company_type: For Profit
+              industries:
+                - Network Hardware
+                - Telecommunications
+            yahoo_finance_data:
+              effective_ticker: 000063.SZ
+            image_data:
+              fileName: zte-corporation.svg
+              hash: IRYqNufKmzvSx2V7mlRdTGB0Wjn8BkrIbKayvH+0KBs=
             best_practice_data:
               badge: false
               percentage: null
@@ -7043,6 +6589,7 @@ landscape:
             name: National Institute of Advanced Industrial Science and Technology(AIST)
             homepage_url: https://aist.go.jp/
             logo: national_institute_of_advanced_industrial_science_and_technologyaist.svg
+            twitter: https://twitter.com/AIST_JP
             crunchbase: https://www.crunchbase.com/organization/national-institute-of-advanced-industrial-science-and-technology
             crunchbase_data:
               name: National Institute of Advanced Industrial Science and Technology
@@ -9097,7 +8644,7 @@ landscape:
                   value: 2360
                   color: '#e34c26'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2022-12-19Z
+              firstWeek: 2023-01-08Z
               stars: 1
               license: Other
               description: Mirror of https://gerrit.onap.org/r/#/admin/projects/aaf/authz
