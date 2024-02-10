@@ -1013,12 +1013,6 @@ landscape:
             organization:
               name: RADTONICS
           - item:
-            name: Ribbon Communications Operating Company, Inc.
-            homepage_url: https://ribboncommunications.com/
-            logo: ribbon_communications_operating_company_inc.svg
-            twitter: https://twitter.com/ribboncomm
-            crunchbase: https://www.crunchbase.com/organization/ribbon-communications
-          - item:
             name: Robin Systems, Inc
             homepage_url: https://robin.io/
             logo: robin_systems_inc.svg
