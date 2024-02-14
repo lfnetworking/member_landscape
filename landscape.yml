@@ -921,13 +921,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/f5-networks
             joined: '2017-11-01'
           - item:
-            name: Firecell
-            homepage_url: https://firecell.io/
-            logo: firecell.svg
-            twitter: https://twitter.com/firecellP5G
-            organization:
-              name: Firecell
-          - item:
             name: Fujitsu Limited
             homepage_url: https://fujitsu.com/
             logo: fujitsu_limited.svg
