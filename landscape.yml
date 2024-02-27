@@ -811,6 +811,7 @@ landscape:
             twitter: https://twitter.com/nokia
             crunchbase: https://www.crunchbase.com/organization/nokia
             stock_ticker: NOK
+            joined: '2018-03-12'
           - item:
             name: Red Hat, Inc.
             homepage_url: https://redhat.com/
@@ -845,7 +846,13 @@ landscape:
             joined: '2018-09-01'
       - subcategory:
         name: Gold
-        items: []
+        items:
+          - item:
+            name: Bell Canada
+            homepage_url: https://bell.net/
+            logo: bell_canada.svg
+            twitter: https://twitter.com/Bell
+            crunchbase: https://www.crunchbase.com/organization/bell-net
       - subcategory:
         name: Silver
         items:
@@ -920,6 +927,13 @@ landscape:
             twitter: https://twitter.com/F5
             crunchbase: https://www.crunchbase.com/organization/f5-networks
             joined: '2017-11-01'
+          - item:
+            name: Firecell
+            homepage_url: https://firecell.io/
+            logo: firecell.svg
+            twitter: https://twitter.com/firecellP5G
+            organization:
+              name: Firecell
           - item:
             name: Fujitsu Limited
             homepage_url: https://fujitsu.com/
@@ -1005,6 +1019,12 @@ landscape:
             logo: radtonics.svg
             organization:
               name: RADTONICS
+          - item:
+            name: Ribbon Communications Operating Company, Inc.
+            homepage_url: https://ribboncommunications.com/
+            logo: ribbon_communications_operating_company_inc.svg
+            twitter: https://twitter.com/ribboncomm
+            crunchbase: https://www.crunchbase.com/organization/ribbon-communications
           - item:
             name: Robin Systems, Inc
             homepage_url: https://robin.io/
