@@ -1118,6 +1118,11 @@ landscape:
             twitter: https://twitter.com/MEF_Forum
             crunchbase: https://www.crunchbase.com/organization/mef
           - item:
+            name: Ministry of Transport, Communications & Information Technology
+            homepage_url: https://mtcit.gov.om/
+            logo: ministry_of_transport_communications__information_technology.svg
+            crunchbase: https://www.crunchbase.com/organization/ministry-of-transport-communications
+          - item:
             name: National Institute of Advanced Industrial Science and Technology(AIST)
             homepage_url: https://aist.go.jp/
             logo: national_institute_of_advanced_industrial_science_and_technologyaist.svg
