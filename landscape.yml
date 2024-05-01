@@ -813,6 +813,12 @@ landscape:
             stock_ticker: NOK
             joined: '2018-03-12'
           - item:
+            name: Qualcomm, Inc.
+            homepage_url: https://qualcomm.com/
+            logo: qualcomm_inc.svg
+            twitter: https://twitter.com/Qualcomm
+            crunchbase: https://www.crunchbase.com/organization/qualcomm
+          - item:
             name: Red Hat, Inc.
             homepage_url: https://redhat.com/
             logo: red_hat_inc.svg
