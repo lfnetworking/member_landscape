@@ -24,16 +24,6 @@ landscape:
               - repo_url: https://github.com/opnfv/cirv-sdv
               - repo_url: https://github.com/opnfv/barometer
           - item:
-            name: EMCO
-            homepage_url: https://project-emco.io/
-            logo: EMCO.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/the-edge-multi-cluster-orchestrator-emco
-            extra:
-              description: |
-                A universal control plane to securely connect and deploy workloads
-                across public clouds, private clouds and edge locations.
-          - item:
             name: FD.io
             homepage_url: https://fd.io/
             logo: logo_fdio.svg
@@ -63,19 +53,6 @@ landscape:
               - repo_url: https://github.com/FDio/tldk
               - repo_url: https://github.com/FDio/vpp
               - repo_url: https://github.com/FDio/vsap
-          - item:
-            name: ODIM
-            homepage_url: https://odim.io/
-            logo: odim-color-1.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/odim-cb86
-            repo_url: https://github.com/ODIM-Project/BMCSimulator
-            description: |
-              Open Distributed Infrastructure Manager. Multi-site, multi-vendor physical
-              infrastructure lifecycle management.
-            additional_repos:
-              - repo_url: https://github.com/ODIM-Project/ODIM
-              - repo_url: https://github.com/ODIM-Project/PluginCiscoACI
           - item:
             name: ONAP
             allow_duplicate_repo: true
