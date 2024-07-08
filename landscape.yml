@@ -1235,13 +1235,6 @@ landscape:
             logo: GenxComm.svg
             twitter: https://twitter.com/GenXComm
             crunchbase: https://www.crunchbase.com/organization/genxcomm
-          - item:
-            name: Magma (5G)
-            homepage_url: https://magmacore.org//
-            logo: magma_fund.svg
-            project: foundation
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/genxcomm
       - subcategory:
         name: Cloud Infrastructure
         items:
