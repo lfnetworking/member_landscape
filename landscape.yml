@@ -23,6 +23,20 @@ landscape:
               - repo_url: https://github.com/opnfv/functest-xtesting
               - repo_url: https://github.com/opnfv/cirv-sdv
               - repo_url: https://github.com/opnfv/barometer
+              name: CNTi
+            allow_duplicate_repo: true
+            homepage_url: https://lfnetworking.org/cloud-native-telecom-initiative/
+            logo: file:///Users/sandrajackson/Downloads/CNTi_logo_COLOR.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase:  
+            repo_url: https://github.com/opnfv/vineperf
+            description: https://www.crunchbase.com/organization/cloud-native-telecom-initiative-cnti
+            additional_repos:
+              - repo_url: https://github.com/lfn-cnti/bestpractices
+              - repo_url: https://github.com/lfn-cnti/certification
+              - repo_url: https://github.com/lfn-cnti/cnti
+              - repo_url: https://github.com/lfn-cnti/.github
+              - repo_url: https://github.com/lfn-cnti/artwork
           - item:
             name: FD.io
             homepage_url: https://fd.io/
