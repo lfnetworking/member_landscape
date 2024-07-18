@@ -507,8 +507,8 @@ landscape:
             description: >
               The Nephio project is building a Kubernetes-based automation platform for deploying and managing highly distributed, interconnected workloads such
               as 5G Network Functions, and the underlying infrastructure on which those workloads depend.
-         - item:
-           name: Paraglider
+        - item:
+          name: Paraglider
             allow_duplicate_repo: true
             homepage_url: https://paragliderproject.io
             logo: logos/paraglider-logo.svg
