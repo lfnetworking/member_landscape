@@ -44,7 +44,24 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/fd-io
             repo_url: https://github.com/FDio/archived-deb_dpdk
+             - item:
+            name: Paraglider
+            allow_duplicate_repo: true
+            homepage_url: https://paragliderproject.io
+            logo: https://github.com/lfnetworking/member_landscape/blob/main/hosted_logos/paraglider-logo.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/paraglider
+            repo_url: https://github.com/paraglider-project/paraglider
             description: |
+              A common model, standardized reference infrastructure
+              specifications, and conformance and performance frameworks for VNFs & CNFs.
+            additional_repos:
+              - repo_url: https://github.com/opnfv/kuberef
+              - repo_url: https://github.com/opnfv/functest
+              - repo_url: https://github.com/opnfv/functest-kubernetes
+              - repo_url: https://github.com/opnfv/functest-xtesting
+              - repo_url: https://github.com/opnfv/cirv-sdv
+              - repo_url: https://github.com/opnfv/barometer            description: |
               Open Source high-performance IO services framework for dynamic computing environments.
             additional_repos:
               - repo_url: https://github.com/FDio/archived-dmm
