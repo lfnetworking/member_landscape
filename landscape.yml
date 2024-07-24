@@ -516,6 +516,16 @@ landscape:
               The Nephio project is building a Kubernetes-based automation platform for deploying and managing highly distributed, interconnected workloads such
               as 5G Network Functions, and the underlying infrastructure on which those workloads depend.
           - item:
+            name: Paraglider
+            allow_duplicate_repo: true
+            homepage_url: https://paragliderproject.io
+            logo: logos/paraglider-logo.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/paraglider
+            repo_url: https://github.com/paraglider-project/paraglider
+            description: |
+              Paraglider is a cross-cloud control plane for configuring cloud networks.
+          - item:
             name: XG Vela
             homepage_url: https://xgvela.org/
             logo: xGVela_Logo_FNL_color-horizontal.svg
