@@ -27,7 +27,7 @@ landscape:
             name: CNTi
             allow_duplicate_repo: true
             homepage_url: https://lfnetworking.org/cloud-native-telecom-initiative/
-            logo: logos/CNTi_logo_COLOR.svg
+            logo: CNTi_logo_COLOR.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/cloud-native-telecom-initiative-cnti
             description: 
@@ -511,7 +511,7 @@ landscape:
             name: Paraglider
             allow_duplicate_repo: true
             homepage_url: https://paragliderproject.io
-            logo: logos/paraglider-logo.svg
+            logo: paraglider-logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/paraglider
             repo_url: https://github.com/paraglider-project/paraglider
