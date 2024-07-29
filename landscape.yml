@@ -24,30 +24,22 @@ landscape:
               - repo_url: https://github.com/opnfv/cirv-sdv
               - repo_url: https://github.com/opnfv/barometer
           - item:
+            name: CNTi
+            allow_duplicate_repo: true
+            homepage_url: https://lfnetworking.org/cloud-native-telecom-initiative/
+            logo: CNTi_logo_COLOR.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-telecom-initiative-cnti
+            description: 
+              (CNTI) brings telco networking and cloud native thought leaders together to advance cloud native networking confidence and adoption.
+          - item:
             name: FD.io
             homepage_url: https://fd.io/
             logo: logo_fdio.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/fd-io
             repo_url: https://github.com/FDio/archived-deb_dpdk
-             - item:
-            name: Paraglider
-            allow_duplicate_repo: true
-            homepage_url: https://paragliderproject.io
-            logo: https://github.com/lfnetworking/member_landscape/blob/main/hosted_logos/paraglider-logo.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/paraglider
-            repo_url: https://github.com/paraglider-project/paraglider
-            description: |
-              A common model, standardized reference infrastructure
-              specifications, and conformance and performance frameworks for VNFs & CNFs.
-            additional_repos:
-              - repo_url: https://github.com/opnfv/kuberef
-              - repo_url: https://github.com/opnfv/functest
-              - repo_url: https://github.com/opnfv/functest-kubernetes
-              - repo_url: https://github.com/opnfv/functest-xtesting
-              - repo_url: https://github.com/opnfv/cirv-sdv
-              - repo_url: https://github.com/opnfv/barometer            description: |
+            description:
               Open Source high-performance IO services framework for dynamic computing environments.
             additional_repos:
               - repo_url: https://github.com/FDio/archived-dmm
@@ -519,7 +511,7 @@ landscape:
             name: Paraglider
             allow_duplicate_repo: true
             homepage_url: https://paragliderproject.io
-            logo: logos/paraglider-logo.svg
+            logo: paraglider-logo.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/paraglider
             repo_url: https://github.com/paraglider-project/paraglider
