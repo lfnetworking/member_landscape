@@ -294,8 +294,8 @@ big_picture:
   super-blueprint:
     tab_index: 3
     url: super-blueprint
-    name: 5G Super Blueprint
-    title: 5G Super Blueprint
+    name: 5G Super Blueprints
+    title: 5G Super Blueprints
     fullscreen_header: See the members interactive display at <yet to be defined>
     elements:
       - type: HorizontalCategory
