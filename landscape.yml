@@ -1342,10 +1342,6 @@ landscape:
             homepage_url: https://ttgi.io/
             logo: turnium_technology_group_inc.svg
             crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
-            extra:
-              description: |
-                A universal control plane to securely connect and deploy workloads
-                across public clouds, private clouds and edge locations.
           - item:
             name: ONAP (5G)
             allow_duplicate_repo: true
