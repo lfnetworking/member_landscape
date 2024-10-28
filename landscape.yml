@@ -1342,14 +1342,6 @@ landscape:
             homepage_url: https://ttgi.io/
             logo: turnium_technology_group_inc.svg
             crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
-          - item:
-            name: EMCO (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://project-emco.io/
-            logo: EMCO.svg
-            project: lfn
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
             extra:
               description: |
                 A universal control plane to securely connect and deploy workloads
