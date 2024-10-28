@@ -331,8 +331,8 @@ big_picture:
       - type: LandscapeInfo
         width: 320
         height: 160
-        top: 620
-        left: 1250
+        top: 10
+        left: 900
         children:
           - type: text
             text: |
