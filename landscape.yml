@@ -10,7 +10,7 @@ landscape:
             allow_duplicate_repo: true
             homepage_url: https://anuket.io/
             logo: anuket-01.svg
-            project: LF Networking
+            project: lfn
             hideProjectTag: true
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/anuket
@@ -30,7 +30,7 @@ landscape:
             allow_duplicate_repo: true
             homepage_url: https://lfnetworking.org/cloud-native-telecom-initiative/
             logo: CNTi_logo_COLOR.svg
-            project: LF Networking
+            project: lfn
             hideProjectTag: true
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/cloud-native-telecom-initiative-cnti
@@ -40,7 +40,7 @@ landscape:
             name: FD.io
             homepage_url: https://fd.io/
             logo: logo_fdio.svg
-            project: LF Networking
+            project: lfn
             hideProjectTag: true
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/fd-io
@@ -73,7 +73,7 @@ landscape:
             allow_duplicate_repo: true
             homepage_url: https://www.onap.org/
             logo: onap_logo.svg
-            project: LF Networking
+            project: lfn
             hideProjectTag: true
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/onap
@@ -373,7 +373,7 @@ landscape:
             name: Opendaylight
             homepage_url: https://www.opendaylight.org/
             logo: opendaylight_logo.svg
-            project: LF Networking
+            project: lfn
             hideProjectTag: true
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/opendaylight
@@ -485,7 +485,7 @@ landscape:
             name: Nephio
             homepage_url: https://nephio.org
             logo: Nephio_logo_colorblack_horizontal.svg
-            project: LF Networking
+            project: lfn
             hideProjectTag: true
             crunchbase: https://www.crunchbase.com/organization/nephio
             twitter: https://twitter.com/LF_Networking
@@ -524,7 +524,7 @@ landscape:
             allow_duplicate_repo: true
             homepage_url: https://paragliderproject.io
             logo: paraglider-logo.svg
-            project: LF Networking
+            project: lfn
             hideProjectTag: true
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/paraglider
@@ -535,7 +535,7 @@ landscape:
             name: XG Vela
             homepage_url: https://xgvela.org/
             logo: xGVela_Logo_FNL_color-horizontal.svg
-            project: LF Networking
+            project: lfn
             hideProjectTag: true
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/xgvela
@@ -557,7 +557,7 @@ landscape:
             name: L3AF
             homepage_url: https://l3af.io/
             logo: L3AF_logo.svg
-            project: LF Networking
+            project: lfn
             hideProjectTag: true
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/l3af
@@ -1281,7 +1281,7 @@ landscape:
             allow_duplicate_repo: true
             homepage_url: https://anuket.io/
             logo: anuket-01.svg
-            project: LFN
+            project: lfn-5g
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             repo_url: https://github.com/opnfv/vineperf
@@ -1365,7 +1365,7 @@ landscape:
             allow_duplicate_repo: true
             homepage_url: https://www.onap.org/
             logo: onap_logo.svg
-            project: LFN
+            project: lfn-5g
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/lf-networking
             repo_url: https://github.com/onap/aaf-authz
