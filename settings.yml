@@ -56,10 +56,7 @@ relation:
           label: LFN
           prefix: LFN
           tag: LFN
-          color: '#3570af'
           big_picture_order: 1
-          big_picture_label: LFN
-          big_picture_color: rgb(24,54,114)
         - id: incubation
           label: LFN Incubation
           prefix: LFN
@@ -107,6 +104,14 @@ relation:
     - id: member
       label: LF Networking Members Projects/Products
       tag: LF Networking Member
+    - id: lfn-5g
+      label: LFN
+      prefix: LFN
+      tag: LFN
+      color: '#3570af'
+      big_picture_order: 1
+      big_picture_label: LFN
+      big_picture_color: rgb(24,54,114)
     - id: false
       label: Non-LF Networking Members Projects/Products
       url: 'no'
