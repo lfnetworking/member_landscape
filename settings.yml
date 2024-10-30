@@ -342,8 +342,8 @@ big_picture:
           - type: text
             text: |
               The 5GSBP is the central reference point for completed 5GSBP integration projects. 5G Super Blueprint Library here:  https://lf-networking.atlassian.net/wiki/x/CnHv
-            top: 25
-            left: 50
+            top: 30
+            left: 100
             right: 10
             font_size: 10
           - type: image
