@@ -343,19 +343,19 @@ big_picture:
             text: |
               The 5GSBP is the central reference point for completed 5GSBP integration projects. 5G Super Blueprint Library here:  https://lf-networking.atlassian.net/wiki/x/CnHv
             top: 25
-            left: 30
+            left: 50
             right: 10
             font_size: 10
           - type: image
             image: QR code for 5G SBP.svg
             top: 30
-            left: 20
+            left: 10
             width: 90
             height: 90
           - type: image
             image: 5G_Super_Blueprints_Logo_Horizontal_Color.svg
             width: 90
-            left: 10
+            left: 30
             top: 10
             title: LFN Logo
 # test to make sure the build worked. Identify one landscape item that you know will always be there, preferably towards the top of the rendering
