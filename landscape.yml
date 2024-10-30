@@ -1235,16 +1235,6 @@ landscape:
             twitter: https://twitter.com/intel
             crunchbase: https://www.crunchbase.com/organization/intel
           - item:
-            name: L3AF (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://l3af.io/
-            logo: L3AF_logo.svg
-            project: lfn-5g
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/l3af
-            description: |
-              L3AF is an eBPF based platform enabling network functions a service.
-          - item:
             name: Meta (5G)
             allow_duplicate_repo: true
             homepage_url: https://about.facebook.com/meta/
@@ -1390,6 +1380,16 @@ landscape:
             logo: a10_networks.svg
             twitter: https://twitter.com/A10Networks
             crunchbase: https://www.crunchbase.com/organization/a10-networks
+          - item:
+            name: L3AF (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://l3af.io/
+            logo: L3AF_logo.svg
+            project: lfn-5g
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/l3af
+            description: |
+              L3AF is an eBPF based platform enabling network functions a service.
           - item:
             name: Aarna Networks (5G)
             allow_duplicate_repo: true
