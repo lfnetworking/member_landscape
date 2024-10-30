@@ -1236,6 +1236,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/intel
           - item:
             name: L3AF (5G)
+            allow_duplicate_repo: true
             homepage_url: https://l3af.io/
             logo: L3AF_logo.svg
             project: lfn-5g
@@ -1255,6 +1256,7 @@ landscape:
               people to connect, find communities, and grow businesses.
           - item:
             name: Nephio (5G)
+            allow_duplicate_repo: true
             homepage_url: https://nephio.org
             logo: Nephio_logo_colorblack_horizontal.svg
             project: lfn-5g
