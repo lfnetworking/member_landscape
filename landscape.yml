@@ -483,6 +483,7 @@ landscape:
               Open source SDN Controller with largest ecosystem and deployment footprint.
           - item:
             name: Nephio
+            allow_duplicate_repo: true
             homepage_url: https://nephio.org
             logo: Nephio_logo_colorblack_horizontal.svg
             project: lfn
@@ -555,6 +556,7 @@ landscape:
               telco network functions to enable new services.
           - item:
             name: L3AF
+            allow_duplicate_repo: true
             homepage_url: https://l3af.io/
             logo: L3AF_logo.svg
             project: lfn
