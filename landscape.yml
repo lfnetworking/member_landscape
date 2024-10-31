@@ -1352,7 +1352,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/l3af
             description: |
               L3AF is an eBPF based platform enabling network functions a service.
-           - item:
+         - item:
             name: Nephio (5G)
             allow_duplicate_repo: true
             homepage_url: https://nephio.org
