@@ -1245,44 +1245,6 @@ landscape:
               Meta is a social technology company that enables
               people to connect, find communities, and grow businesses.
           - item:
-            name: Nephio (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://nephio.org
-            logo: Nephio_logo_colorblack_horizontal.svg
-            project: lfn-5g
-            crunchbase: https://www.crunchbase.com/organization/nephio
-            twitter: https://twitter.com/LF_Networking
-            repo_url: https://github.com/nephio-project/nephio
-            additional_repos:
-              - repo_url: https://github.com/nephio-project/test-infra
-              - repo_url: https://github.com/nephio-project/api
-              - repo_url: https://github.com/nephio-project/nephio-example-packages
-              - repo_url: https://github.com/nephio-project/oai
-              - repo_url: https://github.com/nephio-project/free5gc
-              - repo_url: https://github.com/nephio-project/governance
-              - repo_url: https://github.com/nephio-project/nephio-sdk
-              - repo_url: https://github.com/nephio-project/docs
-              - repo_url: https://github.com/nephio-project/catalog
-              - repo_url: https://github.com/nephio-project/nephio-packages
-              - repo_url: https://github.com/nephio-project/one-summit-22-workshop
-              - repo_url: https://github.com/nephio-project/nephio-test-prow-project
-              - repo_url: https://github.com/nephio-project/free5gc-packages
-              - repo_url: https://github.com/nephio-project/kpt-backstage-plugins
-              - repo_url: https://github.com/nephio-project/sig-release
-              - repo_url: https://github.com/nephio-project/edge-status-aggregator
-              - repo_url: https://github.com/nephio-project/nf-deploy-controller
-              - repo_url: https://github.com/nephio-project/nephio-pocs
-              - repo_url: https://github.com/nephio-project/free5gc-1
-              - repo_url: https://github.com/nephio-project/edge-watcher
-              - repo_url: https://github.com/nephio-project/nephio-functions
-              - repo_url: https://github.com/nephio-project/nephio-controller-poc
-              - repo_url: https://github.com/nephio-project/common-lib
-              - repo_url: https://github.com/nephio-project/nephio-poc
-              - repo_url: https://github.com/nephio-project/sig-network-architecture
-            description: >
-              The Nephio project is building a Kubernetes-based automation platform for deploying and managing highly distributed, interconnected workloads such
-              as 5G Network Functions, and the underlying infrastructure on which those workloads depend.
-          - item:
             name: Turnium Technology Group Inc (5G)
             allow_duplicate_repo: true
             homepage_url: https://ttgi.io/
@@ -1390,6 +1352,44 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/l3af
             description: |
               L3AF is an eBPF based platform enabling network functions a service.
+           - item:
+            name: Nephio (5G)
+            allow_duplicate_repo: true
+            homepage_url: https://nephio.org
+            logo: Nephio_logo_colorblack_horizontal.svg
+            project: lfn-5g
+            crunchbase: https://www.crunchbase.com/organization/nephio
+            twitter: https://twitter.com/LF_Networking
+            repo_url: https://github.com/nephio-project/nephio
+            additional_repos:
+              - repo_url: https://github.com/nephio-project/test-infra
+              - repo_url: https://github.com/nephio-project/api
+              - repo_url: https://github.com/nephio-project/nephio-example-packages
+              - repo_url: https://github.com/nephio-project/oai
+              - repo_url: https://github.com/nephio-project/free5gc
+              - repo_url: https://github.com/nephio-project/governance
+              - repo_url: https://github.com/nephio-project/nephio-sdk
+              - repo_url: https://github.com/nephio-project/docs
+              - repo_url: https://github.com/nephio-project/catalog
+              - repo_url: https://github.com/nephio-project/nephio-packages
+              - repo_url: https://github.com/nephio-project/one-summit-22-workshop
+              - repo_url: https://github.com/nephio-project/nephio-test-prow-project
+              - repo_url: https://github.com/nephio-project/free5gc-packages
+              - repo_url: https://github.com/nephio-project/kpt-backstage-plugins
+              - repo_url: https://github.com/nephio-project/sig-release
+              - repo_url: https://github.com/nephio-project/edge-status-aggregator
+              - repo_url: https://github.com/nephio-project/nf-deploy-controller
+              - repo_url: https://github.com/nephio-project/nephio-pocs
+              - repo_url: https://github.com/nephio-project/free5gc-1
+              - repo_url: https://github.com/nephio-project/edge-watcher
+              - repo_url: https://github.com/nephio-project/nephio-functions
+              - repo_url: https://github.com/nephio-project/nephio-controller-poc
+              - repo_url: https://github.com/nephio-project/common-lib
+              - repo_url: https://github.com/nephio-project/nephio-poc
+              - repo_url: https://github.com/nephio-project/sig-network-architecture
+            description: >
+              The Nephio project is building a Kubernetes-based automation platform for deploying and managing highly distributed, interconnected workloads such
+              as 5G Network Functions, and the underlying infrastructure on which those workloads depend.
           - item:
             name: Aarna Networks (5G)
             allow_duplicate_repo: true
