@@ -845,6 +845,12 @@ landscape:
             twitter: https://twitter.com/Walmart
             crunchbase: https://www.crunchbase.com/organization/walmart-labs
             joined: '2018-09-01'
+          - item:
+            name: SoftBank Corp
+            homepage_url: https://group.softbank/
+            logo: sbkk.svg
+            crunchbase: https://www.crunchbase.com/organization/softbank
+            joined: '2024-09-13'
       - subcategory:
         name: Gold
         items:
