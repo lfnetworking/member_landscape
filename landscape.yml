@@ -735,131 +735,122 @@ landscape:
         items:
           - item:
             name: China Mobile Communication Company Ltd
-            description: >-
-              China Mobile serves about 488 million subscribers, more than two thirds of the nation's total, making it China's and the world's leading wireless
-              operator by subscribers. In addition to local, domestic, and international phone service, China Mobile offers short message services (SMS) and
-              various mobile content features. It primarily uses the Global System for Mobile Communications (GSM) standard. State-controlled China Mobile
-              Communications Corporation (CMCC) indirectly holds a majority stake (about 75%) in China Mobile.
             homepage_url: https://chinamobileltd.com/
             logo: china_mobile_communication_company_ltd.svg
+            description: China Mobile serves about 488 million subscribers, more than two thirds of the nation's total, making it China's and the world's leading wireless operator by
+              subscribers. In addition to local, domestic, and international phone service, China Mobile offers short message services (SMS) and various mobile content features. It primarily
+              uses the Global System for Mobile Communications (GSM) standard. State-controlled China Mobile Communications Corporation (CMCC) indirectly holds a majority stake (about
+              75%) in China Mobile.
             crunchbase: https://www.crunchbase.com/organization/china-mobile
             extra:
               linkedin_url: https://www.linkedin.com/company/china-mobile
           - item:
             name: China Telecommunications Corporation
-            description: >-
-              About China Telecom Corporation With over 200 million customers and more than $61 billion in assets, China Telecom Corporation is one of the
-              world's largest telecommunications companies. As the largest fixed-line provider in the world, China Telecom owns and operates an extensive system
-              of domestic and international telecommunications networks and facilities, including local wireless loops, voice, data, image, multimedia and other
-              telecommunications services in China. China Telecom has offices in the Unites States, Hong Kong, Canada and the United Kingdom.
             homepage_url: https://chinatelecom.cn/
             logo: china_telecommunications_corporation.svg
+            description: About China Telecom Corporation With over 200 million customers and more than $61 billion in assets, China Telecom Corporation is one of the world's largest
+              telecommunications companies. As the largest fixed-line provider in the world, China Telecom owns and operates an extensive system of domestic and international telecommunications
+              networks and facilities, including local wireless loops, voice, data, image, multimedia and other telecommunications services in China. China Telecom has offices in the
+              Unites States, Hong Kong, Canada and the United Kingdom.
             crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
+            twitter: https://twitter.com/chinateleglobal
             extra:
               linkedin_url: https://www.linkedin.com/company/china-telecom-corporation-limited
           - item:
             name: Cisco Systems, Inc.
-            description: >-
-              Cisco (NASDAQ: CSCO) is the worldwide technology leader that has been making the Internet work since 1984. Their people, products, and partners
-              help society securely connect and seize tomorrow's digital opportunity today. Cisco and the Cisco logo are trademarks or registered trademarks of
-              Cisco and/or its affiliates in the U.S. and other countries.
             homepage_url: https://cisco.com/
             logo: cisco_systems_inc.svg
-            twitter: https://twitter.com/Cisco
+            description: "Cisco (NASDAQ: CSCO) is the worldwide technology leader that has been making the Internet work since 1984. Their people, products, and partners help society
+              securely connect and seize tomorrow's digital opportunity today. Cisco and the Cisco logo are trademarks or registered trademarks of Cisco and/or its affiliates in the
+              U.S. and other countries."
             crunchbase: https://www.crunchbase.com/organization/cisco
+            twitter: https://twitter.com/Cisco
             extra:
               linkedin_url: https://www.linkedin.com/company/cisco
           - item:
             name: Deutsche Telekom AG
-            description: >-
-              Founded in 1995, Deutsche Telekom AG is a Germany-based integrated telecommunications provider, offering its customers around the world a
-              portfolio of services in the areas of telecommunications and information technology.
             homepage_url: https://telekom.com/
             logo: deutsche_telekom_ag.svg
+            description: Founded in 1995, Deutsche Telekom AG is a Germany-based integrated telecommunications provider, offering its customers around the world a portfolio of services
+              in the areas of telecommunications and information technology.
             crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
+            twitter: https://twitter.com/deutschetelekom
             extra:
               linkedin_url: https://www.linkedin.com/company/telekom
           - item:
             name: Ericsson
-            description: >-
-              Founded in 1876, Ericsson is a Swedish communication technology and services provider. The company offers software, services, and infrastructure
-              for information and communications technology used by telecommunications operators, including traditional telecommunications, Internet Protocol
-              networking equipment, mobile and fixed broadband, cable TV, IPTV, video systems, and business support solutions. Ericsson is headquartered in
-              Stockholm, Sweden.
             homepage_url: https://ericsson.com/
             logo: ericsson.svg
+            description: Founded in 1876, Ericsson is a Swedish communication technology and services provider. The company offers software, services, and infrastructure for information
+              and communications technology used by telecommunications operators, including traditional telecommunications, Internet Protocol networking equipment, mobile and fixed broadband,
+              cable TV, IPTV, video systems, and business support solutions. Ericsson is headquartered in Stockholm, Sweden.
             crunchbase: https://www.crunchbase.com/organization/ericsson
+            twitter: https://twitter.com/ericsson
             extra:
               linkedin_url: https://www.linkedin.com/company/ericsson
           - item:
             name: Huawei Technologies Co., Ltd
-            description: >-
-              Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in
-              Shenzhen, China.
             homepage_url: https://huawei.com/
             logo: huawei_technologies_co.svg
+            description: Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in Shenzhen, China.
             crunchbase: https://www.crunchbase.com/organization/huawei
+            twitter: https://twitter.com/Huawei
             extra:
               linkedin_url: https://www.linkedin.com/company/huawei
           - item:
             name: Infosys Limited
-            description: >-
-              Infosys is a global leader in consulting, technology, outsourcing and next-generation services. They enable clients, in more than 50 countries, to
-              stay a step ahead of emerging business trends and outperform the competition. They help them transform and thrive in a changing world by
-              co-creating breakthrough solutions that combine strategic insights and execution excellence.
             homepage_url: https://infosys.com/
             logo: infosys_limited.svg
-            twitter: https://twitter.com/Infosys
+            description: Infosys is a global leader in consulting, technology, outsourcing and next-generation services. They enable clients, in more than 50 countries, to stay a step
+              ahead of emerging business trends and outperform the competition. They help them transform and thrive in a changing world by co-creating breakthrough solutions that combine
+              strategic insights and execution excellence.
             crunchbase: https://www.crunchbase.com/organization/infosys
+            twitter: https://twitter.com/Infosys
             extra:
               linkedin_url: https://www.linkedin.com/company/infosys
           - item:
             name: Nokia Corporation
-            description: >-
-              Nokia Corporation is a Finland-based company that invests in technologies. The company operates through three business segments: Nokia Networks,
-              HERE and Nokia Technologies. Nokia Networks offers network infrastructure software, hardware, and services. Nokia Networks has two segments:
-              Mobile Broadband and Global Services. HERE offers maps, a location platform, and location experiences across different screens and operating
-              systems. HERE offer maps for around 190 countries, voice guided navigation for 99 countries in around 50 languages and live traffic information
-              for around 44 countries. Nokia Technologies develops and licenses technologies. Nokia Technologies manages an Intellectual Property (IP) portfolio
-              of approximately 10,000 patent families consisted of approximately 30,000 individual patents and patent applications.
             homepage_url: https://nokia.com/
             logo: nokia_corporation.svg
+            description: 'Nokia Corporation is a Finland-based company that invests in technologies. The company operates through three business segments: Nokia Networks, HERE and Nokia
+              Technologies. Nokia Networks offers network infrastructure software, hardware, and services. Nokia Networks has two segments: Mobile Broadband and Global Services. HERE
+              offers maps, a location platform, and location experiences across different screens and operating systems. HERE offer maps for around 190 countries, voice guided navigation
+              for 99 countries in around 50 languages and live traffic information for around 44 countries. Nokia Technologies develops and licenses technologies. Nokia Technologies
+              manages an Intellectual Property (IP) portfolio of approximately 10,000 patent families consisted of approximately 30,000 individual patents and patent applications.'
             crunchbase: https://www.crunchbase.com/organization/nokia
+            twitter: https://twitter.com/nokia
             extra:
               linkedin_url: https://www.linkedin.com/company/nokianet
           - item:
             name: Qualcomm, Inc.
-            description: >-
-              Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications
-              equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system
-              software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
-
+            homepage_url: https://qualcomm.com/
+            logo: qualcomm_inc.svg
+            description: |-
+              Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
 
               --- Merged Data:
 
-
-              Qualcomm is a semiconductor company that manufactures and markets digital wireless telecommunications products and services. They are engaged in
-              the development and commercialization of a digital communication technology called code division multiple a...
-            homepage_url: https://qualcomm.com/
-            logo: qualcomm_inc.svg
+              Qualcomm is a semiconductor company that manufactures and markets digital wireless telecommunications products and services. They are engaged in the development and commercialization of a digital communication technology called code division multiple a...
             crunchbase: https://www.crunchbase.com/organization/qualcomm
+            twitter: https://twitter.com/Qualcomm
             extra:
               linkedin_url: https://www.linkedin.com/company/firethorn
           - item:
             name: Red Hat, Inc.
-            description: >-
-              Red Hat was established in 1993 and is headquartered in Raleigh, North Carolina. Red Hat is the provider of open source software solutions, using
-              a community-powered approach to provide reliable and high-performing cloud, Linux, middleware, storage, and virtualization technologies. Red Hat
-              also offers support, training, and consulting services. As the connective hub in a global network of enterprises, partners, and open source
-              communities, Red Hat helps create relevant, innovative technologies that liberate resources for growth and prepare customers for the future of IT.
             homepage_url: https://redhat.com/
             logo: red_hat_inc.svg
-            twitter: https://twitter.com/RedHat
+            description: Red Hat was established in 1993 and is headquartered in Raleigh, North Carolina. Red Hat is the provider of open source software solutions, using a community-powered
+              approach to provide reliable and high-performing cloud, Linux, middleware, storage, and virtualization technologies. Red Hat also offers support, training, and consulting
+              services. As the connective hub in a global network of enterprises, partners, and open source communities, Red Hat helps create relevant, innovative technologies that liberate
+              resources for growth and prepare customers for the future of IT.
             crunchbase: https://www.crunchbase.com/organization/red-hat
+            twitter: https://twitter.com/RedHat
             extra:
               linkedin_url: https://www.linkedin.com/company/red-hat
           - item:
             name: SoftBank Corp.
+            homepage_url: https://softbank.jp/en/
+            logo: softbank_corp.svg
             description: |-
               Overview
               The SoftBank Group is a global technology player that aspires to drive the Information Revolution. The
@@ -874,33 +865,29 @@ landscape:
               Locations (1)
               Primary
               1-9-1, Higashi-Shimbashi, Minato-ku, Tokyo 105-7303, JP
-            homepage_url: https://softbank.jp/en/
-            logo: softbank_corp.svg
-            twitter: https://twitter.com/SoftBank
             crunchbase: https://www.crunchbase.com/organization/softbank-corp
+            twitter: https://twitter.com/SoftBank
             extra:
               linkedin_url: https://www.linkedin.com/company/softbankgroup
           - item:
             name: Verizon Corporate Services
-            description: >-
-              Verizon is a telecommunications company that offers broadband and other wireless and wireline communications services to consumer, business,
-              government, and wholesale customers. Verizon is headquartered in New York City, New York.
             homepage_url: https://verizon.com/
             logo: verizon_corporate_services.svg
-            twitter: https://twitter.com/Verizon
+            description: Verizon is a telecommunications company that offers broadband and other wireless and wireline communications services to consumer, business, government, and
+              wholesale customers. Verizon is headquartered in New York City, New York.
             crunchbase: https://www.crunchbase.com/organization/verizon
+            twitter: https://twitter.com/Verizon
             extra:
               linkedin_url: https://www.linkedin.com/company/verizon
           - item:
             name: Walmart Inc.
-            description: >-
-              WalMart is a multinational retailing corporation offering a range of products through their retail stores, websites, and through their mobile
-              devices. Each week, over 260 million customers and members visit their stores under 59 banners in 28 countries and eCommerce websites in 11
-              countries. Walmart continues to be a leader in sustainability, corporate philanthropy, and employment opportunity.
             homepage_url: https://walmart.com/
             logo: walmart_inc.svg
-            twitter: https://twitter.com/Walmart
+            description: WalMart is a multinational retailing corporation offering a range of products through their retail stores, websites, and through their mobile devices. Each week,
+              over 260 million customers and members visit their stores under 59 banners in 28 countries and eCommerce websites in 11 countries. Walmart continues to be a leader in sustainability,
+              corporate philanthropy, and employment opportunity.
             crunchbase: https://www.crunchbase.com/organization/walmart-labs
+            twitter: https://twitter.com/Walmart
             extra:
               linkedin_url: https://www.linkedin.com/company/sam's-club
       - subcategory:
@@ -911,30 +898,31 @@ landscape:
         items:
           - item:
             name: A10 Networks
-            description: >-
-              Founded in 2004, A10 Networks Inc. provides computer networking products and security solutions. The Company offers application networking
-              platforms and security products to streamline technology operations, including cloud and service providers and application delivery solutions. A10
-              serves customers in various industries worldwide. A10 Networks is a managed services provider (MSP).
             homepage_url: https://a10networks.com/
             logo: a10_networks.svg
+            description: Founded in 2004, A10 Networks Inc. provides computer networking products and security solutions. The Company offers application networking platforms and security
+              products to streamline technology operations, including cloud and service providers and application delivery solutions. A10 serves customers in various industries worldwide.
+              A10 Networks is a managed services provider (MSP).
             crunchbase: https://www.crunchbase.com/organization/a10-networks
+            twitter: https://twitter.com/A10Networks
             extra:
               linkedin_url: https://www.linkedin.com/company/a10networks
           - item:
             name: Advanced Micro Devices (AMD)
-            description: >-
-              For more than 45 years AMD has driven innovation in high-performance computing, graphics, and visualization technologies; the building blocks for
-              gaming, immersive platforms, and the data center. Hundreds of millions of consumers, leading Fortune 500 businesses, and cutting-edge scientific
-              research facilities around the world rely on AMD technology daily to improve how they live, work, and play. AMD employees around the world are
-              focused on building great products that push the boundaries of what is possible.
             homepage_url: https://amd.com/
             logo: advanced_micro_devices_amd.svg
-            twitter: https://twitter.com/AMD
+            description: For more than 45 years AMD has driven innovation in high-performance computing, graphics, and visualization technologies; the building blocks for gaming, immersive
+              platforms, and the data center. Hundreds of millions of consumers, leading Fortune 500 businesses, and cutting-edge scientific research facilities around the world rely
+              on AMD technology daily to improve how they live, work, and play. AMD employees around the world are focused on building great products that push the boundaries of what
+              is possible.
             crunchbase: https://www.crunchbase.com/organization/amd
+            twitter: https://twitter.com/AMD
             extra:
               linkedin_url: https://www.linkedin.com/company/amd
           - item:
             name: Arista Networks, Inc.
+            homepage_url: https://arista.com/
+            logo: arista_networks_inc.svg
             description: |-
               Kernal contributors:
 
@@ -953,238 +941,214 @@ landscape:
               --- Merged Data:
 
               Arista Networks is an American computer networking company headquartered in Santa Clara, California.
-            homepage_url: https://arista.com/
-            logo: arista_networks_inc.svg
             crunchbase: https://www.crunchbase.com/organization/arista-networks
+            twitter: https://twitter.com/AristaNetworks
             extra:
               linkedin_url: https://www.linkedin.com/company/arista-networks-inc
           - item:
             name: Arm Limited
-            description: >-
-              ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing
-              that is licensed by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare,
-              infrastructure, IoT, mobile, smart homes, and wearables. ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990
-              and is headquartered in the UK.
             homepage_url: https://arm.com/
             logo: arm_limited.svg
-            twitter: https://twitter.com/ArmCommunity
+            description: ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing that is licensed
+              by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare, infrastructure, IoT, mobile, smart homes, and wearables.
+              ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990 and is headquartered in the UK.
             crunchbase: https://www.crunchbase.com/organization/arm
+            twitter: https://twitter.com/ArmCommunity
             extra:
               linkedin_url: https://www.linkedin.com/company/arm
           - item:
             name: Cable Television Laboratories Inc.
-            description: >-
-              Founded in 1988, CableLabs is a non-profit research and development consortium that serves to define interoperable solutions among cable operator
-              members and their technology vendors in order to reduce costs, create competition in the supply chain, and drive scale.  CableLabs is dedicated to
-              creating innovative ideas that significantly impact their cable operator members' business. The company is headquartered in Louisville, Colorado.
             homepage_url: https://cablelabs.com/
             logo: cable_television_laboratories_inc.svg
-            twitter: https://twitter.com/CableLabs
+            description: Founded in 1988, CableLabs is a non-profit research and development consortium that serves to define interoperable solutions among cable operator members and
+              their technology vendors in order to reduce costs, create competition in the supply chain, and drive scale.  CableLabs is dedicated to creating innovative ideas that significantly
+              impact their cable operator members' business. The company is headquartered in Louisville, Colorado.
             crunchbase: https://www.crunchbase.com/organization/cablelabs
+            twitter: https://twitter.com/CableLabs
             extra:
               linkedin_url: https://www.linkedin.com/company/cablelabs
           - item:
             name: Canonical Group Limited
-            description: >-
-              Canonical Ltd. is a UK-based privately held computer software company founded and funded by South African entrepreneur Mark Shuttleworth to market
-              commercial support and related services for Ubuntu and related projects.
             homepage_url: https://canonical.com/
             logo: canonical_group_limited.svg
+            description: Canonical Ltd. is a UK-based privately held computer software company founded and funded by South African entrepreneur Mark Shuttleworth to market commercial
+              support and related services for Ubuntu and related projects.
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
+            twitter: https://twitter.com/Canonical
             extra:
               linkedin_url: https://www.linkedin.com/company/canonical-ltd-
           - item:
             name: China Unicom
-            description: >-
-              China Unicom (Hong Kong) Limited, formerly China Unicom Limited, is engaged in global system for mobile (GSM) cellular business and value-added
-              services, fixed-line voice and value-added services, fixed-line broadband and other Internet-related services, information and communication
-              technology (ICT) services, business and data communications services, and other related telecommunication business in 31 provinces, municipalities
-              and autonomous regions in China.
             homepage_url: https://chinaunicom.com/
             logo: china_unicom.svg
-            twitter: https://twitter.com/ChinunicomOS
+            description: China Unicom (Hong Kong) Limited, formerly China Unicom Limited, is engaged in global system for mobile (GSM) cellular business and value-added services, fixed-line
+              voice and value-added services, fixed-line broadband and other Internet-related services, information and communication technology (ICT) services, business and data communications
+              services, and other related telecommunication business in 31 provinces, municipalities and autonomous regions in China.
             crunchbase: https://www.crunchbase.com/organization/china-unicom
+            twitter: https://twitter.com/ChinunicomOS
             extra:
               linkedin_url: https://www.linkedin.com/company/china-united-network-communications-group-co.-ltd.
           - item:
             name: F5, Inc.
-            description: >-
-              F5, headquartered in Seattle, Washington, is an application delivery networking company. They specialize in traffic optimization, security, cloud
-              services, and cloud software.
             homepage_url: https://f5.com/
             logo: f5_inc.svg
-            twitter: https://twitter.com/F5
+            description: F5, headquartered in Seattle, Washington, is an application delivery networking company. They specialize in traffic optimization, security, cloud services, and
+              cloud software.
             crunchbase: https://www.crunchbase.com/organization/f5-networks
+            twitter: https://twitter.com/F5
             extra:
               linkedin_url: https://www.linkedin.com/company/f5
           - item:
             name: Fujitsu Limited
-            description: >-
-              Fujitsu is the leading Japanese information and communication technology (ICT) company offering a full range of technology products, solutions and
-              services. Approximately 162, 000 Fujitsu people support customers in more than 100 countries. The company uses its experience and the power of ICT
-              to shape the future of society with its customers. Fujitsu Limited reported consolidated revenues of 4.8 trillion yen (US$46 billion) for the
-              fiscal year ended March 31, 2014. Fujitsu is the world's fourth largest IT services provider and No.1 in Japan. Fujitsu is among the world's top
-              five providers of servers. FORTUNE named Fujitsu as one of 'the World's Most Admired Companies' in 2013. Fujitsu Group holds about 97, 000 patents
-              worldwide. Fujitsu is part of the Dow Jones Sustainability Indexes (World), FTSE4Good Index Series, and Oekom research.
             homepage_url: https://fujitsu.com/
             logo: fujitsu_limited.svg
+            description: Fujitsu is the leading Japanese information and communication technology (ICT) company offering a full range of technology products, solutions and services.
+              Approximately 162, 000 Fujitsu people support customers in more than 100 countries. The company uses its experience and the power of ICT to shape the future of society
+              with its customers. Fujitsu Limited reported consolidated revenues of 4.8 trillion yen (US$46 billion) for the fiscal year ended March 31, 2014. Fujitsu is the world's
+              fourth largest IT services provider and No.1 in Japan. Fujitsu is among the world's top five providers of servers. FORTUNE named Fujitsu as one of 'the World's Most Admired
+              Companies' in 2013. Fujitsu Group holds about 97, 000 patents worldwide. Fujitsu is part of the Dow Jones Sustainability Indexes (World), FTSE4Good Index Series, and Oekom
+              research.
             crunchbase: https://www.crunchbase.com/organization/fujitsu
+            twitter: https://twitter.com/Fujitsu_Global
             extra:
               linkedin_url: https://www.linkedin.com/company/fujitsu-uk-and-ireland
           - item:
             name: Kubermatic GmbH
-            description: >-
-              As the Top 5 corporate committer to the Kubernetes Project in 2019, Kubermatic develops Kubermatic Kubernetes Platform to accelerate the cloud
-              native transformation. Leading enterprises including Lufthansa, Bosch, Siemens, and T-Systems trust Kubermatic on their cloud native journey.
-              Contact us
             homepage_url: https://kubermatic.com/
             logo: kubermatic_gmbh.svg
-            twitter: https://twitter.com/Kubermatic
+            description: As the Top 5 corporate committer to the Kubernetes Project in 2019, Kubermatic develops Kubermatic Kubernetes Platform to accelerate the cloud native transformation.
+              Leading enterprises including Lufthansa, Bosch, Siemens, and T-Systems trust Kubermatic on their cloud native journey. Contact us
             crunchbase: https://www.crunchbase.com/organization/loodse-gmbh
+            twitter: https://twitter.com/Kubermatic
             extra:
               linkedin_url: https://www.linkedin.com/company/kubermatic
           - item:
             name: MATRIXX Software
-            description: >-
-              MATRIXX Software, founded in 2008 delivers an innovative digital commerce solution that enables always-on customer engagement. Its patented
-              approach makes it possible for Digital Service Providers to simultaneously serve millions of customers, and process billions of customer
-              interactions, precisely and instantly. MATRIXX enables DSPs to build long-term strategic value through high-touch, digital customer relationships.
-              The company is headquartered in Saratoga, California.
             homepage_url: https://matrixx.com/
             logo: matrixx_software.svg
+            description: MATRIXX Software, founded in 2008 delivers an innovative digital commerce solution that enables always-on customer engagement. Its patented approach makes it
+              possible for Digital Service Providers to simultaneously serve millions of customers, and process billions of customer interactions, precisely and instantly. MATRIXX enables
+              DSPs to build long-term strategic value through high-touch, digital customer relationships. The company is headquartered in Saratoga, California.
             crunchbase: https://www.crunchbase.com/organization/matrixx-software
+            twitter: https://twitter.com/MATRIXX_SW
             extra:
               linkedin_url: https://www.linkedin.com/company/matrixx-software-inc-
           - item:
             name: NEC Corporation
-            description: >-
-              NEC Corporation is a provider of Internet, broadband network and enterprise business solutions. The company offers IT, network and cloud solutions
-              in addition to network, software, computer products and more. NEC is headquartered in Tokyo, Japan.
             homepage_url: https://nec.com/
             logo: nec_corporation.svg
-            twitter: https://twitter.com/NEC_corp
+            description: NEC Corporation is a provider of Internet, broadband network and enterprise business solutions. The company offers IT, network and cloud solutions in addition
+              to network, software, computer products and more. NEC is headquartered in Tokyo, Japan.
             crunchbase: https://www.crunchbase.com/organization/nec
+            twitter: https://twitter.com/NEC_corp
             extra:
               linkedin_url: https://www.linkedin.com/company/nec
           - item:
             name: OdineLabs
-            description: >-
-              OdineLabs specializes in developing AI-based automation and orchestration solutions for global telecom operators and enterprises, leveraging
-              machine learning and generative AI to enhance network capabilities and drive innovation in the telecommunicatio...
             homepage_url: https://odinelabs.com/
             logo: odinelabs.svg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/telecomoman
+            description: OdineLabs specializes in developing AI-based automation and orchestration solutions for global telecom operators and enterprises, leveraging machine learning
+              and generative AI to enhance network capabilities and drive innovation in the telecommunicatio...
             organization:
               name: OdineLabs
               linkedin: https://www.linkedin.com/company/telecomoman
+            extra:
+              linkedin_url: https://www.linkedin.com/company/telecomoman
           - item:
             name: Orange SA
-            description: >-
-              Orange is one of the world’s leading telecommunications operators with revenues of 39.7 billion euros in 2023 and 128,000 employees worldwide at
-              30 June 2024, including 72,000 employees in France. The Group has a total customer base of 285 million customers worldwide at 30 June 2024,
-              including 246 million mobile customers and 21 million fixed broadband customers. These figures have been restated to account for the
-              deconsolidation of certain activities in Spain following the creation of MASORANGE. The Group is present in 26 countries (including
-              non-consolidated countries).
-
-              Orange is also a leading provider of global IT and telecommunication services to multinational companies under the brand Orange Business. In
-              February 2023, the Group presented its strategic plan 'Lead the Future', built on a new business model and guided by responsibility and
-              efficiency. 'Lead the Future' capitalizes on network excellence to reinforce Orange's leadership in service quality.
-
-              Orange is listed on Euronext Paris (symbol ORA) and on the New York Stock Exchange (symbol ORAN).
-
-              For more information on the internet and on your mobile: www.orange.com, www.orange-business.com and the Orange News app or to follow us on X:
-              @presseorange.
-
-
-              Orange and any other Orange product or service names included in this material are trademarks of Orange or Orange Brand Services Limited.
             homepage_url: https://orange.com/
             logo: orange_sa.svg
+            description: |-
+              Orange is one of the world’s leading telecommunications operators with revenues of 39.7 billion euros in 2023 and 128,000 employees worldwide at 30 June 2024, including 72,000 employees in France. The Group has a total customer base of 285 million customers worldwide at 30 June 2024, including 246 million mobile customers and 21 million fixed broadband customers. These figures have been restated to account for the deconsolidation of certain activities in Spain following the creation of MASORANGE. The Group is present in 26 countries (including non-consolidated countries).
+              Orange is also a leading provider of global IT and telecommunication services to multinational companies under the brand Orange Business. In February 2023, the Group presented its strategic plan 'Lead the Future', built on a new business model and guided by responsibility and efficiency. 'Lead the Future' capitalizes on network excellence to reinforce Orange's leadership in service quality.
+              Orange is listed on Euronext Paris (symbol ORA) and on the New York Stock Exchange (symbol ORAN).
+              For more information on the internet and on your mobile: www.orange.com, www.orange-business.com and the Orange News app or to follow us on X: @presseorange.
+
+              Orange and any other Orange product or service names included in this material are trademarks of Orange or Orange Brand Services Limited.
             crunchbase: https://www.crunchbase.com/organization/orange
+            twitter: https://twitter.com/orange
             extra:
               linkedin_url: https://www.linkedin.com/company/orange-services
           - item:
             name: Robin Systems, Inc
-            description: >-
-              Robin transforms the way enterprise applications drive the infrastructure by bringing together purpose-built container-aware block storage with
-              application-aware manager into the cloud (private and/or public). This demonstrates unique benefits to distributed, clustered and stateful
-              applications including Big-Data and Databases. With a team that includes industry veterans from leading enterprise technology companies such as
-              NetApp, Oracle, and Veritas, Robin seeks to disrupt the $20 billion-plus virtualization market with its container-based compute and storage
-              platform software that delivers better performance higher consolidation and a much simpler application lifecycle management than traditional
-              hypervisor-based virtualization. Founded in 2013, the San Jose California-based company has raised more than $50 million in venture funding from
-              leading investors such as Clear Ventures, DN Capital, USAA, Hasso Plattner Ventures and CloudScale Capital Partners.
             homepage_url: https://robin.io/
             logo: robin_systems_inc.svg
+            description: Robin transforms the way enterprise applications drive the infrastructure by bringing together purpose-built container-aware block storage with application-aware
+              manager into the cloud (private and/or public). This demonstrates unique benefits to distributed, clustered and stateful applications including Big-Data and Databases.
+              With a team that includes industry veterans from leading enterprise technology companies such as NetApp, Oracle, and Veritas, Robin seeks to disrupt the $20 billion-plus
+              virtualization market with its container-based compute and storage platform software that delivers better performance higher consolidation and a much simpler application
+              lifecycle management than traditional hypervisor-based virtualization. Founded in 2013, the San Jose California-based company has raised more than $50 million in venture
+              funding from leading investors such as Clear Ventures, DN Capital, USAA, Hasso Plattner Ventures and CloudScale Capital Partners.
             crunchbase: https://www.crunchbase.com/organization/robin-systems
+            twitter: https://twitter.com/Robin4K8S
             extra:
               linkedin_url: https://www.linkedin.com/company/robin-systems
           - item:
             name: Sprint Corporation
-            description: >-
-              Sprint is a communications services company that creates more and better ways to connect its customers to the things they care about most. Sprint
-              served more than 59.4 million connections as of June 30, 2016 and is widely recognized for developing, engineering and deploying innovative
-              technologies, including the first wireless 4G service from a national carrier in the United States; leading no-contract brands including Virgin
-              Mobile USA, Boost Mobile, and Assurance Wireless; instant national and international push-to-talk capabilities; and a global Tier 1 Internet
-              backbone. Sprint is headquartered in Overland Park, Kansas.
             homepage_url: https://sprint.com/
             logo: sprint_corporation.svg
+            description: Sprint is a communications services company that creates more and better ways to connect its customers to the things they care about most. Sprint served more
+              than 59.4 million connections as of June 30, 2016 and is widely recognized for developing, engineering and deploying innovative technologies, including the first wireless
+              4G service from a national carrier in the United States; leading no-contract brands including Virgin Mobile USA, Boost Mobile, and Assurance Wireless; instant national
+              and international push-to-talk capabilities; and a global Tier 1 Internet backbone. Sprint is headquartered in Overland Park, Kansas.
             crunchbase: https://www.crunchbase.com/organization/t-mobile
+            twitter: https://twitter.com/TMobile
             extra:
               linkedin_url: https://www.linkedin.com/company/clearwire
           - item:
             name: Tata Communications Limited
-            description: Tata Communications Limited is an Indian telecommunications company.
             homepage_url: https://tatacommunications.com/
             logo: tata_communications_limited.svg
+            description: Tata Communications Limited is an Indian telecommunications company.
             crunchbase: https://www.crunchbase.com/organization/tata-communications
+            twitter: https://twitter.com/tata_comm
             extra:
               linkedin_url: https://www.linkedin.com/company/tata-communication
           - item:
             name: Telecom Italia Mobile (TIM) S.p.A.
-            description: >-
-              TIM SpA, also operating under the name Telecom Italia, is an Italian telecommunications company headquartered in Rome and Milan, which provides
-              telephony services, mobile services, and DSL data services.
             homepage_url: https://telecomitalia.com/
             logo: telecom_italia_mobile_tim_s_p_a.svg
+            description: TIM SpA, also operating under the name Telecom Italia, is an Italian telecommunications company headquartered in Rome and Milan, which provides telephony services,
+              mobile services, and DSL data services.
             crunchbase: https://www.crunchbase.com/organization/telecom-italia
             extra:
               linkedin_url: https://www.linkedin.com/company/tim
           - item:
             name: TELUS Corporation
-            description: Telus Communications Inc. is a subsidiary of Telus Corporation.
             homepage_url: https://telus.com/
             logo: telus_corporation.svg
-            twitter: https://twitter.com/TELUS
+            description: Telus Communications Inc. is a subsidiary of Telus Corporation.
             crunchbase: https://www.crunchbase.com/organization/telus
+            twitter: https://twitter.com/TELUS
             extra:
               linkedin_url: https://www.linkedin.com/company/telus
           - item:
             name: Wavelabs
-            description: >-
-              Wavelabs is an AI-First, new-age Technology company for the Digital, Cognitive & Industry 4.0 Era. We offer solutions that optimizes every aspect
-              of your technology evolution and business process, giving you the ‘Wavelabs Advantage’.
             homepage_url: https://wavelabs.ai/
             logo: wavelabs.svg
-            twitter: https://twitter.com/WavelabsTech
+            description: Wavelabs is an AI-First, new-age Technology company for the Digital, Cognitive & Industry 4.0 Era. We offer solutions that optimizes every aspect of your technology
+              evolution and business process, giving you the ‘Wavelabs Advantage’.
             crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
+            twitter: https://twitter.com/WavelabsTech
             extra:
               linkedin_url: https://www.linkedin.com/company/wavelabs-technologies-inc
           - item:
             name: Wind River Systems, Inc.
-            description: >-
-              Headquartered in Alameda, California, Wind River Systems develops embedded system software consisting of run-time software, industry-specific
-              software, simulation technology, development tools and middleware.
             homepage_url: https://windriver.com/
             logo: wind_river_systems_inc.svg
+            description: Headquartered in Alameda, California, Wind River Systems develops embedded system software consisting of run-time software, industry-specific software, simulation
+              technology, development tools and middleware.
             crunchbase: https://www.crunchbase.com/organization/wind-river
+            twitter: https://twitter.com/WindRiver
             extra:
               linkedin_url: https://www.linkedin.com/company/wind-river
           - item:
             name: ZTE Corporation
-            description: ZTE Corporation is a Chinese multinational telecommunications equipment and systems company headquartered in Shenzhen, Guangdong, China.
             homepage_url: https://zte.com.cn/
             logo: zte_corporation.svg
+            description: ZTE Corporation is a Chinese multinational telecommunications equipment and systems company headquartered in Shenzhen, Guangdong, China.
             crunchbase: https://www.crunchbase.com/organization/zte-corporation
+            twitter: https://twitter.com/ZTEPress
             extra:
               linkedin_url: https://www.linkedin.com/company/zte
       - subcategory:
@@ -1192,472 +1156,328 @@ landscape:
         items:
           - item:
             name: Beijing University of Posts and Telecommunications (BUPT)
-            description: >-
-              The Beijing University of Posts and Telecommunications is a key national university distinguished by the teaching and research in the field of
-              cable communications, wireless communications, computer, and electronic engineering.
             homepage_url: https://bupt.edu.cn/
             logo: beijing_university_of_posts_and_telecommunications_bupt.svg
+            description: The Beijing University of Posts and Telecommunications is a key national university distinguished by the teaching and research in the field of cable communications,
+              wireless communications, computer, and electronic engineering.
             crunchbase: https://www.crunchbase.com/organization/beijing-university-of-posts-and-telecommunications
             extra:
               linkedin_url: https://www.linkedin.com/company/beijing-university-of-posts-and-telecommunications
           - item:
             name: CENGN
-            description: >-
-              CENGN is a consortium of industry, academic and research leaders dedicated to accelerating commercialization in next generation communications
-              solutions.
             homepage_url: https://cengn.ca/
             logo: cengn.svg
-            twitter: https://twitter.com/CENGNCanada
+            description: CENGN is a consortium of industry, academic and research leaders dedicated to accelerating commercialization in next generation communications solutions.
             crunchbase: https://www.crunchbase.com/organization/cengn
+            twitter: https://twitter.com/CENGNCanada
             extra:
               linkedin_url: https://www.linkedin.com/company/cengn---centre-of-excellence-in-next-generation-networks-
           - item:
             name: China Academy of Information and Communications Technology (CAICT)
-            description: >-
-              Founded in 1957, the China Academy of Information and Communications Technology (hereinafter referred to as “CAICT”) is a scientific research
-              institute directly under the Ministry of Industry and Information Technology (MIIT) of China. While sticking to the positioning of “a specialized
-              think-tank for the government, and an innovation and development platform for the industry” and cherishing the cultural philosophy of “boosting
-              prosperity with virtues and expertise” for years, CAICT provides strong support for the industry’s major strategies,...
-
+            homepage_url: https://caict.ac.cn/
+            logo: china_academy_of_information_and_communications_technology_caict.svg
+            description: |-
+              Founded in 1957, the China Academy of Information and Communications Technology (hereinafter referred to as “CAICT”) is a scientific research institute directly under the Ministry of Industry and Information Technology (MIIT) of China. While sticking to the positioning of “a specialized think-tank for the government, and an innovation and development platform for the industry” and cherishing the cultural philosophy of “boosting prosperity with virtues and expertise” for years, CAICT provides strong support for the industry’s major strategies,...
 
               · Decision-Making Support
-
               · Test beds
-
               · Test and Certification
-
               · Consultancy
-
               · Regulation services
-
 
               Business Departments
 
-
               Policy and Economics Research Institute
-
               Technology and Standards Research Institute
-
               Industry and Planning Research Institute
-
               Cloud Computing & Big Data Research Institute
-
               Informatization and Industrialization Integration Research Institute
-
               Security Research Institute
-
               CTTL System Laboratory
-
               CTTL Terminal labs
-
               TL Certification Institute
-
               ICT Project Quota & Quality Supervision Center
-            homepage_url: https://caict.ac.cn/
-            logo: china_academy_of_information_and_communications_technology_caict.svg
             crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
           - item:
             name: CPQD
-            description: >-
-              A technology organization present in every step of the journey towards innovation: from the idea to its implementation. We passionately encourage
-              the creation of national technology. Ready to innovate, ready to transform the world.
             homepage_url: https://cpqd.com.br/
             logo: cpqd.svg
+            description: 'A technology organization present in every step of the journey towards innovation: from the idea to its implementation. We passionately encourage the creation
+              of national technology. Ready to innovate, ready to transform the world.'
             crunchbase: https://www.crunchbase.com/organization/cpqd
+            twitter: https://twitter.com/cpqd
             extra:
               linkedin_url: https://www.linkedin.com/company/cpqd
           - item:
             name: GRADIANT
-            description: >-
-              Gradiant, Centro Tecnológico de Telecomunicaciones de Galicia. Innovación en TIC para mejorar la competitividad de las empresas de cara al
-              mercado.
             homepage_url: https://gradiant.org/
             logo: gradiant.svg
-            twitter: https://twitter.com/Gradiant
+            description: Gradiant, Centro Tecnológico de Telecomunicaciones de Galicia. Innovación en TIC para mejorar la competitividad de las empresas de cara al mercado.
             crunchbase: https://www.crunchbase.com/organization/gradiant
+            twitter: https://twitter.com/Gradiant
             extra:
               linkedin_url: https://www.linkedin.com/company/gradiant
           - item:
             name: High School Technology Services
-            description: >-
-              OUR MISSION AND VALUES
-
-              Our future lies in the hands of students and teenagers. Educating a teenager is equivalent to educating a family and that in turn is equivalent to
-              educating the whole society. We strive to provide the highest quality information technology services to high schools, teenagers, and adults. From
-              creating websites to building computer labs, from offering counseling sessions to designing preparation programs, we aim to provide an assortment
-              of services to support the dreams of these teenagers, their parents and the schools.
-
-
-              our Mission
-
-              Our mission is to provide high schools with resources and facilities to foster student-teacher interactions and parent-teacher relationships to
-              improve student performance and high school efficiency.
-
-
-              our Values
-
-              Tangible Impacts: We believe in sincere and selfless contributions to improve the quality of education and youth life.
-
-              Simplicity: We agree with what Leonardo De Vinci says "Simplicity is the ultimate sophistication."
-
-              Honesty: We hold honesty in high regard because only true work can have a real impact.
-
-              Kindness: We sincerely believe in the power of goodness and kindness as Mark Twain put it "Kindness is a language that the deaf can hear and the
-              blind can see."
-
-              Genuine Friendship: We are genuinely committed to educating all students regardless of their age, nationality, gender, race, and background.
             homepage_url: https://myhsts.org/
             logo: high_school_technology_services.svg
-            twitter: https://twitter.com/MyHSTS
+            description: |-
+              OUR MISSION AND VALUES
+              Our future lies in the hands of students and teenagers. Educating a teenager is equivalent to educating a family and that in turn is equivalent to educating the whole society. We strive to provide the highest quality information technology services to high schools, teenagers, and adults. From creating websites to building computer labs, from offering counseling sessions to designing preparation programs, we aim to provide an assortment of services to support the dreams of these teenagers, their parents and the schools.
+
+              our Mission
+              Our mission is to provide high schools with resources and facilities to foster student-teacher interactions and parent-teacher relationships to improve student performance and high school efficiency.
+
+              our Values
+              Tangible Impacts: We believe in sincere and selfless contributions to improve the quality of education and youth life.
+              Simplicity: We agree with what Leonardo De Vinci says "Simplicity is the ultimate sophistication."
+              Honesty: We hold honesty in high regard because only true work can have a real impact.
+              Kindness: We sincerely believe in the power of goodness and kindness as Mark Twain put it "Kindness is a language that the deaf can hear and the blind can see."
+              Genuine Friendship: We are genuinely committed to educating all students regardless of their age, nationality, gender, race, and background.
             crunchbase: https://www.crunchbase.com/organization/high-school-technical-services
+            twitter: https://twitter.com/MyHSTS
             extra:
               linkedin_url: https://www.linkedin.com/company/techsavvy-coders
           - item:
             name: INSTITUTE FOR INFORMATION INDUSTRY
-            description: >-
-              The Institute for Information Industry was established in 1979 as a Non-Governmental Organization through the joint efforts of public and private
-              sectors, to support the development/applications of the information industry as well as the information so...
             homepage_url: https://iii.org.tw/
             logo: institute_for_information_industry.svg
+            description: The Institute for Information Industry was established in 1979 as a Non-Governmental Organization through the joint efforts of public and private sectors, to
+              support the development/applications of the information industry as well as the information so...
             crunchbase: https://www.crunchbase.com/organization/institute-for-information-industry-2
           - item:
             name: MEF Forum
-            description: >-
-              With over 200 leading member companies, including 130 service providers, The MEF is a California, USA registered 501 c (3) industry association
-              that is the enabling force for the development and implementation of agile, assured and orchestrated Third Network services for the digital
-              economy and the hyper-connected world. Third Network services are delivered over automated, virtualized, and interconnected networks globally
-              powered by Carrier Ethernet 2.0 (CE 2.0), Lifecycle Service Orchestration (LSO), SDN, and NFV.
+            homepage_url: https://mef.net/
+            logo: mef_forum.svg
+            description: |-
+              With over 200 leading member companies, including 130 service providers, The MEF is a California, USA registered 501 c (3) industry association that is the enabling force for the development and implementation of agile, assured and orchestrated Third Network services for the digital economy and the hyper-connected world. Third Network services are delivered over automated, virtualized, and interconnected networks globally powered by Carrier Ethernet 2.0 (CE 2.0), Lifecycle Service Orchestration (LSO), SDN, and NFV.
 
+              CE 2.0 is MEF��_��_s globally adopted services framework and the foundation for new services innovation. The current annual market for Carrier Ethernet products and services is approximately $80B.
 
-              CE 2.0 is MEF��_��_s globally adopted services framework and the foundation for new services innovation. The current annual market for Carrier
-              Ethernet products and services is approximately $80B.
+              The MEF is also facilitating industry neutral implementation environments for service orchestration (OpenLSO) and L2-L7 connectivity services (OpenCS) based on Open Source, SDN and NFV, as well as current commercial PNF products.
 
+              MEF��_��_s Certification Programs, established for over 10 years have led to certification of compliance with MEF standards by the majority of the industry��_��_s leading companies within the MEF membership.
 
-              The MEF is also facilitating industry neutral implementation environments for service orchestration (OpenLSO) and L2-L7 connectivity services
-              (OpenCS) based on Open Source, SDN and NFV, as well as current commercial PNF products.
-
-
-              MEF��_��_s Certification Programs, established for over 10 years have led to certification of compliance with MEF standards by the majority of the
-              industry��_��_s leading companies within the MEF membership.
-
-
-              Beyond certification, MEF provides a broad range of marketing capabilities that provide MEF member companies of all sizes in all geographic
-              locations with unique, powerful and very cost-effective customer-networking and profile-raising opportunities.
-
+              Beyond certification, MEF provides a broad range of marketing capabilities that provide MEF member companies of all sizes in all geographic locations with unique, powerful and very cost-effective customer-networking and profile-raising opportunities.
 
               Key benefits of membership for hardware and software solution providers include:
 
-
               Advance visibility into relevant industry technical standards developments
-
               Ability to influence standards to align with corporate objectives
-
               As a key contributor, achieve thought leadership in front of MEF��_��_s 130+ SP members
-
               Achieve corporate and individual visibility and recognition via participation in MEF Marketing activities (e.g. webinars and seminars)
-
               Leverage the MEF global community of peer contacts 
-
               Get your products certified
+              MEF members include Tier 1,2 and 3 service providers (approx.130), hardware and OSS/orchestration software providers, test labs and test equipment and test software providers. In 2016 and 2017, considerable growth from SDN and NFV technology providers is expected as our work increasingly leverages these technologies.
 
-              MEF members include Tier 1,2 and 3 service providers (approx.130), hardware and OSS/orchestration software providers, test labs and test equipment
-              and test software providers. In 2016 and 2017, considerable growth from SDN and NFV technology providers is expected as our work increasingly
-              leverages these technologies.
+              Membership is geographically dispersed with approximately 50% from North America, 23% APAC, 21% EMEA and 6% CALA. Africa and CALA will lead the regional growth as emerging markets move to interconnect with the global community using standardized CE 2.0 services.
 
+              The MEF membership meets quarterly and, between meetings, projects are progressed via a collaborative wiki workspace and online meetings (MEF provisions GoTo Meeting for all projects). Quarterly meetings take place in January, April, July/August and October each year. They are 4 days in duration and take place in North America (x3) and Europe (x1) with typically 150-250 people attending - including leading subject matter experts.
 
-              Membership is geographically dispersed with approximately 50% from North America, 23% APAC, 21% EMEA and 6% CALA. Africa and CALA will lead the
-              regional growth as emerging markets move to interconnect with the global community using standardized CE 2.0 services.
+              Not only are these very important meetings for influencing MEF work, but also for networking informally with industry thought leaders, subject matter experts in all fields and customers (actual or potential) during our cocktail receptions, corridor meetings and evening dinners. https://www.mef.net/news-events/mef-quarterly-meetings
 
-
-              The MEF membership meets quarterly and, between meetings, projects are progressed via a collaborative wiki workspace and online meetings (MEF
-              provisions GoTo Meeting for all projects). Quarterly meetings take place in January, April, July/August and October each year. They are 4 days in
-              duration and take place in North America (x3) and Europe (x1) with typically 150-250 people attending - including leading subject matter experts.
-
-
-              Not only are these very important meetings for influencing MEF work, but also for networking informally with industry thought leaders, subject
-              matter experts in all fields and customers (actual or potential) during our cocktail receptions, corridor meetings and evening dinners.
-              https://www.mef.net/news-events/mef-quarterly-meetings
-
-
-              There is a single category of membership ��_��_��_ Principal company membership with an annual fee of $17,250. There are no charges for quarterly
-              meetings or LSO Hackathon participation. There is no limit on the number of participating individuals for a given member company.
-
+              There is a single category of membership ��_��_��_ Principal company membership with an annual fee of $17,250. There are no charges for quarterly meetings or LSO Hackathon participation. There is no limit on the number of participating individuals for a given member company.
 
               See www.mef.net for more information and www.mef16.net for more information on MEF��_��_s flagship MEF16 conference
 
-
               --- Merged Data:
 
-
-              MEF provides a broad range of marketing, certification and business development capabilities that equip MEF member companies of all sizes in all
-              geographic locations with unique, powerful and very cost-effective customer-networking and profile-raising ...
-            homepage_url: https://mef.net/
-            logo: mef_forum.svg
-            twitter: https://twitter.com/MEF_Forum
+              MEF provides a broad range of marketing, certification and business development capabilities that equip MEF member companies of all sizes in all geographic locations with unique, powerful and very cost-effective customer-networking and profile-raising ...
             crunchbase: https://www.crunchbase.com/organization/mef
+            twitter: https://twitter.com/MEF_Forum
             extra:
               linkedin_url: https://www.linkedin.com/company/mef-forum
           - item:
             name: Ministry of Transport, Communications & Information Technology
-            description: >-
-              The Ministry of Transport, Communications and Information Technology supervises a number of national projects; Such as ports and airports that
-              connect the Sultanate with the countries of the outside world, and contribute to diversifying sources of income and achieving sustainable
-              development in various economic, industrial, commercial, tourism and other fields.
             homepage_url: https://mtcit.gov.om/
             logo: ministry_of_transport_communications_information_technology.svg
+            description: The Ministry of Transport, Communications and Information Technology supervises a number of national projects; Such as ports and airports that connect the Sultanate
+              with the countries of the outside world, and contribute to diversifying sources of income and achieving sustainable development in various economic, industrial, commercial,
+              tourism and other fields.
             crunchbase: https://www.crunchbase.com/organization/ministry-of-transport-communications
           - item:
             name: National Institute of Advanced Industrial Science and Technology(AIST)
-            description: 産業技術総合研究所は我が国最大級の公的研究機関として日本の産業や社会に役立つ技術の創出とその実用化や、革新的な技術シーズを事業化に繋げるための「橋渡し」機能に注力しています。
             homepage_url: https://aist.go.jp/
             logo: national_institute_of_advanced_industrial_science_and_technology_aist.svg
-            twitter: https://twitter.com/AIST_JP
+            description: 産業技術総合研究所は我が国最大級の公的研究機関として日本の産業や社会に役立つ技術の創出とその実用化や、革新的な技術シーズを事業化に繋げるための「橋渡し」機能に注力しています。
             crunchbase: https://www.crunchbase.com/organization/national-institute-of-advanced-industrial-science-and-technology
+            twitter: https://twitter.com/AIST_JP
             extra:
               linkedin_url: https://www.linkedin.com/company/aist
           - item:
             name: National Institute of Science Education and Research (NISER) Bhubaneswar
-            description: >-
-              NISER National Institute of Science Education and Research (NISER) is a center of excellence in science education and research, offering programs
-              in Biology, Chemistry, Mathematics, Physics, Computer Sciences, Earth and Planetary Sciences, and Humaniti...
-
+            homepage_url: https://niser.ac.in/
+            logo: national_institute_of_science_education_and_research_niser_bhubaneswar.svg
+            description: |-
+              NISER National Institute of Science Education and Research (NISER) is a center of excellence in science education and research, offering programs in Biology, Chemistry, Mathematics, Physics, Computer Sciences, Earth and Planetary Sciences, and Humaniti...
 
               --- Merged Data:
 
-
-              NISER National Institute of Science Education and Research (NISER) is a center of excellence in science education and research, offering programs
-              in Biology, Chemistry, Mathematics, Physics, Computer Sciences, Earth and Planetary Sciences, and Humaniti...
-            homepage_url: https://niser.ac.in/
-            logo: national_institute_of_science_education_and_research_niser_bhubaneswar.svg
+              NISER National Institute of Science Education and Research (NISER) is a center of excellence in science education and research, offering programs in Biology, Chemistry, Mathematics, Physics, Computer Sciences, Earth and Planetary Sciences, and Humaniti...
             organization:
               name: National Institute of Science Education and Research (NISER) Bhubaneswar
           - item:
             name: Okinawa Open Laboratory
-            description: OkinawaOpenDays 2018(12/3-6)開催！    https://t.co/4G17IbLj7l    沖縄でSDN・クラウドの各種機器によるテスト環境の構築や研究、沖縄県内を中心としたICTセミナーやハンズオン研修による人材育成を行っています🌺
             homepage_url: https://okinawaopenlabs.org/
             logo: okinawa_open_laboratory.svg
-            twitter: https://twitter.com/OkinawaOpenLab
+            description: OkinawaOpenDays 2018(12/3-6)開催！    https://t.co/4G17IbLj7l    沖縄でSDN・クラウドの各種機器によるテスト環境の構築や研究、沖縄県内を中心としたICTセミナーやハンズオン研修による人材育成を行っています🌺
             crunchbase: https://www.crunchbase.com/organization/open-network-lab
-          - item:
-            name: Open Networking Foundation
-            description: >-
-              The Open Networking Foundation leverages SDN principles and disaggregation, using open source platforms and defined standards to build operator
-              networks
-            homepage_url: https://opennetworking.org/
-            logo: open_networking_foundation.svg
-            crunchbase: https://www.crunchbase.com/organization/open-networking-foundation
-            extra:
-              linkedin_url: https://www.linkedin.com/company/open-networking-foundation
+            twitter: https://twitter.com/OkinawaOpenLab
           - item:
             name: OpenAirInterface Software Alliance (OSA)
-            description: >-
-              About us
-
-              The OpenAirInterface Software Alliance (OSA) is a non-profit consortium to develop ecosystem for open source software/hardware development for the
-              core network (EPC) and access-network (EUTRAN) of 3GPP cellular networks. The Alliance sponsors the initial work of EURECOM to create
-              OpenAirInterfaceTM towards development of 5G Cellular Stack on commercial off-the-shelf (COTS) hardware.
-
-              Established in 2014, the OSA is a French non-profit organization (“Fonds De Dotation”), funded by corporate sponsors.
-
-
-              Recent updateSee all See all recent updates
-
-              Image accompanying recent update
-
-              5th and final day of Fujitsu colleagues’ visit. Today we conclude the FDD and TDD Continuous Integration benches and run UE attach-ping-detach and
-              plan end of August goals @EURECOM @OpenCellular base station can also be seen on the right . Relaxing after a hard day’s work in the second
-              picture 😎
-
-
-              14 Likes
-
-              Company details
-
-              Website
-
-              http://openairinterface.org
-
-              Headquarters
-
-              Biot
-
-
-              Year founded
-
-              2014
-
-
-              Company type
-
-              Nonprofit
-
-
-              Company size
-
-              2-10 employees
-
-              Specialties
-
-              LTE / LTE-Advanced, open source, C-RAN, NFV, Software Defined Networking, and 5G Wireless
             homepage_url: https://openairinterface.org/
             logo: openairinterface_software_alliance_osa.svg
+            description: |-
+              About us
+              The OpenAirInterface Software Alliance (OSA) is a non-profit consortium to develop ecosystem for open source software/hardware development for the core network (EPC) and access-network (EUTRAN) of 3GPP cellular networks. The Alliance sponsors the initial work of EURECOM to create OpenAirInterfaceTM towards development of 5G Cellular Stack on commercial off-the-shelf (COTS) hardware.
+              Established in 2014, the OSA is a French non-profit organization (“Fonds De Dotation”), funded by corporate sponsors.
+
+              Recent updateSee all See all recent updates
+              Image accompanying recent update
+              5th and final day of Fujitsu colleagues’ visit. Today we conclude the FDD and TDD Continuous Integration benches and run UE attach-ping-detach and plan end of August goals @EURECOM @OpenCellular base station can also be seen on the right . Relaxing after a hard day’s work in the second picture 😎
+
+              14 Likes
+              Company details
+              Website
+              http://openairinterface.org
+              Headquarters
+              Biot
+
+              Year founded
+              2014
+
+              Company type
+              Nonprofit
+
+              Company size
+              2-10 employees
+              Specialties
+              LTE / LTE-Advanced, open source, C-RAN, NFV, Software Defined Networking, and 5G Wireless
             twitter: https://twitter.com/osalliance5g
-            extra:
-              linkedin_url: https://www.linkedin.com/company/openairinterface
             organization:
               name: OpenAirInterface Software Alliance (OSA)
               linkedin: https://www.linkedin.com/company/openairinterface
+            extra:
+              linkedin_url: https://www.linkedin.com/company/openairinterface
+          - item:
+            name: Open Networking Foundation
+            homepage_url: https://opennetworking.org/
+            logo: open_networking_foundation.svg
+            description: The Open Networking Foundation leverages SDN principles and disaggregation, using open source platforms and defined standards to build operator networks
+            crunchbase: https://www.crunchbase.com/organization/open-networking-foundation
+            twitter: https://twitter.com/ONF_SDN
+            extra:
+              linkedin_url: https://www.linkedin.com/company/open-networking-foundation
           - item:
             name: Penn State
-            description: >-
-              Penn State University is a multicampus state-related, land-grant, space-grant public research university with campuses and facilities throughout
-              Pennsylvania.
             homepage_url: https://psu.edu/
             logo: penn_state.svg
+            description: Penn State University is a multicampus state-related, land-grant, space-grant public research university with campuses and facilities throughout Pennsylvania.
             crunchbase: https://www.crunchbase.com/organization/pennsylvania-state-university-main-campus
+            twitter: https://twitter.com/penn_state
             extra:
               linkedin_url: https://www.linkedin.com/company/penn-state-small-business-development-center
           - item:
-            name: SDN/NFV Industry Alliance
-            description: >-
-              SDN/NFV Industry Alliance was founded on November 4, 2014 by China Academy of Information and Communications Technology (CAICT) together with 15
-              organizations in the industry. Guided by the principle of "openness, innovation, collaboration, implementation", the alliance focuses on
-              increasing the readiness in SDN commercial utilization and promoting the healthy development of the SDN industry.
-            homepage_url: https://sdnfvia.com/
-            logo: sdn_nfv_industry_alliance.svg
-            organization:
-              name: SDN/NFV Industry Alliance
-          - item:
             name: SDNLAB
-            description: >-
-              about us
-
-              Introduction
-
-              SDNLAB is a pioneering media and practice platform focused on network innovation technologies, covering SDN/NFV, NetDevOps, 5G, Internet of
-              Things, cyber security, cloud computing, big data, artificial intelligence and other related fields, providing industry news, opinions, and
-              technical analysis articles. , free online experimental environment, job recruitment, education and training, program consulting, venture
-              financing and other multi-services. Through online and offline activities, SDNLAB disseminates and shares valuable content, helps and encourages
-              network innovation practices, and promotes the development of network innovation technologies. It is currently the first online vertical media in
-              China.
-
-
-              article
-
-              Cover domestic and foreign news viewpoint technology and interpret frontier technology trends
-
-
-              activity
-
-              Seamlessly connect online and offline, face-to-face communication technology to expand contacts
-
-
-              Education and training
-
-              Industry cattle people teach online, everything from theory to actual combat
-
-
-              experiment platform
-
-              One-click easy to build environment, SDN experiment online free of charge
-
-
-              Job recruitment
-
-              Focus on network innovation technology recruitment, precision positioning hit a hit
-
-
-              Vendor area
-
-              Bring together network innovation products to build bridges for communication and cooperation
-
-
-              Knowledge community
-
-              Professional online question and answer community, expert answer
-
-
-              Is planning...
-
-              Program consulting, open class, online store, venture financing
-
-
-              user
-
-              Accurately cover hundreds of thousands of network-related employees at home and abroad, from CXO level to ordinary engineers, university
-              professors to students, industry leading companies to start-up companies, and the user base covers the entire industrial ecological chain and the
-              integration of production, education and research. 
-
-              The user composition structure includes chip manufacturers, device manufacturers, system integrators, operators, Internet companies, cloud service
-              providers, network start-up companies, research institutes, venture capital institutions, and enthusiasts.
-
-
-              contact us
-
-              Tel: 025-57926169 
-
-              Mobile: 13770307243 
-
-              Contact Person: Chen Mingrong 
-
-              E-mail: service@sdnlab.com 
-
-              Zip Code: 211100 
-
-              Address: No. 9, East Zhou Road, Jiangning District, Nanjing City, Jiangsu Province
             homepage_url: https://sdnlab.com/
             logo: sdnlab.svg
+            description: |-
+              about us
+              Introduction
+              SDNLAB is a pioneering media and practice platform focused on network innovation technologies, covering SDN/NFV, NetDevOps, 5G, Internet of Things, cyber security, cloud computing, big data, artificial intelligence and other related fields, providing industry news, opinions, and technical analysis articles. , free online experimental environment, job recruitment, education and training, program consulting, venture financing and other multi-services. Through online and offline activities, SDNLAB disseminates and shares valuable content, helps and encourages network innovation practices, and promotes the development of network innovation technologies. It is currently the first online vertical media in China.
+
+              article
+              Cover domestic and foreign news viewpoint technology and interpret frontier technology trends
+
+              activity
+              Seamlessly connect online and offline, face-to-face communication technology to expand contacts
+
+              Education and training
+              Industry cattle people teach online, everything from theory to actual combat
+
+              experiment platform
+              One-click easy to build environment, SDN experiment online free of charge
+
+              Job recruitment
+              Focus on network innovation technology recruitment, precision positioning hit a hit
+
+              Vendor area
+              Bring together network innovation products to build bridges for communication and cooperation
+
+              Knowledge community
+              Professional online question and answer community, expert answer
+
+              Is planning...
+              Program consulting, open class, online store, venture financing
+
+              user
+              Accurately cover hundreds of thousands of network-related employees at home and abroad, from CXO level to ordinary engineers, university professors to students, industry leading companies to start-up companies, and the user base covers the entire industrial ecological chain and the integration of production, education and research. 
+              The user composition structure includes chip manufacturers, device manufacturers, system integrators, operators, Internet companies, cloud service providers, network start-up companies, research institutes, venture capital institutions, and enthusiasts.
+
+              contact us
+              Tel: 025-57926169 
+              Mobile: 13770307243 
+              Contact Person: Chen Mingrong 
+              E-mail: service@sdnlab.com 
+              Zip Code: 211100 
+              Address: No. 9, East Zhou Road, Jiangning District, Nanjing City, Jiangsu Province
             twitter: https://twitter.com/SDNLAB
-            extra:
-              linkedin_url: https://www.linkedin.com/company/sdnlab
             organization:
               name: SDNLAB
               linkedin: https://www.linkedin.com/company/sdnlab
+            extra:
+              linkedin_url: https://www.linkedin.com/company/sdnlab
+          - item:
+            name: SDN/NFV Industry Alliance
+            homepage_url: https://sdnfvia.com/
+            logo: sdn_nfv_industry_alliance.svg
+            description: SDN/NFV Industry Alliance was founded on November 4, 2014 by China Academy of Information and Communications Technology (CAICT) together with 15 organizations
+              in the industry. Guided by the principle of "openness, innovation, collaboration, implementation", the alliance focuses on increasing the readiness in SDN commercial utilization
+              and promoting the healthy development of the SDN industry.
+            organization:
+              name: SDN/NFV Industry Alliance
           - item:
             name: Trinity College Dublin
-            description: >-
-              2577 Trinity College, officially the College of the Holy and Undivided Trinity of Queen Elizabeth near Dublin, is the sole constituent college of
-              the University of Dublin, a research university located in Dublin, Ireland.
-
+            homepage_url: https://tcd.ie/
+            logo: trinity_college_dublin.svg
+            description: |-
+              2577 Trinity College, officially the College of the Holy and Undivided Trinity of Queen Elizabeth near Dublin, is the sole constituent college of the University of Dublin, a research university located in Dublin, Ireland.
 
               --- Merged Data:
 
-
-              Trinity College Dublin, established in 1592, is Ireland's prestigious university offering diverse programs in arts, sciences, and health with a
-              global student community and a focus on academic excellence.
-            homepage_url: https://tcd.ie/
-            logo: trinity_college_dublin.svg
+              Trinity College Dublin, established in 1592, is Ireland's prestigious university offering diverse programs in arts, sciences, and health with a global student community and a focus on academic excellence.
             crunchbase: https://www.crunchbase.com/organization/trinity-college-dublin
+            twitter: https://twitter.com/tcddublin
             extra:
               linkedin_url: https://www.linkedin.com/company/trinity-college-dublin
           - item:
             name: UNH InterOperability Lab
-            description: >-
-              The University of New Hampshire InterOperability Laboratory (UNH-IOL) tests networking and data communications products. Since 1988, the
-              laboratory has fostered multi-vendor interoperability while preparing students for careers in the industry. The laboratory has grown steadily into
-              one of the industry's premier independent proving grounds for new technologies.
             homepage_url: https://iol.unh.edu/
             logo: unh_interoperability_lab.svg
-            twitter: https://twitter.com/UofNH
+            description: The University of New Hampshire InterOperability Laboratory (UNH-IOL) tests networking and data communications products. Since 1988, the laboratory has fostered
+              multi-vendor interoperability while preparing students for careers in the industry. The laboratory has grown steadily into one of the industry's premier independent proving
+              grounds for new technologies.
             crunchbase: https://www.crunchbase.com/organization/interoperability-laboratory
+            twitter: https://twitter.com/UofNH
             extra:
               linkedin_url: https://www.linkedin.com/company/university-of-new-hampshire
           - item:
             name: University of New Hampshire
-            description: >-
-              The University of New Hampshire is a public university and is apart of the University System of New Hampshire. With over 15,000 students, UNH is
-              the largest university in New Hampshire.
             homepage_url: https://unh.edu/
             logo: university_of_new_hampshire.svg
+            description: The University of New Hampshire is a public university and is apart of the University System of New Hampshire. With over 15,000 students, UNH is the largest
+              university in New Hampshire.
             crunchbase: https://www.crunchbase.com/organization/university-of-new-hampshire
+            twitter: https://twitter.com/UofNH
             extra:
               linkedin_url: https://www.linkedin.com/company/university-of-new-hampshire
           - item:
             name: University of Surrey
-            description: The University of Surrey is a public research university in Guildford, England.
             homepage_url: https://surrey.ac.uk/
             logo: university_of_surrey.svg
+            description: The University of Surrey is a public research university in Guildford, England.
             crunchbase: https://www.crunchbase.com/organization/university-of-surrey
+            twitter: https://twitter.com/UniOfSurrey
             extra:
               linkedin_url: https://www.linkedin.com/company/university-of-surrey
   - category:
@@ -2047,7 +1867,7 @@ landscape:
               checksum: 669a5ae0a71ec99aaaa022b71d25fc36a1ab2c6c6aaaafc752ceb303e4cf0741
               product_version: 0.4.11
               version: '2019.12'
-              verification_date: 2020-03-17T00:00:00.000Z
+              verification_date: 2020-03-17T00:00:00Z
           - item:
             name: Content Service Module
             homepage_url: https://www.affirmednetworks.com
@@ -2061,4 +1881,4 @@ landscape:
               checksum: 372393d689d1cfa52877d7fb77ed54642589edf2e818a3bb8b65f0567f7d507a
               product_version: 9
               version: '2019.12'
-              verification_date: 2020-05-19T00:00:00.000Z
+              verification_date: 2020-05-19T00:00:00Z
