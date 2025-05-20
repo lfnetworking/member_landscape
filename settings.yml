@@ -1,50 +1,30 @@
 global:
-  # name of the landscape
   name: LFN Landscape
-  # shortname
   short_name: LFN
-  # repo where this landscape is hosted ( minus the https://github.com part )
   repo: lfnetworking/member_landscape
-  # URL to the landscape
   website: https://landscape.lfnetworking.org
-  # Short domain name for the landscape (usually this would change 'l' for 'landscape'
   short_domain: landscape.lfnetworking.org
-  # Your project's website
   company_url: https://lfnetworking.org
-  # General contact email for the landscape
   email: info@lfnetworking.org
-  # Crunchbase entry for your project
-
   self: https://www.crunchbase.com/organization/lf-networking
-  # Slack channel for posting build updates
   slack_channel: T02H1G4T9/B01S2SBK81G/iQb9UtQn04EbF0d57xT8vkeM
   meta:
-    # Should match name above
     title: Linux Foundation Networking Landscape
-    # keep this
     fb_admin: alex.contini.94
-    # site description
     description: Filter and sort by LFN membership level
-    # your project's twitter
     twitter: '@LF_Networking'
-    # update if needed
     google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
-  # Category for members
   membership: LF Networking Member Roster
-  # Required for private repos
   skip_funding: true
-  # Update for the categories where you won't be showing the open source license ( typically done for members or conformance program members )
   flags:
     hide_license_for_categories:
       - Linux Foundation Networking
-    companies:
-# Data for the twitter card
+    companies: null
 twitter:
   search: landscape.lfnetworking.org
   url: https://landscape.lfnetworking.org
   text: LFN Landscape
-# Complete this section for identifying hosted projects of your project, along with member projects
 relation:
   label: LFN Projects
   url: https://www.lfnetworking.org/
@@ -115,7 +95,6 @@ relation:
     - id: false
       label: Non-LF Networking Members Projects/Products
       url: 'no'
-# membership levels
 membership:
   Platinum:
     name: LFN
@@ -140,20 +119,16 @@ membership:
   'false':
     funding: 'No'
 home:
-  # update to change the header text
   header: >
     <h1>Linux Foundation Networking Landscape</h1> The LFN Landscape (<a target="_blank" href="images/left-logo.svg">svg</a>, <a target="_blank"
     href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a href="http://landscape.cncf.io">CNCF landscape</a> and based
     on the same open source code.
-  # don't change this
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
-# ads for the landscape. Good opportunity to advertise your project events
 ads:
   - url: https://events.linuxfoundation.org/one-summit-north-america/
     image: /images/ONE_Summit_2023_400x400.png
     title: ONE Summit 2024
-# preset searches
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
     label: Open source cards by age
@@ -163,16 +138,13 @@ presets:
     label: Cards by stars
   - url: /format=card-mode&grouping=no&sort=amount
     label: Cards by MCap/Funding
-# sets the rendering of the landscape
 big_picture:
-  # this is for the main page
   main:
     tab_index: -1
     url: landscape
     name: Landscape
     title: LFN Landscape
     fullscreen_header: See the interactive landscape at <yet to be defined>
-    # add one element for each category in landscape.yml
     elements:
       - type: HorizontalCategory
         category: LF Networking Projects
@@ -258,7 +230,6 @@ big_picture:
         left: 1250
         color: rgb(38,115,57)
         fit_width: true
-      # this is a landscape info box; good idea to keep this one
       - type: LandscapeInfo
         width: 320
         height: 160
@@ -340,8 +311,9 @@ big_picture:
         left: 800
         children:
           - type: text
-            text: |
-              The 5GSBP is the central reference point for completed 5GSBP integration projects. 5G Super Blueprint Library here:  https://lf-networking.atlassian.net/wiki/x/CnHv
+            text: >
+              The 5GSBP is the central reference point for completed 5GSBP integration projects. 5G Super Blueprint Library here: 
+              https://lf-networking.atlassian.net/wiki/x/CnHv
             top: 30
             left: 100
             right: 10
@@ -358,12 +330,9 @@ big_picture:
             left: 30
             top: 10
             title: LFN Logo
-# test to make sure the build worked. Identify one landscape item that you know will always be there, preferably towards the top of the rendering
 test:
   header: Linux Foundation Networking Landscape
   section: LF Networking Members
   logo: google-llc.svg
-# if you have a common view, create a pre-render to speed the render time up
 prerender:
-  # good pre-render to always have; embedable member logo list for a website. Renders to /pages/members
   members: /card-mode?category=lf-networking-member-roster&grouping=category&embed=yes&style=borderless

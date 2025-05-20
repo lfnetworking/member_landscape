@@ -6,18 +6,14 @@ landscape:
         name: LF Networking Projects
         items:
           - item:
-            name: Anuket
-            allow_duplicate_repo: true
-            homepage_url: https://anuket.io/
-            logo: anuket-01.svg
-            project: lfn
             hideProjectTag: true
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/anuket
-            repo_url: https://github.com/opnfv/vineperf
+            name: Anuket
             description: |
               A common model, standardized reference infrastructure
               specifications, and conformance and performance frameworks for VNFs & CNFs.
+            homepage_url: https://anuket.io/
+            project: lfn
+            repo_url: https://github.com/opnfv/vineperf
             additional_repos:
               - repo_url: https://github.com/opnfv/kuberef
               - repo_url: https://github.com/opnfv/functest
@@ -25,28 +21,26 @@ landscape:
               - repo_url: https://github.com/opnfv/functest-xtesting
               - repo_url: https://github.com/opnfv/cirv-sdv
               - repo_url: https://github.com/opnfv/barometer
-          - item:
-            name: CNTi
+            logo: anuket-01.svg
+            crunchbase: https://www.crunchbase.com/organization/anuket
             allow_duplicate_repo: true
-            homepage_url: https://lfnetworking.org/cloud-native-telecom-initiative/
-            logo: CNTi_logo_COLOR.svg
-            project: lfn
+          - item:
             hideProjectTag: true
+            name: CNTi
+            description: (CNTI) brings telco networking and cloud native thought leaders together to advance cloud native networking confidence and adoption.
+            homepage_url: https://lfnetworking.org/cloud-native-telecom-initiative/
+            project: lfn
+            logo: CNTi_logo_COLOR.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/cloud-native-telecom-initiative-cnti
-            description: 
-              (CNTI) brings telco networking and cloud native thought leaders together to advance cloud native networking confidence and adoption.
+            allow_duplicate_repo: true
           - item:
-            name: FD.io
-            homepage_url: https://fd.io/
-            logo: logo_fdio.svg
-            project: lfn
             hideProjectTag: true
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/fd-io
+            name: FD.io
+            description: Open Source high-performance IO services framework for dynamic computing environments.
+            homepage_url: https://fd.io/
+            project: lfn
             repo_url: https://github.com/FDio/archived-deb_dpdk
-            description:
-              Open Source high-performance IO services framework for dynamic computing environments.
             additional_repos:
               - repo_url: https://github.com/FDio/archived-dmm
               - repo_url: https://github.com/FDio/archived-honeycomb
@@ -68,19 +62,68 @@ landscape:
               - repo_url: https://github.com/FDio/tldk
               - repo_url: https://github.com/FDio/vpp
               - repo_url: https://github.com/FDio/vsap
-          - item:
-            name: ONAP
-            allow_duplicate_repo: true
-            homepage_url: https://www.onap.org/
-            logo: onap_logo.svg
-            project: lfn
-            hideProjectTag: true
+            logo: logo_fdio.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/onap
-            repo_url: https://github.com/onap/aaf-authz
+            crunchbase: https://www.crunchbase.com/organization/fd-io
+          - item:
+            hideProjectTag: true
+            name: L3AF
+            description: |
+              L3AF is an eBPF based platform enabling network functions a service.
+            homepage_url: https://l3af.io/
+            project: lfn
+            logo: L3AF_logo.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/l3af
+            allow_duplicate_repo: true
+          - item:
+            hideProjectTag: true
+            name: Nephio
+            description: >
+              The Nephio project is building a Kubernetes-based automation platform for deploying and managing highly distributed, interconnected workloads such
+              as 5G Network Functions, and the underlying infrastructure on which those workloads depend.
+            homepage_url: https://nephio.org
+            project: lfn
+            repo_url: https://github.com/nephio-project/nephio
+            additional_repos:
+              - repo_url: https://github.com/nephio-project/test-infra
+              - repo_url: https://github.com/nephio-project/api
+              - repo_url: https://github.com/nephio-project/nephio-example-packages
+              - repo_url: https://github.com/nephio-project/oai
+              - repo_url: https://github.com/nephio-project/free5gc
+              - repo_url: https://github.com/nephio-project/governance
+              - repo_url: https://github.com/nephio-project/nephio-sdk
+              - repo_url: https://github.com/nephio-project/docs
+              - repo_url: https://github.com/nephio-project/catalog
+              - repo_url: https://github.com/nephio-project/nephio-packages
+              - repo_url: https://github.com/nephio-project/one-summit-22-workshop
+              - repo_url: https://github.com/nephio-project/nephio-test-prow-project
+              - repo_url: https://github.com/nephio-project/free5gc-packages
+              - repo_url: https://github.com/nephio-project/kpt-backstage-plugins
+              - repo_url: https://github.com/nephio-project/sig-release
+              - repo_url: https://github.com/nephio-project/edge-status-aggregator
+              - repo_url: https://github.com/nephio-project/nf-deploy-controller
+              - repo_url: https://github.com/nephio-project/nephio-pocs
+              - repo_url: https://github.com/nephio-project/free5gc-1
+              - repo_url: https://github.com/nephio-project/edge-watcher
+              - repo_url: https://github.com/nephio-project/nephio-functions
+              - repo_url: https://github.com/nephio-project/nephio-controller-poc
+              - repo_url: https://github.com/nephio-project/common-lib
+              - repo_url: https://github.com/nephio-project/nephio-poc
+              - repo_url: https://github.com/nephio-project/sig-network-architecture
+            logo: Nephio_logo_colorblack_horizontal.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/nephio
+            allow_duplicate_repo: true
+          - item:
+            hideProjectTag: true
+            name: ONAP
             description: |
               A comprehensive platform for orchestration, management, and automation
               of network and edge computing services.
+            homepage_url: https://www.onap.org/
+            project: lfn
+            repo_url: https://github.com/onap/aaf-authz
             additional_repos:
               - repo_url: https://github.com/onap/aaf-cadi
               - repo_url: https://github.com/onap/aaf-certservice
@@ -369,14 +412,17 @@ landscape:
               - repo_url: https://github.com/onap/vvp-regression-tests
               - repo_url: https://github.com/onap/vvp-test-engine
               - repo_url: https://github.com/onap/vvp-validation-scripts
-          - item:
-            name: Opendaylight
-            homepage_url: https://www.opendaylight.org/
-            logo: opendaylight_logo.svg
-            project: lfn
-            hideProjectTag: true
+            logo: onap_logo.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/opendaylight
+            crunchbase: https://www.crunchbase.com/organization/onap
+            allow_duplicate_repo: true
+          - item:
+            hideProjectTag: true
+            name: Opendaylight
+            description: |
+              Open source SDN Controller with largest ecosystem and deployment footprint.
+            homepage_url: https://www.opendaylight.org/
+            project: lfn
             repo_url: https://github.com/opendaylight/aaa
             additional_repos:
               - repo_url: https://github.com/opendaylight/alt-datastores
@@ -479,70 +525,21 @@ landscape:
               - repo_url: https://github.com/opendaylight/yang-push
               - repo_url: https://github.com/opendaylight/yangide
               - repo_url: https://github.com/opendaylight/yangtools
-            description: |
-              Open source SDN Controller with largest ecosystem and deployment footprint.
-          - item:
-            name: Nephio
-            allow_duplicate_repo: true
-            homepage_url: https://nephio.org
-            logo: Nephio_logo_colorblack_horizontal.svg
-            project: lfn
-            hideProjectTag: true
-            crunchbase: https://www.crunchbase.com/organization/nephio
+            logo: opendaylight_logo.svg
             twitter: https://twitter.com/LF_Networking
-            repo_url: https://github.com/nephio-project/nephio
-            additional_repos:
-              - repo_url: https://github.com/nephio-project/test-infra
-              - repo_url: https://github.com/nephio-project/api
-              - repo_url: https://github.com/nephio-project/nephio-example-packages
-              - repo_url: https://github.com/nephio-project/oai
-              - repo_url: https://github.com/nephio-project/free5gc
-              - repo_url: https://github.com/nephio-project/governance
-              - repo_url: https://github.com/nephio-project/nephio-sdk
-              - repo_url: https://github.com/nephio-project/docs
-              - repo_url: https://github.com/nephio-project/catalog
-              - repo_url: https://github.com/nephio-project/nephio-packages
-              - repo_url: https://github.com/nephio-project/one-summit-22-workshop
-              - repo_url: https://github.com/nephio-project/nephio-test-prow-project
-              - repo_url: https://github.com/nephio-project/free5gc-packages
-              - repo_url: https://github.com/nephio-project/kpt-backstage-plugins
-              - repo_url: https://github.com/nephio-project/sig-release
-              - repo_url: https://github.com/nephio-project/edge-status-aggregator
-              - repo_url: https://github.com/nephio-project/nf-deploy-controller
-              - repo_url: https://github.com/nephio-project/nephio-pocs
-              - repo_url: https://github.com/nephio-project/free5gc-1
-              - repo_url: https://github.com/nephio-project/edge-watcher
-              - repo_url: https://github.com/nephio-project/nephio-functions
-              - repo_url: https://github.com/nephio-project/nephio-controller-poc
-              - repo_url: https://github.com/nephio-project/common-lib
-              - repo_url: https://github.com/nephio-project/nephio-poc
-              - repo_url: https://github.com/nephio-project/sig-network-architecture
-            description: >
-              The Nephio project is building a Kubernetes-based automation platform for deploying and managing highly distributed, interconnected workloads such
-              as 5G Network Functions, and the underlying infrastructure on which those workloads depend.
+            crunchbase: https://www.crunchbase.com/organization/opendaylight
           - item:
+            hideProjectTag: true
             name: Paraglider
-            allow_duplicate_repo: true
-            homepage_url: https://paragliderproject.io
-            logo: paraglider-logo.svg
-            project: lfn
-            hideProjectTag: true
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/paraglider
-            repo_url: https://github.com/paraglider-project/paraglider
             description: |
               Paraglider is a cross-cloud control plane for configuring cloud networks.
-          - item:
-            name: L3AF
-            allow_duplicate_repo: true
-            homepage_url: https://l3af.io/
-            logo: L3AF_logo.svg
+            homepage_url: https://paragliderproject.io
             project: lfn
-            hideProjectTag: true
+            repo_url: https://github.com/paraglider-project/paraglider
+            logo: paraglider-logo.svg
             twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/l3af
-            description: |
-              L3AF is an eBPF based platform enabling network functions a service.
+            crunchbase: https://www.crunchbase.com/organization/paraglider
+            allow_duplicate_repo: true
   - category:
     name: Other Linux Foundation Hosted Networking Projects
     subcategories:
@@ -550,68 +547,68 @@ landscape:
         name: Other Linux Foundation Hosted Networking Projects
         items:
           - item:
+            hideProjectTag: true
+            name: Camara
+            description: |
+              4G/5G network capabilities exposed through APIs provide a large benefit for customers.
+            homepage_url: http://camaraproject.org/
+            logo: Camara Logo Color.svg
+            crunchbase: https://www.crunchbase.com/organization/camara-project
+          - item:
+            hideProjectTag: true
             name: DANOS
             homepage_url: https://www.danosproject.org/
             logo: danos-2-01.svg
             crunchbase: https://www.crunchbase.com/organization/danos
-            hideProjectTag: true
           - item:
+            hideProjectTag: true
             name: DENT
             homepage_url: https://dent.dev/
             logo: dent-01.svg
             crunchbase: https://www.crunchbase.com/organization/dent-cdd1
-            hideProjectTag: true
           - item:
+            hideProjectTag: true
             name: DPDK
             homepage_url: https://www.dpdk.org/
             logo: dpdk-01.svg
             crunchbase: https://www.crunchbase.com/organization/dpdk
-            hideProjectTag: true
           - item:
+            hideProjectTag: true
             name: FRRouting Project
             homepage_url: https://frrouting.org/
             logo: frr-2-01.svg
             crunchbase: https://www.crunchbase.com/organization/frrouting
-            hideProjectTag: true
           - item:
+            hideProjectTag: true
             name: Magma
             homepage_url: https://www.magmacore.org/
             logo: magma-01.svg
             crunchbase: https://www.crunchbase.com/organization/magma-fund
-            hideProjectTag: true
           - item:
-            name: Open 19
-            homepage_url: https://www.open19.org/
-            logo: open19-2-01.svg
-            crunchbase: https://www.crunchbase.com/organization/open19-foundation
             hideProjectTag: true
-          - item:
-            name: SONiC
-            homepage_url: https://sonic-net.github.io/SONiC/
-            logo: sonicfund.svg
-            crunchbase: https://www.crunchbase.com/organization/sonic-4384
-            hideProjectTag: true
-          - item:
-            name: US GOV OPS
-            homepage_url: https://usgovops.org/
-            logo: usgovops-color-1.svg
-            crunchbase: https://www.crunchbase.com/organization/us-gov-ops
-            hideProjectTag: true
-          - item:
             name: O-RAN Software Community
             homepage_url: https://oran-osc.github.io/
             logo: oran-ocu.svg
             organization:
               name: O-RAN Software Community
-            hideProjectTag: true
           - item:
-            name: Camara
-            homepage_url: http://camaraproject.org/
-            logo: Camara Logo Color.svg
-            crunchbase: https://www.crunchbase.com/organization/camara-project
             hideProjectTag: true
-            description: |
-              4G/5G network capabilities exposed through APIs provide a large benefit for customers.
+            name: Open 19
+            homepage_url: https://www.open19.org/
+            logo: open19-2-01.svg
+            crunchbase: https://www.crunchbase.com/organization/open19-foundation
+          - item:
+            hideProjectTag: true
+            name: SONiC
+            homepage_url: https://sonic-net.github.io/SONiC/
+            logo: sonicfund.svg
+            crunchbase: https://www.crunchbase.com/organization/sonic-4384
+          - item:
+            hideProjectTag: true
+            name: US GOV OPS
+            homepage_url: https://usgovops.org/
+            logo: usgovops-color-1.svg
+            crunchbase: https://www.crunchbase.com/organization/us-gov-ops
   - category:
     name: Linux Foundation Sister Communities
     subcategories:
@@ -619,33 +616,29 @@ landscape:
         name: Linux Foundation Sister Communities
         items:
           - item:
+            hideProjectTag: true
             name: Cloud Native
             homepage_url: https://www.cncf.io/
             logo: cncf-distribution.svg
-            twitter: https://twitter.com/CloudNativeFdn
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            hideProjectTag: true
           - item:
+            hideProjectTag: true
             name: Hyperledger
             homepage_url: https://www.hyperledger.org/
             logo: hyperledger-color.svg
-            twitter: https://twitter.com/Hyperledger
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-            hideProjectTag: true
           - item:
+            hideProjectTag: true
             name: LF AI Data
             homepage_url: https://lfaidata.foundation/
             logo: LFAI_DATA_horizontal-color.svg
-            twitter: https://twitter.com/LFAIDataFdn
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-            hideProjectTag: true
           - item:
+            hideProjectTag: true
             name: LF Edge
             homepage_url: https://www.lfedge.org/
             logo: lf-edge.svg
-            twitter: https://twitter.com/lf_edge
             crunchbase: https://www.crunchbase.com/organization/lf-edge
-            hideProjectTag: true
   - category:
     name: Standards Developing Organizations (SDOs)
     subcategories:
@@ -653,83 +646,76 @@ landscape:
         name: Standards Developing Organizations (SDOs)
         items:
           - item:
+            hideProjectTag: true
+            hideLicense: true
             name: 3GPP
             homepage_url: https://www.3gpp.org/
             logo: 3gpp_logo.svg
             twitter: https://twitter.com/3GPPLive
             crunchbase: https://www.crunchbase.com/organization/3gpp
+          - item:
             hideProjectTag: true
             hideLicense: true
-          - item:
             name: ETSI
             homepage_url: https://www.etsi.org/
             logo: etsi-01.svg
-            twitter: https://twitter.com/ETSI_STANDARDS
             crunchbase: https://www.crunchbase.com/organization/etsi
+          - item:
             hideProjectTag: true
             hideLicense: true
-          - item:
             name: GSMA
             homepage_url: https://www.gsma.com/
             logo: GSMA.svg
-            twitter: https://twitter.com/gsma
             crunchbase: https://www.crunchbase.com/organization/gsma
+          - item:
             hideProjectTag: true
             hideLicense: true
-          - item:
             name: IEEE
             homepage_url: https://www.ieee.org/
             logo: IEEE_logo.svg
-            twitter: https://twitter.com/ieeesa
             crunchbase: https://www.crunchbase.com/organization/ieee-standards-association
+          - item:
             hideProjectTag: true
             hideLicense: true
-          - item:
             name: IETF
             homepage_url: https://www.ietf.org/
             logo: ietf-2-01.svg
-            twitter: https://twitter.com/ietf
             crunchbase: https://www.crunchbase.com/organization/ietf
+          - item:
             hideProjectTag: true
             hideLicense: true
-          - item:
             name: ITU
             homepage_url: https://www.itu.int/en/Pages/default.aspx
             logo: ITU.svg
             crunchbase: https://www.crunchbase.com/organization/international-telecommunication-union
+          - item:
             hideProjectTag: true
             hideLicense: true
-          - item:
             name: MEF
             homepage_url: https://www.mef.net/
             logo: MEF-2-01.svg
-            twitter: https://twitter.com/mef_forum
             crunchbase: https://www.crunchbase.com/organization/mef
+          - item:
             hideProjectTag: true
             hideLicense: true
-          - item:
             name: NIST
             homepage_url: https://www.nist.gov/
             logo: nist-2-01.svg
-            twitter: https://twitter.com/NIST
             crunchbase: https://www.crunchbase.com/organization/nist
+          - item:
             hideProjectTag: true
             hideLicense: true
-          - item:
             name: OIF
             homepage_url: https://www.oiforum.com/
             logo: OIF_logo.svg
             crunchbase: https://www.crunchbase.com/organization/lf-networking
+          - item:
             hideProjectTag: true
             hideLicense: true
-          - item:
             name: TM Forum
             homepage_url: https://www.tmforum.org/
             logo: tmf-logo-2-01.svg
-            twitter: https://twitter.com/tmforumorg
             crunchbase: https://www.crunchbase.com/organization/tmforum
-            hideProjectTag: true
-            hideLicense: true
   - category:
     name: LFN Archived/Maintained Projects
     subcategories:
@@ -740,7 +726,6 @@ landscape:
             name: Openswitch
             homepage_url: https://www.openswitch.net/
             logo: openswitch-color.svg
-            twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/lf-networking
   - category:
     name: LF Networking Member Roster
@@ -750,447 +735,931 @@ landscape:
         items:
           - item:
             name: China Mobile Communication Company Ltd
+            description: >-
+              China Mobile serves about 488 million subscribers, more than two thirds of the nation's total, making it China's and the world's leading wireless
+              operator by subscribers. In addition to local, domestic, and international phone service, China Mobile offers short message services (SMS) and
+              various mobile content features. It primarily uses the Global System for Mobile Communications (GSM) standard. State-controlled China Mobile
+              Communications Corporation (CMCC) indirectly holds a majority stake (about 75%) in China Mobile.
             homepage_url: https://chinamobileltd.com/
             logo: china_mobile_communication_company_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/china-mobile
+            extra:
+              linkedin_url: https://www.linkedin.com/company/china-mobile
           - item:
             name: China Telecommunications Corporation
+            description: >-
+              About China Telecom Corporation With over 200 million customers and more than $61 billion in assets, China Telecom Corporation is one of the
+              world's largest telecommunications companies. As the largest fixed-line provider in the world, China Telecom owns and operates an extensive system
+              of domestic and international telecommunications networks and facilities, including local wireless loops, voice, data, image, multimedia and other
+              telecommunications services in China. China Telecom has offices in the Unites States, Hong Kong, Canada and the United Kingdom.
             homepage_url: https://chinatelecom.cn/
             logo: china_telecommunications_corporation.svg
-            twitter: https://twitter.com/chinateleglobal
             crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
-            stock_ticker: null
+            extra:
+              linkedin_url: https://www.linkedin.com/company/china-telecom-corporation-limited
           - item:
             name: Cisco Systems, Inc.
+            description: >-
+              Cisco (NASDAQ: CSCO) is the worldwide technology leader that has been making the Internet work since 1984. Their people, products, and partners
+              help society securely connect and seize tomorrow's digital opportunity today. Cisco and the Cisco logo are trademarks or registered trademarks of
+              Cisco and/or its affiliates in the U.S. and other countries.
             homepage_url: https://cisco.com/
             logo: cisco_systems_inc.svg
             twitter: https://twitter.com/Cisco
             crunchbase: https://www.crunchbase.com/organization/cisco
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cisco
           - item:
             name: Deutsche Telekom AG
+            description: >-
+              Founded in 1995, Deutsche Telekom AG is a Germany-based integrated telecommunications provider, offering its customers around the world a
+              portfolio of services in the areas of telecommunications and information technology.
             homepage_url: https://telekom.com/
             logo: deutsche_telekom_ag.svg
-            twitter: https://twitter.com/deutschetelekom
             crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
+            extra:
+              linkedin_url: https://www.linkedin.com/company/telekom
           - item:
             name: Ericsson
+            description: >-
+              Founded in 1876, Ericsson is a Swedish communication technology and services provider. The company offers software, services, and infrastructure
+              for information and communications technology used by telecommunications operators, including traditional telecommunications, Internet Protocol
+              networking equipment, mobile and fixed broadband, cable TV, IPTV, video systems, and business support solutions. Ericsson is headquartered in
+              Stockholm, Sweden.
             homepage_url: https://ericsson.com/
             logo: ericsson.svg
-            twitter: https://twitter.com/ericsson
             crunchbase: https://www.crunchbase.com/organization/ericsson
-            joined: '2018-12-01'
-          - item:
-            name: Google LLC
-            homepage_url: https://google.com/
-            logo: google_llc.svg
-            twitter: https://twitter.com/Google
-            crunchbase: https://www.crunchbase.com/organization/google
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ericsson
           - item:
             name: Huawei Technologies Co., Ltd
+            description: >-
+              Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in
+              Shenzhen, China.
             homepage_url: https://huawei.com/
-            logo: huawei_technologies_co_ltd.svg
-            twitter: https://twitter.com/Huawei
+            logo: huawei_technologies_co.svg
             crunchbase: https://www.crunchbase.com/organization/huawei
+            extra:
+              linkedin_url: https://www.linkedin.com/company/huawei
           - item:
             name: Infosys Limited
+            description: >-
+              Infosys is a global leader in consulting, technology, outsourcing and next-generation services. They enable clients, in more than 50 countries, to
+              stay a step ahead of emerging business trends and outperform the competition. They help them transform and thrive in a changing world by
+              co-creating breakthrough solutions that combine strategic insights and execution excellence.
             homepage_url: https://infosys.com/
             logo: infosys_limited.svg
             twitter: https://twitter.com/Infosys
             crunchbase: https://www.crunchbase.com/organization/infosys
-            stock_ticker: null
-            joined: '2020-11-01'
+            extra:
+              linkedin_url: https://www.linkedin.com/company/infosys
           - item:
             name: Nokia Corporation
+            description: >-
+              Nokia Corporation is a Finland-based company that invests in technologies. The company operates through three business segments: Nokia Networks,
+              HERE and Nokia Technologies. Nokia Networks offers network infrastructure software, hardware, and services. Nokia Networks has two segments:
+              Mobile Broadband and Global Services. HERE offers maps, a location platform, and location experiences across different screens and operating
+              systems. HERE offer maps for around 190 countries, voice guided navigation for 99 countries in around 50 languages and live traffic information
+              for around 44 countries. Nokia Technologies develops and licenses technologies. Nokia Technologies manages an Intellectual Property (IP) portfolio
+              of approximately 10,000 patent families consisted of approximately 30,000 individual patents and patent applications.
             homepage_url: https://nokia.com/
             logo: nokia_corporation.svg
-            twitter: https://twitter.com/nokia
             crunchbase: https://www.crunchbase.com/organization/nokia
-            stock_ticker: NOK
-            joined: '2018-03-12'
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nokianet
           - item:
             name: Qualcomm, Inc.
+            description: >-
+              Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications
+              equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system
+              software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
+
+
+              --- Merged Data:
+
+
+              Qualcomm is a semiconductor company that manufactures and markets digital wireless telecommunications products and services. They are engaged in
+              the development and commercialization of a digital communication technology called code division multiple a...
             homepage_url: https://qualcomm.com/
             logo: qualcomm_inc.svg
-            twitter: https://twitter.com/Qualcomm
             crunchbase: https://www.crunchbase.com/organization/qualcomm
+            extra:
+              linkedin_url: https://www.linkedin.com/company/firethorn
           - item:
             name: Red Hat, Inc.
+            description: >-
+              Red Hat was established in 1993 and is headquartered in Raleigh, North Carolina. Red Hat is the provider of open source software solutions, using
+              a community-powered approach to provide reliable and high-performing cloud, Linux, middleware, storage, and virtualization technologies. Red Hat
+              also offers support, training, and consulting services. As the connective hub in a global network of enterprises, partners, and open source
+              communities, Red Hat helps create relevant, innovative technologies that liberate resources for growth and prepare customers for the future of IT.
             homepage_url: https://redhat.com/
             logo: red_hat_inc.svg
             twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
-            joined: '2016-01-01'
+            extra:
+              linkedin_url: https://www.linkedin.com/company/red-hat
           - item:
-            name: Tech Mahindra Limited
-            homepage_url: https://techmahindra.com/
-            logo: tech_mahindra_limited.svg
-            twitter: https://twitter.com/tech_mahindra
-            crunchbase: https://www.crunchbase.com/organization/tech-mahindra
-          - item:
-            name: TELUS Corporation
-            homepage_url: https://telus.com/
-            logo: telus_corporation.svg
-            twitter: https://twitter.com/TELUS
-            crunchbase: https://www.crunchbase.com/organization/telus
+            name: SoftBank Corp.
+            description: |-
+              Overview
+              The SoftBank Group is a global technology player that aspires to drive the Information Revolution. The
+              SoftBank Group is comprised of the holding company SoftBank Group Corp. (TOKYO: 9984) and its
+              global portfolio of companies, which includes advanced telecommunications, internet services, AI, smart
+              robotics, IoT and clean energy technology providers. In September 2016, Arm Holdings plc, the world's
+              leading semiconductor IP company, joined the SoftBank Group. In May 2017, the SoftBank Vision Fund,
+              which invests globally in the businesses and technologies that will enable the next stage of the
+              Information Revolution, had its first major close with over USD 93 billion in committed capital.
+
+              Website https://group.softbank/ Industry Internet Company size 51-200 employees Headquarters Minato-ku, Tokyo Type Public Company Founded 1981
+              Locations (1)
+              Primary
+              1-9-1, Higashi-Shimbashi, Minato-ku, Tokyo 105-7303, JP
+            homepage_url: https://softbank.jp/en/
+            logo: softbank_corp.svg
+            twitter: https://twitter.com/SoftBank
+            crunchbase: https://www.crunchbase.com/organization/softbank-corp
+            extra:
+              linkedin_url: https://www.linkedin.com/company/softbankgroup
           - item:
             name: Verizon Corporate Services
+            description: >-
+              Verizon is a telecommunications company that offers broadband and other wireless and wireline communications services to consumer, business,
+              government, and wholesale customers. Verizon is headquartered in New York City, New York.
             homepage_url: https://verizon.com/
             logo: verizon_corporate_services.svg
             twitter: https://twitter.com/Verizon
             crunchbase: https://www.crunchbase.com/organization/verizon
+            extra:
+              linkedin_url: https://www.linkedin.com/company/verizon
           - item:
             name: Walmart Inc.
+            description: >-
+              WalMart is a multinational retailing corporation offering a range of products through their retail stores, websites, and through their mobile
+              devices. Each week, over 260 million customers and members visit their stores under 59 banners in 28 countries and eCommerce websites in 11
+              countries. Walmart continues to be a leader in sustainability, corporate philanthropy, and employment opportunity.
             homepage_url: https://walmart.com/
             logo: walmart_inc.svg
             twitter: https://twitter.com/Walmart
             crunchbase: https://www.crunchbase.com/organization/walmart-labs
-            joined: '2018-09-01'
-          - item:
-            name: SoftBank Corp
-            homepage_url: https://group.softbank/
-            logo: sbkk.svg
-            crunchbase: https://www.crunchbase.com/organization/softbank
-            joined: '2024-09-13'
+            extra:
+              linkedin_url: https://www.linkedin.com/company/sam's-club
       - subcategory:
         name: Gold
-        items:
-          - item:
-            name: Bell Canada
-            homepage_url: https://bell.net/
-            logo: bell_canada.svg
-            twitter: https://twitter.com/Bell
-            crunchbase: https://www.crunchbase.com/organization/bell-net
+        items: []
       - subcategory:
         name: Silver
         items:
           - item:
             name: A10 Networks
+            description: >-
+              Founded in 2004, A10 Networks Inc. provides computer networking products and security solutions. The Company offers application networking
+              platforms and security products to streamline technology operations, including cloud and service providers and application delivery solutions. A10
+              serves customers in various industries worldwide. A10 Networks is a managed services provider (MSP).
             homepage_url: https://a10networks.com/
             logo: a10_networks.svg
-            twitter: https://twitter.com/A10Networks
             crunchbase: https://www.crunchbase.com/organization/a10-networks
-          - item:
-            name: Aarna Networks
-            homepage_url: https://aarnanetworks.com/
-            logo: aarna_networks.svg
-            twitter: https://twitter.com/aarnanetworks
-            crunchbase: https://www.crunchbase.com/organization/aarna-networks
+            extra:
+              linkedin_url: https://www.linkedin.com/company/a10networks
           - item:
             name: Advanced Micro Devices (AMD)
+            description: >-
+              For more than 45 years AMD has driven innovation in high-performance computing, graphics, and visualization technologies; the building blocks for
+              gaming, immersive platforms, and the data center. Hundreds of millions of consumers, leading Fortune 500 businesses, and cutting-edge scientific
+              research facilities around the world rely on AMD technology daily to improve how they live, work, and play. AMD employees around the world are
+              focused on building great products that push the boundaries of what is possible.
             homepage_url: https://amd.com/
             logo: advanced_micro_devices_amd.svg
             twitter: https://twitter.com/AMD
             crunchbase: https://www.crunchbase.com/organization/amd
+            extra:
+              linkedin_url: https://www.linkedin.com/company/amd
           - item:
             name: Arista Networks, Inc.
+            description: |-
+              Kernal contributors:
+
+              No.1 Eric W. Biederman < ebiederm@aristanetworks.com - 43
+
+              No.2 Ed Swierk < eswierk@aristanetworks.com - 11
+
+              No.3 Gautam Kachroo < gk@aristanetworks.com  - 1
+
+              Arista total - 55 (#165 on list)
+
+
+
+              http://remword.com/kps_result/all_whole.html
+
+              --- Merged Data:
+
+              Arista Networks is an American computer networking company headquartered in Santa Clara, California.
             homepage_url: https://arista.com/
             logo: arista_networks_inc.svg
-            twitter: https://twitter.com/AristaNetworks
             crunchbase: https://www.crunchbase.com/organization/arista-networks
+            extra:
+              linkedin_url: https://www.linkedin.com/company/arista-networks-inc
           - item:
             name: Arm Limited
+            description: >-
+              ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing
+              that is licensed by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare,
+              infrastructure, IoT, mobile, smart homes, and wearables. ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990
+              and is headquartered in the UK.
             homepage_url: https://arm.com/
             logo: arm_limited.svg
             twitter: https://twitter.com/ArmCommunity
             crunchbase: https://www.crunchbase.com/organization/arm
-            joined: '2019-02-01'
+            extra:
+              linkedin_url: https://www.linkedin.com/company/arm
           - item:
             name: Cable Television Laboratories Inc.
+            description: >-
+              Founded in 1988, CableLabs is a non-profit research and development consortium that serves to define interoperable solutions among cable operator
+              members and their technology vendors in order to reduce costs, create competition in the supply chain, and drive scale.  CableLabs is dedicated to
+              creating innovative ideas that significantly impact their cable operator members' business. The company is headquartered in Louisville, Colorado.
             homepage_url: https://cablelabs.com/
             logo: cable_television_laboratories_inc.svg
             twitter: https://twitter.com/CableLabs
             crunchbase: https://www.crunchbase.com/organization/cablelabs
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cablelabs
           - item:
             name: Canonical Group Limited
+            description: >-
+              Canonical Ltd. is a UK-based privately held computer software company founded and funded by South African entrepreneur Mark Shuttleworth to market
+              commercial support and related services for Ubuntu and related projects.
             homepage_url: https://canonical.com/
             logo: canonical_group_limited.svg
-            twitter: https://twitter.com/Canonical
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
-            joined: '2017-01-01'
+            extra:
+              linkedin_url: https://www.linkedin.com/company/canonical-ltd-
           - item:
             name: China Unicom
+            description: >-
+              China Unicom (Hong Kong) Limited, formerly China Unicom Limited, is engaged in global system for mobile (GSM) cellular business and value-added
+              services, fixed-line voice and value-added services, fixed-line broadband and other Internet-related services, information and communication
+              technology (ICT) services, business and data communications services, and other related telecommunication business in 31 provinces, municipalities
+              and autonomous regions in China.
             homepage_url: https://chinaunicom.com/
             logo: china_unicom.svg
             twitter: https://twitter.com/ChinunicomOS
             crunchbase: https://www.crunchbase.com/organization/china-unicom
-            joined: '2019-09-01'
-          - item:
-            name: CloudOps Inc.
-            homepage_url: https://cloudops.com/
-            logo: cloudops_inc.svg
-            twitter: https://twitter.com/CloudOps_
-            crunchbase: https://www.crunchbase.com/organization/cloudops
-            joined: '2018-03-01'
-          - item:
-            name: Equinix Services, Inc.
-            homepage_url: https://equinix.com/
-            logo: equinix_services_inc.svg
-            twitter: https://twitter.com/Equinix
-            crunchbase: https://www.crunchbase.com/organization/equinix
+            extra:
+              linkedin_url: https://www.linkedin.com/company/china-united-network-communications-group-co.-ltd.
           - item:
             name: F5, Inc.
+            description: >-
+              F5, headquartered in Seattle, Washington, is an application delivery networking company. They specialize in traffic optimization, security, cloud
+              services, and cloud software.
             homepage_url: https://f5.com/
             logo: f5_inc.svg
             twitter: https://twitter.com/F5
             crunchbase: https://www.crunchbase.com/organization/f5-networks
-            joined: '2017-11-01'
-          - item:
-            name: Firecell
-            homepage_url: https://firecell.io/
-            logo: firecell.svg
-            twitter: https://twitter.com/firecellP5G
-            organization:
-              name: Firecell
+            extra:
+              linkedin_url: https://www.linkedin.com/company/f5
           - item:
             name: Fujitsu Limited
+            description: >-
+              Fujitsu is the leading Japanese information and communication technology (ICT) company offering a full range of technology products, solutions and
+              services. Approximately 162, 000 Fujitsu people support customers in more than 100 countries. The company uses its experience and the power of ICT
+              to shape the future of society with its customers. Fujitsu Limited reported consolidated revenues of 4.8 trillion yen (US$46 billion) for the
+              fiscal year ended March 31, 2014. Fujitsu is the world's fourth largest IT services provider and No.1 in Japan. Fujitsu is among the world's top
+              five providers of servers. FORTUNE named Fujitsu as one of 'the World's Most Admired Companies' in 2013. Fujitsu Group holds about 97, 000 patents
+              worldwide. Fujitsu is part of the Dow Jones Sustainability Indexes (World), FTSE4Good Index Series, and Oekom research.
             homepage_url: https://fujitsu.com/
             logo: fujitsu_limited.svg
-            twitter: https://twitter.com/Fujitsu_Global
             crunchbase: https://www.crunchbase.com/organization/fujitsu
-            stock_ticker: null
-            joined: '2016-01-01'
-          - item:
-            name: GenXcomm Inc
-            homepage_url: https://genxcomm.com/
-            logo: genxcomm_inc.svg
-            twitter: https://twitter.com/GXC_io
-            crunchbase: https://www.crunchbase.com/organization/genxcomm
-          - item:
-            name: Hewlett Packard Enterprise Development LP
-            homepage_url: https://hpe.com/
-            logo: hewlett_packard_enterprise_development_lp.svg
-            twitter: https://twitter.com/HPE
-            crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
-          - item:
-            name: Intel Corporation
-            homepage_url: https://intel.com/
-            logo: intel_corporation.svg
-            twitter: https://twitter.com/intel
-            crunchbase: https://www.crunchbase.com/organization/intel
-          - item:
-            name: Juniper Networks, Inc.
-            homepage_url: https://juniper.net/
-            logo: juniper_networks_inc.svg
-            twitter: https://twitter.com/JuniperNetworks
-            crunchbase: https://www.crunchbase.com/organization/juniper-networks
-            joined: '2020-08-01'
+            extra:
+              linkedin_url: https://www.linkedin.com/company/fujitsu-uk-and-ireland
           - item:
             name: Kubermatic GmbH
+            description: >-
+              As the Top 5 corporate committer to the Kubernetes Project in 2019, Kubermatic develops Kubermatic Kubernetes Platform to accelerate the cloud
+              native transformation. Leading enterprises including Lufthansa, Bosch, Siemens, and T-Systems trust Kubermatic on their cloud native journey.
+              Contact us
             homepage_url: https://kubermatic.com/
             logo: kubermatic_gmbh.svg
             twitter: https://twitter.com/Kubermatic
             crunchbase: https://www.crunchbase.com/organization/loodse-gmbh
-            joined: '2017-01-01'
+            extra:
+              linkedin_url: https://www.linkedin.com/company/kubermatic
           - item:
             name: MATRIXX Software
+            description: >-
+              MATRIXX Software, founded in 2008 delivers an innovative digital commerce solution that enables always-on customer engagement. Its patented
+              approach makes it possible for Digital Service Providers to simultaneously serve millions of customers, and process billions of customer
+              interactions, precisely and instantly. MATRIXX enables DSPs to build long-term strategic value through high-touch, digital customer relationships.
+              The company is headquartered in Saratoga, California.
             homepage_url: https://matrixx.com/
             logo: matrixx_software.svg
-            twitter: https://twitter.com/MATRIXX_SW
             crunchbase: https://www.crunchbase.com/organization/matrixx-software
-            joined: '2022-05-01'
-          - item:
-            name: Mavenir Systems, Inc.
-            homepage_url: https://mavenir.com/
-            logo: mavenir_systems_inc.svg
-            twitter: https://twitter.com/Mavenir
-            crunchbase: https://www.crunchbase.com/organization/mavenir
-            joined: '2019-08-01'
-          - item:
-            name: Mirantis, Inc.
-            homepage_url: https://mirantis.com/
-            logo: mirantis_inc.svg
-            twitter: https://twitter.com/MirantisIT
-            crunchbase: https://www.crunchbase.com/organization/mirantis
-            joined: '2016-08-01'
+            extra:
+              linkedin_url: https://www.linkedin.com/company/matrixx-software-inc-
           - item:
             name: NEC Corporation
+            description: >-
+              NEC Corporation is a provider of Internet, broadband network and enterprise business solutions. The company offers IT, network and cloud solutions
+              in addition to network, software, computer products and more. NEC is headquartered in Tokyo, Japan.
             homepage_url: https://nec.com/
             logo: nec_corporation.svg
             twitter: https://twitter.com/NEC_corp
             crunchbase: https://www.crunchbase.com/organization/nec
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nec
           - item:
-            name: Netgate
-            homepage_url: https://netgate.com/
-            logo: netgate.svg
-            twitter: https://twitter.com/NetgateUSA
-            crunchbase: https://www.crunchbase.com/organization/netgate
+            name: OdineLabs
+            description: >-
+              OdineLabs specializes in developing AI-based automation and orchestration solutions for global telecom operators and enterprises, leveraging
+              machine learning and generative AI to enhance network capabilities and drive innovation in the telecommunicatio...
+            homepage_url: https://odinelabs.com/
+            logo: odinelabs.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/telecomoman
+            organization:
+              name: OdineLabs
+              linkedin: https://www.linkedin.com/company/telecomoman
           - item:
             name: Orange SA
+            description: >-
+              Orange is one of the world’s leading telecommunications operators with revenues of 39.7 billion euros in 2023 and 128,000 employees worldwide at
+              30 June 2024, including 72,000 employees in France. The Group has a total customer base of 285 million customers worldwide at 30 June 2024,
+              including 246 million mobile customers and 21 million fixed broadband customers. These figures have been restated to account for the
+              deconsolidation of certain activities in Spain following the creation of MASORANGE. The Group is present in 26 countries (including
+              non-consolidated countries).
+
+              Orange is also a leading provider of global IT and telecommunication services to multinational companies under the brand Orange Business. In
+              February 2023, the Group presented its strategic plan 'Lead the Future', built on a new business model and guided by responsibility and
+              efficiency. 'Lead the Future' capitalizes on network excellence to reinforce Orange's leadership in service quality.
+
+              Orange is listed on Euronext Paris (symbol ORA) and on the New York Stock Exchange (symbol ORAN).
+
+              For more information on the internet and on your mobile: www.orange.com, www.orange-business.com and the Orange News app or to follow us on X:
+              @presseorange.
+
+
+              Orange and any other Orange product or service names included in this material are trademarks of Orange or Orange Brand Services Limited.
             homepage_url: https://orange.com/
             logo: orange_sa.svg
-            twitter: https://twitter.com/orange
             crunchbase: https://www.crunchbase.com/organization/orange
-          - item:
-            name: RADTONICS
-            homepage_url: https://radtonics.com/
-            logo: radtonics.svg
-            organization:
-              name: RADTONICS
-          - item:
-            name: Ribbon Communications Operating Company, Inc.
-            homepage_url: https://ribboncommunications.com/
-            logo: ribbon_communications_operating_company_inc.svg
-            twitter: https://twitter.com/ribboncomm
-            crunchbase: https://www.crunchbase.com/organization/ribbon-communications
+            extra:
+              linkedin_url: https://www.linkedin.com/company/orange-services
           - item:
             name: Robin Systems, Inc
+            description: >-
+              Robin transforms the way enterprise applications drive the infrastructure by bringing together purpose-built container-aware block storage with
+              application-aware manager into the cloud (private and/or public). This demonstrates unique benefits to distributed, clustered and stateful
+              applications including Big-Data and Databases. With a team that includes industry veterans from leading enterprise technology companies such as
+              NetApp, Oracle, and Veritas, Robin seeks to disrupt the $20 billion-plus virtualization market with its container-based compute and storage
+              platform software that delivers better performance higher consolidation and a much simpler application lifecycle management than traditional
+              hypervisor-based virtualization. Founded in 2013, the San Jose California-based company has raised more than $50 million in venture funding from
+              leading investors such as Clear Ventures, DN Capital, USAA, Hasso Plattner Ventures and CloudScale Capital Partners.
             homepage_url: https://robin.io/
             logo: robin_systems_inc.svg
-            twitter: https://twitter.com/Robin4K8S
             crunchbase: https://www.crunchbase.com/organization/robin-systems
-            joined: '2018-08-01'
+            extra:
+              linkedin_url: https://www.linkedin.com/company/robin-systems
           - item:
             name: Sprint Corporation
+            description: >-
+              Sprint is a communications services company that creates more and better ways to connect its customers to the things they care about most. Sprint
+              served more than 59.4 million connections as of June 30, 2016 and is widely recognized for developing, engineering and deploying innovative
+              technologies, including the first wireless 4G service from a national carrier in the United States; leading no-contract brands including Virgin
+              Mobile USA, Boost Mobile, and Assurance Wireless; instant national and international push-to-talk capabilities; and a global Tier 1 Internet
+              backbone. Sprint is headquartered in Overland Park, Kansas.
             homepage_url: https://sprint.com/
             logo: sprint_corporation.svg
-            twitter: https://twitter.com/TMobile
             crunchbase: https://www.crunchbase.com/organization/t-mobile
-            stock_ticker: null
+            extra:
+              linkedin_url: https://www.linkedin.com/company/clearwire
           - item:
             name: Tata Communications Limited
+            description: Tata Communications Limited is an Indian telecommunications company.
             homepage_url: https://tatacommunications.com/
             logo: tata_communications_limited.svg
-            twitter: https://twitter.com/tata_comm
             crunchbase: https://www.crunchbase.com/organization/tata-communications
+            extra:
+              linkedin_url: https://www.linkedin.com/company/tata-communication
           - item:
             name: Telecom Italia Mobile (TIM) S.p.A.
+            description: >-
+              TIM SpA, also operating under the name Telecom Italia, is an Italian telecommunications company headquartered in Rome and Milan, which provides
+              telephony services, mobile services, and DSL data services.
             homepage_url: https://telecomitalia.com/
-            logo: telecom_italia_mobile_tim_spa.svg
+            logo: telecom_italia_mobile_tim_s_p_a.svg
             crunchbase: https://www.crunchbase.com/organization/telecom-italia
+            extra:
+              linkedin_url: https://www.linkedin.com/company/tim
+          - item:
+            name: TELUS Corporation
+            description: Telus Communications Inc. is a subsidiary of Telus Corporation.
+            homepage_url: https://telus.com/
+            logo: telus_corporation.svg
+            twitter: https://twitter.com/TELUS
+            crunchbase: https://www.crunchbase.com/organization/telus
+            extra:
+              linkedin_url: https://www.linkedin.com/company/telus
           - item:
             name: Wavelabs
+            description: >-
+              Wavelabs is an AI-First, new-age Technology company for the Digital, Cognitive & Industry 4.0 Era. We offer solutions that optimizes every aspect
+              of your technology evolution and business process, giving you the ‘Wavelabs Advantage’.
             homepage_url: https://wavelabs.ai/
             logo: wavelabs.svg
             twitter: https://twitter.com/WavelabsTech
             crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
+            extra:
+              linkedin_url: https://www.linkedin.com/company/wavelabs-technologies-inc
           - item:
             name: Wind River Systems, Inc.
+            description: >-
+              Headquartered in Alameda, California, Wind River Systems develops embedded system software consisting of run-time software, industry-specific
+              software, simulation technology, development tools and middleware.
             homepage_url: https://windriver.com/
             logo: wind_river_systems_inc.svg
-            twitter: https://twitter.com/WindRiver
             crunchbase: https://www.crunchbase.com/organization/wind-river
+            extra:
+              linkedin_url: https://www.linkedin.com/company/wind-river
           - item:
             name: ZTE Corporation
+            description: ZTE Corporation is a Chinese multinational telecommunications equipment and systems company headquartered in Shenzhen, Guangdong, China.
             homepage_url: https://zte.com.cn/
             logo: zte_corporation.svg
-            twitter: https://twitter.com/ZTEPress
             crunchbase: https://www.crunchbase.com/organization/zte-corporation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/zte
       - subcategory:
         name: Associate
         items:
           - item:
             name: Beijing University of Posts and Telecommunications (BUPT)
+            description: >-
+              The Beijing University of Posts and Telecommunications is a key national university distinguished by the teaching and research in the field of
+              cable communications, wireless communications, computer, and electronic engineering.
             homepage_url: https://bupt.edu.cn/
             logo: beijing_university_of_posts_and_telecommunications_bupt.svg
             crunchbase: https://www.crunchbase.com/organization/beijing-university-of-posts-and-telecommunications
+            extra:
+              linkedin_url: https://www.linkedin.com/company/beijing-university-of-posts-and-telecommunications
           - item:
             name: CENGN
+            description: >-
+              CENGN is a consortium of industry, academic and research leaders dedicated to accelerating commercialization in next generation communications
+              solutions.
             homepage_url: https://cengn.ca/
             logo: cengn.svg
             twitter: https://twitter.com/CENGNCanada
             crunchbase: https://www.crunchbase.com/organization/cengn
-            joined: '2018-10-01'
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cengn---centre-of-excellence-in-next-generation-networks-
           - item:
             name: China Academy of Information and Communications Technology (CAICT)
+            description: >-
+              Founded in 1957, the China Academy of Information and Communications Technology (hereinafter referred to as “CAICT”) is a scientific research
+              institute directly under the Ministry of Industry and Information Technology (MIIT) of China. While sticking to the positioning of “a specialized
+              think-tank for the government, and an innovation and development platform for the industry” and cherishing the cultural philosophy of “boosting
+              prosperity with virtues and expertise” for years, CAICT provides strong support for the industry’s major strategies,...
+
+
+              · Decision-Making Support
+
+              · Test beds
+
+              · Test and Certification
+
+              · Consultancy
+
+              · Regulation services
+
+
+              Business Departments
+
+
+              Policy and Economics Research Institute
+
+              Technology and Standards Research Institute
+
+              Industry and Planning Research Institute
+
+              Cloud Computing & Big Data Research Institute
+
+              Informatization and Industrialization Integration Research Institute
+
+              Security Research Institute
+
+              CTTL System Laboratory
+
+              CTTL Terminal labs
+
+              TL Certification Institute
+
+              ICT Project Quota & Quality Supervision Center
             homepage_url: https://caict.ac.cn/
             logo: china_academy_of_information_and_communications_technology_caict.svg
             crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
           - item:
             name: CPQD
+            description: >-
+              A technology organization present in every step of the journey towards innovation: from the idea to its implementation. We passionately encourage
+              the creation of national technology. Ready to innovate, ready to transform the world.
             homepage_url: https://cpqd.com.br/
             logo: cpqd.svg
-            twitter: https://twitter.com/cpqd
             crunchbase: https://www.crunchbase.com/organization/cpqd
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cpqd
           - item:
             name: GRADIANT
+            description: >-
+              Gradiant, Centro Tecnológico de Telecomunicaciones de Galicia. Innovación en TIC para mejorar la competitividad de las empresas de cara al
+              mercado.
             homepage_url: https://gradiant.org/
             logo: gradiant.svg
             twitter: https://twitter.com/Gradiant
             crunchbase: https://www.crunchbase.com/organization/gradiant
+            extra:
+              linkedin_url: https://www.linkedin.com/company/gradiant
           - item:
             name: High School Technology Services
+            description: >-
+              OUR MISSION AND VALUES
+
+              Our future lies in the hands of students and teenagers. Educating a teenager is equivalent to educating a family and that in turn is equivalent to
+              educating the whole society. We strive to provide the highest quality information technology services to high schools, teenagers, and adults. From
+              creating websites to building computer labs, from offering counseling sessions to designing preparation programs, we aim to provide an assortment
+              of services to support the dreams of these teenagers, their parents and the schools.
+
+
+              our Mission
+
+              Our mission is to provide high schools with resources and facilities to foster student-teacher interactions and parent-teacher relationships to
+              improve student performance and high school efficiency.
+
+
+              our Values
+
+              Tangible Impacts: We believe in sincere and selfless contributions to improve the quality of education and youth life.
+
+              Simplicity: We agree with what Leonardo De Vinci says "Simplicity is the ultimate sophistication."
+
+              Honesty: We hold honesty in high regard because only true work can have a real impact.
+
+              Kindness: We sincerely believe in the power of goodness and kindness as Mark Twain put it "Kindness is a language that the deaf can hear and the
+              blind can see."
+
+              Genuine Friendship: We are genuinely committed to educating all students regardless of their age, nationality, gender, race, and background.
             homepage_url: https://myhsts.org/
             logo: high_school_technology_services.svg
             twitter: https://twitter.com/MyHSTS
             crunchbase: https://www.crunchbase.com/organization/high-school-technical-services
+            extra:
+              linkedin_url: https://www.linkedin.com/company/techsavvy-coders
           - item:
             name: INSTITUTE FOR INFORMATION INDUSTRY
+            description: >-
+              The Institute for Information Industry was established in 1979 as a Non-Governmental Organization through the joint efforts of public and private
+              sectors, to support the development/applications of the information industry as well as the information so...
             homepage_url: https://iii.org.tw/
             logo: institute_for_information_industry.svg
             crunchbase: https://www.crunchbase.com/organization/institute-for-information-industry-2
           - item:
             name: MEF Forum
+            description: >-
+              With over 200 leading member companies, including 130 service providers, The MEF is a California, USA registered 501 c (3) industry association
+              that is the enabling force for the development and implementation of agile, assured and orchestrated Third Network services for the digital
+              economy and the hyper-connected world. Third Network services are delivered over automated, virtualized, and interconnected networks globally
+              powered by Carrier Ethernet 2.0 (CE 2.0), Lifecycle Service Orchestration (LSO), SDN, and NFV.
+
+
+              CE 2.0 is MEF��_��_s globally adopted services framework and the foundation for new services innovation. The current annual market for Carrier
+              Ethernet products and services is approximately $80B.
+
+
+              The MEF is also facilitating industry neutral implementation environments for service orchestration (OpenLSO) and L2-L7 connectivity services
+              (OpenCS) based on Open Source, SDN and NFV, as well as current commercial PNF products.
+
+
+              MEF��_��_s Certification Programs, established for over 10 years have led to certification of compliance with MEF standards by the majority of the
+              industry��_��_s leading companies within the MEF membership.
+
+
+              Beyond certification, MEF provides a broad range of marketing capabilities that provide MEF member companies of all sizes in all geographic
+              locations with unique, powerful and very cost-effective customer-networking and profile-raising opportunities.
+
+
+              Key benefits of membership for hardware and software solution providers include:
+
+
+              Advance visibility into relevant industry technical standards developments
+
+              Ability to influence standards to align with corporate objectives
+
+              As a key contributor, achieve thought leadership in front of MEF��_��_s 130+ SP members
+
+              Achieve corporate and individual visibility and recognition via participation in MEF Marketing activities (e.g. webinars and seminars)
+
+              Leverage the MEF global community of peer contacts 
+
+              Get your products certified
+
+              MEF members include Tier 1,2 and 3 service providers (approx.130), hardware and OSS/orchestration software providers, test labs and test equipment
+              and test software providers. In 2016 and 2017, considerable growth from SDN and NFV technology providers is expected as our work increasingly
+              leverages these technologies.
+
+
+              Membership is geographically dispersed with approximately 50% from North America, 23% APAC, 21% EMEA and 6% CALA. Africa and CALA will lead the
+              regional growth as emerging markets move to interconnect with the global community using standardized CE 2.0 services.
+
+
+              The MEF membership meets quarterly and, between meetings, projects are progressed via a collaborative wiki workspace and online meetings (MEF
+              provisions GoTo Meeting for all projects). Quarterly meetings take place in January, April, July/August and October each year. They are 4 days in
+              duration and take place in North America (x3) and Europe (x1) with typically 150-250 people attending - including leading subject matter experts.
+
+
+              Not only are these very important meetings for influencing MEF work, but also for networking informally with industry thought leaders, subject
+              matter experts in all fields and customers (actual or potential) during our cocktail receptions, corridor meetings and evening dinners.
+              https://www.mef.net/news-events/mef-quarterly-meetings
+
+
+              There is a single category of membership ��_��_��_ Principal company membership with an annual fee of $17,250. There are no charges for quarterly
+              meetings or LSO Hackathon participation. There is no limit on the number of participating individuals for a given member company.
+
+
+              See www.mef.net for more information and www.mef16.net for more information on MEF��_��_s flagship MEF16 conference
+
+
+              --- Merged Data:
+
+
+              MEF provides a broad range of marketing, certification and business development capabilities that equip MEF member companies of all sizes in all
+              geographic locations with unique, powerful and very cost-effective customer-networking and profile-raising ...
             homepage_url: https://mef.net/
             logo: mef_forum.svg
             twitter: https://twitter.com/MEF_Forum
             crunchbase: https://www.crunchbase.com/organization/mef
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mef-forum
           - item:
             name: Ministry of Transport, Communications & Information Technology
+            description: >-
+              The Ministry of Transport, Communications and Information Technology supervises a number of national projects; Such as ports and airports that
+              connect the Sultanate with the countries of the outside world, and contribute to diversifying sources of income and achieving sustainable
+              development in various economic, industrial, commercial, tourism and other fields.
             homepage_url: https://mtcit.gov.om/
-            logo: ministry_of_transport_communications__information_technology.svg
+            logo: ministry_of_transport_communications_information_technology.svg
             crunchbase: https://www.crunchbase.com/organization/ministry-of-transport-communications
           - item:
             name: National Institute of Advanced Industrial Science and Technology(AIST)
+            description: 産業技術総合研究所は我が国最大級の公的研究機関として日本の産業や社会に役立つ技術の創出とその実用化や、革新的な技術シーズを事業化に繋げるための「橋渡し」機能に注力しています。
             homepage_url: https://aist.go.jp/
-            logo: national_institute_of_advanced_industrial_science_and_technologyaist.svg
+            logo: national_institute_of_advanced_industrial_science_and_technology_aist.svg
             twitter: https://twitter.com/AIST_JP
             crunchbase: https://www.crunchbase.com/organization/national-institute-of-advanced-industrial-science-and-technology
+            extra:
+              linkedin_url: https://www.linkedin.com/company/aist
+          - item:
+            name: National Institute of Science Education and Research (NISER) Bhubaneswar
+            description: >-
+              NISER National Institute of Science Education and Research (NISER) is a center of excellence in science education and research, offering programs
+              in Biology, Chemistry, Mathematics, Physics, Computer Sciences, Earth and Planetary Sciences, and Humaniti...
+
+
+              --- Merged Data:
+
+
+              NISER National Institute of Science Education and Research (NISER) is a center of excellence in science education and research, offering programs
+              in Biology, Chemistry, Mathematics, Physics, Computer Sciences, Earth and Planetary Sciences, and Humaniti...
+            homepage_url: https://niser.ac.in/
+            logo: national_institute_of_science_education_and_research_niser_bhubaneswar.svg
+            organization:
+              name: National Institute of Science Education and Research (NISER) Bhubaneswar
           - item:
             name: Okinawa Open Laboratory
+            description: OkinawaOpenDays 2018(12/3-6)開催！    https://t.co/4G17IbLj7l    沖縄でSDN・クラウドの各種機器によるテスト環境の構築や研究、沖縄県内を中心としたICTセミナーやハンズオン研修による人材育成を行っています🌺
             homepage_url: https://okinawaopenlabs.org/
             logo: okinawa_open_laboratory.svg
             twitter: https://twitter.com/OkinawaOpenLab
             crunchbase: https://www.crunchbase.com/organization/open-network-lab
           - item:
+            name: Open Networking Foundation
+            description: >-
+              The Open Networking Foundation leverages SDN principles and disaggregation, using open source platforms and defined standards to build operator
+              networks
+            homepage_url: https://opennetworking.org/
+            logo: open_networking_foundation.svg
+            crunchbase: https://www.crunchbase.com/organization/open-networking-foundation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/open-networking-foundation
+          - item:
             name: OpenAirInterface Software Alliance (OSA)
+            description: >-
+              About us
+
+              The OpenAirInterface Software Alliance (OSA) is a non-profit consortium to develop ecosystem for open source software/hardware development for the
+              core network (EPC) and access-network (EUTRAN) of 3GPP cellular networks. The Alliance sponsors the initial work of EURECOM to create
+              OpenAirInterfaceTM towards development of 5G Cellular Stack on commercial off-the-shelf (COTS) hardware.
+
+              Established in 2014, the OSA is a French non-profit organization (“Fonds De Dotation”), funded by corporate sponsors.
+
+
+              Recent updateSee all See all recent updates
+
+              Image accompanying recent update
+
+              5th and final day of Fujitsu colleagues’ visit. Today we conclude the FDD and TDD Continuous Integration benches and run UE attach-ping-detach and
+              plan end of August goals @EURECOM @OpenCellular base station can also be seen on the right . Relaxing after a hard day’s work in the second
+              picture 😎
+
+
+              14 Likes
+
+              Company details
+
+              Website
+
+              http://openairinterface.org
+
+              Headquarters
+
+              Biot
+
+
+              Year founded
+
+              2014
+
+
+              Company type
+
+              Nonprofit
+
+
+              Company size
+
+              2-10 employees
+
+              Specialties
+
+              LTE / LTE-Advanced, open source, C-RAN, NFV, Software Defined Networking, and 5G Wireless
             homepage_url: https://openairinterface.org/
             logo: openairinterface_software_alliance_osa.svg
             twitter: https://twitter.com/osalliance5g
+            extra:
+              linkedin_url: https://www.linkedin.com/company/openairinterface
             organization:
               name: OpenAirInterface Software Alliance (OSA)
-          - item:
-            name: Open Networking Foundation
-            homepage_url: https://opennetworking.org/
-            logo: open_networking_foundation.svg
-            twitter: https://twitter.com/ONF_SDN
-            crunchbase: https://www.crunchbase.com/organization/open-networking-foundation
+              linkedin: https://www.linkedin.com/company/openairinterface
           - item:
             name: Penn State
+            description: >-
+              Penn State University is a multicampus state-related, land-grant, space-grant public research university with campuses and facilities throughout
+              Pennsylvania.
             homepage_url: https://psu.edu/
             logo: penn_state.svg
-            twitter: https://twitter.com/penn_state
             crunchbase: https://www.crunchbase.com/organization/pennsylvania-state-university-main-campus
+            extra:
+              linkedin_url: https://www.linkedin.com/company/penn-state-small-business-development-center
+          - item:
+            name: SDN/NFV Industry Alliance
+            description: >-
+              SDN/NFV Industry Alliance was founded on November 4, 2014 by China Academy of Information and Communications Technology (CAICT) together with 15
+              organizations in the industry. Guided by the principle of "openness, innovation, collaboration, implementation", the alliance focuses on
+              increasing the readiness in SDN commercial utilization and promoting the healthy development of the SDN industry.
+            homepage_url: https://sdnfvia.com/
+            logo: sdn_nfv_industry_alliance.svg
+            organization:
+              name: SDN/NFV Industry Alliance
           - item:
             name: SDNLAB
+            description: >-
+              about us
+
+              Introduction
+
+              SDNLAB is a pioneering media and practice platform focused on network innovation technologies, covering SDN/NFV, NetDevOps, 5G, Internet of
+              Things, cyber security, cloud computing, big data, artificial intelligence and other related fields, providing industry news, opinions, and
+              technical analysis articles. , free online experimental environment, job recruitment, education and training, program consulting, venture
+              financing and other multi-services. Through online and offline activities, SDNLAB disseminates and shares valuable content, helps and encourages
+              network innovation practices, and promotes the development of network innovation technologies. It is currently the first online vertical media in
+              China.
+
+
+              article
+
+              Cover domestic and foreign news viewpoint technology and interpret frontier technology trends
+
+
+              activity
+
+              Seamlessly connect online and offline, face-to-face communication technology to expand contacts
+
+
+              Education and training
+
+              Industry cattle people teach online, everything from theory to actual combat
+
+
+              experiment platform
+
+              One-click easy to build environment, SDN experiment online free of charge
+
+
+              Job recruitment
+
+              Focus on network innovation technology recruitment, precision positioning hit a hit
+
+
+              Vendor area
+
+              Bring together network innovation products to build bridges for communication and cooperation
+
+
+              Knowledge community
+
+              Professional online question and answer community, expert answer
+
+
+              Is planning...
+
+              Program consulting, open class, online store, venture financing
+
+
+              user
+
+              Accurately cover hundreds of thousands of network-related employees at home and abroad, from CXO level to ordinary engineers, university
+              professors to students, industry leading companies to start-up companies, and the user base covers the entire industrial ecological chain and the
+              integration of production, education and research. 
+
+              The user composition structure includes chip manufacturers, device manufacturers, system integrators, operators, Internet companies, cloud service
+              providers, network start-up companies, research institutes, venture capital institutions, and enthusiasts.
+
+
+              contact us
+
+              Tel: 025-57926169 
+
+              Mobile: 13770307243 
+
+              Contact Person: Chen Mingrong 
+
+              E-mail: service@sdnlab.com 
+
+              Zip Code: 211100 
+
+              Address: No. 9, East Zhou Road, Jiangning District, Nanjing City, Jiangsu Province
             homepage_url: https://sdnlab.com/
             logo: sdnlab.svg
             twitter: https://twitter.com/SDNLAB
+            extra:
+              linkedin_url: https://www.linkedin.com/company/sdnlab
             organization:
               name: SDNLAB
+              linkedin: https://www.linkedin.com/company/sdnlab
           - item:
             name: Trinity College Dublin
+            description: >-
+              2577 Trinity College, officially the College of the Holy and Undivided Trinity of Queen Elizabeth near Dublin, is the sole constituent college of
+              the University of Dublin, a research university located in Dublin, Ireland.
+
+
+              --- Merged Data:
+
+
+              Trinity College Dublin, established in 1592, is Ireland's prestigious university offering diverse programs in arts, sciences, and health with a
+              global student community and a focus on academic excellence.
             homepage_url: https://tcd.ie/
             logo: trinity_college_dublin.svg
-            twitter: https://twitter.com/tcddublin
             crunchbase: https://www.crunchbase.com/organization/trinity-college-dublin
+            extra:
+              linkedin_url: https://www.linkedin.com/company/trinity-college-dublin
           - item:
             name: UNH InterOperability Lab
+            description: >-
+              The University of New Hampshire InterOperability Laboratory (UNH-IOL) tests networking and data communications products. Since 1988, the
+              laboratory has fostered multi-vendor interoperability while preparing students for careers in the industry. The laboratory has grown steadily into
+              one of the industry's premier independent proving grounds for new technologies.
             homepage_url: https://iol.unh.edu/
             logo: unh_interoperability_lab.svg
             twitter: https://twitter.com/UofNH
             crunchbase: https://www.crunchbase.com/organization/interoperability-laboratory
+            extra:
+              linkedin_url: https://www.linkedin.com/company/university-of-new-hampshire
           - item:
             name: University of New Hampshire
+            description: >-
+              The University of New Hampshire is a public university and is apart of the University System of New Hampshire. With over 15,000 students, UNH is
+              the largest university in New Hampshire.
             homepage_url: https://unh.edu/
             logo: university_of_new_hampshire.svg
-            twitter: https://twitter.com/UofNH
             crunchbase: https://www.crunchbase.com/organization/university-of-new-hampshire
+            extra:
+              linkedin_url: https://www.linkedin.com/company/university-of-new-hampshire
           - item:
             name: University of Surrey
+            description: The University of Surrey is a public research university in Guildford, England.
             homepage_url: https://surrey.ac.uk/
             logo: university_of_surrey.svg
-            twitter: https://twitter.com/UniOfSurrey
             crunchbase: https://www.crunchbase.com/organization/university-of-surrey
+            extra:
+              linkedin_url: https://www.linkedin.com/company/university-of-surrey
   - category:
     name: Cloud/Core
     subcategories:
@@ -1199,48 +1668,10 @@ landscape:
         items:
           - item:
             name: A10 Networks (5G cloud)
-            allow_duplicate_repo: true
             homepage_url: https://a10networks.com/
             logo: a10_networks.svg
-            twitter: https://twitter.com/A10Networks
             crunchbase: https://www.crunchbase.com/organization/a10-networks
-          - item:
-            name: Kaloom Inc. (5G)
             allow_duplicate_repo: true
-            homepage_url: https://kaloom.com/
-            logo: kaloom_inc.svg
-            twitter: https://twitter.com/Kaloom_Inc
-            crunchbase: https://www.crunchbase.com/organization/kaloom
-          - item:
-            name: Intel Corporation (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://intel.com/
-            logo: intel_corporation.svg
-            twitter: https://twitter.com/intel
-            crunchbase: https://www.crunchbase.com/organization/intel
-          - item:
-            name: Meta (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://about.facebook.com/meta/
-            logo: meta.svg
-            twitter: https://twitter.com/meta
-            crunchbase: https://www.crunchbase.com/organization/facebook
-            description: |
-              Meta is a social technology company that enables
-              people to connect, find communities, and grow businesses.
-          - item:
-            name: Turnium Technology Group Inc (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://ttgi.io/
-            logo: turnium_technology_group_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
-          - item:
-            name: Wavelabs (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://wavelabs.ai/
-            logo: wavelabs.svg
-            twitter: https://twitter.com/WavelabsTech
-            crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
           - item:
             name: CapGemini Engineering (5G)
             homepage_url: https://www.capgemini.com/
@@ -1248,32 +1679,63 @@ landscape:
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/cap-gemini
           - item:
+            name: GenxComm (5G)
+            homepage_url: https://www.genxcomm.com/
+            logo: GenxComm.svg
+            twitter: https://twitter.com/GenXComm
+            crunchbase: https://www.crunchbase.com/organization/genxcomm
+          - item:
+            name: Intel Corporation (5G)
+            homepage_url: https://intel.com/
+            logo: intel_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/intel
+            allow_duplicate_repo: true
+          - item:
+            name: Kaloom Inc. (5G)
+            homepage_url: https://kaloom.com/
+            logo: kaloom_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/kaloom
+            allow_duplicate_repo: true
+          - item:
+            name: Meta (5G)
+            description: |
+              Meta is a social technology company that enables
+              people to connect, find communities, and grow businesses.
+            homepage_url: https://about.facebook.com/meta/
+            logo: meta.svg
+            twitter: https://twitter.com/meta
+            crunchbase: https://www.crunchbase.com/organization/facebook
+            allow_duplicate_repo: true
+          - item:
             name: Rebaca (5G)
             homepage_url: https://www.rebaca.com/
             logo: rebaca.svg
             twitter: https://twitter.com/rebacainc
             crunchbase: https://www.crunchbase.com/organization/rebaca-technologies
           - item:
-            name: GenxComm (5G)
-            homepage_url: https://www.genxcomm.com/
-            logo: GenxComm.svg
-            twitter: https://twitter.com/GenXComm
-            crunchbase: https://www.crunchbase.com/organization/genxcomm
+            name: Turnium Technology Group Inc (5G)
+            homepage_url: https://ttgi.io/
+            logo: turnium_technology_group_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
+            allow_duplicate_repo: true
+          - item:
+            name: Wavelabs (5G)
+            homepage_url: https://wavelabs.ai/
+            logo: wavelabs.svg
+            twitter: https://twitter.com/WavelabsTech
+            crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
+            allow_duplicate_repo: true
       - subcategory:
         name: Cloud Infrastructure
         items:
           - item:
             name: Anuket (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://anuket.io/
-            logo: anuket-01.svg
-            project: lfn-5g
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
-            repo_url: https://github.com/opnfv/vineperf
             description: |
               A common model, standardized reference infrastructure
               specifications, and conformance and performance frameworks for VNFs & CNFs.
+            homepage_url: https://anuket.io/
+            project: lfn-5g
+            repo_url: https://github.com/opnfv/vineperf
             additional_repos:
               - repo_url: https://github.com/opnfv/kuberef
               - repo_url: https://github.com/opnfv/functest
@@ -1281,69 +1743,85 @@ landscape:
               - repo_url: https://github.com/opnfv/functest-xtesting
               - repo_url: https://github.com/opnfv/cirv-sdv
               - repo_url: https://github.com/opnfv/barometer
+            logo: anuket-01.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            allow_duplicate_repo: true
           - item:
             name: Intel Corporation (5G)
-            allow_duplicate_repo: true
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
-            twitter: https://twitter.com/intel
             crunchbase: https://www.crunchbase.com/organization/intel
-          - item:
-            name: Kaloom Inc. (5G)
             allow_duplicate_repo: true
-            homepage_url: https://kaloom.com/
-            logo: kaloom_inc.svg
-            twitter: https://twitter.com/Kaloom_Inc
-            crunchbase: https://www.crunchbase.com/organization/kaloom
-          - item:
-            name: Red Hat, Inc. (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://redhat.com/
-            logo: red_hat_inc.svg
-            twitter: https://twitter.com/RedHat
-            crunchbase: https://www.crunchbase.com/organization/red-hat
-          - item:
-            name: UNH InterOperability Lab (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://iol.unh.edu/
-            logo: unh_interoperability_lab.svg
-            twitter: https://twitter.com/UofNH
-            crunchbase: https://www.crunchbase.com/organization/interoperability-laboratory
           - item:
             name: K8s
             homepage_url: https://kubernetes.io/
             project: cncf
             logo: kubernetes.svg
-            twitter: https://twitter.com/kubernetesio
             crunchbase: https://www.crunchbase.com/organization/kubernetes
+          - item:
+            name: Kaloom Inc. (5G)
+            homepage_url: https://kaloom.com/
+            logo: kaloom_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/kaloom
+            allow_duplicate_repo: true
+          - item:
+            name: Red Hat, Inc. (5G)
+            homepage_url: https://redhat.com/
+            logo: red_hat_inc.svg
+            twitter: https://twitter.com/RedHat
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+            allow_duplicate_repo: true
+          - item:
+            name: UNH InterOperability Lab (5G)
+            homepage_url: https://iol.unh.edu/
+            logo: unh_interoperability_lab.svg
+            twitter: https://twitter.com/UofNH
+            crunchbase: https://www.crunchbase.com/organization/interoperability-laboratory
+            allow_duplicate_repo: true
       - subcategory:
         name: Management & Orchestration
         items:
           - item:
             name: A10 Networks (5G)
-            allow_duplicate_repo: true
             homepage_url: https://a10networks.com/
             logo: a10_networks.svg
-            twitter: https://twitter.com/A10Networks
             crunchbase: https://www.crunchbase.com/organization/a10-networks
+            allow_duplicate_repo: true
+          - item:
+            name: Aarna Networks (5G)
+            homepage_url: https://aarnanetworks.com/
+            logo: aarna_networks.svg
+            crunchbase: https://www.crunchbase.com/organization/aarna-networks
+            allow_duplicate_repo: true
+          - item:
+            name: CapGemini Engineering
+            homepage_url: https://www.capgemini.com/
+            logo: capgemini.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/cap-gemini
+          - item:
+            name: GenxComm
+            homepage_url: https://www.genxcomm.com/
+            logo: GenxComm.svg
+            twitter: https://twitter.com/GenXComm
+            crunchbase: https://www.crunchbase.com/organization/genxcomm
           - item:
             name: L3AF (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://l3af.io/
-            logo: L3AF_logo.svg
-            project: lfn-5g
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/l3af
             description: |
               L3AF is an eBPF based platform enabling network functions a service.
+            homepage_url: https://l3af.io/
+            project: lfn-5g
+            logo: L3AF_logo.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/l3af
+            allow_duplicate_repo: true
           - item:
             name: Nephio (5G)
-            allow_duplicate_repo: true
+            description: >
+              The Nephio project is building a Kubernetes-based automation platform for deploying and managing highly distributed, interconnected workloads such
+              as 5G Network Functions, and the underlying infrastructure on which those workloads depend.
             homepage_url: https://nephio.org
-            logo: Nephio_logo_colorblack_horizontal.svg
             project: lfn-5g
-            crunchbase: https://www.crunchbase.com/organization/nephio
-            twitter: https://twitter.com/LF_Networking
             repo_url: https://github.com/nephio-project/nephio
             additional_repos:
               - repo_url: https://github.com/nephio-project/test-infra
@@ -1371,47 +1849,21 @@ landscape:
               - repo_url: https://github.com/nephio-project/common-lib
               - repo_url: https://github.com/nephio-project/nephio-poc
               - repo_url: https://github.com/nephio-project/sig-network-architecture
-            description: >
-              The Nephio project is building a Kubernetes-based automation platform for deploying and managing highly distributed, interconnected workloads such
-              as 5G Network Functions, and the underlying infrastructure on which those workloads depend.
-          - item:
-            name: Aarna Networks (5G)
+            logo: Nephio_logo_colorblack_horizontal.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/nephio
             allow_duplicate_repo: true
-            homepage_url: https://aarnanetworks.com/
-            logo: aarna_networks.svg
-            twitter: https://twitter.com/aarnanetworks
-            crunchbase: https://www.crunchbase.com/organization/aarna-networks
-          - item:
-            name: Red Hat, Inc. (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://redhat.com/
-            logo: red_hat_inc.svg
-            twitter: https://twitter.com/RedHat
-            crunchbase: https://www.crunchbase.com/organization/red-hat
-          - item:
-            name: Turnium Technology Group Inc (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://ttgi.io/
-            logo: turnium_technology_group_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
           - item:
             name: ONAP (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://www.onap.org/
-            logo: onap_logo.svg
-            project: lfn-5g
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
-            repo_url: https://github.com/onap/aaf-authz
             description: |
               A comprehensive platform for orchestration, management, and automation
               of network and edge computing services.
-          - item:
-            name: CapGemini Engineering
-            homepage_url: https://www.capgemini.com/
-            logo: capgemini.svg
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/cap-gemini
+            homepage_url: https://www.onap.org/
+            project: lfn-5g
+            repo_url: https://github.com/onap/aaf-authz
+            logo: onap_logo.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            allow_duplicate_repo: true
           - item:
             name: Rebaca
             homepage_url: https://www.rebaca.com/
@@ -1419,11 +1871,18 @@ landscape:
             twitter: https://twitter.com/rebacainc
             crunchbase: https://www.crunchbase.com/organization/rebaca-technologies
           - item:
-            name: GenxComm
-            homepage_url: https://www.genxcomm.com/
-            logo: GenxComm.svg
-            twitter: https://twitter.com/GenXComm
-            crunchbase: https://www.crunchbase.com/organization/genxcomm
+            name: Red Hat, Inc. (5G)
+            homepage_url: https://redhat.com/
+            logo: red_hat_inc.svg
+            twitter: https://twitter.com/RedHat
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+            allow_duplicate_repo: true
+          - item:
+            name: Turnium Technology Group Inc (5G)
+            homepage_url: https://ttgi.io/
+            logo: turnium_technology_group_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/turnium-technoloies-ltd
+            allow_duplicate_repo: true
   - category:
     name: User Edge
     subcategories:
@@ -1431,49 +1890,46 @@ landscape:
         name: Smart Edge/Apps
         items:
           - item:
-            name: Zededa
-            allow_duplicate_repo: true
-            homepage_url: https://zededa.com/
-            logo: zededa.svg
-            twitter: https://twitter.com/ZEDEDAEdge
-            crunchbase: https://www.crunchbase.com/organization/zededa
-            description: |
-              ZEDEDA is a provider of distributed edge orchestration and virtualization software.
-          - item:
-            name: EdgeXFoundry
-            allow_duplicate_repo: true
-            homepage_url: https://www.edgexfoundry.org/
-            logo: edgeX_foundry.svg
-            project: lfedge
-            twitter: https://twitter.com/EdgeXFoundry
-            crunchbase: https://www.crunchbase.com/organization/edgex-foundry
-          - item:
-            name: EVE
-            homepage_url: https://www.lfedge.org/projects/eve/
-            logo: eve.svg
-            project: lfedge
-            twitter: https://twitter.com/LF_Networking
-            crunchbase: https://www.crunchbase.com/organization/lf-edge
-          - item:
-            name: Fledge
-            homepage_url: https://www.lfedge.org/projects/fledge/
-            logo: fledge.svg
-            project: lfedge
-            twitter: https://twitter.com/lf_edge
-            crunchbase: https://www.crunchbase.com/organization/fledge-0f11
-          - item:
-            name: Zephyr
-            homepage_url: https://zephyrproject.org
-            logo: zephyr.svg
-            project: foundation
-            twitter: https://twitter.com/zephyriot
-            crunchbase: https://www.crunchbase.com/organization/zephy-project
-          - item:
             name: Dianomics
             homepage_url: https://dianomic.com/
             logo: dianomic.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/dianomic
+          - item:
+            name: EdgeXFoundry
+            homepage_url: https://www.edgexfoundry.org/
+            project: lfedge
+            logo: edgeX_foundry.svg
+            crunchbase: https://www.crunchbase.com/organization/edgex-foundry
+            allow_duplicate_repo: true
+          - item:
+            name: EVE
+            homepage_url: https://www.lfedge.org/projects/eve/
+            project: lfedge
+            logo: eve.svg
+            twitter: https://twitter.com/LF_Networking
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
+          - item:
+            name: Fledge
+            homepage_url: https://www.lfedge.org/projects/fledge/
+            project: lfedge
+            logo: fledge.svg
+            twitter: https://twitter.com/lf_edge
+            crunchbase: https://www.crunchbase.com/organization/fledge-0f11
+          - item:
+            name: Zededa
+            description: |
+              ZEDEDA is a provider of distributed edge orchestration and virtualization software.
+            homepage_url: https://zededa.com/
+            logo: zededa.svg
+            crunchbase: https://www.crunchbase.com/organization/zededa
+            allow_duplicate_repo: true
+          - item:
+            name: Zephyr
+            homepage_url: https://zephyrproject.org
+            project: foundation
+            logo: zephyr.svg
+            crunchbase: https://www.crunchbase.com/organization/zephy-project
   - category:
     name: Service Provider Edge
     subcategories:
@@ -1483,32 +1939,16 @@ landscape:
           - item:
             name: Akraino
             homepage_url: https://www.lfedge.org/projects/akraino/
-            logo: akraino.svg
             project: lfedge
-            twitter: https://twitter.com/lf_edge
+            logo: akraino.svg
             crunchbase: https://www.crunchbase.com/organization/lf-edge
           - item:
             name: EdgeXFoundry (5G)
-            allow_duplicate_repo: true
             homepage_url: https://www.edgexfoundry.org/
-            logo: edgeX_foundry.svg
             project: lfedge
-            twitter: https://twitter.com/EdgeXFoundry
+            logo: edgeX_foundry.svg
             crunchbase: https://www.crunchbase.com/organization/edgex-foundry
-          - item:
-            name: Intel Corporation (5G)
-            homepage_url: https://intel.com/
             allow_duplicate_repo: true
-            logo: intel_corporation.svg
-            twitter: https://twitter.com/intel
-            crunchbase: https://www.crunchbase.com/organization/intel
-          - item:
-            name: Kaloom Inc. (5G)
-            allow_duplicate_repo: true
-            homepage_url: https://kaloom.com/
-            logo: kaloom_inc.svg
-            twitter: https://twitter.com/Kaloom_Inc
-            crunchbase: https://www.crunchbase.com/organization/kaloom
           - item:
             name: GenxComm (5G Edge)
             homepage_url: https://www.genxcomm.com/
@@ -1516,10 +1956,22 @@ landscape:
             twitter: https://twitter.com/GenXComm
             crunchbase: https://www.crunchbase.com/organization/genxcomm
           - item:
+            name: Intel Corporation (5G)
+            homepage_url: https://intel.com/
+            logo: intel_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/intel
+            allow_duplicate_repo: true
+          - item:
+            name: Kaloom Inc. (5G)
+            homepage_url: https://kaloom.com/
+            logo: kaloom_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/kaloom
+            allow_duplicate_repo: true
+          - item:
             name: O-RAN SC
             homepage_url: https://oran-osc.github.io
-            logo: oran-ocu.svg
             project: foundation
+            logo: oran-ocu.svg
             twitter: https://twitter.com/LF_Networking
             crunchbase: https://www.crunchbase.com/organization/o-ran-alliance
   - category:
@@ -1530,9 +1982,9 @@ landscape:
         items:
           - item:
             name: HPE Telco Blueprints
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://techhub.hpe.com/eginfolib/servers/docs/Telco/Blueprints/infocenter/index.html
             logo: university_of_surrey.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
             extra:
               description: |
                 HPE Telco Blueprints
@@ -1540,27 +1992,10 @@ landscape:
               sut_sw_version: null
               sut_hw_version: DL360
           - item:
-            name: Nokia Edge Cloud NFVI
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
-            homepage_url: https://networks.nokia.com/solutions/edge-cloud
-            logo: university_of_surrey.svg
-            extra:
-              description: |
-                Nokia Edge Cloud NFVI consist of Nokia AirFrame Open
-                Edge hardware and Nokia AirFrame Cloud
-                Infrastructure for Real-time applications (NCIR).
-                NCIR is low latency NFVI for edge data centers and
-                runs VM and container workloads. Nokia AirFrame Open
-                Edge, is x86 based solution with single Intel
-                processor in 3U high chassis including 5 servers.
-              verson: '2018.09'
-              sut_sw_version: NCI_R19-3
-              sut_hw_version: null
-          - item:
             name: Lenovo Select Solution for NFVI with Wind River Titanium Cloud
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
             homepage_url: https://www.lenovo.com/us/en/data-center/solutions/NFV-Solutions-for-CSPs/p/csp-solutions
             logo: university_of_surrey.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
             extra:
               description: |
                 Lenovo Select Solution for NFVI with Wind River
@@ -1580,14 +2015,44 @@ landscape:
               version: 2018.09
               sut_sw_version: R5
               sut_hw_version: R1
+          - item:
+            name: Nokia Edge Cloud NFVI
+            homepage_url: https://networks.nokia.com/solutions/edge-cloud
+            logo: university_of_surrey.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
+            extra:
+              description: |
+                Nokia Edge Cloud NFVI consist of Nokia AirFrame Open
+                Edge hardware and Nokia AirFrame Cloud
+                Infrastructure for Real-time applications (NCIR).
+                NCIR is low latency NFVI for edge data centers and
+                runs VM and container workloads. Nokia AirFrame Open
+                Edge, is x86 based solution with single Intel
+                processor in 3U high chassis including 5 servers.
+              verson: '2018.09'
+              sut_sw_version: NCI_R19-3
+              sut_hw_version: null
       - subcategory:
         name: Verified Software
         items:
           - item:
-            name: Content Service Module
+            name: Cinar
+            homepage_url: https://www.ulakhaberlesme.com.tr/index.php/en/
+            logo: university_of_surrey.svg
             crunchbase: https://www.crunchbase.com/organization/lf-networking
+            extra:
+              description: |
+                5G CN NRF and NSSF VNF
+              model_language: HEAT
+              checksum: 669a5ae0a71ec99aaaa022b71d25fc36a1ab2c6c6aaaafc752ceb303e4cf0741
+              product_version: 0.4.11
+              version: '2019.12'
+              verification_date: 2020-03-17T00:00:00.000Z
+          - item:
+            name: Content Service Module
             homepage_url: https://www.affirmednetworks.com
             logo: university_of_surrey.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-networking
             extra:
               description: |
                 The CSM runs the tasks needed for call control, IP
@@ -1597,16 +2062,3 @@ landscape:
               product_version: 9
               version: '2019.12'
               verification_date: 2020-05-19T00:00:00.000Z
-          - item:
-            name: Cinar
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
-            homepage_url: https://www.ulakhaberlesme.com.tr/index.php/en/
-            logo: university_of_surrey.svg
-            extra:
-              description: |
-                5G CN NRF and NSSF VNF
-              model_language: HEAT
-              checksum: 669a5ae0a71ec99aaaa022b71d25fc36a1ab2c6c6aaaafc752ceb303e4cf0741
-              product_version: 0.4.11
-              version: '2019.12'
-              verification_date: 2020-03-17T00:00:00.000Z
