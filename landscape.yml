@@ -1246,6 +1246,14 @@ landscape:
               support the development/applications of the information industry as well as the information so...
             crunchbase: https://www.crunchbase.com/organization/institute-for-information-industry-2
           - item:
+            name: Khalifa University
+            homepage_url: https://ku.ac.ae/
+            logo: khalifa_university.svg
+            description: Khalifa University is an internationally top-ranked research-intensive university in Abu Dhabi, UAE. It offers specialized degrees in science, engineering, and
+              medicine, leading students from high school to top-rated doctorate programs. Dedicated to ad...
+            organization:
+              name: Khalifa University
+          - item:
             name: MEF Forum
             homepage_url: https://mef.net/
             logo: mef_forum.svg
