@@ -737,10 +737,10 @@ landscape:
             name: China Mobile Communication Company Ltd
             homepage_url: https://chinamobileltd.com/
             logo: china_mobile_communication_company_ltd.svg
-            description: China Mobile serves about 488 million subscribers, more than two thirds of the nation's total, making it China's and the world's leading wireless operator by
-              subscribers. In addition to local, domestic, and international phone service, China Mobile offers short message services (SMS) and various mobile content features. It primarily
-              uses the Global System for Mobile Communications (GSM) standard. State-controlled China Mobile Communications Corporation (CMCC) indirectly holds a majority stake (about
-              75%) in China Mobile.
+            description: China Mobile serves about 488 million subscribers, more than two thirds of the nation's total, making it China's and the world's leading wireless operator 
+              by subscribers. In addition to local, domestic, and international phone service, China Mobile offers short message services (SMS) and various mobile content features.
+              It primarily uses the Global System for Mobile Communications (GSM) standard. State-controlled China Mobile Communications Corporation (CMCC) indirectly holds a 
+              majority stake (about 75%) in China Mobile.
             crunchbase: https://www.crunchbase.com/organization/china-mobile
             extra:
               linkedin_url: https://www.linkedin.com/company/china-mobile
@@ -773,8 +773,8 @@ landscape:
             name: Deutsche Telekom AG
             homepage_url: https://telekom.com/
             logo: deutsche_telekom_ag.svg
-            description: Founded in 1995, Deutsche Telekom AG is a Germany-based integrated telecommunications provider, offering its customers around the world a portfolio of services
-              in the areas of telecommunications and information technology.
+            description: Founded in 1995, Deutsche Telekom AG is a Germany-based integrated telecommunications provider, offering its customers around the world a portfolio of 
+              services in the areas of telecommunications and information technology.
             crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
             twitter: https://twitter.com/deutschetelekom
             extra:
@@ -783,9 +783,9 @@ landscape:
             name: Ericsson
             homepage_url: https://ericsson.com/
             logo: ericsson.svg
-            description: Founded in 1876, Ericsson is a Swedish communication technology and services provider. The company offers software, services, and infrastructure for information
-              and communications technology used by telecommunications operators, including traditional telecommunications, Internet Protocol networking equipment, mobile and fixed broadband,
-              cable TV, IPTV, video systems, and business support solutions. Ericsson is headquartered in Stockholm, Sweden.
+            description: Founded in 1876, Ericsson is a Swedish communication technology and services provider. The company offers software, services, and infrastructure for 
+              information and communications technology used by telecommunications operators, including traditional telecommunications, Internet Protocol networking equipment, 
+              mobile and fixed broadband, cable TV, IPTV, video systems, and business support solutions. Ericsson is headquartered in Stockholm, Sweden.
             crunchbase: https://www.crunchbase.com/organization/ericsson
             twitter: https://twitter.com/ericsson
             extra:
@@ -794,7 +794,8 @@ landscape:
             name: Huawei Technologies Co., Ltd
             homepage_url: https://huawei.com/
             logo: huawei_technologies_co.svg
-            description: Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in Shenzhen, China.
+            description: Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in Shenzhen, 
+              China.
             crunchbase: https://www.crunchbase.com/organization/huawei
             twitter: https://twitter.com/Huawei
             extra:
@@ -803,9 +804,9 @@ landscape:
             name: Infosys Limited
             homepage_url: https://infosys.com/
             logo: infosys_limited.svg
-            description: Infosys is a global leader in consulting, technology, outsourcing and next-generation services. They enable clients, in more than 50 countries, to stay a step
-              ahead of emerging business trends and outperform the competition. They help them transform and thrive in a changing world by co-creating breakthrough solutions that combine
-              strategic insights and execution excellence.
+            description: Infosys is a global leader in consulting, technology, outsourcing and next-generation services. They enable clients, in more than 50 countries, to stay a 
+              step ahead of emerging business trends and outperform the competition. They help them transform and thrive in a changing world by co-creating breakthrough solutions 
+              that combine strategic insights and execution excellence.
             crunchbase: https://www.crunchbase.com/organization/infosys
             twitter: https://twitter.com/Infosys
             extra:
@@ -841,10 +842,10 @@ landscape:
             name: Red Hat, Inc.
             homepage_url: https://redhat.com/
             logo: red_hat_inc.svg
-            description: Red Hat was established in 1993 and is headquartered in Raleigh, North Carolina. Red Hat is the provider of open source software solutions, using a community-powered
-              approach to provide reliable and high-performing cloud, Linux, middleware, storage, and virtualization technologies. Red Hat also offers support, training, and consulting
-              services. As the connective hub in a global network of enterprises, partners, and open source communities, Red Hat helps create relevant, innovative technologies that liberate
-              resources for growth and prepare customers for the future of IT.
+            description: Red Hat was established in 1993 and is headquartered in Raleigh, North Carolina. Red Hat is the provider of open source software solutions, using a 
+              community-powered approach to provide reliable and high-performing cloud, Linux, middleware, storage, and virtualization technologies. Red Hat also offers support, 
+              training, and consulting services. As the connective hub in a global network of enterprises, partners, and open source communities, Red Hat helps create relevant, 
+              innovative technologies that liberate resources for growth and prepare customers for the future of IT.
             crunchbase: https://www.crunchbase.com/organization/red-hat
             twitter: https://twitter.com/RedHat
             extra:
@@ -875,8 +876,8 @@ landscape:
             name: Verizon Corporate Services
             homepage_url: https://verizon.com/
             logo: verizon_corporate_services.svg
-            description: Verizon is a telecommunications company that offers broadband and other wireless and wireline communications services to consumer, business, government, and
-              wholesale customers. Verizon is headquartered in New York City, New York.
+            description: Verizon is a telecommunications company that offers broadband and other wireless and wireline communications services to consumer, business, government, 
+              and wholesale customers. Verizon is headquartered in New York City, New York.
             crunchbase: https://www.crunchbase.com/organization/verizon
             twitter: https://twitter.com/Verizon
             extra:
@@ -885,9 +886,9 @@ landscape:
             name: Walmart Inc.
             homepage_url: https://walmart.com/
             logo: walmart_inc.svg
-            description: WalMart is a multinational retailing corporation offering a range of products through their retail stores, websites, and through their mobile devices. Each week,
-              over 260 million customers and members visit their stores under 59 banners in 28 countries and eCommerce websites in 11 countries. Walmart continues to be a leader in sustainability,
-              corporate philanthropy, and employment opportunity.
+            description: WalMart is a multinational retailing corporation offering a range of products through their retail stores, websites, and through their mobile devices. Each
+              week, over 260 million customers and members visit their stores under 59 banners in 28 countries and eCommerce websites in 11 countries. Walmart continues to be a 
+              leader in sustainability, corporate philanthropy, and employment opportunity.
             crunchbase: https://www.crunchbase.com/organization/walmart-labs
             twitter: https://twitter.com/Walmart
             extra:
@@ -902,9 +903,9 @@ landscape:
             name: A10 Networks
             homepage_url: https://a10networks.com/
             logo: a10_networks.svg
-            description: Founded in 2004, A10 Networks Inc. provides computer networking products and security solutions. The Company offers application networking platforms and security
-              products to streamline technology operations, including cloud and service providers and application delivery solutions. A10 serves customers in various industries worldwide.
-              A10 Networks is a managed services provider (MSP).
+            description: Founded in 2004, A10 Networks Inc. provides computer networking products and security solutions. The Company offers application networking platforms and 
+              security products to streamline technology operations, including cloud and service providers and application delivery solutions. A10 serves customers in various 
+              industries worldwide. A10 Networks is a managed services provider (MSP).
             crunchbase: https://www.crunchbase.com/organization/a10-networks
             twitter: https://twitter.com/A10Networks
             extra:
@@ -913,10 +914,10 @@ landscape:
             name: Advanced Micro Devices (AMD)
             homepage_url: https://amd.com/
             logo: advanced_micro_devices_amd.svg
-            description: For more than 45 years AMD has driven innovation in high-performance computing, graphics, and visualization technologies; the building blocks for gaming, immersive
-              platforms, and the data center. Hundreds of millions of consumers, leading Fortune 500 businesses, and cutting-edge scientific research facilities around the world rely
-              on AMD technology daily to improve how they live, work, and play. AMD employees around the world are focused on building great products that push the boundaries of what
-              is possible.
+            description: For more than 45 years AMD has driven innovation in high-performance computing, graphics, and visualization technologies; the building blocks for gaming, 
+              immersive platforms, and the data center. Hundreds of millions of consumers, leading Fortune 500 businesses, and cutting-edge scientific research facilities around 
+              the world rely on AMD technology daily to improve how they live, work, and play. AMD employees around the world are focused on building great products that push the 
+              boundaries of what is possible.
             crunchbase: https://www.crunchbase.com/organization/amd
             twitter: https://twitter.com/AMD
             extra:
@@ -951,9 +952,9 @@ landscape:
             name: Arm Limited
             homepage_url: https://arm.com/
             logo: arm_limited.svg
-            description: ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing that is licensed
-              by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare, infrastructure, IoT, mobile, smart homes, and wearables.
-              ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990 and is headquartered in the UK.
+            description: ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing that is 
+              licensed by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare, infrastructure, IoT, mobile, smart 
+              homes, and wearables. ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990 and is headquartered in the UK.
             crunchbase: https://www.crunchbase.com/organization/arm
             twitter: https://twitter.com/ArmCommunity
             extra:
@@ -962,9 +963,9 @@ landscape:
             name: Cable Television Laboratories Inc.
             homepage_url: https://cablelabs.com/
             logo: cable_television_laboratories_inc.svg
-            description: Founded in 1988, CableLabs is a non-profit research and development consortium that serves to define interoperable solutions among cable operator members and
-              their technology vendors in order to reduce costs, create competition in the supply chain, and drive scale.  CableLabs is dedicated to creating innovative ideas that significantly
-              impact their cable operator members' business. The company is headquartered in Louisville, Colorado.
+            description: Founded in 1988, CableLabs is a non-profit research and development consortium that serves to define interoperable solutions among cable operator members 
+              and their technology vendors in order to reduce costs, create competition in the supply chain, and drive scale.  CableLabs is dedicated to creating innovative ideas 
+              that significantly impact their cable operator members' business. The company is headquartered in Louisville, Colorado.
             crunchbase: https://www.crunchbase.com/organization/cablelabs
             twitter: https://twitter.com/CableLabs
             extra:
@@ -973,8 +974,8 @@ landscape:
             name: Canonical Group Limited
             homepage_url: https://canonical.com/
             logo: canonical_group_limited.svg
-            description: Canonical Ltd. is a UK-based privately held computer software company founded and funded by South African entrepreneur Mark Shuttleworth to market commercial
-              support and related services for Ubuntu and related projects.
+            description: Canonical Ltd. is a UK-based privately held computer software company founded and funded by South African entrepreneur Mark Shuttleworth to market 
+              commercial support and related services for Ubuntu and related projects.
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
             twitter: https://twitter.com/Canonical
             extra:
@@ -983,9 +984,9 @@ landscape:
             name: China Unicom
             homepage_url: https://chinaunicom.com/
             logo: china_unicom.svg
-            description: China Unicom (Hong Kong) Limited, formerly China Unicom Limited, is engaged in global system for mobile (GSM) cellular business and value-added services, fixed-line
-              voice and value-added services, fixed-line broadband and other Internet-related services, information and communication technology (ICT) services, business and data communications
-              services, and other related telecommunication business in 31 provinces, municipalities and autonomous regions in China.
+            description: China Unicom (Hong Kong) Limited, formerly China Unicom Limited, is engaged in global system for mobile (GSM) cellular business and value-added services, 
+              fixed-line voice and value-added services, fixed-line broadband and other Internet-related services, information and communication technology (ICT) services, business
+              and data communications services, and other related telecommunication business in 31 provinces, municipalities and autonomous regions in China.
             crunchbase: https://www.crunchbase.com/organization/china-unicom
             twitter: https://twitter.com/ChinunicomOS
             extra:
@@ -994,8 +995,8 @@ landscape:
             name: F5, Inc.
             homepage_url: https://f5.com/
             logo: f5_inc.svg
-            description: F5, headquartered in Seattle, Washington, is an application delivery networking company. They specialize in traffic optimization, security, cloud services, and
-              cloud software.
+            description: F5, headquartered in Seattle, Washington, is an application delivery networking company. They specialize in traffic optimization, security, cloud services,
+              and cloud software.
             crunchbase: https://www.crunchbase.com/organization/f5-networks
             twitter: https://twitter.com/F5
             extra:
@@ -1004,12 +1005,12 @@ landscape:
             name: Fujitsu Limited
             homepage_url: https://fujitsu.com/
             logo: fujitsu_limited.svg
-            description: Fujitsu is the leading Japanese information and communication technology (ICT) company offering a full range of technology products, solutions and services.
-              Approximately 162, 000 Fujitsu people support customers in more than 100 countries. The company uses its experience and the power of ICT to shape the future of society
-              with its customers. Fujitsu Limited reported consolidated revenues of 4.8 trillion yen (US$46 billion) for the fiscal year ended March 31, 2014. Fujitsu is the world's
-              fourth largest IT services provider and No.1 in Japan. Fujitsu is among the world's top five providers of servers. FORTUNE named Fujitsu as one of 'the World's Most Admired
-              Companies' in 2013. Fujitsu Group holds about 97, 000 patents worldwide. Fujitsu is part of the Dow Jones Sustainability Indexes (World), FTSE4Good Index Series, and Oekom
-              research.
+            description: Fujitsu is the leading Japanese information and communication technology (ICT) company offering a full range of technology products, solutions and 
+              services. Approximately 162, 000 Fujitsu people support customers in more than 100 countries. The company uses its experience and the power of ICT to shape the future
+              of society with its customers. Fujitsu Limited reported consolidated revenues of 4.8 trillion yen (US$46 billion) for the fiscal year ended March 31, 2014. Fujitsu is
+              the world's fourth largest IT services provider and No.1 in Japan. Fujitsu is among the world's top five providers of servers. FORTUNE named Fujitsu as one of 'the 
+              World's Most Admired Companies' in 2013. Fujitsu Group holds about 97, 000 patents worldwide. Fujitsu is part of the Dow Jones Sustainability Indexes (World), 
+              FTSE4Good Index Series, and Oekom research.
             crunchbase: https://www.crunchbase.com/organization/fujitsu
             twitter: https://twitter.com/Fujitsu_Global
             extra:
@@ -1018,8 +1019,8 @@ landscape:
             name: Kubermatic GmbH
             homepage_url: https://kubermatic.com/
             logo: kubermatic_gmbh.svg
-            description: As the Top 5 corporate committer to the Kubernetes Project in 2019, Kubermatic develops Kubermatic Kubernetes Platform to accelerate the cloud native transformation.
-              Leading enterprises including Lufthansa, Bosch, Siemens, and T-Systems trust Kubermatic on their cloud native journey. Contact us
+            description: As the Top 5 corporate committer to the Kubernetes Project in 2019, Kubermatic develops Kubermatic Kubernetes Platform to accelerate the cloud native 
+              transformation. Leading enterprises including Lufthansa, Bosch, Siemens, and T-Systems trust Kubermatic on their cloud native journey. Contact us
             crunchbase: https://www.crunchbase.com/organization/loodse-gmbh
             twitter: https://twitter.com/Kubermatic
             extra:
@@ -1028,9 +1029,9 @@ landscape:
             name: MATRIXX Software
             homepage_url: https://matrixx.com/
             logo: matrixx_software.svg
-            description: MATRIXX Software, founded in 2008 delivers an innovative digital commerce solution that enables always-on customer engagement. Its patented approach makes it
-              possible for Digital Service Providers to simultaneously serve millions of customers, and process billions of customer interactions, precisely and instantly. MATRIXX enables
-              DSPs to build long-term strategic value through high-touch, digital customer relationships. The company is headquartered in Saratoga, California.
+            description: MATRIXX Software, founded in 2008 delivers an innovative digital commerce solution that enables always-on customer engagement. Its patented approach makes 
+              it possible for Digital Service Providers to simultaneously serve millions of customers, and process billions of customer interactions, precisely and instantly. 
+              MATRIXX enables DSPs to build long-term strategic value through high-touch, digital customer relationships. The company is headquartered in Saratoga, California.
             crunchbase: https://www.crunchbase.com/organization/matrixx-software
             twitter: https://twitter.com/MATRIXX_SW
             extra:
@@ -1039,8 +1040,8 @@ landscape:
             name: NEC Corporation
             homepage_url: https://nec.com/
             logo: nec_corporation.svg
-            description: NEC Corporation is a provider of Internet, broadband network and enterprise business solutions. The company offers IT, network and cloud solutions in addition
-              to network, software, computer products and more. NEC is headquartered in Tokyo, Japan.
+            description: NEC Corporation is a provider of Internet, broadband network and enterprise business solutions. The company offers IT, network and cloud solutions in 
+              addition to network, software, computer products and more. NEC is headquartered in Tokyo, Japan.
             crunchbase: https://www.crunchbase.com/organization/nec
             twitter: https://twitter.com/NEC_corp
             extra:
@@ -1049,8 +1050,8 @@ landscape:
             name: OdineLabs
             homepage_url: https://odinelabs.com/
             logo: odinelabs.svg
-            description: OdineLabs specializes in developing AI-based automation and orchestration solutions for global telecom operators and enterprises, leveraging machine learning
-              and generative AI to enhance network capabilities and drive innovation in the telecommunicatio...
+            description: OdineLabs specializes in developing AI-based automation and orchestration solutions for global telecom operators and enterprises, leveraging machine 
+              learning and generative AI to enhance network capabilities and drive innovation in the telecommunicatio...
             organization:
               name: OdineLabs
               linkedin: https://www.linkedin.com/company/telecomoman
@@ -1075,12 +1076,13 @@ landscape:
             name: Robin Systems, Inc
             homepage_url: https://robin.io/
             logo: robin_systems_inc.svg
-            description: Robin transforms the way enterprise applications drive the infrastructure by bringing together purpose-built container-aware block storage with application-aware
-              manager into the cloud (private and/or public). This demonstrates unique benefits to distributed, clustered and stateful applications including Big-Data and Databases.
-              With a team that includes industry veterans from leading enterprise technology companies such as NetApp, Oracle, and Veritas, Robin seeks to disrupt the $20 billion-plus
-              virtualization market with its container-based compute and storage platform software that delivers better performance higher consolidation and a much simpler application
-              lifecycle management than traditional hypervisor-based virtualization. Founded in 2013, the San Jose California-based company has raised more than $50 million in venture
-              funding from leading investors such as Clear Ventures, DN Capital, USAA, Hasso Plattner Ventures and CloudScale Capital Partners.
+            description: Robin transforms the way enterprise applications drive the infrastructure by bringing together purpose-built container-aware block storage with 
+              application-aware manager into the cloud (private and/or public). This demonstrates unique benefits to distributed, clustered and stateful applications including 
+              Big-Data and Databases. With a team that includes industry veterans from leading enterprise technology companies such as NetApp, Oracle, and Veritas, Robin seeks to 
+              disrupt the $20 billion-plus virtualization market with its container-based compute and storage platform software that delivers better performance higher 
+              consolidation and a much simpler application lifecycle management than traditional hypervisor-based virtualization. Founded in 2013, the San Jose California-based 
+              company has raised more than $50 million in venture funding from leading investors such as Clear Ventures, DN Capital, USAA, Hasso Plattner Ventures and CloudScale 
+              Capital Partners.
             crunchbase: https://www.crunchbase.com/organization/robin-systems
             twitter: https://twitter.com/Robin4K8S
             extra:
@@ -1089,10 +1091,10 @@ landscape:
             name: Sprint Corporation
             homepage_url: https://sprint.com/
             logo: sprint_corporation.svg
-            description: Sprint is a communications services company that creates more and better ways to connect its customers to the things they care about most. Sprint served more
-              than 59.4 million connections as of June 30, 2016 and is widely recognized for developing, engineering and deploying innovative technologies, including the first wireless
-              4G service from a national carrier in the United States; leading no-contract brands including Virgin Mobile USA, Boost Mobile, and Assurance Wireless; instant national
-              and international push-to-talk capabilities; and a global Tier 1 Internet backbone. Sprint is headquartered in Overland Park, Kansas.
+            description: Sprint is a communications services company that creates more and better ways to connect its customers to the things they care about most. Sprint served 
+              more than 59.4 million connections as of June 30, 2016 and is widely recognized for developing, engineering and deploying innovative technologies, including the first
+              wireless 4G service from a national carrier in the United States; leading no-contract brands including Virgin Mobile USA, Boost Mobile, and Assurance Wireless; 
+              instant national and international push-to-talk capabilities; and a global Tier 1 Internet backbone. Sprint is headquartered in Overland Park, Kansas.
             crunchbase: https://www.crunchbase.com/organization/t-mobile
             twitter: https://twitter.com/TMobile
             extra:
@@ -1110,8 +1112,8 @@ landscape:
             name: Telecom Italia Mobile (TIM) S.p.A.
             homepage_url: https://telecomitalia.com/
             logo: telecom_italia_mobile_tim_s_p_a.svg
-            description: TIM SpA, also operating under the name Telecom Italia, is an Italian telecommunications company headquartered in Rome and Milan, which provides telephony services,
-              mobile services, and DSL data services.
+            description: TIM SpA, also operating under the name Telecom Italia, is an Italian telecommunications company headquartered in Rome and Milan, which provides telephony 
+              services, mobile services, and DSL data services.
             crunchbase: https://www.crunchbase.com/organization/telecom-italia
             extra:
               linkedin_url: https://www.linkedin.com/company/tim
@@ -1128,8 +1130,8 @@ landscape:
             name: Wavelabs
             homepage_url: https://wavelabs.ai/
             logo: wavelabs.svg
-            description: Wavelabs is an AI-First, new-age Technology company for the Digital, Cognitive & Industry 4.0 Era. We offer solutions that optimizes every aspect of your technology
-              evolution and business process, giving you the ‘Wavelabs Advantage’.
+            description: Wavelabs is an AI-First, new-age Technology company for the Digital, Cognitive & Industry 4.0 Era. We offer solutions that optimizes every aspect of your 
+              technology evolution and business process, giving you the ‘Wavelabs Advantage’.
             crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
             twitter: https://twitter.com/WavelabsTech
             extra:
@@ -1138,8 +1140,8 @@ landscape:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
             logo: wind_river_systems_inc.svg
-            description: Headquartered in Alameda, California, Wind River Systems develops embedded system software consisting of run-time software, industry-specific software, simulation
-              technology, development tools and middleware.
+            description: Headquartered in Alameda, California, Wind River Systems develops embedded system software consisting of run-time software, industry-specific software, 
+              simulation technology, development tools and middleware.
             crunchbase: https://www.crunchbase.com/organization/wind-river
             twitter: https://twitter.com/WindRiver
             extra:
@@ -1160,8 +1162,8 @@ landscape:
             name: Beijing University of Posts and Telecommunications (BUPT)
             homepage_url: https://bupt.edu.cn/
             logo: beijing_university_of_posts_and_telecommunications_bupt.svg
-            description: The Beijing University of Posts and Telecommunications is a key national university distinguished by the teaching and research in the field of cable communications,
-              wireless communications, computer, and electronic engineering.
+            description: The Beijing University of Posts and Telecommunications is a key national university distinguished by the teaching and research in the field of cable 
+              communications, wireless communications, computer, and electronic engineering.
             crunchbase: https://www.crunchbase.com/organization/beijing-university-of-posts-and-telecommunications
             extra:
               linkedin_url: https://www.linkedin.com/company/beijing-university-of-posts-and-telecommunications
@@ -1244,15 +1246,15 @@ landscape:
             name: INSTITUTE FOR INFORMATION INDUSTRY
             homepage_url: https://iii.org.tw/
             logo: institute_for_information_industry.svg
-            description: The Institute for Information Industry was established in 1979 as a Non-Governmental Organization through the joint efforts of public and private sectors, to
-              support the development/applications of the information industry as well as the information so...
+            description: The Institute for Information Industry was established in 1979 as a Non-Governmental Organization through the joint efforts of public and private sectors, 
+              to support the development/applications of the information industry as well as the information so...
             crunchbase: https://www.crunchbase.com/organization/institute-for-information-industry-2
           - item:
             name: Khalifa University
             homepage_url: https://ku.ac.ae/
             logo: khalifa_university.svg
-            description: Khalifa University is an internationally top-ranked research-intensive university in Abu Dhabi, UAE. It offers specialized degrees in science, engineering, and
-              medicine, leading students from high school to top-rated doctorate programs. Dedicated to ad...
+            description: Khalifa University is an internationally top-ranked research-intensive university in Abu Dhabi, UAE. It offers specialized degrees in science, engineering,
+              and medicine, leading students from high school to top-rated doctorate programs. Dedicated to ad...
             organization:
               name: Khalifa University
           - item:
@@ -1301,9 +1303,9 @@ landscape:
             name: Ministry of Transport, Communications & Information Technology
             homepage_url: https://mtcit.gov.om/
             logo: ministry_of_transport_communications_information_technology.svg
-            description: The Ministry of Transport, Communications and Information Technology supervises a number of national projects; Such as ports and airports that connect the Sultanate
-              with the countries of the outside world, and contribute to diversifying sources of income and achieving sustainable development in various economic, industrial, commercial,
-              tourism and other fields.
+            description: The Ministry of Transport, Communications and Information Technology supervises a number of national projects; Such as ports and airports that connect the 
+              Sultanate with the countries of the outside world, and contribute to diversifying sources of income and achieving sustainable development in various economic, 
+              industrial, commercial, tourism and other fields.
             crunchbase: https://www.crunchbase.com/organization/ministry-of-transport-communications
           - item:
             name: National Institute of Advanced Industrial Science and Technology(AIST)
@@ -1382,7 +1384,8 @@ landscape:
             name: Penn State
             homepage_url: https://psu.edu/
             logo: penn_state.svg
-            description: Penn State University is a multicampus state-related, land-grant, space-grant public research university with campuses and facilities throughout Pennsylvania.
+            description: Penn State University is a multicampus state-related, land-grant, space-grant public research university with campuses and facilities throughout 
+              Pennsylvania.
             crunchbase: https://www.crunchbase.com/organization/pennsylvania-state-university-main-campus
             twitter: https://twitter.com/penn_state
             extra:
@@ -1441,9 +1444,9 @@ landscape:
             name: SDN/NFV Industry Alliance
             homepage_url: https://sdnfvia.com/
             logo: sdn_nfv_industry_alliance.svg
-            description: SDN/NFV Industry Alliance was founded on November 4, 2014 by China Academy of Information and Communications Technology (CAICT) together with 15 organizations
-              in the industry. Guided by the principle of "openness, innovation, collaboration, implementation", the alliance focuses on increasing the readiness in SDN commercial utilization
-              and promoting the healthy development of the SDN industry.
+            description: SDN/NFV Industry Alliance was founded on November 4, 2014 by China Academy of Information and Communications Technology (CAICT) together with 15 
+              organizations in the industry. Guided by the principle of "openness, innovation, collaboration, implementation", the alliance focuses on increasing the readiness in 
+              SDN commercial utilization and promoting the healthy development of the SDN industry.
             organization:
               name: SDN/NFV Industry Alliance
           - item:
@@ -1464,9 +1467,9 @@ landscape:
             name: UNH InterOperability Lab
             homepage_url: https://iol.unh.edu/
             logo: unh_interoperability_lab.svg
-            description: The University of New Hampshire InterOperability Laboratory (UNH-IOL) tests networking and data communications products. Since 1988, the laboratory has fostered
-              multi-vendor interoperability while preparing students for careers in the industry. The laboratory has grown steadily into one of the industry's premier independent proving
-              grounds for new technologies.
+            description: The University of New Hampshire InterOperability Laboratory (UNH-IOL) tests networking and data communications products. Since 1988, the laboratory has 
+              fostered multi-vendor interoperability while preparing students for careers in the industry. The laboratory has grown steadily into one of the industry's premier 
+              independent proving grounds for new technologies.
             crunchbase: https://www.crunchbase.com/organization/interoperability-laboratory
             twitter: https://twitter.com/UofNH
             extra:
@@ -1475,8 +1478,8 @@ landscape:
             name: University of New Hampshire
             homepage_url: https://unh.edu/
             logo: university_of_new_hampshire.svg
-            description: The University of New Hampshire is a public university and is apart of the University System of New Hampshire. With over 15,000 students, UNH is the largest
-              university in New Hampshire.
+            description: The University of New Hampshire is a public university and is apart of the University System of New Hampshire. With over 15,000 students, UNH is the 
+              largest university in New Hampshire.
             crunchbase: https://www.crunchbase.com/organization/university-of-new-hampshire
             twitter: https://twitter.com/UofNH
             extra:
