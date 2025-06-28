@@ -1112,8 +1112,12 @@ landscape:
             name: Telecom Italia Mobile (TIM) S.p.A.
             homepage_url: https://telecomitalia.it/
             logo: telecom_italia_mobile_tim_s_p_a.svg
-            description: TIM SpA, also operating under the name Telecom Italia, is an Italian telecommunications company headquartered in Rome and Milan, which provides telephony 
-              services, mobile services, and DSL data services.
+            description: |-
+              TIM SpA, also operating under the name Telecom Italia, is an Italian telecommunications company headquartered in Rome and Milan, which provides telephony services, mobile services, and DSL data services.
+
+              --- Merged Data:
+
+              TIM (Telecom Italia) provides telecommunications services in Italy, including fixed and mobile telephony, internet, TV, and entertainment. TIM Ventures supports innovative startups to drive growth and create value.
             crunchbase: https://www.crunchbase.com/organization/telecom-italia
             extra:
               linkedin_url: https://www.linkedin.com/company/tim
