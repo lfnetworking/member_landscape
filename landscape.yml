@@ -1109,9 +1109,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/tata-communication
           - item:
-            name: Telecom Italia Mobile (TIM) S.p.A.
-            homepage_url: https://telecomitalia.it/
-            logo: telecom_italia_mobile_tim_s_p_a.svg
+            name: TELUS Corporation
+            homepage_url: https://telus.com/
+            logo: telus_corporation.svg
+            description: Telus Communications Inc. is a subsidiary of Telus Corporation.
+            crunchbase: https://www.crunchbase.com/organization/telus
+            twitter: https://twitter.com/TELUS
+            extra:
+              linkedin_url: https://www.linkedin.com/company/telus
+          - item:
+            name: TIM S.p.A
+            homepage_url: https://tim.it/
+            logo: tim_s_p.svg
             description: |-
               TIM SpA, also operating under the name Telecom Italia, is an Italian telecommunications company headquartered in Rome and Milan, which provides telephony services, mobile services, and DSL data services.
 
@@ -1121,15 +1130,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/telecom-italia
             extra:
               linkedin_url: https://www.linkedin.com/company/tim
-          - item:
-            name: TELUS Corporation
-            homepage_url: https://telus.com/
-            logo: telus_corporation.svg
-            description: Telus Communications Inc. is a subsidiary of Telus Corporation.
-            crunchbase: https://www.crunchbase.com/organization/telus
-            twitter: https://twitter.com/TELUS
-            extra:
-              linkedin_url: https://www.linkedin.com/company/telus
           - item:
             name: Wavelabs
             homepage_url: https://wavelabs.ai/
