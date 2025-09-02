@@ -1274,6 +1274,12 @@ landscape:
             organization:
               name: National Institute of Science Education and Research (NISER) Bhubaneswar
           - item:
+            name: NgKore
+            homepage_url: https://ngkore.org/
+            logo: ngkore.svg
+            organization:
+              name: NgKore
+          - item:
             name: Okinawa Open Laboratory
             homepage_url: https://okinawaopenlabs.org/
             logo: okinawa_open_laboratory.svg
