@@ -1412,10 +1412,10 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/trinity-college-dublin
           - item:
-            name: UNH InterOperability Lab
+            name: UNH Interoperability Labs
             homepage_url: https://iol.unh.edu/
-            logo: unh_interoperability_lab.svg
-            description: The University of New Hampshire InterOperability Laboratory (UNH-IOL) tests networking and data communications products. Since 1988, the laboratory has fostered multi-vendor interoperability while preparing students for careers in the industry. The laboratory has grown steadily into one of the industry's premier independent proving grounds for new technologies.
+            logo: unh_interoperability_labs.svg
+            description: The University of New Hampshire Interoperability Labs (UNH-IOL) tests networking and data communications products. Since 1988, the laboratory has fostered multi-vendor interoperability while preparing students for careers in the industry. The laboratory has grown steadily into one of the industry's premier independent proving grounds for new technologies.
             crunchbase: https://www.crunchbase.com/organization/interoperability-laboratory
             twitter: https://twitter.com/UofNH
             extra:
