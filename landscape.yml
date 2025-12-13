@@ -742,24 +742,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/china-mobile
           - item:
-            name: China Telecommunications Corporation
-            homepage_url: https://chinatelecom.cn/
-            logo: china_telecommunications_corporation.svg
-            description: |-
-              About China Telecom Corporation With over 200 million customers and more than $61 billion in assets, China Telecom Corporation is one of the world's largest telecommunications companies. As the largest fixed-line provider in the world, China Telecom owns and operates an extensive system of domestic and international telecommunications networks and facilities, including local wireless loops, voice, data, image, multimedia and other telecommunications services in China. China Telecom has offices in the Unites States, Hong Kong, Canada and the United Kingdom.
-
-              --- Merged Data:
-
-              China Telcom
-
-              --- Merged Data:
-
-              China Telecommunications Group Co., Ltd., known as China Telecom, is a leading telecommunications company in China. It offers a wide range of services including mobile and fixed-line telephony, broadband internet, digital television, and enterprise sol...
-            crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
-            twitter: https://twitter.com/chinateleglobal
-            extra:
-              linkedin_url: https://www.linkedin.com/company/china-telecom-corporation-limited
-          - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
             logo: cisco_systems_inc.svg
