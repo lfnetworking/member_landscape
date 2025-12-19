@@ -1085,7 +1085,12 @@ landscape:
             name: ZTE Corporation
             homepage_url: https://zte.com.cn/
             logo: zte_corporation.svg
-            description: ZTE Corporation is a Chinese multinational telecommunications equipment and systems company headquartered in Shenzhen, Guangdong, China.
+            description: |-
+              ZTE Corporation is a Chinese multinational telecommunications equipment and systems company headquartered in Shenzhen, Guangdong, China.
+
+              --- Merged Data:
+
+              ZTE Corporation, a global leader in telecommunications and information technology, provides innovative technologies and integrated solutions for global operators, government, enterprise, and consumers in over 160 countries. Serving over 1/4 of the glob...
             crunchbase: https://www.crunchbase.com/organization/zte-corporation
             twitter: https://twitter.com/ZTEPress
             extra:
