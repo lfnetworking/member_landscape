@@ -892,15 +892,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/arm
           - item:
-            name: Cable Television Laboratories Inc.
-            homepage_url: https://cablelabs.com/
-            logo: cable_television_laboratories_inc.svg
-            description: Founded in 1988, CableLabs is a non-profit research and development consortium that serves to define interoperable solutions among cable operator members and their technology vendors in order to reduce costs, create competition in the supply chain, and drive scale.  CableLabs is dedicated to creating innovative ideas that significantly impact their cable operator members' business. The company is headquartered in Louisville, Colorado.
-            crunchbase: https://www.crunchbase.com/organization/cablelabs
-            twitter: https://twitter.com/CableLabs
-            extra:
-              linkedin_url: https://www.linkedin.com/company/cablelabs
-          - item:
             name: Canonical Group Limited
             homepage_url: https://canonical.com/
             logo: canonical_group_limited.svg
@@ -1080,6 +1071,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/beijing-university-of-posts-and-telecommunications
             extra:
               linkedin_url: https://www.linkedin.com/company/beijing-university-of-posts-and-telecommunications
+          - item:
+            name: Cable Television Laboratories Inc.
+            homepage_url: https://cablelabs.com/
+            logo: cable_television_laboratories_inc.svg
+            description: Founded in 1988, CableLabs is a non-profit research and development consortium that serves to define interoperable solutions among cable operator members and their technology vendors in order to reduce costs, create competition in the supply chain, and drive scale.  CableLabs is dedicated to creating innovative ideas that significantly impact their cable operator members' business. The company is headquartered in Louisville, Colorado.
+            crunchbase: https://www.crunchbase.com/organization/cablelabs
+            twitter: https://twitter.com/CableLabs
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cablelabs
           - item:
             name: CENGN
             homepage_url: https://cengn.ca/
