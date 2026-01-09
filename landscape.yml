@@ -931,7 +931,7 @@ landscape:
             name: Kubermatic GmbH
             homepage_url: https://kubermatic.com/
             logo: kubermatic_gmbh.svg
-            description: As the Top 5 corporate committer to the Kubernetes Project in 2019, Kubermatic develops Kubermatic Kubernetes Platform to accelerate the cloud native transformation. Leading enterprises including Lufthansa, Bosch, Siemens, and T-Systems trust Kubermatic on their cloud native journey. Contact us
+            description: As the Top 5 corporate committer to the Kubernetes Project in 2019, Kubermatic develops Kubermatic Kubernetes Platform to accelerate the cloud native transformation. Leading enterprises including Lufthansa, Bosch, Siemens, and T-Systems trust Kubermatic on their cloud native journey. Contact us.
             crunchbase: https://www.crunchbase.com/organization/loodse-gmbh
             twitter: https://twitter.com/Kubermatic
             extra:
