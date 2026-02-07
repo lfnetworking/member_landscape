@@ -1284,9 +1284,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/open-networking-foundation
           - item:
-            name: Penn State
+            name: Penn State University
             homepage_url: https://psu.edu/
-            logo: penn_state.svg
+            logo: penn_state_university.svg
             description: Penn State University is a multicampus state-related, land-grant, space-grant public research university with campuses and facilities throughout Pennsylvania.
             crunchbase: https://www.crunchbase.com/organization/pennsylvania-state-university-main-campus
             twitter: https://twitter.com/penn_state
