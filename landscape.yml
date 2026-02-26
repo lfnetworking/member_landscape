@@ -1020,15 +1020,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/tim
           - item:
-            name: Wavelabs
-            homepage_url: https://wavelabs.ai/
-            logo: wavelabs.svg
-            description: Wavelabs is an AI-First, new-age Technology company for the Digital, Cognitive & Industry 4.0 Era. We offer solutions that optimizes every aspect of your technology evolution and business process, giving you the ‘Wavelabs Advantage’.
-            crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
-            twitter: https://twitter.com/WavelabsTech
-            extra:
-              linkedin_url: https://www.linkedin.com/company/wavelabs-technologies-inc
-          - item:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
             logo: wind_river_systems_inc.svg
