@@ -1275,15 +1275,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/open-networking-foundation
           - item:
-            name: Penn State University
-            homepage_url: https://psu.edu/
-            logo: penn_state_university.svg
-            description: Penn State University is a multicampus state-related, land-grant, space-grant public research university with campuses and facilities throughout Pennsylvania.
-            crunchbase: https://www.crunchbase.com/organization/pennsylvania-state-university-main-campus
-            twitter: https://twitter.com/penn_state
-            extra:
-              linkedin_url: https://www.linkedin.com/company/penn-state-small-business-development-center
-          - item:
             name: SDNLAB
             homepage_url: https://sdnlab.com/
             logo: sdnlab.svg
@@ -1340,6 +1331,15 @@ landscape:
             description: SDN/NFV Industry Alliance was founded on November 4, 2014 by China Academy of Information and Communications Technology (CAICT) together with 15 organizations in the industry. Guided by the principle of "openness, innovation, collaboration, implementation", the alliance focuses on increasing the readiness in SDN commercial utilization and promoting the healthy development of the SDN industry.
             organization:
               name: SDN/NFV Industry Alliance
+          - item:
+            name: The Pennsylvania State University
+            homepage_url: https://psu.edu/
+            logo: the_pennsylvania_state_university.svg
+            description: Penn State University is a multicampus state-related, land-grant, space-grant public research university with campuses and facilities throughout Pennsylvania.
+            crunchbase: https://www.crunchbase.com/organization/pennsylvania-state-university-main-campus
+            twitter: https://twitter.com/penn_state
+            extra:
+              linkedin_url: https://www.linkedin.com/company/penn-state-small-business-development-center
           - item:
             name: Trinity College Dublin
             homepage_url: https://tcd.ie/
