@@ -883,6 +883,32 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/amd
           - item:
+            name: Arista Networks, Inc.
+            homepage_url: https://arista.com/
+            logo: arista_networks_inc.svg
+            description: |-
+              Kernal contributors:
+
+              No.1 Eric W. Biederman < ebiederm@aristanetworks.com - 43
+
+              No.2 Ed Swierk < eswierk@aristanetworks.com - 11
+
+              No.3 Gautam Kachroo < gk@aristanetworks.com  - 1
+
+              Arista total - 55 (#165 on list)
+
+
+
+              http://remword.com/kps_result/all_whole.html
+
+              --- Merged Data:
+
+              Arista Networks is an American computer networking company headquartered in Santa Clara, California.
+            crunchbase: https://www.crunchbase.com/organization/arista-networks
+            twitter: https://twitter.com/AristaNetworks
+            extra:
+              linkedin_url: https://www.linkedin.com/company/arista-networks-inc
+          - item:
             name: Canonical Group Limited
             homepage_url: https://canonical.com/
             logo: canonical_group_limited.svg
