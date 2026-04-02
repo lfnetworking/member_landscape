@@ -972,16 +972,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/nec
           - item:
-            name: OdineLabs
-            homepage_url: https://odinelabs.com/
-            logo: odinelabs.svg
-            description: OdineLabs specializes in developing AI-based automation and orchestration solutions for global telecom operators and enterprises, leveraging machine learning and generative AI to enhance network capabilities and drive innovation in the telecommunicatio...
-            organization:
-              name: OdineLabs
-              linkedin: https://www.linkedin.com/company/telecomoman
-            extra:
-              linkedin_url: https://www.linkedin.com/company/telecomoman
-          - item:
             name: Orange SA
             homepage_url: https://orange.com/
             logo: orange_sa.svg
