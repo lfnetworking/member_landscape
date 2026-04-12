@@ -918,15 +918,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/canonical-ltd-
           - item:
-            name: China Unicom
-            homepage_url: https://chinaunicom.com/
-            logo: china_unicom.svg
-            description: China Unicom (Hong Kong) Limited, formerly China Unicom Limited, is engaged in global system for mobile (GSM) cellular business and value-added services, fixed-line voice and value-added services, fixed-line broadband and other Internet-related services, information and communication technology (ICT) services, business and data communications services, and other related telecommunication business in 31 provinces, municipalities and autonomous regions in China.
-            crunchbase: https://www.crunchbase.com/organization/china-unicom
-            twitter: https://twitter.com/ChinunicomOS
-            extra:
-              linkedin_url: https://www.linkedin.com/company/china-united-network-communications-group-co.-ltd.
-          - item:
             name: F5, Inc.
             homepage_url: https://f5.com/
             logo: f5_inc.svg
@@ -1154,13 +1145,6 @@ landscape:
             description: The Institute for Information Industry was established in 1979 as a Non-Governmental Organization through the joint efforts of public and private sectors, to support the development/applications of the information industry as well as the information so...
             crunchbase: https://www.crunchbase.com/organization/institute-for-information-industry-2
           - item:
-            name: Khalifa University
-            homepage_url: https://ku.ac.ae/
-            logo: khalifa_university.svg
-            description: Khalifa University is an internationally top-ranked research-intensive university in Abu Dhabi, UAE. It offers specialized degrees in science, engineering, and medicine, leading students from high school to top-rated doctorate programs. Dedicated to ad...
-            organization:
-              name: Khalifa University
-          - item:
             name: MEF Forum
             homepage_url: https://mef.net/
             logo: mef_forum.svg
@@ -1229,12 +1213,6 @@ landscape:
               NISER National Institute of Science Education and Research (NISER) is a center of excellence in science education and research, offering programs in Biology, Chemistry, Mathematics, Physics, Computer Sciences, Earth and Planetary Sciences, and Humaniti...
             organization:
               name: National Institute of Science Education and Research (NISER) Bhubaneswar
-          - item:
-            name: NGKORE FOUNDATION
-            homepage_url: https://ngkorefoundation.org/
-            logo: ngkore_foundation.svg
-            organization:
-              name: NGKORE FOUNDATION
           - item:
             name: Okinawa Open Laboratory
             homepage_url: https://okinawaopenlabs.org/
@@ -1367,15 +1345,6 @@ landscape:
             twitter: https://twitter.com/tcddublin
             extra:
               linkedin_url: https://www.linkedin.com/company/trinity-college-dublin
-          - item:
-            name: UNH Interoperability Labs
-            homepage_url: https://iol.unh.edu/
-            logo: unh_interoperability_labs.svg
-            description: The University of New Hampshire Interoperability Labs (UNH-IOL) tests networking and data communications products. Since 1988, the laboratory has fostered multi-vendor interoperability while preparing students for careers in the industry. The laboratory has grown steadily into one of the industry's premier independent proving grounds for new technologies.
-            crunchbase: https://www.crunchbase.com/organization/interoperability-laboratory
-            twitter: https://twitter.com/UofNH
-            extra:
-              linkedin_url: https://www.linkedin.com/company/university-of-new-hampshire
           - item:
             name: University of New Hampshire
             homepage_url: https://unh.edu/
