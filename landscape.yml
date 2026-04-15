@@ -796,9 +796,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/nokianet
           - item:
-            name: Qualcomm, Inc.
+            name: Qualcomm Technologies, Inc.
             homepage_url: https://qualcomm.com/
-            logo: qualcomm_inc.svg
+            logo: qualcomm_technologies_inc.svg
             description: |-
               Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
 
