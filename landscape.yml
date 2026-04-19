@@ -1158,8 +1158,6 @@ landscape:
             homepage_url: https://ku.ac.ae/
             logo: khalifa_university.svg
             description: Khalifa University is an internationally top-ranked research-intensive university in Abu Dhabi, UAE. It offers specialized degrees in science, engineering, and medicine, leading students from high school to top-rated doctorate programs. Dedicated to ad...
-            organization:
-              name: Khalifa University
           - item:
             name: MEF Forum
             homepage_url: https://mef.net/
@@ -1227,14 +1225,10 @@ landscape:
               --- Merged Data:
 
               NISER National Institute of Science Education and Research (NISER) is a center of excellence in science education and research, offering programs in Biology, Chemistry, Mathematics, Physics, Computer Sciences, Earth and Planetary Sciences, and Humaniti...
-            organization:
-              name: National Institute of Science Education and Research (NISER) Bhubaneswar
           - item:
             name: NGKORE FOUNDATION
             homepage_url: https://ngkorefoundation.org/
             logo: ngkore_foundation.svg
-            organization:
-              name: NGKORE FOUNDATION
           - item:
             name: Okinawa Open Laboratory
             homepage_url: https://okinawaopenlabs.org/
@@ -1273,9 +1267,6 @@ landscape:
               Specialties
               LTE / LTE-Advanced, open source, C-RAN, NFV, Software Defined Networking, and 5G Wireless
             twitter: https://twitter.com/osalliance5g
-            organization:
-              name: OpenAirInterface Software Alliance (OSA)
-              linkedin: https://www.linkedin.com/company/openairinterface
             extra:
               linkedin_url: https://www.linkedin.com/company/openairinterface
           - item:
@@ -1332,9 +1323,6 @@ landscape:
               Zip Code: 211100 
               Address: No. 9, East Zhou Road, Jiangning District, Nanjing City, Jiangsu Province
             twitter: https://twitter.com/SDNLAB
-            organization:
-              name: SDNLAB
-              linkedin: https://www.linkedin.com/company/sdnlab
             extra:
               linkedin_url: https://www.linkedin.com/company/sdnlab
           - item:
@@ -1342,8 +1330,6 @@ landscape:
             homepage_url: https://sdnfvia.com/
             logo: sdn_nfv_industry_alliance.svg
             description: SDN/NFV Industry Alliance was founded on November 4, 2014 by China Academy of Information and Communications Technology (CAICT) together with 15 organizations in the industry. Guided by the principle of "openness, innovation, collaboration, implementation", the alliance focuses on increasing the readiness in SDN commercial utilization and promoting the healthy development of the SDN industry.
-            organization:
-              name: SDN/NFV Industry Alliance
           - item:
             name: The Pennsylvania State University
             homepage_url: https://psu.edu/
