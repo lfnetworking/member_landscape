@@ -1,108 +1,67 @@
-[![Dependency Status][]][1] [![Netlify Status](https://api.netlify.com/api/v1/badges/6fbca30d-d00a-4274-aa75-11ce0285ce36/deploy-status)](https://app.netlify.com/sites/lfn-landscape/deploys)
+[![Build Landscape from LFX](https://github.com/lfnetworking/member_landscape/actions/workflows/build.yml/badge.svg)](https://github.com/lfnetworking/member_landscape/actions/workflows/build.yml)
 
-<!-- Change to the name of your landscape -->
-# Landscape Template
+# LF Networking Landscape
 
-![Landscape Template Logo]
+![LF Networking Landscape Logo](images/left-logo.svg)
 
--   [Current Version]
--   [Interactive Version]
--   [New Entries]
--   [Corrections]
--   [Non-Updated Items]
+-   [About]
+-   [How It Works]
+-   [Updating Your Organization's Information]
+-   [Getting Listed]
+-   [Logo Requirements]
 -   [License]
--   [Formats]
--   [Installation]
--   [Vulnerability reporting]
 
-<!-- Change to the description of your landscape -->
-This landscape is intended as a map to explore the OSPO Ecosystem, and also shows the member companies of the TODO Group. 
+## About
 
-It is modelled after the [Cloud Native Computing Foundation (CNCF) landscape] and based on the same open source code.
+The LF Networking Landscape is a map of the member organizations and projects -- including [LFN Super Blueprints](https://blueprints.lfnetworking.org/), [ONAP](https://www.onap.org/), [OpenDaylight](https://www.opendaylight.org/), and others -- in the LF Networking community. You can explore it at **[landscape.lfnetworking.org](https://landscape.lfnetworking.org/)**.
 
-## Current Version
+It is generated using the [Landscape2](https://github.com/cncf/landscape2) tool.
 
-[![Landscape Template][3]][3]
+## How It Works
 
-## Interactive Version
+The landscape is rebuilt nightly from the data in this repository. Member organization data (name, logo, description, and homepage) is pulled automatically from LFX each night, so most organizations never need to touch this repository directly.
 
-Please see [https://landscape.lfnetworking.org/].
+## Updating Your Organization's Information
 
-## New Entries
+**LF Networking member organizations** should update their name, logo, description, or homepage via their organization's LFX dashboard at [https://myorg.lfx.dev](https://myorg.lfx.dev). Updates will be reflected in the landscape automatically on the next nightly build -- no pull request needed.
 
--   Projects must be open source and hosted on or mirrored to GitHub.
--   Projects with at least 300 GitHub stars that clearly fit in an existing category are generally included. Put the project in the single category where it best fits.
--   We are unlikely to create a new category for projects as we'd rather find the best home with the current options.
--   Your project or company needs a logo and the logo needs to include the name.
--   Crunchbase organization should be the company or organization that controls the software. That is normally the owner of the trademark, whether or not a trademark has been formally filed.
--   The logo must adhere to the [landscape logo guidelines]
+The [Landscape2 data schema][schema] supports additional optional fields beyond what LFX provides -- such as `joined`, `twitter`, `enduser`, and a range of `extra` fields including `blog_url`, `linkedin_url`, and `artwork_url`. To add any of these to your entry, please open a pull request with edits to [landscape.yml], or email [support@lfnetworking.org](mailto:support@lfnetworking.org) if you are not familiar with GitHub.
 
-If you think your project should be included, please open a pull request to add it to [landscape.yml]. For the logo, you can either upload an SVG to the `hosted_logos` directory or put a URL as the value, and it will be fetched.
+## Getting Listed
 
-Netlify will generate a staging server for you to preview your updates. Please check that the logo and information appear correctly and then add `LGTM` to the pull request confirming your review and requesting a merge.
+LF Networking member organizations are added to the landscape automatically via LFX. If your organization is not yet listed and you believe it should be, please open a pull request with edits to [landscape.yml] or email [support@lfnetworking.org](mailto:support@lfnetworking.org).
 
-## Corrections
+Include an SVG logo in the `hosted_logos/` directory and reference it by filename only (no path) in the `logo` field.
 
-Please open a pull request with edits to [landscape.yml]. The file [processed_landscape.yml] is generated and so should never be edited directly.
+### Required Fields
 
-If the error is with data from [Crunchbase] you should open an account there and edit the data. If you don't like a project description, edit it in GitHub. If your project isn't showing the license correctly, you may need to paste the unmodified text of the license into a LICENSE file at the root of your project in GitHub, in order for GitHub to serve the license information correctly.
+```yaml
+- item:
+  name: <organization name>
+  homepage_url: <website>
+  logo: <filename of .svg in the hosted_logos folder>
+```
 
-More about leveraged external data sources is at https://github.com/cncf/landscapeapp\#external-data.
+## Logo Requirements
 
-## Non-Updated Items
+Logos must be in **SVG format** (PNG and JPG are not accepted) and placed in the `hosted_logos/` directory. Use a filename that clearly identifies your organization (e.g., `mycompany.svg`) and reference it by filename only (no path) in the `logo` field of `landscape.yml`.
 
-We generally remove open source projects that have not had a commit in over 3 months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is view of [projects sorted by last update].
+SVG files must not contain embedded text elements -- any text in your logo (such as your company name or tagline) must be converted to paths/outlines before saving. If this step is skipped, the build will fail. Most vector graphics tools handle this with a simple menu option:
 
-Items that have been removed can apply to be re-added using the regular New Entries criteria above.
+-   **Inkscape:** Path > Object to Path
+-   **Adobe Illustrator:** Type > Create Outlines
+-   **Sketch/Figma:** Use "Outline Stroke" or export as "Flatten" SVG
 
 ## License
 
-This repository contains data received from [Crunchbase]. This data is not licensed pursuant to the Apache License. It is subject to Crunchbase's Data Access Terms, available at <https://data.crunchbase.com/v3.1/docs/terms>, and is only permitted to be used with this Landscape Project which is hosted by the Linux Foundation.
+Everything in this repository is under the Apache License, Version 2.0, except for project and product logos, which are generally copyrighted by the company that created them, and are simply cached here for reliability. The [landscape.yml] file is alternatively available under the [Creative Commons Attribution 4.0 license].
 
-Everything else is under the Apache License, Version 2.0, except for project and product logos, which are generally copyrighted by the company that created them, and are simply cached here for reliability. The trail map, static landscape, serverless landscape, and [landscape.yml] file are alternatively available under the [Creative Commons Attribution 4.0 license].
-
-## Formats
-
-The Landscape Template is available in these formats:
-
-- [PNG]
-- [PDF]
-
-## Installation
-
-You can install and run locally with the [install directions]. It's not necessary to install locally if you just want to edit [landscape.yml]. You can do so via the GitHub web interface.
-
-## Vulnerability reporting
-
-Please open an [issue] or, for sensitive information, email info\@cncf.io.
-
-<!--- Update urls and references in this section -->
-[Dependency Status]: https://img.shields.io/david/jmertic/landscape-template.svg?style=flat-square
-[1]: https://david-dm.org/lfnetworking/member_landscape
-[Netlify Status]: https://api.netlify.com/api/v1/badges/9fe8d885-037d-48ce-8bf9-3bfa54152945/deploy-status
-[2]: https://app.netlify.com/sites/lfn-landscape/deploys
-[ospolandscape.todogroup.org]: https://ospolandscape.todogroup.org
-[PDF]: https://ospolandscape.todogroup.org/images/landscape.pdf
-[PNG]: https://ospolandscape.todogroup.org/images/landscape.png
-[issue]: https://github.com/jmertic/landscape-template/issues/new
-[projects sorted by last update]: https://ospolandscape.todogroup.org/format=card-mode&grouping=no&license=open-source&sort=latest-commit
-<!--- These shouldn't need updated -->
-[Landscape Template Logo]: images/left-logo.svg
-[Current Version]: #current-version
-[Interactive Version]: #interactive-version
-[New Entries]: #new-entries
-[Corrections]: #corrections
-[Non-Updated Items]: #non-updated-items
+[About]: #about
+[How It Works]: #how-it-works
+[Updating Your Organization's Information]: #updating-your-organizations-information
+[Getting Listed]: #getting-listed
+[Logo Requirements]: #logo-requirements
 [License]: #license
-[Formats]: #formats
-[Installation]: #installation
-[Vulnerability reporting]: #vulnerability-reporting
-[Cloud Native Computing Foundation (CNCF) landscape]: https://landscape.cncf.io
-[landscape logo guidelines]: https://github.com/cncf/landscapeapp#images
 [landscape.yml]: landscape.yml
-[processed_landscape.yml]: processed_landscape.yml
-[Crunchbase]: https://www.crunchbase.com/
+[schema]: https://raw.githubusercontent.com/cncf/landscape2/refs/heads/main/docs/config/schema/data.schema.json
 [Creative Commons Attribution 4.0 license]: https://creativecommons.org/licenses/by/4.0/
-[install directions]: INSTALL.md
-
- 
