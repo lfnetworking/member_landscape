@@ -799,12 +799,7 @@ landscape:
             name: Qualcomm Technologies, Inc.
             homepage_url: https://qualcomm.com/
             logo: qualcomm_technologies_inc.svg
-            description: |-
-              Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
-
-              --- Merged Data:
-
-              Qualcomm is a semiconductor company that manufactures and markets digital wireless telecommunications products and services. They are engaged in the development and commercialization of a digital communication technology called code division multiple a...
+            description: "Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.\n\n--- Merged Data:\n\nQualcomm is a semiconductor company that manufactures and markets digital wireless telecommunications products and services. They are engaged in the development and commercialization of a digital communication technology called code division multiple a..."
             crunchbase: https://www.crunchbase.com/organization/qualcomm
             twitter: https://twitter.com/Qualcomm
             extra:
@@ -822,20 +817,7 @@ landscape:
             name: SoftBank Corp.
             homepage_url: https://softbank.jp/en/
             logo: softbank_corp.svg
-            description: |-
-              Overview
-              The SoftBank Group is a global technology player that aspires to drive the Information Revolution. The
-              SoftBank Group is comprised of the holding company SoftBank Group Corp. (TOKYO: 9984) and its
-              global portfolio of companies, which includes advanced telecommunications, internet services, AI, smart
-              robotics, IoT and clean energy technology providers. In September 2016, Arm Holdings plc, the world's
-              leading semiconductor IP company, joined the SoftBank Group. In May 2017, the SoftBank Vision Fund,
-              which invests globally in the businesses and technologies that will enable the next stage of the
-              Information Revolution, had its first major close with over USD 93 billion in committed capital.
-
-              Website https://group.softbank/ Industry Internet Company size 51-200 employees Headquarters Minato-ku, Tokyo Type Public Company Founded 1981
-              Locations (1)
-              Primary
-              1-9-1, Higashi-Shimbashi, Minato-ku, Tokyo 105-7303, JP
+            description: "Overview\nThe SoftBank Group is a global technology player that aspires to drive the Information Revolution. The\nSoftBank Group is comprised of the holding company SoftBank Group Corp. (TOKYO: 9984) and its\nglobal portfolio of companies, which includes advanced telecommunications, internet services, AI, smart\nrobotics, IoT and clean energy technology providers. In September 2016, Arm Holdings plc, the world's\nleading semiconductor IP company, joined the SoftBank Group. In May 2017, the SoftBank Vision Fund,\nwhich invests globally in the businesses and technologies that will enable the next stage of the\nInformation Revolution, had its first major close with over USD 93 billion in committed capital.\n\nWebsite https://group.softbank/ Industry Internet Company size 51-200 employees Headquarters Minato-ku, Tokyo Type Public Company Founded 1981\nLocations (1)\nPrimary\n1-9-1, Higashi-Shimbashi, Minato-ku, Tokyo 105-7303, JP"
             crunchbase: https://www.crunchbase.com/organization/softbank-corp
             twitter: https://twitter.com/SoftBank
             extra:
@@ -886,24 +868,7 @@ landscape:
             name: Arista Networks, Inc.
             homepage_url: https://arista.com/
             logo: arista_networks_inc.svg
-            description: |-
-              Kernal contributors:
-
-              No.1 Eric W. Biederman < ebiederm@aristanetworks.com - 43
-
-              No.2 Ed Swierk < eswierk@aristanetworks.com - 11
-
-              No.3 Gautam Kachroo < gk@aristanetworks.com  - 1
-
-              Arista total - 55 (#165 on list)
-
-
-
-              http://remword.com/kps_result/all_whole.html
-
-              --- Merged Data:
-
-              Arista Networks is an American computer networking company headquartered in Santa Clara, California.
+            description: "Kernal contributors:\n\nNo.1 Eric W. Biederman < ebiederm@aristanetworks.com - 43\n\nNo.2 Ed Swierk < eswierk@aristanetworks.com - 11\n\nNo.3 Gautam Kachroo < gk@aristanetworks.com  - 1\n\nArista total - 55 (#165 on list)\n\n\n\nhttp://remword.com/kps_result/all_whole.html\n\n--- Merged Data:\n\nArista Networks is an American computer networking company headquartered in Santa Clara, California."
             crunchbase: https://www.crunchbase.com/organization/arista-networks
             twitter: https://twitter.com/AristaNetworks
             extra:
@@ -975,10 +940,7 @@ landscape:
             name: Orange SA
             homepage_url: https://orange.com/
             logo: orange_sa.svg
-            description: |-
-              Orange is one of the world’s leading telecommunications operators. The Group aims to be the trusted partner for everyday digital life by providing individuals, businesses and communities with reliable connectivity and innovative services. As of the end of 2025, Orange connects 340 million customers (including MasOrange) across 26 countries and generated 40.4 billion euros in revenues.
-              As a trusted player, Orange leverages the excellence of its very high-speed broadband networks to deploy digital infrastructure in Europe, Africa and the Middle East. The Group is a European leader in fiber, with 100 million connectable households, and convergent offers. In France, Orange connects 34 million customers and was ranked No. 1 by the regulator Arcep for the quality of its mobile network for the 15th consecutive year. In Africa and the Middle East, the Group’s growth engine, Orange serves nearly 180 million customers and promotes digital and financial inclusion through its connected solutions.
-              Under the Orange Business brand, the Group supports companies in transforming their networks as well as in AI, trusted cloud and cybersecurity. Orange is also a major player in the wholesale market, where it has a leading global telecom infrastructure and significant capabilities for deploying and operating submarine cables. A committed innovator, Orange relies on 700 researchers and holds a portfolio of 11,000 patents.
+            description: "Orange is one of the world’s leading telecommunications operators. The Group aims to be the trusted partner for everyday digital life by providing individuals, businesses and communities with reliable connectivity and innovative services. As of the end of 2025, Orange connects 340 million customers (including MasOrange) across 26 countries and generated 40.4 billion euros in revenues.\nAs a trusted player, Orange leverages the excellence of its very high-speed broadband networks to deploy digital infrastructure in Europe, Africa and the Middle East. The Group is a European leader in fiber, with 100 million connectable households, and convergent offers. In France, Orange connects 34 million customers and was ranked No. 1 by the regulator Arcep for the quality of its mobile network for the 15th consecutive year. In Africa and the Middle East, the Group’s growth engine, Orange serves nearly 180 million customers and promotes digital and financial inclusion through its connected solutions.\nUnder the Orange Business brand, the Group supports companies in transforming their networks as well as in AI, trusted cloud and cybersecurity. Orange is also a major player in the wholesale market, where it has a leading global telecom infrastructure and significant capabilities for deploying and operating submarine cables. A committed innovator, Orange relies on 700 researchers and holds a portfolio of 11,000 patents."
             crunchbase: https://www.crunchbase.com/organization/orange
             twitter: https://twitter.com/orange
             extra:
@@ -1023,12 +985,7 @@ landscape:
             name: TIM S.p.A
             homepage_url: https://tim.it/
             logo: tim_s_p.svg
-            description: |-
-              TIM SpA, also operating under the name Telecom Italia, is an Italian telecommunications company headquartered in Rome and Milan, which provides telephony services, mobile services, and DSL data services.
-
-              --- Merged Data:
-
-              TIM (Telecom Italia) provides telecommunications services in Italy, including fixed and mobile telephony, internet, TV, and entertainment. TIM Ventures supports innovative startups to drive growth and create value..
+            description: "TIM SpA, also operating under the name Telecom Italia, is an Italian telecommunications company headquartered in Rome and Milan, which provides telephony services, mobile services, and DSL data services.\n\n--- Merged Data:\n\nTIM (Telecom Italia) provides telecommunications services in Italy, including fixed and mobile telephony, internet, TV, and entertainment. TIM Ventures supports innovative startups to drive growth and create value.."
             crunchbase: https://www.crunchbase.com/organization/telecom-italia
             extra:
               linkedin_url: https://www.linkedin.com/company/tim
@@ -1045,12 +1002,7 @@ landscape:
             name: ZTE Corporation
             homepage_url: https://zte.com.cn/
             logo: zte_corporation.svg
-            description: |-
-              ZTE Corporation is a Chinese multinational telecommunications equipment and systems company headquartered in Shenzhen, Guangdong, China.
-
-              --- Merged Data:
-
-              ZTE Corporation, a global leader in telecommunications and information technology, provides innovative technologies and integrated solutions for global operators, government, enterprise, and consumers in over 160 countries. Serving over 1/4 of the glob...
+            description: "ZTE Corporation is a Chinese multinational telecommunications equipment and systems company headquartered in Shenzhen, Guangdong, China.\n\n--- Merged Data:\n\nZTE Corporation, a global leader in telecommunications and information technology, provides innovative technologies and integrated solutions for global operators, government, enterprise, and consumers in over 160 countries. Serving over 1/4 of the glob..."
             crunchbase: https://www.crunchbase.com/organization/zte-corporation
             twitter: https://twitter.com/ZTEPress
             extra:
@@ -1088,27 +1040,7 @@ landscape:
             name: China Academy of Information and Communications Technology (CAICT)
             homepage_url: https://caict.ac.cn/
             logo: china_academy_of_information_and_communications_technology_caict.svg
-            description: |-
-              Founded in 1957, the China Academy of Information and Communications Technology (hereinafter referred to as “CAICT”) is a scientific research institute directly under the Ministry of Industry and Information Technology (MIIT) of China. While sticking to the positioning of “a specialized think-tank for the government, and an innovation and development platform for the industry” and cherishing the cultural philosophy of “boosting prosperity with virtues and expertise” for years, CAICT provides strong support for the industry’s major strategies,...
-
-              · Decision-Making Support
-              · Test beds
-              · Test and Certification
-              · Consultancy
-              · Regulation services
-
-              Business Departments
-
-              Policy and Economics Research Institute
-              Technology and Standards Research Institute
-              Industry and Planning Research Institute
-              Cloud Computing & Big Data Research Institute
-              Informatization and Industrialization Integration Research Institute
-              Security Research Institute
-              CTTL System Laboratory
-              CTTL Terminal labs
-              TL Certification Institute
-              ICT Project Quota & Quality Supervision Center
+            description: "Founded in 1957, the China Academy of Information and Communications Technology (hereinafter referred to as “CAICT”) is a scientific research institute directly under the Ministry of Industry and Information Technology (MIIT) of China. While sticking to the positioning of “a specialized think-tank for the government, and an innovation and development platform for the industry” and cherishing the cultural philosophy of “boosting prosperity with virtues and expertise” for years, CAICT provides strong support for the industry’s major strategies,...\n\n· Decision-Making Support\n· Test beds\n· Test and Certification\n· Consultancy\n· Regulation services\n\nBusiness Departments\n\nPolicy and Economics Research Institute\nTechnology and Standards Research Institute\nIndustry and Planning Research Institute\nCloud Computing & Big Data Research Institute\nInformatization and Industrialization Integration Research Institute\nSecurity Research Institute\nCTTL System Laboratory\nCTTL Terminal labs\nTL Certification Institute\nICT Project Quota & Quality Supervision Center"
             crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
           - item:
             name: CPQD
@@ -1132,19 +1064,7 @@ landscape:
             name: High School Technology Services
             homepage_url: https://myhsts.org/
             logo: high_school_technology_services.svg
-            description: |-
-              OUR MISSION AND VALUES
-              Our future lies in the hands of students and teenagers. Educating a teenager is equivalent to educating a family and that in turn is equivalent to educating the whole society. We strive to provide the highest quality information technology services to high schools, teenagers, and adults. From creating websites to building computer labs, from offering counseling sessions to designing preparation programs, we aim to provide an assortment of services to support the dreams of these teenagers, their parents and the schools.
-
-              our Mission
-              Our mission is to provide high schools with resources and facilities to foster student-teacher interactions and parent-teacher relationships to improve student performance and high school efficiency.
-
-              our Values
-              Tangible Impacts: We believe in sincere and selfless contributions to improve the quality of education and youth life.
-              Simplicity: We agree with what Leonardo De Vinci says "Simplicity is the ultimate sophistication."
-              Honesty: We hold honesty in high regard because only true work can have a real impact.
-              Kindness: We sincerely believe in the power of goodness and kindness as Mark Twain put it "Kindness is a language that the deaf can hear and the blind can see."
-              Genuine Friendship: We are genuinely committed to educating all students regardless of their age, nationality, gender, race, and background.
+            description: "OUR MISSION AND VALUES\nOur future lies in the hands of students and teenagers. Educating a teenager is equivalent to educating a family and that in turn is equivalent to educating the whole society. We strive to provide the highest quality information technology services to high schools, teenagers, and adults. From creating websites to building computer labs, from offering counseling sessions to designing preparation programs, we aim to provide an assortment of services to support the dreams of these teenagers, their parents and the schools.\n\nour Mission\nOur mission is to provide high schools with resources and facilities to foster student-teacher interactions and parent-teacher relationships to improve student performance and high school efficiency.\n\nour Values\nTangible Impacts: We believe in sincere and selfless contributions to improve the quality of education and youth life.\nSimplicity: We agree with what Leonardo De Vinci says \"Simplicity is the ultimate sophistication.\"\nHonesty: We hold honesty in high regard because only true work can have a real impact.\nKindness: We sincerely believe in the power of goodness and kindness as Mark Twain put it \"Kindness is a language that the deaf can hear and the blind can see.\"\nGenuine Friendship: We are genuinely committed to educating all students regardless of their age, nationality, gender, race, and background."
             crunchbase: https://www.crunchbase.com/organization/high-school-technical-services
             twitter: https://twitter.com/MyHSTS
           - item:
@@ -1162,40 +1082,7 @@ landscape:
             name: MEF Forum
             homepage_url: https://mef.net/
             logo: mef_forum.svg
-            description: |-
-              With over 200 leading member companies, including 130 service providers, The MEF is a California, USA registered 501 c (3) industry association that is the enabling force for the development and implementation of agile, assured and orchestrated Third Network services for the digital economy and the hyper-connected world. Third Network services are delivered over automated, virtualized, and interconnected networks globally powered by Carrier Ethernet 2.0 (CE 2.0), Lifecycle Service Orchestration (LSO), SDN, and NFV.
-
-              CE 2.0 is MEF��_��_s globally adopted services framework and the foundation for new services innovation. The current annual market for Carrier Ethernet products and services is approximately $80B.
-
-              The MEF is also facilitating industry neutral implementation environments for service orchestration (OpenLSO) and L2-L7 connectivity services (OpenCS) based on Open Source, SDN and NFV, as well as current commercial PNF products.
-
-              MEF��_��_s Certification Programs, established for over 10 years have led to certification of compliance with MEF standards by the majority of the industry��_��_s leading companies within the MEF membership.
-
-              Beyond certification, MEF provides a broad range of marketing capabilities that provide MEF member companies of all sizes in all geographic locations with unique, powerful and very cost-effective customer-networking and profile-raising opportunities.
-
-              Key benefits of membership for hardware and software solution providers include:
-
-              Advance visibility into relevant industry technical standards developments
-              Ability to influence standards to align with corporate objectives
-              As a key contributor, achieve thought leadership in front of MEF��_��_s 130+ SP members
-              Achieve corporate and individual visibility and recognition via participation in MEF Marketing activities (e.g. webinars and seminars)
-              Leverage the MEF global community of peer contacts 
-              Get your products certified
-              MEF members include Tier 1,2 and 3 service providers (approx.130), hardware and OSS/orchestration software providers, test labs and test equipment and test software providers. In 2016 and 2017, considerable growth from SDN and NFV technology providers is expected as our work increasingly leverages these technologies.
-
-              Membership is geographically dispersed with approximately 50% from North America, 23% APAC, 21% EMEA and 6% CALA. Africa and CALA will lead the regional growth as emerging markets move to interconnect with the global community using standardized CE 2.0 services.
-
-              The MEF membership meets quarterly and, between meetings, projects are progressed via a collaborative wiki workspace and online meetings (MEF provisions GoTo Meeting for all projects). Quarterly meetings take place in January, April, July/August and October each year. They are 4 days in duration and take place in North America (x3) and Europe (x1) with typically 150-250 people attending - including leading subject matter experts.
-
-              Not only are these very important meetings for influencing MEF work, but also for networking informally with industry thought leaders, subject matter experts in all fields and customers (actual or potential) during our cocktail receptions, corridor meetings and evening dinners. https://www.mef.net/news-events/mef-quarterly-meetings
-
-              There is a single category of membership ��_��_��_ Principal company membership with an annual fee of $17,250. There are no charges for quarterly meetings or LSO Hackathon participation. There is no limit on the number of participating individuals for a given member company.
-
-              See www.mef.net for more information and www.mef16.net for more information on MEF��_��_s flagship MEF16 conference
-
-              --- Merged Data:
-
-              MEF provides a broad range of marketing, certification and business development capabilities that equip MEF member companies of all sizes in all geographic locations with unique, powerful and very cost-effective customer-networking and profile-raising ...
+            description: "With over 200 leading member companies, including 130 service providers, The MEF is a California, USA registered 501 c (3) industry association that is the enabling force for the development and implementation of agile, assured and orchestrated Third Network services for the digital economy and the hyper-connected world. Third Network services are delivered over automated, virtualized, and interconnected networks globally powered by Carrier Ethernet 2.0 (CE 2.0), Lifecycle Service Orchestration (LSO), SDN, and NFV.\n\nCE 2.0 is MEF��_��_s globally adopted services framework and the foundation for new services innovation. The current annual market for Carrier Ethernet products and services is approximately $80B.\n\nThe MEF is also facilitating industry neutral implementation environments for service orchestration (OpenLSO) and L2-L7 connectivity services (OpenCS) based on Open Source, SDN and NFV, as well as current commercial PNF products.\n\nMEF��_��_s Certification Programs, established for over 10 years have led to certification of compliance with MEF standards by the majority of the industry��_��_s leading companies within the MEF membership.\n\nBeyond certification, MEF provides a broad range of marketing capabilities that provide MEF member companies of all sizes in all geographic locations with unique, powerful and very cost-effective customer-networking and profile-raising opportunities.\n\nKey benefits of membership for hardware and software solution providers include:\n\nAdvance visibility into relevant industry technical standards developments\nAbility to influence standards to align with corporate objectives\nAs a key contributor, achieve thought leadership in front of MEF��_��_s 130+ SP members\nAchieve corporate and individual visibility and recognition via participation in MEF Marketing activities (e.g. webinars and seminars)\nLeverage the MEF global community of peer contacts \nGet your products certified\nMEF members include Tier 1,2 and 3 service providers (approx.130), hardware and OSS/orchestration software providers, test labs and test equipment and test software providers. In 2016 and 2017, considerable growth from SDN and NFV technology providers is expected as our work increasingly leverages these technologies.\n\nMembership is geographically dispersed with approximately 50% from North America, 23% APAC, 21% EMEA and 6% CALA. Africa and CALA will lead the regional growth as emerging markets move to interconnect with the global community using standardized CE 2.0 services.\n\nThe MEF membership meets quarterly and, between meetings, projects are progressed via a collaborative wiki workspace and online meetings (MEF provisions GoTo Meeting for all projects). Quarterly meetings take place in January, April, July/August and October each year. They are 4 days in duration and take place in North America (x3) and Europe (x1) with typically 150-250 people attending - including leading subject matter experts.\n\nNot only are these very important meetings for influencing MEF work, but also for networking informally with industry thought leaders, subject matter experts in all fields and customers (actual or potential) during our cocktail receptions, corridor meetings and evening dinners. https://www.mef.net/news-events/mef-quarterly-meetings\n\nThere is a single category of membership ��_��_��_ Principal company membership with an annual fee of $17,250. There are no charges for quarterly meetings or LSO Hackathon participation. There is no limit on the number of participating individuals for a given member company.\n\nSee www.mef.net for more information and www.mef16.net for more information on MEF��_��_s flagship MEF16 conference\n\n--- Merged Data:\n\nMEF provides a broad range of marketing, certification and business development capabilities that equip MEF member companies of all sizes in all geographic locations with unique, powerful and very cost-effective customer-networking and profile-raising ..."
             crunchbase: https://www.crunchbase.com/organization/mef
             twitter: https://twitter.com/MEF_Forum
             extra:
@@ -1219,12 +1106,7 @@ landscape:
             name: National Institute of Science Education and Research (NISER) Bhubaneswar
             homepage_url: https://niser.ac.in/
             logo: national_institute_of_science_education_and_research_niser_bhubaneswar.svg
-            description: |-
-              NISER National Institute of Science Education and Research (NISER) is a center of excellence in science education and research, offering programs in Biology, Chemistry, Mathematics, Physics, Computer Sciences, Earth and Planetary Sciences, and Humaniti...
-
-              --- Merged Data:
-
-              NISER National Institute of Science Education and Research (NISER) is a center of excellence in science education and research, offering programs in Biology, Chemistry, Mathematics, Physics, Computer Sciences, Earth and Planetary Sciences, and Humaniti...
+            description: "NISER National Institute of Science Education and Research (NISER) is a center of excellence in science education and research, offering programs in Biology, Chemistry, Mathematics, Physics, Computer Sciences, Earth and Planetary Sciences, and Humaniti...\n\n--- Merged Data:\n\nNISER National Institute of Science Education and Research (NISER) is a center of excellence in science education and research, offering programs in Biology, Chemistry, Mathematics, Physics, Computer Sciences, Earth and Planetary Sciences, and Humaniti..."
           - item:
             name: NGKORE FOUNDATION
             homepage_url: https://ngkorefoundation.org/
@@ -1240,32 +1122,7 @@ landscape:
             name: OpenAirInterface Software Alliance (OSA)
             homepage_url: https://openairinterface.org/
             logo: openairinterface_software_alliance_osa.svg
-            description: |-
-              About us
-              The OpenAirInterface Software Alliance (OSA) is a non-profit consortium to develop ecosystem for open source software/hardware development for the core network (EPC) and access-network (EUTRAN) of 3GPP cellular networks. The Alliance sponsors the initial work of EURECOM to create OpenAirInterfaceTM towards development of 5G Cellular Stack on commercial off-the-shelf (COTS) hardware.
-              Established in 2014, the OSA is a French non-profit organization (“Fonds De Dotation”), funded by corporate sponsors.
-
-              Recent updateSee all See all recent updates
-              Image accompanying recent update
-              5th and final day of Fujitsu colleagues’ visit. Today we conclude the FDD and TDD Continuous Integration benches and run UE attach-ping-detach and plan end of August goals @EURECOM @OpenCellular base station can also be seen on the right . Relaxing after a hard day’s work in the second picture 😎
-
-              14 Likes
-              Company details
-              Website
-              http://openairinterface.org
-              Headquarters
-              Biot
-
-              Year founded
-              2014
-
-              Company type
-              Nonprofit
-
-              Company size
-              2-10 employees
-              Specialties
-              LTE / LTE-Advanced, open source, C-RAN, NFV, Software Defined Networking, and 5G Wireless
+            description: "About us\nThe OpenAirInterface Software Alliance (OSA) is a non-profit consortium to develop ecosystem for open source software/hardware development for the core network (EPC) and access-network (EUTRAN) of 3GPP cellular networks. The Alliance sponsors the initial work of EURECOM to create OpenAirInterfaceTM towards development of 5G Cellular Stack on commercial off-the-shelf (COTS) hardware.\nEstablished in 2014, the OSA is a French non-profit organization (“Fonds De Dotation”), funded by corporate sponsors.\n\nRecent updateSee all See all recent updates\nImage accompanying recent update\n5th and final day of Fujitsu colleagues’ visit. Today we conclude the FDD and TDD Continuous Integration benches and run UE attach-ping-detach and plan end of August goals @EURECOM @OpenCellular base station can also be seen on the right . Relaxing after a hard day’s work in the second picture 😎\n\n14 Likes\nCompany details\nWebsite\nhttp://openairinterface.org\nHeadquarters\nBiot\n\nYear founded\n2014\n\nCompany type\nNonprofit\n\nCompany size\n2-10 employees\nSpecialties\nLTE / LTE-Advanced, open source, C-RAN, NFV, Software Defined Networking, and 5G Wireless"
             twitter: https://twitter.com/osalliance5g
             extra:
               linkedin_url: https://www.linkedin.com/company/openairinterface
@@ -1282,46 +1139,7 @@ landscape:
             name: SDNLAB
             homepage_url: https://sdnlab.com/
             logo: sdnlab.svg
-            description: |-
-              about us
-              Introduction
-              SDNLAB is a pioneering media and practice platform focused on network innovation technologies, covering SDN/NFV, NetDevOps, 5G, Internet of Things, cyber security, cloud computing, big data, artificial intelligence and other related fields, providing industry news, opinions, and technical analysis articles. , free online experimental environment, job recruitment, education and training, program consulting, venture financing and other multi-services. Through online and offline activities, SDNLAB disseminates and shares valuable content, helps and encourages network innovation practices, and promotes the development of network innovation technologies. It is currently the first online vertical media in China.
-
-              article
-              Cover domestic and foreign news viewpoint technology and interpret frontier technology trends
-
-              activity
-              Seamlessly connect online and offline, face-to-face communication technology to expand contacts
-
-              Education and training
-              Industry cattle people teach online, everything from theory to actual combat
-
-              experiment platform
-              One-click easy to build environment, SDN experiment online free of charge
-
-              Job recruitment
-              Focus on network innovation technology recruitment, precision positioning hit a hit
-
-              Vendor area
-              Bring together network innovation products to build bridges for communication and cooperation
-
-              Knowledge community
-              Professional online question and answer community, expert answer
-
-              Is planning...
-              Program consulting, open class, online store, venture financing
-
-              user
-              Accurately cover hundreds of thousands of network-related employees at home and abroad, from CXO level to ordinary engineers, university professors to students, industry leading companies to start-up companies, and the user base covers the entire industrial ecological chain and the integration of production, education and research. 
-              The user composition structure includes chip manufacturers, device manufacturers, system integrators, operators, Internet companies, cloud service providers, network start-up companies, research institutes, venture capital institutions, and enthusiasts.
-
-              contact us
-              Tel: 025-57926169 
-              Mobile: 13770307243 
-              Contact Person: Chen Mingrong 
-              E-mail: service@sdnlab.com 
-              Zip Code: 211100 
-              Address: No. 9, East Zhou Road, Jiangning District, Nanjing City, Jiangsu Province
+            description: "about us\nIntroduction\nSDNLAB is a pioneering media and practice platform focused on network innovation technologies, covering SDN/NFV, NetDevOps, 5G, Internet of Things, cyber security, cloud computing, big data, artificial intelligence and other related fields, providing industry news, opinions, and technical analysis articles. , free online experimental environment, job recruitment, education and training, program consulting, venture financing and other multi-services. Through online and offline activities, SDNLAB disseminates and shares valuable content, helps and encourages network innovation practices, and promotes the development of network innovation technologies. It is currently the first online vertical media in China.\n\narticle\nCover domestic and foreign news viewpoint technology and interpret frontier technology trends\n\nactivity\nSeamlessly connect online and offline, face-to-face communication technology to expand contacts\n\nEducation and training\nIndustry cattle people teach online, everything from theory to actual combat\n\nexperiment platform\nOne-click easy to build environment, SDN experiment online free of charge\n\nJob recruitment\nFocus on network innovation technology recruitment, precision positioning hit a hit\n\nVendor area\nBring together network innovation products to build bridges for communication and cooperation\n\nKnowledge community\nProfessional online question and answer community, expert answer\n\nIs planning...\nProgram consulting, open class, online store, venture financing\n\nuser\nAccurately cover hundreds of thousands of network-related employees at home and abroad, from CXO level to ordinary engineers, university professors to students, industry leading companies to start-up companies, and the user base covers the entire industrial ecological chain and the integration of production, education and research. \nThe user composition structure includes chip manufacturers, device manufacturers, system integrators, operators, Internet companies, cloud service providers, network start-up companies, research institutes, venture capital institutions, and enthusiasts.\n\ncontact us\nTel: 025-57926169 \nMobile: 13770307243 \nContact Person: Chen Mingrong \nE-mail: service@sdnlab.com \nZip Code: 211100 \nAddress: No. 9, East Zhou Road, Jiangning District, Nanjing City, Jiangsu Province"
             twitter: https://twitter.com/SDNLAB
             extra:
               linkedin_url: https://www.linkedin.com/company/sdnlab
@@ -1343,12 +1161,7 @@ landscape:
             name: Trinity College Dublin
             homepage_url: https://tcd.ie/
             logo: trinity_college_dublin.svg
-            description: |-
-              2577 Trinity College, officially the College of the Holy and Undivided Trinity of Queen Elizabeth near Dublin, is the sole constituent college of the University of Dublin, a research university located in Dublin, Ireland.
-
-              --- Merged Data:
-
-              Trinity College Dublin, established in 1592, is Ireland's prestigious university offering diverse programs in arts, sciences, and health with a global student community and a focus on academic excellence.
+            description: "2577 Trinity College, officially the College of the Holy and Undivided Trinity of Queen Elizabeth near Dublin, is the sole constituent college of the University of Dublin, a research university located in Dublin, Ireland.\n\n--- Merged Data:\n\nTrinity College Dublin, established in 1592, is Ireland's prestigious university offering diverse programs in arts, sciences, and health with a global student community and a focus on academic excellence."
             crunchbase: https://www.crunchbase.com/organization/trinity-college-dublin
             twitter: https://twitter.com/tcddublin
             extra:
