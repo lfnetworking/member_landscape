@@ -1279,6 +1279,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/open-networking-foundation
           - item:
+            name: Ramanujan College
+            homepage_url: https://ramanujancollege.ac.in/
+            logo: ramanujan_college.svg
+            description: Ramanujan College, named after one of the greatest Indian mathematicians, Srinivas Ramanujan, is one of the constituent colleges of University of Delhi.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ramanujan-college
+          - item:
             name: SDNLAB
             homepage_url: https://sdnlab.com/
             logo: sdnlab.svg
