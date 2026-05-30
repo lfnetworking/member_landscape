@@ -734,9 +734,9 @@ landscape:
         name: Platinum
         items:
           - item:
-            name: China Mobile Communication Company Ltd
+            name: China Mobile Communication Company., Ltd
             homepage_url: https://chinamobileltd.com/
-            logo: china_mobile_communication_company_ltd.svg
+            logo: china_mobile_communication_company.svg
             description: China Mobile serves about 488 million subscribers, more than two thirds of the nation's total, making it China's and the world's leading wireless operator by subscribers. In addition to local, domestic, and international phone service, China Mobile offers short message services (SMS) and various mobile content features. It primarily uses the Global System for Mobile Communications (GSM) standard. State-controlled China Mobile Communications Corporation (CMCC) indirectly holds a majority stake (about 75%) in China Mobile.
             crunchbase: https://www.crunchbase.com/organization/china-mobile
             extra:
