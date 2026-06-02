@@ -936,15 +936,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/f5
           - item:
-            name: Fujitsu Limited
-            homepage_url: https://fujitsu.com/
-            logo: fujitsu_limited.svg
-            description: Fujitsu is the leading Japanese information and communication technology (ICT) company offering a full range of technology products, solutions and services. Approximately 162, 000 Fujitsu people support customers in more than 100 countries. The company uses its experience and the power of ICT to shape the future of society with its customers. Fujitsu Limited reported consolidated revenues of 4.8 trillion yen (US$46 billion) for the fiscal year ended March 31, 2014. Fujitsu is the world's fourth largest IT services provider and No.1 in Japan. Fujitsu is among the world's top five providers of servers. FORTUNE named Fujitsu as one of 'the World's Most Admired Companies' in 2013. Fujitsu Group holds about 97, 000 patents worldwide. Fujitsu is part of the Dow Jones Sustainability Indexes (World), FTSE4Good Index Series, and Oekom research.
-            crunchbase: https://www.crunchbase.com/organization/fujitsu
-            twitter: https://twitter.com/Fujitsu_Global
-            extra:
-              linkedin_url: https://www.linkedin.com/company/fujitsu-uk-and-ireland
-          - item:
             name: Kubermatic GmbH
             homepage_url: https://kubermatic.com/
             logo: kubermatic_gmbh.svg
@@ -1058,6 +1049,11 @@ landscape:
       - subcategory:
         name: Associate
         items:
+          - item:
+            name: Alliance For Empower
+            homepage_url: https://allianceforempowerment.org/
+            logo: alliance_for_empower.svg
+            description: Alliance for Empowerment is a non-profit parent company formed to take on administrative functions for both Able2 and Capabilities. The partnership aims to secure and grow future strength for the missions of these organizations. The company is led by t...
           - item:
             name: Beijing University of Posts and Telecommunications (BUPT)
             homepage_url: https://bupt.edu.cn/
