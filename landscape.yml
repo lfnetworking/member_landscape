@@ -820,7 +820,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/red-hat
           - item:
             name: SoftBank Corp.
-            homepage_url: https://softbank.jp/en/
+            homepage_url: https://softbank.jp/
             logo: softbank_corp.svg
             description: |-
               Overview
