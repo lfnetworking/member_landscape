@@ -857,7 +857,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/walmart-labs
             twitter: https://twitter.com/Walmart
             extra:
-              linkedin_url: https://www.linkedin.com/company/sam's-club
+              linkedin_url: https://www.linkedin.com/company/sam%27s-club
       - subcategory:
         name: Gold
         items: []
