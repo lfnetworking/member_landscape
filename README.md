@@ -23,7 +23,7 @@ The landscape is rebuilt nightly from the data in this repository. Member organi
 
 ## Updating Your Organization's Information
 
-**LF Networking member organizations** should update their name, logo, description, or homepage via their organization's LFX dashboard at [https://myorg.lfx.dev](https://myorg.lfx.dev). Updates will be reflected in the landscape automatically on the next nightly build -- no pull request needed.
+**LF Networking member organizations** should update their name, logo, description, or homepage via LFX at [https://app.lfx.dev](https://app.lfx.dev). Updates will be reflected in the landscape automatically on the next nightly build -- no pull request needed.
 
 The [Landscape2 data schema][schema] supports additional optional fields beyond what LFX provides -- such as `joined`, `twitter`, `enduser`, and a range of `extra` fields including `blog_url`, `linkedin_url`, and `artwork_url`. To add any of these to your entry, please open a pull request with edits to [landscape.yml], or email [support@lfnetworking.org](mailto:support@lfnetworking.org) if you are not familiar with GitHub.
 
