@@ -736,7 +736,7 @@ landscape:
           - item:
             name: China Mobile Communication Company., Ltd
             homepage_url: https://chinamobileltd.com/
-            logo: china_mobile_communication_company.svg
+            logo: china_mobile_communication_company_ltd.svg
             description: China Mobile serves about 488 million subscribers, more than two thirds of the nation's total, making it China's and the world's leading wireless operator by subscribers. In addition to local, domestic, and international phone service, China Mobile offers short message services (SMS) and various mobile content features. It primarily uses the Global System for Mobile Communications (GSM) standard. State-controlled China Mobile Communications Corporation (CMCC) indirectly holds a majority stake (about 75%) in China Mobile.
             crunchbase: https://www.crunchbase.com/organization/china-mobile
             extra:
@@ -771,7 +771,7 @@ landscape:
           - item:
             name: Huawei Technologies Co., Ltd
             homepage_url: https://huawei.com/
-            logo: huawei_technologies_co.svg
+            logo: huawei_technologies_co_ltd.svg
             description: Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in Shenzhen, China.
             crunchbase: https://www.crunchbase.com/organization/huawei
             twitter: https://twitter.com/Huawei
@@ -1013,7 +1013,7 @@ landscape:
           - item:
             name: TIM S.p.A
             homepage_url: https://tim.it/
-            logo: tim_s_p.svg
+            logo: tim_s_p_a.svg
             description: |-
               TIM SpA, also operating under the name Telecom Italia, is an Italian telecommunications company headquartered in Rome and Milan, which provides telephony services, mobile services, and DSL data services.
 
